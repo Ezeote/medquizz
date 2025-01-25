@@ -1,0 +1,321 @@
+<html>
+ <head>
+  <title>
+   MedQuizz
+  </title>
+  <link rel="stylesheet" href="style.css">
+  <style></style>
+ </head>
+ <body>
+    <header class="bg-white shadow-md">
+        <div class="container1 mx-auto flex justify-between items-center p-4" id="headerCont">
+            <div class="flex items-center">
+                <img alt="logo" class="h-10 w-10 mr-3" height="100" src="Media/miLogo2.png" width=""/>
+            </div>
+            <div class="flex-grow text-center">
+                <h1 class="text-xl font-bold"></h1>
+            </div>
+            <nav>
+                <ul class="flex space-x-4">
+                    <li>
+                        <a class="text-gray-700 hover:text-blue-500" href="file:///C:/Users/Master_ote/Desktop/GENERAL/index.html">Inicio</a>
+                    </li>
+                    <li>
+                        <a class="text-gray-700 hover:text-blue-500" href="#" onclick="openAboutModal()">+ Info</a>
+                    </li>
+                    <li>
+                        <a class="text-gray-700 hover:text-blue-500" href="#">Comunidad</a>
+                    </li>
+                    <li>
+                        <a class="text-gray-700 hover:text-blue-500" href="#">Contact</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>  
+    <section class="py-8">
+        <h2 class="text-2xl font-bold text-center mb-6">
+         3er año
+        </h2>
+        <div class="container">
+         <div class="button-cube">
+          <img alt="DREM-RD" height="150" src="" width="200"/>
+          <div class="content">
+           <h3>
+            DREM
+           </h3>
+           <p>
+            DREM-RD.
+           </p>
+           <a class="btn" href="#" onclick="openModal('DREM')">
+            EVALUACIONES
+           </a>
+          </div>
+         </div>
+         <div class="button-cube">
+          <img alt="INMUNO" height="150" src="INMUNO" width="200"/>
+          <div class="content">
+           <h3>
+            INMUNO
+           </h3>
+           <p>
+            HEMATO-INMUNO.
+           </p>
+           <a class="btn" href="#" onclick="openModal('INMUNO')">
+            EVALUACIONES
+           </a>
+          </div>
+         </div>
+         <div class="button-cube">
+          <img alt="MC1" height="150" src="MC1" width="200"/>
+          <div class="content">
+           <h3>
+            MC1
+           </h3>
+           <p>
+            Metodología Científica I.
+           </p>
+           <a class="btn" href="#" onclick="openModal('MCI')">
+            EVALUACIONES
+           </a>
+          </div>
+         </div>
+
+        </div>
+       </section>
+    <section class="py-8">
+   <h2 class="text-2xl font-bold text-center mb-6">
+    4to año
+   </h2>
+   <div class="container">
+    <div class="button-cube">
+     <img alt="MPNA" height="150" src="Media/MPNA.png" width="200"/>
+     <div class="content">
+      <h3>
+       MPNA
+      </h3>
+      <p>
+       Medicina del Primer Nivel de Atención.
+      </p>
+      <a class="btn" href="#" onclick="openModal('MPNA')">
+       EVALUACIONES
+      </a>
+     </div>
+    </div>
+    <div class="button-cube">
+     <img alt="BCP" height="150" src="Media/BCP2.jpg" width="200"/>
+     <div class="content">
+      <h3>
+       BCP
+      </h3>
+      <p>
+       Bases Científicas de la Patología.
+      </p>
+      <a class="btn" href="#" onclick="openModal('BCP')">
+       EVALUACIONES
+      </a>
+     </div>
+    </div>
+    <div class="button-cube">
+     <img alt="GINE" height="150" src="Media/GINE.png" width="200"/>
+     <div class="content">
+      <h3>
+       GINE/NEO
+      </h3>
+      <p>
+       Ginecobstetricia y Neonatología.
+      </p>
+      <a class="btn" href="#" onclick="openModal('Gine')">
+       EVALUACIONES
+      </a>
+     </div>
+    </div>
+    <div class="button-cube">
+     <img alt="Ped" height="150" src="Media/Ped.png" width="200"/>
+     <div class="content">
+      <h3>
+       Pediatría <br>
+
+      </h3>
+      <p>
+       Pautas.
+      </p>
+      <a class="btn" href="#" onclick="openModal('Pediatria')">
+       EVALUACIONES
+      </a>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="py-8">
+   <h2 class="text-2xl font-bold text-center mb-6">
+    5to año
+   </h2>
+   <div class="container">
+    <div class="button-cube">
+     <img alt="MCM" height="150" src="Media/MCM.png" width="200"/>
+     <div class="content">
+      <h3>
+       CLÍNICA MÉDICA
+      </h3>
+      <p>
+       VAMO CON TODO.
+      </p>
+      <a class="btn" href="#" onclick="openModal('Clinica Medica')">
+       EVALUACIONES
+      </a>
+     </div>
+    </div>
+    <div class="button-cube">
+     <img alt="PMYT" height="150" src="Media/PMYT.png" width="200"/>
+     <div class="content">
+      <h3>
+       PATOLOGÍA MÉDICA
+      </h3>
+      <p>
+       Acá vas a encontrar de todo.
+      </p>
+      <a class="btn" href="#" onclick="openModal('Patología Médica')">
+       EVALUACIONES
+      </a>
+     </div>
+    </div>
+
+   </div>
+  </section>
+  <div class="modal" id="modal">
+   <div class="modal-content">
+    <span class="close" onclick="closeModal()">
+     &times;
+    </span>
+    <h2 id="modal-title">
+    </h2>
+    <div class="modal-list" id="modal-list">
+    </div>
+   </div>
+  </div>
+  <div class="modal" id="about-modal">
+   <div class="modal-content">
+    <span class="close" onclick="closeAboutModal()">
+     &times;
+    </span>
+    <h2>
+     + Información
+    </h2>
+    <p>
+     Bienvenido! <br>
+     Este es un proyecto para uso privado inicialmente. <br>
+     No lo compartan porque se saturará y caerá!
+    </p>
+   </div>
+  </div>
+  <script>
+   function openModal(title) {
+            document.getElementById('modal-title').innerText = title;
+            const modalList = document.getElementById('modal-list');
+            modalList.innerHTML = '';
+
+            let items = [];
+            switch (title) {
+                case 'MPNA':
+                    items = [
+                        { text: 'Examen diciembre 2024', url: '' },
+                        { text: 'Segundo parcial', url: '' },
+                        { text: 'Primer parcial', url: '' },
+                        { text: 'Examen febrero 2024', url: '' },
+                        { text: 'Examen diciembre 2023', url: '' }
+                    ];
+                    break;
+                case 'Clinica Medica':
+                    items = [
+                        { text: 'Primer parcial', url: '' },
+                        { text: 'Segundo parcial', url: '' },
+                        { text: 'Examen diciembre 2024', url: '' },
+                        { text: 'Examen febrero 2024', url: '' },
+                        { text: 'Examen diciembre 2023', url: '' }
+                    ];
+                    break;
+                case 'BCP':
+                    items = [
+                        { text: 'Examen 16 de Diciembre 2024', url: 'BCP/16122024/index.html' },
+                        { text: 'Examen 28 Febrero 2024', url: 'BCP/28022024/index.html' },
+                        { text: 'Examen 5 Febrero 2024', url: 'BCP/05022024/index.html' },
+                        { text: 'Examen 14 Diciembre 2023', url: 'BCP/14122023/index.html' },
+                        { text: 'próximamente', url: '' },
+                        { text: 'próximamente', url: '' },
+                        { text: 'próximamente', url: '' }
+                        
+                    ];
+                    break;
+                case 'Gine':
+                    items = [
+                        { text: 'Examen diciembre 2024', url: '' },
+                        { text: 'Parcial 2024', url: '' },
+                        { text: 'Hiking Trails', url: '' },
+                        { text: 'Camping', url: '' },
+                        { text: 'Bird Watching', url: '' }
+                    ];
+                    break;
+                case 'Pediatria':
+                    items = [
+                        { text: 'Examen diciembre 2024', url: '' },
+                        { text: 'Segundo parcial', url: '' },
+                        { text: 'Primer parcial', url: '' },
+                        { text: 'Examen febrero 2024', url: '' },
+                        { text: 'Winter Resorts', url: '' }
+                    ];
+                    break;
+                case 'Patología Médica':
+                    items = [
+                        { text: 'Examen diciembre 2024', url: '' },
+                        { text: 'Segundo parcial', url: '' },
+                        { text: 'Primer parcial', url: '' },
+                        { text: 'Examen febrero 2024', url: '' },
+                        { text: 'Examen diciembre 2023', url: '' }
+                    ];
+                    break;
+                case 'Historic City Center':
+                    items = [
+                        { text: 'Old Buildings', url: 'https://example.com/old-buildings' },
+                        { text: 'Museums', url: 'https://example.com/historic-museums' },
+                        { text: 'Historic Sites', url: 'https://example.com/historic-sites' },
+                        { text: 'Cultural Events', url: 'https://example.com/cultural-events' },
+                        { text: 'Local Cuisine', url: 'https://example.com/local-cuisine' }
+                    ];
+                    break;
+                case 'City Park':
+                    items = [
+                        { text: 'Green Spaces', url: 'https://example.com/green-spaces' },
+                        { text: 'Playgrounds', url: 'https://example.com/playgrounds' },
+                        { text: 'Walking Trails', url: 'https://example.com/walking-trails' },
+                        { text: 'Picnic Areas', url: 'https://example.com/picnic-areas' },
+                        { text: 'Outdoor Activities', url: 'https://example.com/outdoor-activities' }
+                    ];
+                    break;
+            }
+
+            items.forEach(item => {
+                const button = document.createElement('button');
+                button.innerText = item.text;
+                button.classList.add('modal-list-button');
+                button.onclick = () => window.location.href = item.url;
+                modalList.appendChild(button);
+            });
+
+            document.getElementById('modal').style.display = 'flex';
+        }
+
+        function closeModal() {
+            document.getElementById('modal').style.display = 'none';
+        }
+
+        function openAboutModal() {
+            document.getElementById('about-modal').style.display = 'flex';
+        }
+
+        function closeAboutModal() {
+            document.getElementById('about-modal').style.display = 'none';
+        }
+  </script>
+ </body>
+</html>
