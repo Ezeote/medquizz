@@ -1,13 +1,11 @@
-
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #ffffff;
     margin: 0;
     padding: 0;
-    height: 100vh;  
+	height: 100vh;  
     width: 100%;  
 }
-
 header {
     background: linear-gradient(-45deg, #1e338e, #0056b3, #1e338e);
 	background-size: 700% 700%;
@@ -18,67 +16,49 @@ header {
     -webkit-backdrop-filter: blur(5px);
     border: 1px solid rgba(255, 255, 255, 0.3);
     height: 80px;
+    
 }
-
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+    
+}
 .container1 {
     display: flex;
-    flex-direction: column; /* Stack items vertically on small screens */
     justify-content: space-between;
     align-items: center;
     height: 100%;
 }
-
 .flex-grow {
     flex-grow: 1; /* Allow the title to take up available space */
     text-align: center;
 }
-
 nav ul {
     display: flex; /* Ensure the list items are in a horizontal line */
-    flex-direction: column; /* Stack items vertically on small screens */
     list-style: none; /* Remove default list styling */
     padding: 0; /* Remove default padding */
     margin: 0; /* Remove default margin */
 }
-
 nav ul li {
-    margin: 0; /* Remove margin for list items */
+    margin-left: 20px; /* Space between list items */
 }
-
 nav ul li a {
     text-decoration: none; /* Remove underline from links */
-    color: rgb(0, 0, 0); /* Default text color */
-    padding: 8px 12px; /* Add padding for better touch targets */
-    transition: color 0.3s; /* Smooth transition for hover effect */
+    color: rgb(255, 255, 255); /* Default text color */
 }
-
 nav ul li a:hover {
     color: rgb(85, 178, 255); /* Change color on hover */
 }
-
-/* Media Queries for Responsiveness */
-@media (min-width: 768px) {
-    .container1 {
-        flex-direction: row; /* Change to row on larger screens */
-    }
-
-    nav ul {
-        flex-direction: row; /* Change to row on larger screens */
-    }
-
-    nav ul li {
-        margin-left: 20px; /* Space between list items */
-    }
-}
-
-
-
-
-
-h2 {
+h2{
     text-align: center;
 }
-
 .container {
     display: flex;
     flex-wrap: wrap;
@@ -86,45 +66,37 @@ h2 {
     justify-content: center;
     padding: 20px;
 }
-
 .button-cube {
     background-color: #fff;
     border: 1px solid #ddd;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     overflow: hidden;
-    width: 100%; /* Make it responsive */
-    max-width: 200px; /* Limit max width */
+    width: 200px;
     text-align: center;
     transition: transform 0.3s;
 }
-
 .button-cube:hover {
     transform: translateY(-10px);
 }
-
 .button-cube img {
     width: 100%;
     height: 150px;
     object-fit: cover;
 }
-
 .button-cube .content {
     padding: 15px;
 }
-
 .button-cube .content h3 {
     margin: 0;
     font-size: 18px;
     color: #333;
 }
-
 .button-cube .content p {
     margin: 10px 0 0;
     font-size: 14px;
     color: #666;
 }
-
 .button-cube .content .btn {
     display: inline-block;
     margin-top: 15px;
@@ -137,11 +109,9 @@ h2 {
     font-size: 14px;
     transition: background-color 0.3s;
 }
-
 .button-cube .content .btn:hover {
     background-color: #0056b3;
 }
-
 .modal {
     display: none;
     position: fixed;
@@ -155,7 +125,6 @@ h2 {
     justify-content: center;
     align-items: center;
 }
-
 .modal-content {
     background-color: #fff;
     padding: 20px;
@@ -164,25 +133,21 @@ h2 {
     max-width: 500px;
     text-align: left;
 }
-
 .modal-content h2 {
     margin-top: 0;
 }
-
 .close {
     color: #aaa;
     float: right;
     font-size: 28px;
     font-weight: bold;
 }
-
 .close:hover,
 .close:focus {
     color: black;
     text-decoration: none;
     cursor: pointer;
 }
-
 .modal-list button {
     display: block;
     width: 100%;
@@ -192,4 +157,10 @@ h2 {
     color: #fff;
     border: none;
     border-radius: 5px;
+    text-align: left;
+    font-size: 14px;
+    transition: background-color 0.3s;
+}
+.modal-list button:hover {
+    background-color: #007bff;
 }
