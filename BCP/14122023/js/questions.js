@@ -51,10 +51,8 @@ let questions = [
     "answer": "Pruebas no treponémicas, que buscan Ac contra antígenos de los tejidos dañados",
     "options": [
       "Visualización de T. pallidum en microscopio de campo oscuro",
-      "Pruebas treponémicas",
-      "que buscan Ac anti Treponema pallidum",
-      "Pruebas no treponémicas",
-      "que buscan Ac contra antígenos de los tejidos dañados",
+      "Pruebas treponémicas, que buscan Ac anti Treponema pallidum",
+      "Pruebas no treponémicas, que buscan Ac contra antígenos de los tejidos dañados",
       "Visualización del daño tisular mediante microscopía de inmunofluorescencia directa"
     ]
   },
@@ -161,14 +159,10 @@ let questions = [
     "question": "¿Cuál es el mecanismo implicado en la resistencia a beta-lactámicos en Mycoplasma\npneumoniae?",
     "answer": "Resistencia natural, dado que no sintetizan peptidoglicano",
     "options": [
-      "Resistencia adquirida",
-      "ya que producen beta-lactamasas",
-      "Resistencia adquirida",
-      "ya que producen PBPs en mosaico",
-      "Resistencia natural",
-      "dado que no sintetizan peptidoglicano",
-      "Resistencia natural",
-      "dada la ausencia de porinas en la superficie celular"
+      "Resistencia adquirida, ya que producen beta-lactamasas",
+      "Resistencia adquirida, ya que producen PBPs en mosaico",
+      "Resistencia natural, dado que no sintetizan peptidoglicano",
+      "Resistencia natural, dada la ausencia de porinas en la superficie celular"
     ]
   },
   {
@@ -273,7 +267,7 @@ let questions = [
   {
     "numb": 25,
     "question": "¿Cuál de las siguientes es una enfermedad parasitaria transmitida por alimentos?",
-    "answer": "Teniasis, Ascaridiasis",
+    "answer": "Teniasis",
     "options": [
       "Teniasis",
       "Paludismo",
