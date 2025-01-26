@@ -3,7 +3,7 @@ let questions = [
   {
     "numb": 1,
     "question": "Se envía una muestra de orina de una paciente con disuria y polaquiuria para urocultivo.\nLa misma es sembrada en agar sangre y agar Mc Conkey lactosa. ¿Cómo se observarán los\ncultivos si se trata de una infección urinaria por E. coli?",
-    "answer": "Crecimiento en agar sangre y Mc Conkey lactosa, colonias lactosa positivas"],
+    "answer": "Crecimiento en agar sangre y Mc Conkey lactosa, colonias lactosa positivas",
     "options": [
       "Crecimiento solo en agar sangre",
       "Crecimiento solo en Mc Conkey lactosa, colonias lactosa positivas",
