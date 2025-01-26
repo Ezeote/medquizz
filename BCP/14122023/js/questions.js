@@ -135,7 +135,7 @@ let questions = [
   {
     "numb": 13,
     "question": "Para el diagnóstico etiológico de una bronquiolitis en un niño de 1 año que consulta en\nservicio de emergencia ¿Qué muestra elegiría para realizar el diagnóstico mediante\nmétodos genéticos o inmunocromatográficos?",
-    "answer": "",
+    "answer": "Aspirado nasofaríngeo",
     "options": [
       "Expectoración",
       "Aspirado nasofaríngeo",
@@ -633,7 +633,7 @@ let questions = [
   {
     "numb": 58,
     "question": "¿Cuál de las siguientes características se corresponde con los procesos que ocurren durante la formación de una cicatriz?",
-    "answer": "La angiogenia es un evento fundamental",
+    "answer": "La angiogenia es un evento fundamental.",
     "options": [
       "La angiogenia es un evento fundamental.",
       "La migración de neutrófilos es un evento esencial.",
