@@ -200,7 +200,6 @@ nav ul li a:hover {
     opacity: 1;
     z-index: 5;
     pointer-events: auto;
-    transform: translate(-50%, -50%) scale(1);
 }
 
 .start_btn button{
@@ -228,13 +227,10 @@ nav ul li a:hover {
 .info_box .info-title{
     height: 60px;
     width: 100%;
-    border-bottom: 1px solid lightgrey;
-    display: flex;
-    align-items: center;
-    padding: 0 30px;
-    border-radius: 5px 5px 0 0;
+    border-bottom: solid lightgrey;
     font-size: 20px;
     font-weight: 600;
+   
 }
 
 .info_box .info-list{
@@ -605,12 +601,10 @@ footer button.show{
     .info_box .info-title{
         height: 60px;
         width: 100%;
-        border-bottom: 1px solid lightgrey;
-        display: flex;
-        align-items: center;
-        padding: 0 30px;
-        border-radius: 5px 5px 0 0;
-        font-size: 10px;
+        border-bottom: solid lightgrey;
+        text-align: center;
+        padding-top: 20px;
+        font-size: 20px;
         font-weight: 600;
     }
     
@@ -624,7 +618,7 @@ footer button.show{
     }
 
     .quiz_box{
-        position: absolute;
+        position: block;
         top: 40%;
         left: 50%;
         margin-top: 0px; /* Space below the header */
@@ -638,8 +632,9 @@ footer button.show{
     section{
         padding: 0;
         background: #ffffff;
-        width: 99%;
+        width: 95%;
         margin: auto;
+        padding: 5px;
     }
     section .que_text{
         font-size: 15px;
@@ -649,6 +644,27 @@ footer button.show{
         font-size: 10px;
         width: 95%;
         padding: 5px;
+    }
+
+    .result_box{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 
+                    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        background: #fff;
+        border-radius: 5px;
+        display: flex;
+        padding: 0px;
+        width: 100%;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        transform: translate(-50%, -50%) scale(0.9);
+        opacity: 0;
+        pointer-events: none;
+        transition: all 0.3s ease;
     }
 
 }
