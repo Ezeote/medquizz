@@ -200,7 +200,6 @@ nav ul li a:hover {
     opacity: 1;
     z-index: 5;
     pointer-events: auto;
-    transform: translate(-50%, -50%) scale(1);
 }
 
 .start_btn button{
@@ -228,13 +227,10 @@ nav ul li a:hover {
 .info_box .info-title{
     height: 60px;
     width: 100%;
-    border-bottom: 1px solid lightgrey;
-    display: flex;
-    align-items: center;
-    padding: 0 30px;
-    border-radius: 5px 5px 0 0;
+    border-bottom: solid lightgrey;
     font-size: 20px;
     font-weight: 600;
+   
 }
 
 .info_box .info-list{
@@ -305,42 +301,6 @@ nav ul li a:hover {
     font-weight: 600;
 }
 
-.quiz_box header .timer{
-    color: #004085;
-    background: #cce5ff;
-    border: 1px solid #b8daff;
-    height: 45px;
-    padding: 0 8px;
-    border-radius: 5px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width: 145px;
-}
-
-
-
-.quiz_box header .timer .timer_sec{
-    font-size: 18px;
-    font-weight: 500;
-    height: 30px;
-    width: 45px;
-    color: #fff;
-    border-radius: 5px;
-    line-height: 30px;
-    text-align: center;
-    background: #343a40;
-    border: 1px solid #343a40;
-    user-select: none;
-}
-
-.quiz_box header .time_line{
-    position: absolute;
-    bottom: 0px;
-    left: 0px;
-    height: 3px;
-    background: #007bff;
-}
 
 section{
     padding: 25px 30px 20px 30px;
@@ -562,4 +522,149 @@ footer button.show{
 .buttons button.quit:hover{
     color: #fff;
     background: #007bff;
+}
+
+
+
+/* 2xl */
+@media (max-width: 1536px) {
+    section .que_text{
+        font-size: 25px;
+  }
+}
+
+
+/* xl */
+@media (max-width: 1280px) {
+    section .que_text{
+        font-size: 25px;    
+    }
+}
+
+/* lg */
+@media (max-width: 1024px) {
+    section .que_text{
+        font-size: 20px;
+  }
+}
+
+/* md */
+@media (max-width: 768px) {
+    section .que_text{
+        font-size: 15px;
+    }
+}
+
+/* sm */
+@media (max-width: 640px) {
+    section .que_text{
+        font-size: 10px;
+    }
+    h1{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+}
+    section .option_list .option{
+    font-size: 10px;
+    }
+
+    section .option_list .option{
+        font-size: 10px;
+    }
+    .logo{
+        height: 50px;
+    }
+}
+
+/* xs */
+@media (max-width: 475px) {
+
+    header{
+        height: 40px;
+    }
+    h1{
+        text-align: center;
+        color: white;
+        font-size: 10px;
+    }
+
+    .logo{
+        height: 30px;
+    }
+    .info_box{
+        width: 95%;
+        top: 40%;
+        left: 50%;
+
+    }    
+    .info_box .info-title{
+        height: 60px;
+        width: 100%;
+        border-bottom: solid lightgrey;
+        text-align: center;
+        padding-top: 20px;
+        font-size: 20px;
+        font-weight: 600;
+    }
+    
+    .info_box .info-list{
+        padding: 15px 30px;
+    }
+    
+    .info_box .info-list .info{
+        margin: 5px 0;
+        font-size: 10px;
+    }
+
+    .quiz_box{
+        position: block;
+        top: 40%;
+        left: 50%;
+        margin-top: 0px; /* Space below the header */
+        padding: 0px; /* Optional: Add padding for better appearance */
+        border-radius: 5px; /* Optional: Rounded corners */
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Optional: Shadow for depth */
+        width: 95%;
+        justify-content: center;
+
+    }
+    section{
+        padding: 0;
+        background: #ffffff;
+        width: 95%;
+        margin: auto;
+        padding: 5px;
+    }
+    section .que_text{
+        font-size: 15px;
+        width: 100%;
+    }
+    section .option_list .option{
+        font-size: 10px;
+        width: 95%;
+        padding: 5px;
+    }
+
+    .result_box{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 
+                    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        background: #fff;
+        border-radius: 5px;
+        display: flex;
+        padding: 0px;
+        width: 100%;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        transform: translate(-50%, -50%) scale(0.9);
+        opacity: 0;
+        pointer-events: none;
+        transition: all 0.3s ease;
+    }
+
 }
