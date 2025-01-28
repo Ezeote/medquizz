@@ -4,7 +4,7 @@ body {
     background-color: #f0f0f0;
     margin: 0;
     padding: 0;   
-    background: linear-gradient(-45deg, #84bfff, #007bff); 
+    background: linear-gradient(-45deg, #409cff, #84bfff, #409cff); 
 	background-size: 400% 400%;
 	animation: gradient 15s ease infinite;
 	height: 100vh;  
@@ -184,7 +184,6 @@ nav ul li a:hover {
 
 .start_btn,
 .info_box,
-.quiz_box,
 .result_box{
     position: absolute;
     top: 50%;
@@ -224,14 +223,16 @@ nav ul li a:hover {
     transition: all 0.3s ease;
 }
 
+
 .info_box .info-title{
     height: 60px;
     width: 100%;
     border-bottom: solid lightgrey;
     font-size: 20px;
     font-weight: 600;
-   
+    text-align: center;
 }
+
 
 .info_box .info-list{
     padding: 15px 30px;
@@ -270,17 +271,24 @@ nav ul li a:hover {
 }
 
 .quiz_box{
-    margin-top: 20px; /* Space below the header */
+    position: relative;
+    top: 15px;
+    bottom: 100px;
+    left: 50%;
+    transform: translate(-50%);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 
+                0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
     padding: 20px; /* Optional: Add padding for better appearance */
     border-radius: 5px; /* Optional: Rounded corners */
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Optional: Shadow for depth */
-    width: 60%;
+    width: 90%;
     background: #fff;
     border-radius: 5px;
-    transform: translate(-50%, -50%) scale(0.9);
     opacity: 0;
     pointer-events: none;
     transition: all 0.3s ease;
+    
 }
 
 .quiz_box header{
@@ -394,6 +402,22 @@ section .option_list .option.selected {
     background-color: #f0f0f0; /* Light gray background for selected option */
     border: 2px solid #007bff; /* Blue border for selected option */
 }
+.footerNav{
+    position: sticky;
+    top: 100%;
+    height: 60px;
+    padding: 0 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid lightgrey;
+    border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+z-index: 6;
+}
 footer{
     height: 60px;
     padding: 0 30px;
@@ -401,25 +425,27 @@ footer{
     align-items: center;
     justify-content: space-between;
     border-top: 1px solid lightgrey;
+    background: rgba(255, 255, 255, 0.2);
+
 }
 
-footer .total_que span{
+.footerNav .total_que span{
     display: flex;
     user-select: none;
 }
 
-footer .total_que span p{
+.footerNav .total_que span p{
     font-weight: 500;
     padding: 0 5px;
     margin-top: 0px;
 }
 
-footer .total_que span p:first-child{
+.footerNav .total_que span p:first-child{
     padding-left: 0px;
     margin-top: 0px;
 }
 
-footer button{
+.footerNav button{
     height: 40px;
     padding: 0 13px;
     font-size: 18px;
@@ -438,11 +464,11 @@ footer button{
     transition: all 0.3s ease;
 }
 
-footer button:hover{
+.footerNav button:hover{
     background: #0263ca;
 }
 
-footer button.show{
+.footerNav button.show{
     opacity: 1;
     pointer-events: auto;
     transform: scale(1);
@@ -525,6 +551,7 @@ footer button.show{
 }
 
 
+/*      DISTINTAS RESOLUCIONES      */
 
 /* 2xl */
 @media (max-width: 1536px) {
@@ -618,8 +645,9 @@ footer button.show{
     }
 
     .quiz_box{
-        position: block;
-        top: 40%;
+        position: relative;
+        top: 10px;
+        bottom: 100px;
         left: 50%;
         margin-top: 0px; /* Space below the header */
         padding: 0px; /* Optional: Add padding for better appearance */

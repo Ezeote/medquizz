@@ -7,9 +7,9 @@ const quiz_box = document.querySelector(".quiz_box");
 const result_box = document.querySelector(".result_box");
 const option_list = document.querySelector(".option_list");
 
-const next_btn = document.querySelector("footer .next_btn");
-const prev_btn = document.querySelector("footer .prev_btn"); // Select the previous button
-const bottom_ques_counter = document.querySelector("footer .total_que");
+const next_btn = document.querySelector(".footerNav .next_btn");
+const prev_btn = document.querySelector(".footerNav .prev_btn"); // Select the previous button
+const bottom_ques_counter = document.querySelector(".footerNav .total_que");
 
 // Define restart_quiz after selecting the result_box
 const restart_quiz = result_box.querySelector(".buttons .restart");
@@ -35,6 +35,8 @@ continue_btn.onclick = () => {
     quiz_box.classList.add("activeQuiz"); // show quiz box
     showQuetions(0); // calling showQuestions function
     queCounter(1); // passing 1 parameter to queCounter
+    next_btn.classList.add("show"); // hide the next button
+    prev_btn.classList.add("show"); // hide the previous button
 }
 
 // if restartQuiz button clicked
@@ -198,6 +200,6 @@ function showResult() {
 
 function queCounter(index) {
     // creating a new span tag and passing the question number and total question
-    let totalQueCounTag = '<span><p>' + index + '</p> of <p>' + questions.length + '</p> Questions</span>';
+    let totalQueCounTag = '<span><p>' + index + '</p> / <p>' + questions.length ;
     bottom_ques_counter.innerHTML = totalQueCounTag; // adding new span tag inside bottom_ques_counter
 }

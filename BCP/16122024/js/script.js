@@ -1,18 +1,18 @@
 // Selecting all required elements
-const start_btn = document.querySelector(".start_btn button");
+
 const info_box = document.querySelector(".info_box");
-const exit_btn = info_box.querySelector(".buttons .quit");
+
 const continue_btn = info_box.querySelector(".buttons .restart");
 const quiz_box = document.querySelector(".quiz_box");
 const result_box = document.querySelector(".result_box");
 const option_list = document.querySelector(".option_list");
 
-const next_btn = document.querySelector("footer .next_btn");
-const prev_btn = document.querySelector("footer .prev_btn"); // Select the previous button
-const bottom_ques_counter = document.querySelector("footer .total_que");
+const next_btn = document.querySelector(".footerNav .next_btn");
+const prev_btn = document.querySelector(".footerNav .prev_btn"); // Select the previous button
+const bottom_ques_counter = document.querySelector(".footerNav .total_que");
 
 // Define restart_quiz after selecting the result_box
-const restart_quiz = result_box.querySelector(".buttons .restart");
+
 const quit_quiz = result_box.querySelector(".buttons .quit");
 
 // Initialize variables
@@ -23,15 +23,10 @@ let counter;
 let counterLine;
 let widthValue = 0;
 
-// if startQuiz button clicked
-start_btn.onclick = () => {
-    info_box.classList.add("activeInfo"); // show info box
-}
+
 
 // if exitQuiz button clicked
-exit_btn.onclick = () => {
-    info_box.classList.remove("activeInfo"); // hide info box
-}
+
 let userAnswers = []; // Array to store user answers
 
 // if continueQuiz button clicked
@@ -40,30 +35,13 @@ continue_btn.onclick = () => {
     quiz_box.classList.add("activeQuiz"); // show quiz box
     showQuetions(0); // calling showQuestions function
     queCounter(1); // passing 1 parameter to queCounter
+    next_btn.classList.add("show"); // hide the next button
+    prev_btn.classList.add("show"); // hide the previous button
 }
 
-// if restartQuiz button clicked
-restart_quiz.onclick = () => {
-    quiz_box.classList.add("activeQuiz"); // show quiz box
-    result_box.classList.remove("activeResult"); // hide result box
 
-    que_count = 0;
-    que_numb = 1;
-    userScore = 0;
-    widthValue = 0;
-    showQuetions(que_count); // calling showQuestions function
-    queCounter(que_numb); // passing que_numb value to queCounter
-    clearInterval(counter); // clear counter
-    clearInterval(counterLine); // clear counterLine
 
-    next_btn.classList.remove("show"); // hide the next button
-    prev_btn.classList.remove("show"); // hide the previous button
-}
 
-// if quitQuiz button clicked
-quit_quiz.onclick = () => {
-    window.location.reload(); // reload the current window
-}
 
 // if Next Que button clicked
 next_btn.onclick = () => {
@@ -206,6 +184,6 @@ function showResult() {
 
 function queCounter(index) {
     // creating a new span tag and passing the question number and total question
-    let totalQueCounTag = '<span><p>' + index + '</p> / <p>' + questions.length + '</p> </span>';
+    let totalQueCounTag = '<span><p>' + index + '</p> / <p>' + questions.length ;
     bottom_ques_counter.innerHTML = totalQueCounTag; // adding new span tag inside bottom_ques_counter
 }
