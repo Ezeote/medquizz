@@ -84,7 +84,8 @@ let questions = [
     "answer": "Tomar dos muestras pareadas en simultáneo de diferentes sitios de venopunción previo al inicio del tratamiento",
     "options": [
       "Tomar dos muestras pareadas en simultáneo de diferentes sitios de venopunción previo al inicio del tratamiento",
-      "Tomar dos muestras pareadas en simultáneo del mismo sitio de venopunción previo al inicio del tratamientoTomar una muestra previo al inicio del tratamiento y la siguiente en el valle de concentración del antibiótico",
+      "Tomar dos muestras pareadas en simultáneo del mismo sitio de venopunción previo al inicio del tratamiento",
+      "Tomar una muestra previo al inicio del tratamiento y la siguiente en el valle de concentración del antibiótico",
       "Tomar una muestra previo al inicio del tratamiento y la siguiente 60 minutos más tarde de la primer dosis de antibiótico"
     ]
   },
