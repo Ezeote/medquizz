@@ -578,14 +578,15 @@ let questions = [
   },
   {
     "numb": 53,
-    "question": "¿Cuáles de los siguientes fenómenos podemos identificar durante la fase sintomática de la hipertensión arterial pulmonar? AMBIGUA a y c",
+    "question": "¿Cuáles de los siguientes fenómenos podemos identificar durante la fase sintomática de la hipertensión arterial pulmonar?",
     "answer": "Disfunción sistólica inicial por fibrosis miocárdica del ventrículo derecho",
     "options": [
       "Disfunción sistólica inicial por fibrosis miocárdica del ventrículo derecho",
       "Disminución de la tensión parietal por dilatación del ventrículo derecho",
       "Incremento progresivo del espacio muerto fisiológico",
       "Aumento de la precarga del ventrículo izquierdo"
-    ]
+    ],
+    "comment": "Esta pregunta es ambigua. Correctas A y C"
   },
   {
     "numb": 54,
