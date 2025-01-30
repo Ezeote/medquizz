@@ -598,7 +598,7 @@ let questions = [
   },
   {
     "numb": 56,
-    "question": ". En un servicio de diagnóstico por imágenes, se asegura cumplir con el principio de justificación cuando: a) se aplican límites de dosis para la población general. , el beneficio de la exposición es mayor que el costo. , se repite el procedimiento sin importar el costo. ",
+    "question": ". En un servicio de diagnóstico por imágenes, se asegura cumplir con el principio de justificación cuando: ",
     "answer": "El beneficio de la exposición es mayor que el costo.",
     "options": [
       "Se aplican límites de dosis para la población general",
