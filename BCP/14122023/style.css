@@ -402,6 +402,18 @@ section .option_list .option.selected {
     background-color: #f0f0f0; /* Light gray background for selected option */
     border: 2px solid #007bff; /* Blue border for selected option */
 }
+
+.que_text img {     /*IMAGEN DENTRO DE LA PREGUNTA*/
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+/*  COMENTARIO DEBAJO DE LA PREGUNTA    */
+.hidden {
+    display: none;
+}
 .footerNav{
     position: sticky;
     top: 100%;
