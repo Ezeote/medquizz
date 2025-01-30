@@ -12,7 +12,7 @@ const prev_btn = document.querySelector(".footerNav .prev_btn"); // Select the p
 const bottom_ques_counter = document.querySelector(".footerNav .total_que");
 
 // Define restart_quiz after selecting the result_box
-const restart_quiz = result_box.querySelector(".buttons .restart");
+
 const quit_quiz = result_box.querySelector(".buttons .quit");
 
 // Initialize variables
@@ -39,23 +39,7 @@ continue_btn.onclick = () => {
     prev_btn.classList.add("show"); // hide the previous button
 }
 
-// if restartQuiz button clicked
-restart_quiz.onclick = () => {
-    quiz_box.classList.add("activeQuiz"); // show quiz box
-    result_box.classList.remove("activeResult"); // hide result box
 
-    que_count = 0;
-    que_numb = 1;
-    userScore = 0;
-    widthValue = 0;
-    showQuetions(que_count); // calling showQuestions function
-    queCounter(que_numb); // passing que_numb value to queCounter
-    clearInterval(counter); // clear counter
-    clearInterval(counterLine); // clear counterLine
-
-    next_btn.classList.remove("show"); // hide the next button
-    prev_btn.classList.remove("show"); // hide the previous button
-}
 
 
 
@@ -67,15 +51,12 @@ next_btn.onclick = () => {
         showQuetions(que_count); // calling showQuestions function
         queCounter(que_numb); // passing que_numb value to queCounter
         clearInterval(counter); // clear counter
-        clearInterval(counterLine); // clear counter
-
-        // Hide the comment section
-        document.getElementById("comment_section").classList.add("hidden"); // Add hidden class
+        clearInterval(counterLine); // clear counterLine
 
         prev_btn.classList.add("show"); // show the previous button
     } else {
         clearInterval(counter); // clear counter
-        clearInterval(counterLine); // clear counter
+        clearInterval(counterLine); // clear counterLine
         showResult(); // calling showResult function
     }
 }
@@ -103,12 +84,6 @@ function showQuetions(index) {
 
     // Creating a new span and div tag for question and option and passing the value using array index
     let que_tag = '<span>' + questions[index].numb + ". " + questions[index].question + '</span>';
-
-    // Check if the question has an image
-    if (questions[index].image) {
-        que_tag += '<img src="' + questions[index].image + '" alt="Question Image" style="max-width: 100%; height: auto; margin-top: 10px;">';
-    }
-
     let option_tag = '';
     for (let i = 0; i < questions[index].options.length; i++) {
         option_tag += '<div class="option"><span>' + questions[index].options[i] + '</span></div>';
@@ -160,7 +135,6 @@ function optionSelected(answer) {
     let userAns = answer.textContent; // getting user selected option
     let correcAns = questions[que_count].answer; // getting correct answer from array
     const allOptions = option_list.children.length; // getting all option items
-    const commentSection = document.getElementById("comment_section"); // Get the comment section
 
     // Store the user's answer
     userAnswers[que_count] = userAns; // Store the answer in the array
@@ -184,19 +158,11 @@ function optionSelected(answer) {
             }
         }
     }
-
-    // Display the comment for the question
-    commentSection.innerHTML = questions[que_count].comment;
-
     for (let i = 0; i < allOptions; i++) {
         option_list.children[i].classList.add("disabled"); // once user select an option then disabled all options
     }
     next_btn.classList.add("show"); // show the next button if user selected any option
 }
-
-///////////////////////////////////////////////////////////
-
-///////////////////////////////////////////////////////////
 
 function showResult() {
     info_box.classList.remove("activeInfo"); // hide info box

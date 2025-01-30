@@ -452,8 +452,7 @@ let questions = [
       "Inicio de disnea de esfuerzo por ICC con FEVI reducida.",
       "descenso en la complacencia pulmonar por congestión pulmonar.",
       "reducción de la dilatación ventricular izquierda por insuficiencia mitral funcional"
-    ],
-    "comment": "Esta pregunta es ambigua. Correctas: A y B"
+    ]
   },
   {
     numb: 42,
