@@ -67,12 +67,15 @@ next_btn.onclick = () => {
         showQuetions(que_count); // calling showQuestions function
         queCounter(que_numb); // passing que_numb value to queCounter
         clearInterval(counter); // clear counter
-        clearInterval(counterLine); // clear counterLine
+        clearInterval(counterLine); // clear counter
+
+        // Hide the comment section
+        document.getElementById("comment_section").classList.add("hidden"); // Add hidden class
 
         prev_btn.classList.add("show"); // show the previous button
     } else {
         clearInterval(counter); // clear counter
-        clearInterval(counterLine); // clear counterLine
+        clearInterval(counterLine); // clear counter
         showResult(); // calling showResult function
     }
 }
@@ -100,6 +103,12 @@ function showQuetions(index) {
 
     // Creating a new span and div tag for question and option and passing the value using array index
     let que_tag = '<span>' + questions[index].numb + ". " + questions[index].question + '</span>';
+
+    // Check if the question has an image
+    if (questions[index].image) {
+        que_tag += '<img src="' + questions[index].image + '" alt="Question Image" style="max-width: 100%; height: auto; margin-top: 10px;">';
+    }
+
     let option_tag = '';
     for (let i = 0; i < questions[index].options.length; i++) {
         option_tag += '<div class="option"><span>' + questions[index].options[i] + '</span></div>';
@@ -151,6 +160,7 @@ function optionSelected(answer) {
     let userAns = answer.textContent; // getting user selected option
     let correcAns = questions[que_count].answer; // getting correct answer from array
     const allOptions = option_list.children.length; // getting all option items
+    const commentSection = document.getElementById("comment_section"); // Get the comment section
 
     // Store the user's answer
     userAnswers[que_count] = userAns; // Store the answer in the array
@@ -174,11 +184,19 @@ function optionSelected(answer) {
             }
         }
     }
+
+    // Display the comment for the question
+    commentSection.innerHTML = questions[que_count].comment;
+
     for (let i = 0; i < allOptions; i++) {
         option_list.children[i].classList.add("disabled"); // once user select an option then disabled all options
     }
     next_btn.classList.add("show"); // show the next button if user selected any option
 }
+
+///////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////
 
 function showResult() {
     info_box.classList.remove("activeInfo"); // hide info box
