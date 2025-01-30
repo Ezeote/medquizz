@@ -303,13 +303,13 @@ let questions = [
   },
   {
     "numb": 29,
-    "question": "Un paciente ingresa al servicio de emergencia con disnea, polipnea y fiebre. Se realiza diagnóstico de neumonia aguda comunitaria. La gasometría con oxigenoterapia de alto flujo (fracción inspirada de o2 = 60%) evidencia: pao2 100 mmhg, paco2 25 mmhg, pafio2 167. Indique la opción correcta en relación a un posible diagnóstico de insuficiencia respiratoria (ir) en este paciente: ",
+    "question": "Un paciente ingresa al servicio de emergencia con disnea, polipnea y fiebre. Se realiza diagnóstico de neumonia aguda comunitaria. La gasometría con oxigenoterapia de alto flujo (fracción inspirada de o2 = 60%) evidencia: pao2 100 mmhg, paco2 25 mmhg, pafio2 167. Indique la opción correcta en relación a un posible diagnóstico de insuficiencia respiratoria (IR) en este paciente: ",
     "answer": "presenta IR tipo i",
     "options": [
-      "no presenta ir",
+      "no presenta IR",
       "presenta IR tipo i",
       "presenta IR tipo ii",
-      "faltan datos para poder establecer el diagnóstico de ir"
+      "faltan datos para poder establecer el diagnóstico de IR"
     ]
   },
   {
