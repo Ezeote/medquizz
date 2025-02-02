@@ -91,7 +91,7 @@ let questions = [
   {
     "numb": 9,
     "question": "¿cuál de los siguientes antibióticos podría utilizarse para el tratamiento de una infección urinaria baja por escherichia coli productora de betalactamasa de espectro extendido (ble,? ",
-    "answer": "cefuroxime",
+    "answer": "amoxicilina-clavulánico",
     "options": [
       "ceftriaxona",
       "cefuroxime",
