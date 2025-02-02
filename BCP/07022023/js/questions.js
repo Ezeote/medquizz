@@ -109,8 +109,7 @@ let questions = [
       "Baciloscopía o PCR en tiempo real",
       "Cultivo en medios líquidos o sólidos",
       "Adenosin deaminasa (AD en muestra de esputo",
-      "Prueba de la tuberculina (PPD)",
-      "o pruebas de liberación de interferón Gamma (IGR)"
+      "Prueba de la tuberculina (PPD), o pruebas de liberación de interferón Gamma (IGR)"
     ]
   },
 {
