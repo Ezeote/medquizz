@@ -417,6 +417,7 @@ let questions = [
       "Injuria renal aguda pos-renal"
     ],
     "discipline": "Fisiopato",
+    "image":"https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/2019-02-07E/media/pregunta%2033.PNG", // Add the image URL here
     },
     {
 
@@ -443,6 +444,7 @@ let questions = [
       "El test de vasorreactividad fue negativo"
     ],
     "discipline": "Fisiopato",
+    "image":"https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/2019-02-07E/media/pregunta%2035.PNG", // Add
     },
     {
 
@@ -529,6 +531,7 @@ let questions = [
       "Disminuye la potencia de AII"
     ],
     "discipline": "Farmaco",
+    "image":"https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/2019-02-07E/media/pregunta%2042.PNG", // Add
     },
     {
       "numb": 43,
