@@ -299,8 +299,7 @@ let questions = [
     "answer": "Levaduras rodeadas por estructuras radiadas (clavas)",
     "options": [
       "Cadena de levaduras formadas por gemación",
-      "Filamentos de moho hialinos",
-      "tabicados y artrosporados",
+      "Filamentos de moho hialinos, tabicados y artrosporados",
       "Levaduras rodeadas por estructuras radiadas (clavas)",
       "Microconidios acrógenos dispuestos en forma de margarita"
     ]
