@@ -66,6 +66,11 @@ h2{
     justify-content: center;
     padding: 20px;
 }
+#WIP{
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+}
 .button-cube {
     background-color: #fff;
     border: 1px solid #ddd;
