@@ -290,7 +290,7 @@ let questions = [
     },
     {
     "numb":25,
-    "question": "Paciente de 54 años, nacido en Paysandú, reside en Canelones desde hace 10 años. Tiene enfermedad renal crónica terminal y se encuentra en lista de espera de trasplante renal cadavérico. Ya tiene estudios serológicos para enfermedad de Chagas. <br>El 11/11/2022 se encuentra donante compatible y se reciben los resultados de la serología para Enfermedad de Chagas. <br>¿Cuál es el riesgo con respecto a la enfermedad de Chagas en este paciente?",
+    "question": "Paciente de 54 años, nacido en Paysandú, reside en Canelones desde hace 10 años. Tiene enfermedad renal crónica terminal y se encuentra en lista de espera de trasplante renal cadavérico. Ya tiene estudios serológicos para enfermedad de Chagas. <br>El 11/11/2022 se encuentra donante compatible y se reciben los resultados de la serología para Enfermedad de Chagas. <br>¿Cuál es el riesgo con respecto a la enfermedad de Chagas en este paciente?<br>",
     "answer": "reactivación de enfermedad de Chagas crónica dado que necesita recibir inmunosupresores por el trasplante",
     "options": [
         "contraer enfermedad de Chagas dado que en Canelones se mantiene la transmisión silvestre",
@@ -470,7 +470,7 @@ let questions = [
     },
     {
     "numb":40,
-    "question": "La relación entre el filtrado glomerular y la creatinina sérica se puede observar en la siguiente figura. Cuando la creatinina sérica de un paciente asciende de 6 a 8 mg/dL <br>¿Qué ocurre con el filtrado glomerular?",
+    "question": "La relación entre el filtrado glomerular y la creatinina sérica se puede observar en la siguiente figura. Cuando la creatinina sérica de un paciente asciende de 6 a 8 mg/dL <br>¿Qué ocurre con el filtrado glomerular?<br>",
     "answer": "Traduce una pequeña disminución del filtrado glomerular",
     "options": [
         "Disminución similar a la observada cuando la creatinina sérica asciende de 1 a 3 ml/min",
@@ -494,7 +494,7 @@ let questions = [
     },
     {
     "numb":42,
-    "question": "¿Cuál de las siguientes opciones es correcta con respecto al fármaco agonista que se representa en la curva número 3?",
+    "question": "¿Cuál de las siguientes opciones es correcta con respecto al fármaco agonista que se representa en la curva número 3?<br>",
     "answer": "Tiene menor actividad intrínseca que el de la curva número 2",
     "options": [
         "Su afinidad es mayor que el de la curva número 1",
