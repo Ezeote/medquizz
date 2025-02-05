@@ -298,7 +298,7 @@ let questions = [
         "reactivación de enfermedad de Chagas crónica dado que necesita recibir inmunosupresores por el trasplante",
         "adquirir enfermedad de Chagas derivada de transfusiones dado que el sangrado intraoperatorio puede requerir transfusión de sangre total"
         ],
-        "image": "link", // Add the image URL here
+        "image": "https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/14-12-2022E/media/p25.PNG", // Add the image URL here
         "discipline": "",
     },
     {
@@ -477,7 +477,7 @@ let questions = [
         "Mayor descenso que el observado cuando la creatinina sérica asciende de 2 a 4 ml/min.",
         "Traduce una pequeña disminución del filtrado glomerular"
         ],
-        "image": "link", // Add the image URL here
+        "image": "https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/14-12-2022E/media/p40.PNG", // Add the image URL here
         "discipline": "",
     },
     {
@@ -502,7 +502,7 @@ let questions = [
         "Presenta mayor potencia que el de la curva número 1",
         "Tiene menor actividad intrínseca que el de la curva número 2"
         ],
-        "image": "link", // Add the image URL here
+        "image": "https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/14-12-2022E/media/p42.PNG", // Add the image URL here
         "discipline": "",
     },
     {
