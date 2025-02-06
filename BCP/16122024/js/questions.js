@@ -473,8 +473,7 @@ let questions = [
       "la pérdida de la función glomerular",
       "la disminución en la actividad de la hormona natriurética",
       "la pérdida en la capacidad de reabsorción de las nefronas yuxtaglomerulares",
-      "la disminución de la urea a nivel plasmático",
-      "que arrastra consigo sodio y agua"
+      "la disminución de la urea a nivel plasmático, que arrastra consigo sodio y agua"
     ]
   },
   {
