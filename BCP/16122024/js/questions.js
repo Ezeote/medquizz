@@ -498,7 +498,7 @@ let questions = [
   },
   {
     numb: 46,
-    question: "¿Cómo clasificaría la siguiente hiperpotasemia con respecto a su severidad? K+ 8 mEq/lt \nElectrocardiograma que informa: ritmo sinusal, 78 cpm, prolongación del intervalo QRS\n",
+    question: "¿Cómo clasificaría la siguiente hiperpotasemia con respecto a su severidad? <br>K+ 8 mEq/lt <br>Electrocardiograma que informa: ritmo sinusal, 78 cpm, prolongación del intervalo QRS",
     answer: "severa",
     options: [
       "leve",
