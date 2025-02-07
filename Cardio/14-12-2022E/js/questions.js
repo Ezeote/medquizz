@@ -199,7 +199,7 @@ let questions = [
         },
         {
         "numb":17,
-        "question": "Respecto al  fenómeno  de   autorregulación  en  la  circulación   coronaria, elige la opción correcta:",
+        "question": "Respecto al  fenómeno  de   autorregulación  en  la  circulación   coronaria, elige la opción correcta:<br>",
         "answer": "La línea continua evidencia el fenómeno de autorregulación en el rango entre aprox. 50 y 150 mmHg.",
         "options":[
         "La línea punteada muestra el efecto de la autorregulación coronaria, ya que a lo largo del gráfico mayores valores de presión causan mayores valores de flujo sanguíneo.",
@@ -207,7 +207,7 @@ let questions = [
         "La línea continua evidencia el fenómeno de autorregulación en el rango entre aprox. 50 y 150 mmHg.",
         "La línea continua evidencia el fenómeno de autorregulación en el rango entre 100 y 150 mmHg."
         ],
-        "image": "", // Add the image URL here
+        "image": "https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/Cardio/14-12-2022E/media/p17.PNG", // Add the image URL here
         "discipline": "Fisio",
         },
         {
@@ -225,7 +225,7 @@ let questions = [
         },
         {
         "numb":19,
-        "question": "Teniendo en cuenta la calibración del sistema de registro (gráfico de la izquierda) y   el   registro   de   presión   arterial   en   un   animal   de   experimentación   (arteria femoral, gráfico de la derecha), podemos afirmar (marque lo correcto):",
+        "question": "Teniendo en cuenta la calibración del sistema de registro (gráfico de la izquierda) y   el   registro   de   presión   arterial   en   un   animal   de   experimentación   (arteria femoral, gráfico de la derecha), podemos afirmar (marque lo correcto): <br>",
         "answer": "La   caída   de   presión   observada   tras   la   maniobra   (línea   vertical)   es   compatible   con   la estimulación mecánica del nervio vago.",
         "options":[
         "La   caída   de   presión   observada   tras   la   maniobra   (línea   vertical)   es   compatible   con   la estimulación mecánica del nervio vago.",
@@ -233,7 +233,7 @@ let questions = [
         "La   caída   de   presión   observada   tras   la   maniobra   (línea   vertical)   es   compatible   con   la administración de un agonista alfa adrenérgico.",
         "La   caída   de   presión   observada   tras   la   maniobra   (línea   vertical)   es   compatible   con   la administración de un agonista beta adrenérgico."
         ],
-        "image": "", // Add the image URL here
+        "image": "https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/Cardio/14-12-2022E/media/p19.PNG", // Add the image URL here
         "discipline": "Fisio",
         },
         {
@@ -289,7 +289,7 @@ let questions = [
         },
         {
         "numb":24,
-        "question": "En la siguiente figura se muestran resultados de los experimentos en gatos de Baust y Bohnert (1968), que estudian la contribución simpática y parasimpática sobre las fluctuaciones de la frecuencia cardíaca en W: vigilia; SS: sueño NREM y DS: sueño REM, utilizando diferentes maniobras experimentales (condiciones 1, 2 y 3). A partir de estas observaciones es correcto afirmar que:",
+        "question": "En la siguiente figura se muestran resultados de los experimentos en gatos de Baust y Bohnert (1968), que estudian la contribución simpática y parasimpática sobre las fluctuaciones de la frecuencia cardíaca en W: vigilia; SS: sueño NREM y DS: sueño REM, utilizando diferentes maniobras experimentales (condiciones 1, 2 y 3). A partir de estas observaciones es correcto afirmar que:<br>",
         "answer": "Los resultados de la maniobra experimental 3 muestran el efecto de la denervación total simpático-vagal.",
         "options":[
         "Los resultados de la maniobra 1 se corresponden con una denervación vagal.",
@@ -298,7 +298,7 @@ let questions = [
         "En las maniobras 1 y 2 la mayor fluctuación de la frecuencia cardíaca se observa en sueño NREM (“SS”).",
         "En la condición 3 se observa un aumento de la variabilidad de la frecuencia cardíaca en sueño REM (“DS”)."
         ],
-        "image": "", // Add the image URL here
+        "image": "https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/Cardio/14-12-2022E/media/p24.PNG", // Add the image URL here
         "discipline": "Fisio",
         
         },
@@ -349,7 +349,7 @@ let questions = [
         },
         {
         "numb":29,
-        "question": "En el siguiente gráfico se representa la respuesta ventilatoria durante el ejercicio físico, señale lo correcto:",
+        "question": "En el siguiente gráfico se representa la respuesta ventilatoria durante el ejercicio físico, señale lo correcto:<br>",
         "answer": "En el periodo de recuperación la ventilación aumentada (con respecto a la de reposo), se vincula con la deuda de oxígeno existent",
         "options":[
         "Durante  la   fase   3   existe  una   hiperventilación   anticipada   de   mecanismo  neurógeno   que prepara al individuo para el inicio del ejercicio físico. ",
@@ -357,7 +357,7 @@ let questions = [
         "En el periodo de recuperación la ventilación aumentada (con respecto a la de reposo), se vincula con la deuda de oxígeno existent",
         "Los cambios en la ventilación pulmonar se producen únicamente durante el tiempo que el individuo está realizando el ejercicio físico."
         ],
-        "image": "", // Add the image URL here
+        "image": "https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/Cardio/14-12-2022E/media/p29.PNG", // Add the image URL here
         "discipline": "Fisio",
         },
         {
@@ -466,7 +466,7 @@ let questions = [
         },
         {
         "numb":38,
-        "question": "La   figura   muestra   curvas   de   función   cardíaca   y   vascular   que   pueden   ser obtenidas   en   un   sujeto   adulto   en   condiciones   fisiológicas   y   en   respuesta   a diferentes estímulos o modificaciones. Señale lo correcto:",
+        "question": "La   figura   muestra   curvas   de   función   cardíaca   y   vascular   que   pueden   ser obtenidas   en   un   sujeto   adulto   en   condiciones   fisiológicas   y   en   respuesta   a diferentes estímulos o modificaciones. Señale lo correcto:<br>",
         "answer": "La curva E puede observarse ante una reducción de la volemia (ej. por hemorragia) y la venoconstricción podría contribuir a obtener la curva F luego de la misma.",
         "options":[
         "La curvas G y F podrían  corresponder,  respectivamente, a curvas de función cardíaca y vascular  obtenidas  en respuesta  a  un  estímulo  inotrópico  negativo  (curva G)  y  ante  un aumento de la volemia (F).",
@@ -475,7 +475,7 @@ let questions = [
         "Los puntos A, B, C y D señalan los valores de gasto cardiaco o retorno venoso asociados a las presiones medias de llenado sistémico en las diferentes situaciones representadas.",
         "Un aumento de la volemia podría “transformar” las curvas X en F y G en Z."
         ],
-        "image": "", // Add the image URL here
+        "image": "https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/Cardio/14-12-2022E/media/p38.PNG", // Add the image URL here
         "discipline": "Fisio",
         },
         {
@@ -506,7 +506,7 @@ let questions = [
         },
         {
         "numb":41,
-        "question": "En la siguiente Figura (gráfico superior) se muestra la onda de presión aórtica medida   (número   1),   y   su   descomposición   en   componente   (onda)   incidente   y reflejado. En  el gráfico inferior se muestra la onda de flujo sanguíneo aórtico medida   (número   4),   y   su   descomposición   en   componente   (onda)   incidente   y reflejado. Marque lo correcto",
+        "question": "En la siguiente Figura (gráfico superior) se muestra la onda de presión aórtica medida   (número   1),   y   su   descomposición   en   componente   (onda)   incidente   y reflejado. En  el gráfico inferior se muestra la onda de flujo sanguíneo aórtico medida   (número   4),   y   su   descomposición   en   componente   (onda)   incidente   y reflejado. Marque lo correcto <br>",
         "answer": "La amplitud de la onda 2 aumentaría si la rigidez arterial fuese mayor.",
         "options":[
         "La amplitud de la onda 3 aumentaría si la rigidez arterial fuese menor.",
@@ -514,7 +514,7 @@ let questions = [
         "Si aumenta la velocidad de eyección y el volumen eyectado por el ventrículo izquierdo en un determinado latido, cabría esperar que se reduzca la amplitud de la onda 5.",
         "La onda 6 se genera principalmente en sitios donde las arterias se dilatan."
         ],
-        "image": "", // Add the image URL here
+        "image": "https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/Cardio/14-12-2022E/media/p41.PNG", // Add the image URL here
         "discipline": "Fisio",
         },
         {
