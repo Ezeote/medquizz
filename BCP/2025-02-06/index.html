@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:type" content="website" />
+    <script src="https://kit.fontawesome.com/f5e72e50e2.js" crossorigin="anonymous"></script>
+
+    <title>BCP 6/02/2025</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- FontAweome CDN Link for Icons-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+    
+    
+</head>
+<body>
+    <header class="bg-white shadow-md">
+        <div class="container1 mx-auto flex justify-between items-center p-4" id="headerCont">
+            <div class="flex items-center">
+                <img alt="logo" class="logo" height="100" src="https://ezeote.github.io/medquizz/Media/miLogo2.png" width=""/>
+            </div>
+            <h1>Examen BCP 6/02/2025</h1>
+            <div class="flex-grow text-center">
+                <h1 class="text-xl font-bold"></h1>
+            </div>
+            <nav>
+                <ul class="flex space-x-4">
+                    <li>
+                        <a class="text-gray-700 hover:text-blue-500" href="https://ezeote.github.io/medquizz">Inicio</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header> 
+  
+
+    <!-- Info Box -->
+    <div class="info_box activeInfo">
+        
+        <div class="info-title"><p>Examen BCP 6 de Febrero 2025</p></div>
+        
+        <div class="info-list">
+            <div class="info">Son 60 preguntas en total.</div>
+            <div class="info">13 de Parásito y Micología.</div>
+            <div class="info">15 de Bacterio y Virología.</div>
+            <div class="info">14 de Fisiopato.</div>
+            <div class="info">10 de Fármaco.</div>
+            <div class="info">4 de Biofísica.</div>
+            <div class="info">4 de Anatomía patológica.</div>
+        </div>
+        <div class="buttons">
+            <button class="quit"><a href="https://ezeote.github.io/medquizz/">Salir</a></button>
+            <button class="restart">Continuar</button>
+        </div>
+    </div>
+
+    <!-- Quiz Box -->
+    <div class="quiz_box">
+        <section>
+            <div class="que_text">
+                <!-- Here I've inserted question from JavaScript -->
+            </div>
+            <div class="option_list">
+                <!-- Here I've inserted options from JavaScript -->
+            </div>
+            <div class="comment_section" id="comment_section">
+                <!-- Comment will be displayed here -->
+            </div>
+        </section>
+        
+    </div>
+    <div class="footerNav">
+        <button class="prev_btn">Anterior</button>
+        <div class="total_que"></div>
+        <button class="next_btn">Siguiente</button>
+    </div>
+
+  <!-- Result Box -->
+  <div class="result_box">
+    <div class="mainResult">
+        <div class="complete_text">FINALIZADO!</div>
+        <div class="score_text">
+            <!-- Here I've inserted Score Result from JavaScript -->
+        </div>
+    </div>
+          
+
+    <div class="question_results">
+        <!-- Question results will be inserted here -->
+    </div>
+
+    <div class="buttons">
+        <button class="quit" href="">Salir</button>
+    </div>
+</div>
+
+
+    <!-- Inside this JavaScript file I've inserted Questions and Options only -->
+    <script src="js/questions.js"></script>
+
+    <!-- Inside this JavaScript file I've coded all Quiz Codes -->
+    <script src="js/script.js"></script>
+
+</body>
+</html>
+
+<!--    COMO DEBER{IA VERSE RESULTADO}
+<div class="result_box activeResult">
+    <div class="mainResult">
+        <div class="complete_text">FINALIZADO!</div>
+        <div class="score_text"><div class="mainCircle" style="--percentage: 0%; background-color: red;"><span><p>Total: 0.00%</p></span></div><span>Seguí intentando.<p>0</p> / <p>60</p></span></div>
+    </div>
+    
+        <div class="discipline_results"><div class="discipline_container"><h3>Parasito:</h3><div class="question_grid"><div class="question_box" style="background-color: red;">1</div><div class="question_box" style="background-color: red;">2</div><div class="question_box" style="background-color: red;">3</div><div class="question_box" style="background-color: red;">4</div><div class="question_box" style="background-color: red;">5</div><div class="question_box" style="background-color: red;">6</div><div class="question_box" style="background-color: red;">7</div><div class="question_box" style="background-color: red;">8</div><div class="question_box" style="background-color: red;">9</div><div class="question_box" style="background-color: red;">10</div><div class="question_box" style="background-color: red;">11</div><div class="question_box" style="background-color: red;">12</div><div class="question_box" style="background-color: red;">13</div></div></div><div class="discipline_container"><h3>Bacterio:</h3><div class="question_grid"><div class="question_box" style="background-color: red;">14</div><div class="question_box" style="background-color: red;">15</div><div class="question_box" style="background-color: red;">16</div><div class="question_box" style="background-color: red;">17</div><div class="question_box" style="background-color: red;">18</div><div class="question_box" style="background-color: red;">19</div><div class="question_box" style="background-color: red;">20</div><div class="question_box" style="background-color: red;">21</div><div class="question_box" style="background-color: red;">22</div><div class="question_box" style="background-color: red;">23</div><div class="question_box" style="background-color: red;">24</div><div class="question_box" style="background-color: red;">25</div><div class="question_box" style="background-color: red;">26</div><div class="question_box" style="background-color: red;">27</div><div class="question_box" style="background-color: red;">28</div></div></div><div class="discipline_container"><h3>Fisiopato:</h3><div class="question_grid"><div class="question_box" style="background-color: red;">29</div><div class="question_box" style="background-color: red;">30</div><div class="question_box" style="background-color: red;">31</div><div class="question_box" style="background-color: red;">32</div><div class="question_box" style="background-color: red;">33</div><div class="question_box" style="background-color: red;">34</div><div class="question_box" style="background-color: red;">35</div><div class="question_box" style="background-color: red;">36</div><div class="question_box" style="background-color: red;">37</div><div class="question_box" style="background-color: red;">38</div><div class="question_box" style="background-color: red;">39</div><div class="question_box" style="background-color: red;">40</div><div class="question_box" style="background-color: red;">41</div><div class="question_box" style="background-color: red;">42</div></div></div><div class="discipline_container"><h3>Farmaco:</h3><div class="question_grid"><div class="question_box" style="background-color: red;">43</div><div class="question_box" style="background-color: red;">44</div><div class="question_box" style="background-color: red;">45</div><div class="question_box" style="background-color: red;">46</div><div class="question_box" style="background-color: red;">47</div><div class="question_box" style="background-color: red;">48</div><div class="question_box" style="background-color: red;">49</div><div class="question_box" style="background-color: red;">50</div><div class="question_box" style="background-color: red;">51</div><div class="question_box" style="background-color: red;">52</div></div></div><div class="discipline_container"><h3>Biofisica:</h3><div class="question_grid"><div class="question_box" style="background-color: red;">53</div><div class="question_box" style="background-color: red;">54</div><div class="question_box" style="background-color: red;">55</div><div class="question_box" style="background-color: red;">56</div></div></div><div class="discipline_container"><h3>AnatoP:</h3><div class="question_grid"><div class="question_box" style="background-color: red;">57</div><div class="question_box" style="background-color: red;">58</div><div class="question_box" style="background-color: red;">59</div><div class="question_box" style="background-color: red;">60</div></div></div></div>            
+    
+    <div class="buttons">
+        <button class="quit" href="">Salir</button>
+    </div>
+    
+
+</div>
+-->
