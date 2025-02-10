@@ -66,7 +66,7 @@ let questions = [
 
       "numb": 6,
       "question": "¿Cuál de las siguientes característica de la pared de Mycobacterium tuberculosis explica su ácidoalcohol resistencia?",
-      "answer": "El bajo número de porinas en su membrana externa",
+      "answer": "Su alto contenido lipídico",
       "options": [
       "La gruesa capa de peptidoglicano",
       "Su alto contenido lipídico",
