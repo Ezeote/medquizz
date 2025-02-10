@@ -26,7 +26,7 @@ let questions = [
 "A 20% de CO la P50 de la hemoglobina es mayor que a 0%.",
 "A 100 mmHg de PO2 el número de sitios de unión a CO2 es mayor a 60% que a 80%."
 ],
-"image": "", 
+"image": "https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/Cardio/12-2023E/media/p2.PNG", 
 "discipline" : "BIOQUIMICA",
 "comment": "",
 },
@@ -42,7 +42,7 @@ let questions = [
 "El equilibrio 3 depende de la actividad de la anhidrasa carbónica.",
 "El equilibrio 3 depende del pka del ácido carbónico y del pH del medio."
 ],
-"image": "", 
+"image": "https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/Cardio/12-2023E/media/p3.PNG", 
 "discipline" : "BIOQUIMICA",
 "comment": "",
 },
@@ -228,7 +228,7 @@ let questions = [
 "Si midiéramos la autorregulación del subepicardio esperaríamos un desplazamiento a la derecha de la curva ejemplificada por la línea continua.", 
 "Si midieramos la autorregulación del subepicardio esperaríamos un desplazamiento a la derecha de la curva ejemplificada por la línea punteada."
 ],
-"image": "", 
+"image": "https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/Cardio/12-2023E/media/p16.PNG", 
 "discipline" : "FISIO",
 "comment": "",
 },
@@ -257,7 +257,7 @@ let questions = [
 "La maniobra indicada por flechas es compatible con la compresión de la arteria femoral previo al sitio de registro.", 
 "La maniobra indicada por flechas es compatible con la compresión de la arteria femoral contralateral al sitio de registro."
 ],
-"image": "", 
+"image": "https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/Cardio/12-2023E/media/p18.PNG", 
 "discipline" : "FISIO",
 "comment": "",
 },
@@ -318,7 +318,7 @@ let questions = [
 "Los resultados de la condición experimental 3 son propios del animal intacto.",
 "Las condiciones experimentales 1 y 3 pueden ocurrir simultáneamente en el animal intacto."
 ],
-"image": "", 
+"image": "https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/Cardio/12-2023E/media/p22.PNG", 
 "discipline" : "FISIO",
 "comment": "",
 },
@@ -544,7 +544,7 @@ let questions = [
 "Independientemente de que los registros correspondan a una misma arteria o a dos territorios diferentes, el índice resistivo obtenido en A y B es similar.",
 "Si los registros se obtuvieron en una misma arteria, el registro B puede mostrar el cambio (desde el registro A), obtenido luego de un aumento de la volemia o de la administración de un estímulo vasodilatador."
 ],
-"image": "", 
+"image": "https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/Cardio/12-2023E/media/p37.PNG", 
 "discipline" : "FISIO",
 "comment": "",
 },
