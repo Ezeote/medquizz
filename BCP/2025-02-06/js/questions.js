@@ -575,7 +575,7 @@ let questions = [
     {
     "numb": 45,
     "question": " ¿Cuál de las siguientes es una característica farmacocinética de morfina?",
-    "answer": ["Morfina 6- glucurónido es el principal metabolito activo."],
+    "answer": ["Morfina 6- glucurónido es el principal metabolito activo.", "La principal vía de excreción es renal."],
     "options":[
     "La principal vía de excreción es renal.",
     "Se metaboliza principalmente por CYP3A4.",
@@ -583,7 +583,7 @@ let questions = [
     "Morfina 6- glucurónido es el principal metabolito activo."
     ],
     "discipline": "Farmaco",
-    "comment":"",
+    "comment":"Esta pregunta es ambigua. Correctas D y A",
     },
     {
     "numb": 46,
