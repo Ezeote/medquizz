@@ -655,7 +655,15 @@ footer{
     color: #fff;
     background: #007bff;
 }
+.buttons button.changeDiscipline{
+    color: #fff;
+    background: #00ffff;
+}
 
+.buttons button.changeDiscipline:hover{
+    color: #007bff;
+    background: #fff;
+}
 
 /*      DISTINTAS RESOLUCIONES      */
 
