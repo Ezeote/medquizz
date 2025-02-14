@@ -380,3 +380,31 @@ quit_quiz.onclick = () => {
     next_btn.classList.add("show"); // show the next button
     prev_btn.classList.add("show"); // show the previous button
 }
+
+
+
+// Add event listener for changeDiscipline button
+const changeDisciplineBtn = document.querySelector(".changeDiscipline");
+changeDisciplineBtn.onclick = () => {
+    // Reset variables
+    que_count = 0;
+    que_numb = 1;
+    userScore = 0;
+    userAnswers = [];
+    disciplineScores = {
+        Bacterio: { correct: 0, total: 0 },
+        Parasito: { correct: 0, total: 0 },
+        Fisiopato: { correct: 0, total: 0 },
+        Farmaco: { correct: 0, total: 0 },
+        Biofisica: { correct: 0, total: 0 },
+        AnatoP: { correct: 0, total: 0 }
+    };
+
+    // Clear selected disciplines
+    selectedDisciplines = [];
+
+    // Hide result box and quiz box, show info box
+    result_box.classList.remove("activeResult");
+    quiz_box.classList.remove("activeQuiz");
+    info_box.classList.add("activeInfo");
+}
