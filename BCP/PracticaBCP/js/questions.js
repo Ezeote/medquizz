@@ -5830,7 +5830,8 @@ let questions = [
     "options": [
       "Su absorción por vía oral es escasa y lenta al ser moléculas muy polares que no logran atravesar bien las membranas",
       "Las enterobacterias poseen resistencia intrínseca a estos antibióticos, al impedir su pasaje por la membrana externa",
-      "No logran concentraciones adecuadas en el parénquima renal por su escasa eliminación por filtración glomerular, el sitio blanco de acción de ambos antibióticos"
+      "No logran concentraciones adecuadas en el parénquima renal por su escasa eliminación por filtración glomerular",
+      "La resistencia adquirida de las enterobacterias es mayor al 30% debido a mutación de la ADN-girasa, el sitio blanco de acción de ambos antibióticos"
     ],
   "discipline": "Farmaco",
   "comment": "",
