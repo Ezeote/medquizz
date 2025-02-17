@@ -68,6 +68,8 @@ continue_btn.onclick = () => {
     queCounter(1); // passing 1 parameter to queCounter
     next_btn.classList.add("show"); // hide the next button
     prev_btn.classList.add("show"); // hide the previous button
+    // Hide the comment section
+    document.getElementById("comment_section").classList.add("hidden"); // Add hidden class
 }
 
 // Add event listener for keyboard navigation
@@ -379,6 +381,8 @@ quit_quiz.onclick = () => {
     queCounter(1); // passing 1 parameter to queCounter
     next_btn.classList.add("show"); // show the next button
     prev_btn.classList.add("show"); // show the previous button
+    // Hide the comment section
+    document.getElementById("comment_section").classList.add("hidden"); // Add hidden class
 }
 
 
