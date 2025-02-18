@@ -10984,7 +10984,7 @@ let questions = [
   "info_quest": "1er Parcial 2024",
   "numb": 60,
   "question": "Considerando la infección por el virus varicela-zóster (VVZ) ¿cuál de los siguientes es el modelo de infección carácterístico de estos virus?",
-  "answer": [""],
+  "answer": ["latente"],
   "options": [
   "transformante",
   "crónica",
