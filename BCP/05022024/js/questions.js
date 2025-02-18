@@ -702,7 +702,7 @@ let questions = [
   },
   {
     "numb": 54,
-    "question": "¿Cuál es la razón por la cual claritromicina y azitromicina no son útiles en infecciones urinarias?",
+    "question": "¿Cuál es la  claritromicina y azitromicina no son útiles en infecciones urinarias?",
     "answer": ["Las enterobacterias poseen resistencia intrínseca a estos antibióticos, al impedir su pasaje por la membrana externa"],
     "options": [
       "Su absorción por vía oral es escasa y lenta al ser moléculas muy polares que no logran atravesar bien las membranas",
@@ -719,8 +719,7 @@ let questions = [
     "answer": ["La posibilidad de trombosis venosa es mayor si la mujer es fumadora y tiene otros factores de riesgo de tromboembolia. "],
     "options": [
       "Los más modernos carecen de interacciones farmacológicas desfavorables con antibióticos o antiepilépticos.",
-      "Se asocian con un mayor riesgo de hemorragia digestiva aguda",
-      "razón por la cual se utilizan combinados con progestágenos.",
+      "Se asocian con un mayor riesgo de hemorragia digestiva aguda, razón por la cual se utilizan combinados con progestágenos.",
       "El riesgo de efectos adversos metabólicos sobre lípidos e hidratos de carbono es independiente de la dosis estrogénica usada.",
       "La posibilidad de trombosis venosa es mayor si la mujer es fumadora y tiene otros factores de riesgo de tromboembolia."
     ],
