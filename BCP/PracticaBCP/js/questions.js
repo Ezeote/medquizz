@@ -5843,8 +5843,7 @@ let questions = [
     "answer": ["La posibilidad de trombosis venosa es mayor si la mujer es fumadora y tiene otros factores de riesgo de tromboembolia. "],
     "options": [
       "Los más modernos carecen de interacciones farmacológicas desfavorables con antibióticos o antiepilépticos.",
-      "Se asocian con un mayor riesgo de hemorragia digestiva aguda",
-      "razón por la cual se utilizan combinados con progestágenos.",
+      "Se asocian con un mayor riesgo de hemorragia digestiva aguda, razón por la cual se utilizan combinados con progestágenos.",
       "El riesgo de efectos adversos metabólicos sobre lípidos e hidratos de carbono es independiente de la dosis estrogénica usada.",
       "La posibilidad de trombosis venosa es mayor si la mujer es fumadora y tiene otros factores de riesgo de tromboembolia."
     ],
