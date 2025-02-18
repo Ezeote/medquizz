@@ -12725,7 +12725,7 @@ let questions = [
   "info_quest": "2do Parcial 2024",
   "numb": 50,
   "question": "¿Cuál de las siguientes características determinan que se establezca la interacción de un fármaco con su receptor?",
-  "answer": ["Afinidad"],
+  "answer": ["Afinidad."],
   "options": [
   "Afinidad.",
   "Potencia.",
