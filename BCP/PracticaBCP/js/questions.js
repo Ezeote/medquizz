@@ -14417,7 +14417,7 @@ let questions = [
     "info_quest": "2do Parcial 2022",
     "numb": 1,
     "question": "¿Cuál es el fundamento para colocar a 2,5 cm de distancia los discos de eritromicina y clindamicina cuando realizamos el estudio de la susceptibilidad antibiótica en Staphylococcus aureus en la disco difusión?",
-    "answer": [""],
+    "answer": ["La pesquisa de la resistencia inducible a eritromicina"],
     "options": [
     "La pesquisa de la resistencia inducible a eritromicina",
     "La pesquisa de la resistencia inducible a clindamicina",
