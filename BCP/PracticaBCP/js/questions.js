@@ -11390,7 +11390,7 @@ let questions = [
   "liberación osmótica de la arginina vasopresina por hipoosmolaridad",
   "liberación no osmótica de la arginina vasopresina por hipovolemia"
   ],
-  "discipline": "FIsiopato",
+  "discipline": "Fisiopato",
   "comment": "",
   },
   {
@@ -11404,7 +11404,7 @@ let questions = [
   "aumento del contenido de agua intracelular",
   "aumento del contenido de sodio intracelular"
   ],
-  "discipline": "FIsiopato",
+  "discipline": "Fisiopato",
   "comment": "",
   },
   {
@@ -11418,7 +11418,7 @@ let questions = [
   "alcalosis metabólica",
   "acidosis metabólica"
   ],
-  "discipline": "FIsiopato",
+  "discipline": "Fisiopato",
   "comment": "",
   },
   {
@@ -11432,7 +11432,7 @@ let questions = [
   "hipocloremia",
   "hiperpotasemia"
   ],
-  "discipline": "FIsiopato",
+  "discipline": "Fisiopato",
   "comment": "",
   },
   {
@@ -11446,7 +11446,7 @@ let questions = [
   "acidosis metabólica con respuesta adaptativa inadecuada",
   "acidosis metabólica con respuesta adaptativa adecuada"
   ],
-  "discipline": "FIsiopato",
+  "discipline": "Fisiopato",
   "comment": "",
   },
   {
@@ -11460,7 +11460,7 @@ let questions = [
   "aumento de la contractilidad",
   "aumento de la pulsatilidad arterial"
   ],
-  "discipline": "FIsiopato",
+  "discipline": "Fisiopato",
   "comment": "",
   },
   {
@@ -11474,7 +11474,7 @@ let questions = [
   "Diferencia alvéolo-arterial de O2",
   "Respuesta espirométrica a broncodilatadores"
   ],
-  "discipline": "FIsiopato",
+  "discipline": "Fisiopato",
   "comment": "",
   },
   {
@@ -11488,7 +11488,7 @@ let questions = [
   "La ausencia de respuesta al test de hiperoxia",
   "El aumento en la diferencia alvéolo-arterial de O2"
   ],
-  "discipline": "FIsiopato",
+  "discipline": "Fisiopato",
   "comment": "",
   },
   {
@@ -11502,7 +11502,7 @@ let questions = [
   "Obstructivo reversible",
   "Obstructivo irreversible"
   ],
-  "discipline": "FIsiopato",
+  "discipline": "Fisiopato",
   "comment": "",
   },
   {
@@ -11515,7 +11515,7 @@ let questions = [
   "Aumentado",
   "Incambiado"
   ],
-  "discipline": "FIsiopato",
+  "discipline": "Fisiopato",
   "comment": "",
   },
   {
@@ -11529,7 +11529,7 @@ let questions = [
   "Incremento de capacidad residual funcional, con descenso del volumen residual y de la capacidad pulmonar total",
   "Relación VEF1/CVF <70% (volumen espiratorio forzado en primer segundo/capacidad vital forzada)"
   ],
-  "discipline": "FIsiopato",
+  "discipline": "Fisiopato",
   "comment": "",
   },
   {
@@ -11543,7 +11543,7 @@ let questions = [
   "Aumento de la resistencia de vía aérea",
   "Aumento del punto de igual presión (PIP)"
   ],
-  "discipline": "FIsiopato",
+  "discipline": "Fisiopato",
   "comment": "",
   },
   {
@@ -11557,7 +11557,7 @@ let questions = [
   "Aumento de la capacidad pulmonar total",
   "Descenso de la complacencia estática"
   ],
-  "discipline": "FIsiopato",
+  "discipline": "Fisiopato",
   "comment": "",
   },
   {
@@ -11571,7 +11571,7 @@ let questions = [
   "Contenido venoso de oxígeno aumentado",
   "Contenido arterial de oxígeno disminuido"
   ],
-  "discipline": "FIsiopato",
+  "discipline": "Fisiopato",
   "comment": "",
   },
   {
@@ -11585,7 +11585,7 @@ let questions = [
   "Aumento del 2,3 DPG",
   "Aumento de la temperatura"
   ],
-  "discipline": "FIsiopato",
+  "discipline": "Fisiopato",
   "comment": "",
   },
   {
@@ -11599,7 +11599,7 @@ let questions = [
   "El consumo tisular de oxígeno no se modifica",
   "La concentración de lactato plasmático aumenta"
   ],
-  "discipline": "FIsiopato",
+  "discipline": "Fisiopato",
   "comment": "",
   },
   {
@@ -11613,7 +11613,7 @@ let questions = [
   "Reducción de la precarga",
   "Aumento de la capacitancia vascular"
   ],
-  "discipline": "FIsiopato",
+  "discipline": "Fisiopato",
   "comment": "",
   },
   {
@@ -11627,7 +11627,7 @@ let questions = [
   "Shock anafiláctico por picadura de insectos",
   "Shock cardiogénico por infarto agudo de miocardio"
   ],
-  "discipline": "FIsiopato",
+  "discipline": "Fisiopato",
   "comment": "",
   },
   {
@@ -11641,7 +11641,7 @@ let questions = [
   "La lesión por agente químico",
   "La reacción inmunológica frente al CO"
   ],
-  "discipline": "FIsiopato",
+  "discipline": "Fisiopato",
   "comment": "",
   },
   {
