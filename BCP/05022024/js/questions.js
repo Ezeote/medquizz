@@ -716,7 +716,7 @@ let questions = [
   {
     "numb": 55,
     "question": "Señale la afirmación correcta sobre riesgos asociados al uso de anticonceptivos orales con estrógenos:",
-    "answer": ["La posibilidad de trombosis venosa es mayor si la mujer es fumadora y tiene otros factores de riesgo de tromboembolia. "],
+    "answer": ["La posibilidad de trombosis venosa es mayor si la mujer es fumadora y tiene otros factores de riesgo de tromboembolia."],
     "options": [
       "Los más modernos carecen de interacciones farmacológicas desfavorables con antibióticos o antiepilépticos.",
       "Se asocian con un mayor riesgo de hemorragia digestiva aguda, razón por la cual se utilizan combinados con progestágenos.",
