@@ -290,9 +290,9 @@ function showResult() {
     result_box.querySelector('.score_text').appendChild(overallCircle); // Add overall circle
 
     // Display overall score text
-    if (userScore > 42) { // if user scored more than 70%
+    if (userScore > 7) { // if user scored more than 70%
         scoreText.innerHTML += `<span>Excellente <p>${userScore}</p> / <p>${filteredQuestions.length}</p></span>`;
-    } else if (userScore > 35) { // if user scored more than 60%
+    } else if (userScore > 5) { // if user scored more than 60%
         scoreText.innerHTML += `<span>Bien! <p>${userScore}</p> / <p>${filteredQuestions.length}</p></span>`;
     } else { // if user scored less than 60%
         scoreText.innerHTML += `<span>Seguí intentando.<p>${userScore}</p> / <p>${filteredQuestions.length}</p></span>`;
