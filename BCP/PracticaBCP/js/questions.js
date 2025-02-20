@@ -15626,7 +15626,7 @@ let questions = [
         "Insuficiencia renal aguda parenquimatosa",
     
         ],
-        "discipline": "Farmaco",
+        "discipline": "Fisiopato",
         "comment": "",
         },
         {
