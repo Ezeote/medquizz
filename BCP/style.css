@@ -1103,3 +1103,27 @@ h3{
     font-weight: bold;
     border-radius: 5px; /* Rounded corners */
 }
+
+
+
+.buttonX {
+    display: block;
+    background: linear-gradient(45deg, var(--c1, #ff6262), var(--c2, #7178ff) 51%, var(--c1, #ff6262)) var(--x, 0)/ 200%;
+    background-clip: text;
+    color: transparent;
+    font-size: 150%;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 0;
+    border-radius: 5px;
+    transition: 0.5s;
+    border: 1px solid rgb(140, 140, 140);
+}
+.buttonX:hover {
+    --x: 100%;
+    
+}
+
