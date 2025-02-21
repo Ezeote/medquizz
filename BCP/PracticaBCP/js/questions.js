@@ -2281,7 +2281,7 @@ let questions = [
   {
     "info_quest": "Examen 7/02/2019",
     "numb": 42,
-    "question": " En un modelo de órgano aislado (arteria aislada de conejo), se administra angiotensina II (AII) y se cuantifica la respuesta vasoconstrictora (control). Se incuban las arterias con angiotensina II y se administran dosis crecientes de losartán (100nM y 300 nM). Se obtienen las curvas que se presentan en el gráfico: <br>A partir de los datos aportados por la gráfica, indique cómo actúa losartán:",
+    "question": "En un modelo de órgano aislado (arteria aislada de conejo), se administra angiotensina II (AII) y se cuantifica la respuesta vasoconstrictora (control). Se incuban las arterias con angiotensina II y se administran dosis crecientes de losartán (100nM y 300 nM). Se obtienen las curvas que se presentan en el gráfico: <br>A partir de los datos aportados por la gráfica, indique cómo actúa losartán:",
     "answer": ["Disminuye la potencia de AII"],
     "options": [
     "Como un agonista parcial",
@@ -2296,7 +2296,7 @@ let questions = [
   {
     "info_quest": "Examen 7/02/2019",
     "numb": 43,
-    "question": " A partir de los datos aportados por la gráfica, puede concluirse que:",
+    "question": "En un modelo de órgano aislado (arteria aislada de conejo), se administra angiotensina II (AII) y se cuantifica la respuesta vasoconstrictora (control). Se incuban las arterias con angiotensina II y se administran dosis crecientes de losartán (100nM y 300 nM). Se obtienen las curvas que se presentan en el gráfico:<br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/2019-02-07E/media/pregunta%2042.PNG'> <br>A partir de los datos aportados por la gráfica, puede concluirse que:",
     "answer": ["Losartán y AII comparten el mismo sistema receptorial"],
     "options": [
     "Losartán y AII comparten el mismo sistema receptorial",
