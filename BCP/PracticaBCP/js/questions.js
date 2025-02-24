@@ -8182,15 +8182,15 @@ let questions = [
   {
     "info_quest": "Examen 16/12/2024",
     "numb": 41,
-    "question": "¿Cuál de los siguientes cambios fisiopatológicos corresponden a la insuficiencia cardíaca crónica (ICC)? AMBIGUA: A y B",
-    "answer": ["descenso en la complacencia pulmonar por congestión pulmonar."],
+    "question": "¿Cuál de los siguientes cambios fisiopatológicos corresponden a la insuficiencia cardíaca crónica (ICC)?",
+    "answer": ["Inicio de disnea de esfuerzo por ICC con FEVI reducida.", "descenso en la complacencia pulmonar por congestión pulmonar."],
     "options": [
       "Inicio de disnea de esfuerzo por ICC con FEVI reducida.",
       "descenso en la complacencia pulmonar por congestión pulmonar.",
       "reducción de la dilatación ventricular izquierda por insuficiencia mitral funcional"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
+    "comment": "AMBIGUA",
   },
   {
     "info_quest": "Examen 16/12/2024",
