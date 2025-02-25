@@ -3,13 +3,14 @@ let questions = [
     {
     "info_quest": "3er Parcial 2022",
     "numb": 1,
-    "question": "El siguiente gráfico muestra la curva de autorregulación de la circulación coronaria en un sujeto sano. En el esquema hay un punto marcado con una flecha. ¿A que corresponde? <br> <img scr = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p1-3P-2022.PNG' alt = '' > ",
+    "question": "El siguiente gráfico muestra la curva de autorregulación de la circulación coronaria en un sujeto sano. En el esquema hay un punto marcado con una flecha. ¿A que corresponde? ",
     "answer": ["Vasodilatación máxima."],
     "options": [
     "Vasodilatación máxima.",
     "Resistencia vascular coronaria máxima.",
     "Calibre mínimo de las arteriolas coronarias."
     ],
+        "image": "https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p1-3P-2022.PNG",
     "discipline": "Fisiopato",
     "comment": "",
     },
