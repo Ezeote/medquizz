@@ -343,7 +343,7 @@ let questions = [
     {
     "info_quest": "3er Parcial 2022",
     "numb": 24,
-    "question": "Paciente de 70 años ingresa a la emergencia con diarrea acuosa. Al examen físico deshidratado con PA 70/40 mmHg. Se comienza reposición hidroelectrolítica. Se muestran los valores de función renal previo y post reposición. ¿Qué diagnóstico realiza de la funcionalidad renal más probable? <br> <img scr = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p24-3P-2022.PNG' alt = '' >",
+    "question": "Paciente de 70 años ingresa a la emergencia con diarrea acuosa. Al examen físico deshidratado con PA 70/40 mmHg. Se comienza reposición hidroelectrolítica. Se muestran los valores de función renal previo y post reposición. ¿Qué diagnóstico realiza de la funcionalidad renal más probable?",
     "answer": ["Insuficiencia renal aguda pre-renal"],
     "options": [
     "Enfermedad renal crónica",
@@ -352,6 +352,7 @@ let questions = [
     "Insuficiencia renal aguda parenquimatosa",
 
     ],
+        "image": "https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p24-3P-2022.PNG",
     "discipline": "Farmaco",
     "comment": "",
     },
