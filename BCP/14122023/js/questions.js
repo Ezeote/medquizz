@@ -316,7 +316,7 @@ let questions = [
   {
     "numb": 25,
     "question": "¿Cuál de las siguientes es una enfermedad parasitaria transmitida por alimentos?",
-    "answer": ["Teniasis"],
+    "answer": ["Teniasis", "Ascaridiasis"],
     "options": [
       "Teniasis",
       "Paludismo",
@@ -324,7 +324,7 @@ let questions = [
       "Leishmaniosis"
     ],
     "discipline": "Parasito",
-    "comment": "",
+    "comment": "AMBIGUA",
   },
   {
     "numb": 26,
