@@ -9874,7 +9874,7 @@ let questions = [
   {
   "info_quest": "1er Parcial 2023",
   "numb": 41,
-  "question": "aenia saginata reside como cisticerco en el músculo de la vaca y como adulto en el intestino humano. ¿Cómo se denominan sus hospederos y a qué tipo de ciclo biológico corresponde?",
+  "question": "Taenia saginata reside como cisticerco en el músculo de la vaca y como adulto en el intestino humano. ¿Cómo se denominan sus hospederos y a qué tipo de ciclo biológico corresponde?",
   "answer": ["El humano es el hospedero definitivo y la vaca es el hospedero intermediario y se trata de un ciclo heteroxeno"],
   "options": [
   "El humano es el hospedero definitivo y la vaca es el hospedero intermediario y se trata de un ciclo heteroxeno",
