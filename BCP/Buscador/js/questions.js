@@ -16939,7 +16939,7 @@ let questions = [
       "info_quest": "1er Parcial 2021",
       "numb": 53,
       "question": "¿Cuál de las siguientes medidas de prevención tiene importancia en el control de la Oxiurosis? Seleccione una:",
-      "answer": ["c. Caminar sin calzado"],
+      "answer": ["d. Lavado de manos y uñas cortas"],
       "options": [
       "a. Escasa educación sanitaria de la población vulnerable",
       "b. Correcta disposición ambiental de materias fecales humanas",
