@@ -505,7 +505,7 @@ let questions = [
 
     {
     "numb": 35,
-    "question": "En relación al área de p{enumbra isqémica luego de un accidente cerebrovascular, ¿cuál de las siguientes constituye una causa frecuente de lesión cerebral secundaria?",
+    "question": "En relación al área de penumbra isquémica luego de un accidente cerebrovascular, ¿cuál de las siguientes constituye una causa frecuente de lesión cerebral secundaria?",
     "answer": ["d) Hipotensión arterial"],
     "options": [
     "a) Hipotermia",
