@@ -19382,7 +19382,7 @@ let questions = [
     {
     "info_quest": "Examen 27/02/25",
     "numb": 35,
-    "question": "En relación al área de penubra isqémica luego de un accidente cerebrovascular, ¿cuál de las siguientes constituye una causa frecuente de lesión cerebral secundaria?",
+    "question": "En relación al área de penumbra isqémica luego de un accidente cerebrovascular, ¿cuál de las siguientes constituye una causa frecuente de lesión cerebral secundaria?",
     "answer": ["d) Hipotensión arterial"],
     "options": [
     "a) Hipotermia",
