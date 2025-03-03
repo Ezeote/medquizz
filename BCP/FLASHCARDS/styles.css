@@ -9,6 +9,7 @@ body{
   -webkit-backdrop-filter: blur(5px);
   border: 1px solid rgba(255, 255, 255, 0.3);
   margin: 0px;
+  font-size: 10px;
 }
 header{
   height: 40px;
@@ -112,6 +113,18 @@ nav ul li a:hover {
   padding: 10px;
   box-sizing: border-box;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  overflow-y: auto; /* Permitir desplazamiento vertical */
+  overflow-x: hidden;
+}
+
+.card-front::-webkit-scrollbar {
+	width: 4px;
+	background-color: transparent;
+  border-radius: 15px;
+}
+
+.card-front::-webkit-scrollbar-thumb {
+	background-color: #0040ff55;
 }
 
 .card-front {
