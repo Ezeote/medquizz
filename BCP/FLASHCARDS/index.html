@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slider de Tarjetas Giratorias</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>@import url('https://fonts.cdnfonts.com/css/berlin-sans-fb');</style>
+    
+</head>
+<body>
+    <header class="bg-white shadow-md">
+        <div class="container1 mx-auto flex justify-between items-center p-4" id="headerCont">
+            <div class="flex items-center">
+                <img alt="logo" class="logo" height="100" src="https://ezeote.github.io/medquizz/Media/miLogo2.png" width=""/>
+            </div>
+            <h1>FLASHCARDS</h1>
+            <div class="flex-grow text-center">
+                <h1 class="text-xl font-bold"></h1>
+            </div>
+            <nav>
+                <ul class="flex space-x-4">
+                    <li>
+                        <a class="text-gray-700 hover:text-blue-500" href="https://ezeote.github.io/medquizz">Inicio</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+	
+	<div class="slider-container">
+        <div class="slider">
+            <div class="slide">
+                <div class="card">
+                    <button class="flip-btn"><i class="fa-solid fa-repeat"></i></button>
+                    <div class="card-front">
+                        <h2>STREPTOCOCUS PYOGENES</h2>
+                        <p>
+                            Agente etiológico más frecuente en las infecciones de piel y partes blandas.
+                            <br>CGP en cadena. Anaerobio facultativo. Exigente.
+                            <br>Betahemolítico. CATALASA (-) DNAsa (+).
+                            <br>Estreptococo de grupo A (SGA)
+                        </p>
+                            <h3>VIRULENCIA</h3>
+                        <p>
+                            <b>Cápsula</b>: ác hialurónico: antifagocítica.
+                            <br><b>Estreptolisina S</b>: halo de B hemólisis más grande
+                            <br>Estreptolisina O: inestable frente a O2.
+                            <br>Estreptocinasa: degrada coágulos
+                            <br>Exotoxina pirogénica estreptocócica: superantígeno
+                            <br>Ác Lipoteicoico:
+                            <br>Proteína M: bloquea C3b, interfiere fagocitosis. Adhesión. Similar a AG cardíaco = fiebre reumática
+                            <br>Hialurodinasa. Proteína F: adhesión.
+                            <br>Peptidasa C5a:
+                        </p>
+                            <h3>PATOGENIA</h3>
+                        <p> Se adhiere a c. epiteliales, en boca, naríz, piel.
+                            <br><b>SPE</b>: rush de fiebre escarlatina.
+                            <br>Faringitis aguda, Escarlatina, Lengua aframbuesada, Erisipela, Impétigo, fasicits necrotizante, celulitis, Sx de shock tóxico estreptocócico. Neumonía.
+                            <br><b>COMPLICACIÓN no supurada</b>: Glomerulonefritis y fiebre reumática post infección (faringitis, escarlat)
+                            <br>Por depósito de inmunocomplejos.
+                        </p>
+                            <h3>DIAGNÓSTICO:</h3> 
+                            <p>exudado faríngeo, punción, aspira
+                            <br><b>Cultivo</b>: agar sangre y agar simple.
+                            <br>AC anti estreptolisina O
+                            <br>Aglutinación ne látex, ELISA para Antígeno A.
+                            <br><b>Serológico</b>: AC anti estreptolisina O, DNAsa, estreptoquinasa, hialuronidasa.
+                        </p>
+                            <h3>TRATAMIENTO</h3>
+                        <p>- PENICILINA V.
+                            <br>- AMOXICILINA.
+                            <br>- PENICILINA G: en infección invasiva.
+                            <br>- si hay sx tóxico o sepsis = + CLINDAMICINA.
+                            <br>- Resistente? Doy ERITROMICINA.
+                        </p>
+                            <h3>RESISTENCIA</h3>
+                            <p>NO HAY DESCRITA RESISTENCIA A PENICILINAS NI BETALACTÁMICOS.</p>
+
+                        
+                    </div>
+
+
+                    <div class="card-back">
+                        <h2>IMÁGENES</h2>
+                        <img src="media/strepto-GRAM.PNG" alt="">
+                        <p>Streptococcus Pyogenes GRAM POSITIVO, cocos en cadena</p>
+                        <img src="media/strepto-cultivo.PNG" alt="">
+                        <p>Cultivo en Agar Sangre, se ve la B-Hemólisis </p>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="slide">
+                <div class="card">
+                    <button class="flip-btn">Girar</button>
+                    <div class="card-front">
+                        <h2>Frente 2</h2>
+                        <p>Contenido frontal de la tarjeta 2</p>
+                    </div>
+                    <div class="card-back">
+                        <h2>Reverso 2</h2>
+                        <p>Contenido trasero de la tarjeta 2</p>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="slide">
+                <div class="card">
+                    <button class="flip-btn">Girar</button>
+                    <div class="card-front">
+                        <h2>STREPTOCOCO PYOGENES</h2>
+                        <p>Contenido frontal de la tarjeta 3</p>
+                    </div>
+
+
+                    <div class="card-back">
+                        <h2>Reverso 3</h2>
+                        <p>Contenido trasero de la tarjeta 3</p>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+        <button class="navigation-btn prev-btn">←</button>
+        <button class="navigation-btn next-btn">→</button>
+    </div>
+
+    <script src="https://kit.fontawesome.com/f5e72e50e2.js" crossorigin="anonymous"></script>
+    <script src="script.js"></script>
+</body>
+</html>
