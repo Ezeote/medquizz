@@ -20,6 +20,9 @@
             </div>
             <nav>
                 <ul class="flex space-x-4">
+			<li>
+                        <a class="text-gray-700 hover:text-blue-500" href="#" onclick="openAboutModal()">+ Info</a>
+			</li>
                     <li>
                         <a class="text-gray-700 hover:text-blue-500" href="https://ezeote.github.io/medquizz">Inicio</a>
                     </li>
@@ -199,6 +202,38 @@
         <button class="navigation-btn next-btn">→</button>
     </div>
 
+	<div class="modal" id="about-modal">
+   <div class="modal-content">
+    <span class="close" onclick="closeAboutModal()">
+     &times;
+    </span>
+    <h2>
+     + Información
+    </h2>
+    <p>
+     Bienvenido! <br>
+     Sitio en desarrollo (no dinámico), de uso reservado <br>
+     Proyecto estudiantil. <br>
+     Si te sirve házmelo saber! <br>
+     Atte: Eze_ote
+    </p>
+   </div>
+	</div>
+
+<script>
+
+	function closeModal() {
+            document.getElementById('modal').style.display = 'none';
+        }
+
+        function openAboutModal() {
+            document.getElementById('about-modal').style.display = 'flex';
+        }
+
+        function closeAboutModal() {
+            document.getElementById('about-modal').style.display = 'none';
+        }
+</script>
     <script src="https://kit.fontawesome.com/f5e72e50e2.js" crossorigin="anonymous"></script>
     <script src="script.js"></script>
 </body>
