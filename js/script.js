@@ -58,7 +58,7 @@ document.querySelector('.next').addEventListener('click', () => {
 dots[0].classList.add('active');
 startAutoPlay(); // Iniciar el auto-play al cargar
 
-document.querySelectorAll('.CAJA1').forEach(function(element) {
+document.querySelectorAll('.CAJA1, .CAJA3').forEach(function(element) {
   element.addEventListener('click', function() {
       const url = element.getAttribute('data-url');
       if (url) {
