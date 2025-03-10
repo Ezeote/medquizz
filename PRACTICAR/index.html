@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+ <head>
+  <title>
+   MedQuizz
+  </title>
+  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:type" content="website" />
+ </head>
+ <body>
+    <header class="bg-white shadow-md">
+        <div class="container1 mx-auto flex justify-between items-center p-4" id="headerCont">
+            <div class="flex items-center">
+                <img alt="logo" class="logo" height="100" src="https://ezeote.github.io/medquizz/Media/miLogo2.png" width=""/>
+            </div>
+            <div class="flex-grow text-center">
+                <h1 class="text-xl font-bold"></h1>
+            </div>
+            <nav>
+                <ul class="flex space-x-4">
+                    <li>
+                        <a class="text-gray-700 hover:text-blue-500" href="https://ezeote.github.io/medquizz">Inicio</a>
+                    </li>
+                    <li>
+                        <a class="text-gray-700 hover:text-blue-500" href="#" onclick="openAboutModal()">+ Info</a>
+                    </li>
+                    <li>
+                        <a class="text-gray-700 hover:text-blue-500" href="#">Comunidad</a>
+                    </li>
+                    <li>
+                        <a class="text-gray-700 hover:text-blue-500" href="#">Contact</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>  
+
+    <section class="py-8">
+        <h2 class="text-2xl font-bold text-center mb-6">
+         2do año
+        </h2>
+        <div class="container">
+         <div class="button-cube" id="WIP">
+          <img alt="ANATO" height="150" src="https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/Media/anatom%C3%ADa.jpg" width="200"/>
+          <div class="content">
+           <h3>
+            ANATO
+           </h3>
+           <p>
+            Anatomía.
+           </p>
+           <a class="btn" href="#" onclick="openModal('ANATO')">
+            EVALUACIONES
+           </a>
+          </div>
+         </div>
+         <div class="button-cube" id="WIP">
+          <img alt="NEURO" height="150" src="https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/Media/NEURO.jpg" width="200"/>
+          <div class="content">
+           <h3>
+            NEURO
+           </h3>
+           <p>
+            NEUROCIENCIA.
+           </p>
+           <a class="btn" href="#" onclick="openModal('NEURO')">
+            EVALUACIONES
+           </a>
+          </div>
+         </div>
+         <div class="button-cube" id="">
+          <img alt="CARDIO" height="150" src="Media/CARDIO.jpg" width="200"/>
+          <div class="content">
+           <h3>
+            CARDIO
+           </h3>
+           <p>
+            CARDIO-RESPIRATORIO.
+           </p>
+           <a class="btn" href="#" onclick="openModal('CARDIO')">
+            EVALUACIONES
+           </a>
+          </div>
+         </div>
+
+        </div>
+    </section>
+
+    <section class="py-8">
+        <h2 class="text-2xl font-bold text-center mb-6">
+         3er año
+        </h2>
+        <div class="container">
+         <div class="button-cube" id="WIP">
+          <img alt="DREM-RD" height="150" src="https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/Media/DREM.png" width="200"/>
+          <div class="content">
+           <h3>
+            DREM
+           </h3>
+           <p>
+            DREM-RD.
+           </p>
+           <a class="btn" href="#" onclick="openModal('DREM')">
+            EVALUACIONES
+           </a>
+          </div>
+         </div>
+         <div class="button-cube" id="WIP">
+          <img alt="INMUNO" height="150" src="https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/Media/INMUNO.jpeg" width="200"/>
+          <div class="content">
+           <h3>
+            INMUNO
+           </h3>
+           <p>
+            HEMATO-INMUNO.
+           </p>
+           <a class="btn" href="#" onclick="openModal('INMUNO')">
+            EVALUACIONES
+           </a>
+          </div>
+         </div>
+         <div class="button-cube" id="WIP">
+          <img alt="MC1" height="150" src="https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/Media/MCI.png" width="200"/>
+          <div class="content">
+           <h3>
+            MC1
+           </h3>
+           <p>
+            Metodología Científica I.
+           </p>
+           <a class="btn" href="#" onclick="openModal('MCI')">
+            EVALUACIONES
+           </a>
+          </div>
+         </div>
+
+        </div>
+    </section>
+
+    <section class="py-8">
+   <h2 class="text-2xl font-bold text-center mb-6">
+    4to año
+   </h2>
+   <div class="container">
+    <div class="button-cube" id="WIP">
+     <img alt="MPNA" height="150" src="Media/MPNA.png" width="200"/>
+     <div class="content">
+      <h3>
+       MPNA
+      </h3>
+      <p>
+       Medicina del Primer Nivel de Atención.
+      </p>
+      <a class="btn" href="#" onclick="openModal('MPNA')">
+       EVALUACIONES
+      </a>
+     </div>
+    </div>
+    <div class="button-cube" id="">
+     <img alt="BCP" height="150" src="Media/BCP2.jpg" width="200"/>
+     <div class="content">
+      <h3>
+       BCP
+      </h3>
+      <p>
+       Bases Científicas de la Patología.
+      </p>
+      <a class="btn" href="BCP/index.html" ">
+       EVALUACIONES
+      </a>
+     </div>
+    </div>
+    <div class="button-cube" id="">
+     <img alt="GINE" height="150" src="Media/GINE.png" width="200"/>
+     <div class="content">
+      <h3>
+       GINE/NEO
+      </h3>
+      <p>
+       Ginecobstetricia y Neonatología.
+      </p>
+      <a class="btn" href="#" onclick="openModal('Gine')">
+       EVALUACIONES
+      </a>
+     </div>
+    </div>
+    <div class="button-cube" id="WIP">
+     <img alt="Ped" height="150" src="Media/Ped.png" width="200"/>
+     <div class="content">
+      <h3>
+       Pediatría <br>
+
+      </h3>
+      <p>
+       Pautas.
+      </p>
+      <a class="btn" href="#" onclick="openModal('Pediatria')">
+       EVALUACIONES
+      </a>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="py-8">
+   <h2 class="text-2xl font-bold text-center mb-6">
+    5to año
+   </h2>
+   <div class="container">
+    <div class="button-cube" id="WIP">
+     <img alt="MCM" height="150" src="Media/MCM.png" width="200"/>
+     <div class="content">
+      <h3>
+       CLÍNICA MÉDICA
+      </h3>
+      <p>
+       Clínica C >>>>> 
+      </p>
+      <a class="btn" href="#" onclick="openModal('Clinica Medica')">
+       EVALUACIONES
+      </a>
+     </div>
+    </div>
+    <div class="button-cube" id="WIP">
+     <img alt="PMYT" height="150" src="Media/PMYT.png" width="200"/>
+     <div class="content">
+      <h3>
+       PATOLOGÍA MÉDICA
+      </h3>
+      <p>
+       -
+      </p>
+      <a class="btn" href="#" onclick="openModal('Patología Médica')">
+       EVALUACIONES
+      </a>
+     </div>
+    </div>
+
+   </div>
+  </section>
+  <div class="modal" id="modal">
+   <div class="modal-content">
+    <span class="close" onclick="closeModal()">
+     &times;
+    </span>
+    <h2 id="modal-title">
+    </h2>
+    <div class="modal-list" id="modal-list">
+    </div>
+   </div>
+  </div>
+  <div class="modal" id="about-modal">
+   <div class="modal-content">
+    <span class="close" onclick="closeAboutModal()">
+     &times;
+    </span>
+    <h2>
+     + Información
+    </h2>
+    <p>
+     Bienvenido! <br>
+     Sitio en desarrollo (no dinámico), de uso reservado <br>
+     Proyecto estudiantil. <br>
+     Si te sirve házmelo saber! <br>
+     Atte: Eze_ote
+    </p>
+   </div>
+  </div>
+  <script>
+   function openModal(title) {
+            document.getElementById('modal-title').innerText = title;
+            const modalList = document.getElementById('modal-list');
+            modalList.innerHTML = '';
+
+            let items = [];
+            switch (title) {
+                case 'MPNA':
+                    items = [
+                      
+                    ];
+                    break;
+                case 'Clinica Medica':
+                    items = [
+                        
+                    ];
+                    break;
+                case 'BCP':
+                    items = [
+                        { text: 'PRACTICAR POR TEMA', url: 'BCP/PracticaBCP/index.html' },
+                        { text: 'Examen 6 de Febrero 2025', url: 'BCP/2025-02-06/index.html' },
+                        { text: 'Examen 16 de Diciembre 2024', url: 'BCP/16122024/index.html' },
+                        { text: 'Examen 28 de Febrero 2024', url: 'BCP/28022024/index.html' },
+                        { text: 'Examen 5 de Febrero 2024', url: 'BCP/05022024/index.html' },
+                        { text: 'Examen 14 de Diciembre 2023', url: 'BCP/14122023/index.html' },
+                        { text: 'Examen 7 de Febrero 2023', url: 'BCP/07022023/index.html' },
+                        { text: 'Examen 14 de Diciembre 2022', url: 'BCP/14-12-2022E/index.html' },
+                        { text: 'Examen 4 de Febrero 2022', url: 'BCP/4022022/index.html' },
+                        { text: 'Examen 7 de Febrero 2020', url: 'BCP/2020-02-07E/index.html' },
+                        { text: 'Examen 26 de Febrero 2019', url: 'BCP/29-02-2019E/index.html' },
+                        { text: 'Examen 7 de Febrero 2019', url: 'BCP/2019-02-07E/index.html' }
+                        
+                    ];
+                    break;
+                case 'Gine':
+                    items = [
+                       { text: 'Parcial 6 Noviembre 2024', url: 'GINE-NEO/Parcial2024/index.html' },
+                       { text: 'Examen Marzo 2022', url: 'GINE-NEO/ExamenMarzo2022/index.html' },
+                       { text: 'Examen Julio 2021', url: 'GINE-NEO/ExamenJulio2021/index.html' },
+                       { text: 'Practicar por tema', url: 'GINE-NEO/RandomQuizz/index.html' }
+                    ];
+                    break;
+                case 'Pediatria':
+                    items = [
+                    
+                    ];
+                    break;
+                case 'Patología Médica':
+                    items = [
+                      
+                    ];
+                    break;
+                case 'Historic City Center':
+                    items = [
+                        { text: 'x', url: 'https://example.com/x' },
+                        { text: 'x', url: 'https://example.com/xx' },
+                        { text: 'x', url: 'https://example.com/x' },
+                        { text: 'x', url: 'https://example.com/x' },
+                        { text: 'x', url: 'https://example.com/x' }
+                    ];
+                    break;
+                case 'CARDIO':
+                    items = [
+                        { text: 'EXAMEN 6 DE FEBRERO 2024', url: 'Cardio/14-12-2022E/index.html' },
+                        { text: 'PRÓXIMAMENTE', url: '' },
+                        { text: 'PRÓXIMAMENTE', url: '' },
+                        { text: 'PRÓXIMAMENTE', url: '' },
+                        { text: 'PRÓXIMAMENTE', url: '' }
+                    ];
+                    break;
+            }
+
+            items.forEach(item => {
+                const button = document.createElement('button');
+                button.innerText = item.text;
+                button.classList.add('modal-list-button');
+                button.onclick = () => window.location.href = item.url;
+                modalList.appendChild(button);
+            });
+
+            document.getElementById('modal').style.display = 'flex';
+        }
+
+        function closeModal() {
+            document.getElementById('modal').style.display = 'none';
+        }
+
+        function openAboutModal() {
+            document.getElementById('about-modal').style.display = 'flex';
+        }
+
+        function closeAboutModal() {
+            document.getElementById('about-modal').style.display = 'none';
+        }
+  </script>
+ </body>
+</html>
