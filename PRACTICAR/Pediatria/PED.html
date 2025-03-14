@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:type" content="website" />
+    <script src="https://kit.fontawesome.com/f5e72e50e2.js" crossorigin="anonymous"></script>
+
+    <title>BCP</title>
+    <link rel="stylesheet" href="PED.css">
+    <!-- FontAweome CDN Link for Icons-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+    
+    
+</head>
+<body>
+    <!-- *************** PANTALLA DE CARGA ************** -->
+    <div id="loader">
+        <img src="https://media.tenor.com/sbfBfp3FeY8AAAAj/oia-uia.gif" alt="Cargando..." />
+    </div>
+    <!-- *********** *********** *********** *********** -->
+    <header class="bg-white shadow-md">
+        <div class="container1 mx-auto flex justify-between items-center p-4" id="headerCont">
+            <div class="flex items-center">
+                <img alt="logo" class="logo" height="100" src="https://ezeote.github.io/medquizz/Media/miLogo2.png" width=""/>
+            </div>
+            <h1>PEDIATRÍA</h1>
+            <div class="flex-grow text-center">
+                <h1 class="text-xl font-bold"></h1>
+            </div>
+            <nav>
+                <ul class="flex space-x-4">
+                    <li>
+                        <a class="text-gray-700 hover:text-blue-500" href="https://ezeote.github.io/medquizz">Inicio</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header> 
+    <div class="contenedor">
+        <div class="column">
+            <h2>EXAMENES</h2>
+            <ul>
+                
+                <li><a href="" class="buttonX">PRACTICAR (SOON)</a></li>
+                <li><a href="" class="buttonE">PRÓXIMAMENTE</a></li>
+
+            </ul>
+        </div>
+        <div class="column">
+            <h2>PARCIALES</h2>
+            <ul>
+                <li><a href="Parciales/2019/index.html" class="button">Parcial 2019</a></li>
+                <li><a href="Parciales/2021/index.html" class="button">Parcial 2021</a></li>
+                <li><a href="Parciales/2022/index.html" class="button">Parcial 2022</a></li>
+                <li><a href="Parciales/2023/index.html" class="button">Parcial 2023</a></li>
+                <li><a href="Parciales/2024/index.html" class="button">Parcial 2024</a></li>
+            </ul>
+        </div>
+    </div>
+  
+<script>
+    // Mostrar la pantalla de carga al iniciar
+document.getElementById('loader').style.display = 'flex';
+
+// Simular una carga de datos (puedes reemplazar esto con una llamada a una API)
+setTimeout(function() {
+    // Ocultar la pantalla de carga después de 3 segundos
+    document.getElementById('loader').style.display = 'none';
+    // Aquí puedes agregar el código para mostrar los datos cargados
+}, 3000); // Simula un retraso de 3 segundos
+</script>
+
+</body>
+</html>
+
