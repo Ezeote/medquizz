@@ -506,7 +506,7 @@ let questions = [
 
     ],
     "comment": "",
-    "discipline": "PED",
+    "discipline": "Emergencia",
     },
 
     {
@@ -521,7 +521,7 @@ let questions = [
 
     ],
     "comment": "",
-    "discipline": "PED",
+    "discipline": "Emergencia",
     },
 
     {
@@ -535,7 +535,7 @@ let questions = [
     "d. Colocación de una vía intraósea"
     ],
     "comment": "",
-    "discipline": "PED",
+    "discipline": "Emergencia",
     },
 
 
@@ -550,7 +550,7 @@ let questions = [
     "d. Curación"
     ],
     "comment": "",
-    "discipline": "PED",
+    "discipline": "Emergencia",
     },
 
 
@@ -565,7 +565,7 @@ let questions = [
     "d. Hipoperfusión encefálica"
     ],
     "comment": "",
-    "discipline": "PED",
+    "discipline": "Emergencia",
     },
 
 
@@ -580,7 +580,7 @@ let questions = [
     "d. Cianosis"
     ],
     "comment": "",
-    "discipline": "PED",
+    "discipline": "Emergencia",
     },
 
 
@@ -595,7 +595,7 @@ let questions = [
     "d. Disminución de la diuresis"
     ],
     "comment": "",
-    "discipline": "PED",
+    "discipline": "Emergencia",
     },
 
 
@@ -610,7 +610,7 @@ let questions = [
     "d. Todas son correctas"
     ],
     "comment": "",
-    "discipline": "PED",
+    "discipline": "Emergencia",
     },
 
 
@@ -625,7 +625,7 @@ let questions = [
     "d. Inmunizaciones no vigentes"
     ],
     "comment": "",
-    "discipline": "PED",
+    "discipline": "Emergencia",
     },
 
 
@@ -640,7 +640,7 @@ let questions = [
     "d. Consulta tardía luego de 12 horas del evento"
     ],
     "comment": "",
-    "discipline": "PED",
+    "discipline": "Emergencia",
     },
 
 
@@ -655,7 +655,7 @@ let questions = [
     "d. Fistula enterocutánea"
     ],
     "comment": "",
-    "discipline": "PED",
+    "discipline": "Cirugia",
     },
 
 
@@ -670,7 +670,7 @@ let questions = [
     "d. Desinvaginación hidrostática guiada por ecografía"
     ],
     "comment": "",
-    "discipline": "PED",
+    "discipline": "Cirugia",
     },
 
 
@@ -685,7 +685,7 @@ let questions = [
     "d. Lesiones viscerales intraabdominales"
     ],
     "comment": "",
-    "discipline": "PED",
+    "discipline": "ML",
     },
 
 
@@ -700,7 +700,7 @@ let questions = [
     "d. Requiere previo estudio anatomopatológico macroscópico e histopatológico"
     ],
     "comment": "",
-    "discipline": "PED",
+    "discipline": "ML",
     },
 
 
@@ -714,7 +714,7 @@ let questions = [
     "c. Chancro en el paladar blando",
     ],
     "comment": "",
-    "discipline": "PED",
+    "discipline": "ML",
     },
 
 
@@ -729,7 +729,7 @@ let questions = [
     "d. Para el examen genital es indispensable la presencia de un adulto responsable."
     ],
     "comment": "",
-    "discipline": "PED",
+    "discipline": "ML",
     },
 
 
@@ -744,7 +744,7 @@ let questions = [
     "d. Comunicarse con el Ministerio Público y solicitar la interconsulta con el médico forense para definir los pasos a seguir"
     ],
     "comment": "",
-    "discipline": "PED",
+    "discipline": "SMC",
     },
 
 
@@ -759,7 +759,7 @@ let questions = [
     "d. Falta de cultura de información"
     ],
     "comment": "",
-    "discipline": "PED",
+    "discipline": "SMC",
     },
 
 
@@ -774,7 +774,7 @@ let questions = [
     "d. Ambivalencia permanente"
     ],
     "comment": "",
-    "discipline": "PED",
+    "discipline": "SMC",
     },
 
 
@@ -789,7 +789,7 @@ let questions = [
     "d. Esquemas que conectan movimiento y sentidos"
     ],
     "comment": "",
-    "discipline": "PED",
+    "discipline": "SMC",
     },
 
 
@@ -804,7 +804,7 @@ let questions = [
     "d. entre 8 y 10%",
     ],
     "comment": "",
-    "discipline": "PED",
+    "discipline": "SMC",
     },
 
 
@@ -819,7 +819,7 @@ let questions = [
     "d. 5"
     ],
     "comment": "",
-    "discipline": "PED",
+    "discipline": "SMC",
     },
 
 
@@ -834,7 +834,7 @@ let questions = [
     "d. Solicitar af os padres (que la tranquilicen para poder continuar con la anamnesis"
     ],
     "comment": "",
-    "discipline": "PED",
+    "discipline": "PM",
     },
 
 
@@ -849,7 +849,7 @@ let questions = [
     "d. Sobreprotegen a su hijo"
     ],
     "comment": "",
-    "discipline": "PED",
+    "discipline": "PM",
     },
 
 
@@ -864,7 +864,7 @@ let questions = [
     "d. A los ruidos fuertes"
     ],
     "comment": "",
-    "discipline": "PED",
+    "discipline": "PM",
     },
 
 
@@ -879,7 +879,7 @@ let questions = [
     "d. Es más frecuente en internaciones a corto plazo"
     ],
     "comment": "",
-    "discipline": "PED",
+    "discipline": "PM",
     },
 
 
@@ -894,6 +894,6 @@ let questions = [
     "d. Comienzan la búsqueda de los mecanismos de causa y efecto"
     ],
     "comment": "",
-    "discipline": "PED",
+    "discipline": "PM",
     },
 ];
