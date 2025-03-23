@@ -438,7 +438,7 @@ let questions = [
     "c. Solo puede ser utilizado por profesionales médicos"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
 
@@ -452,7 +452,7 @@ let questions = [
     "c. Posición para respirar"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
     
 
@@ -466,7 +466,7 @@ let questions = [
     "c. Nivel 3"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -479,7 +479,7 @@ let questions = [
     "c. Posicionamiento, aspirado de secreciones"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -492,7 +492,7 @@ let questions = [
     "c. Score asma pediátrico (PAS)"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -505,7 +505,7 @@ let questions = [
     "c. Un mL vía subcutánea"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -518,7 +518,7 @@ let questions = [
     "c. Hipotensión arterial"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -531,7 +531,7 @@ let questions = [
     "c. Cefalea y vómitos reiterados"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -544,7 +544,7 @@ let questions = [
     "c. La dosis es estándar, no depende del peso del paciente"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -557,7 +557,7 @@ let questions = [
     "c. Cohibir el sangrado externo"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -570,7 +570,7 @@ let questions = [
     "c. Desinvaginación quirúrgica por abordaje laparoscópico"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -583,7 +583,7 @@ let questions = [
     "c. Dolor, vómitos y fiebre"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -596,7 +596,7 @@ let questions = [
     "c. El desarrollo temprano depende exclusivamente de los estímulos proporcionados por los cuidadores primarios"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "SMC"
     },
 
     {
@@ -609,7 +609,7 @@ let questions = [
     "c. Coherencia entre las expresiones internas y externas de las emociones de los adultos referentes"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "SMC"
     },
 
     {
@@ -622,7 +622,7 @@ let questions = [
     "c. Dificultades en las funciones ejecutivas, el razonamiento, la percepción y el cálculo"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "SMC"
     },
 
     {
@@ -635,7 +635,7 @@ let questions = [
     "c. Afectación del área motora y del lenguaje vinculada a una alteración global del desarrollo"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "SMC"
     },
 
     {
@@ -648,7 +648,7 @@ let questions = [
     "c. Informa a la madre que su hija ha realizado un intento de autoeliminación "
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "PM"
     },
 
     {
@@ -661,7 +661,7 @@ let questions = [
     "c. Lo deductivo del pensamiento"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "PM"
     },
 
     {
@@ -674,7 +674,7 @@ let questions = [
     "c. Trabaja el aspecto emocional del niño frente a la cirugía"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "PM"
     },
 
     {
@@ -687,7 +687,7 @@ let questions = [
     "c. Referirse exclusivamente a los padres para evitar la angustia del niño"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "PM"
     },
 
     {
@@ -700,7 +700,7 @@ let questions = [
     "c. 2 años"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "PM"
     },
 
     {
@@ -713,7 +713,7 @@ let questions = [
     "c. El aspecto inductivo del pensamiento"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "PM"
     },
 
     {
@@ -726,7 +726,7 @@ let questions = [
     "c. Hemorragias retinianas"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "ML"
     },
 
     {
@@ -739,7 +739,7 @@ let questions = [
     "c. Sindrome de Münchausen"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "ML"
     },
 
     {
@@ -752,7 +752,7 @@ let questions = [
     "c. Solicitar una interconsulta con el médico legista"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "ML"
     },
 
     {
@@ -765,7 +765,7 @@ let questions = [
     "c. El grado de madurez debe ser valorado por el psiquiatra de la institución"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "ML"
     },
 
     {
@@ -778,6 +778,6 @@ let questions = [
     "c. Ingresarlo al programa MIL (Muerte inesperada del lactante)"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "ML"
     }
 ];
