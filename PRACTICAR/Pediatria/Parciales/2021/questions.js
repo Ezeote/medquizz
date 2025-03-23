@@ -535,7 +535,7 @@ let questions = [
     "d) Sonda nasogástrica, ventilación bolsa máscara"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -550,7 +550,7 @@ let questions = [
     "d) 60%"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -565,7 +565,7 @@ let questions = [
     "d) Cinemática de baja entidad "
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -580,7 +580,7 @@ let questions = [
     "d) Una SCQ del 5% requiere reposición con fluidos intravenosos."
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -595,7 +595,7 @@ let questions = [
     "d) PA entre 50-90 mmHg"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -610,7 +610,7 @@ let questions = [
     "d) Cianosis"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -625,7 +625,7 @@ let questions = [
     "d) Acidosis metabólica"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -640,7 +640,7 @@ let questions = [
     "d) Exclusivamente si presenta falla hemodinámica"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -655,7 +655,7 @@ let questions = [
     "d) La fiebre de 7 días de evolución es lo más común"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -670,7 +670,7 @@ let questions = [
     "d) Retirar en forma segura de la fuente de energía"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -685,7 +685,7 @@ let questions = [
     "d) Intentar reducir y de lograrlo operarlo a los 3 meses"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Cirugia"
     },
 
     {
@@ -700,7 +700,7 @@ let questions = [
     "d) Fistula enterocutanea"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Cirugia"
     },
 
     {
@@ -715,7 +715,7 @@ let questions = [
     "d) Regresión"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "PM"
     },
 
     {
@@ -730,7 +730,7 @@ let questions = [
     "d) Desplazamiento"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "PM"
     },
 
     {
@@ -745,7 +745,7 @@ let questions = [
     "d) Pensamiento abstracto"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "PM"
     },
 
     {
@@ -760,7 +760,7 @@ let questions = [
     "d) A los 9 años se empiezan a acercar a la noción de muerte aliado a la capacidad de abstracción"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "PM"
     },
 
     {
@@ -775,7 +775,7 @@ let questions = [
     "d) Aumenta el bloqueo emocional"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "PM"
     },
 
     {
@@ -790,7 +790,7 @@ let questions = [
     "d) Retraso mental leve"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "SMC"
     },
 
     {
@@ -805,7 +805,7 @@ let questions = [
     "d) 11-12 años"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "SMC"
     },
 
     {
@@ -820,7 +820,7 @@ let questions = [
     "d) Entrenamiento inadecuado"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "SMC"
     },
 
     {
@@ -835,7 +835,7 @@ let questions = [
     "d) Déficit intelectual, retraso global del desarrollo, psicosociales"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "SMC"
     },
 
     {
@@ -850,7 +850,7 @@ let questions = [
     "d) Ambivalencia"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "SMC"
     },
 
     {
@@ -865,7 +865,7 @@ let questions = [
     "d) Münchausen por poderes"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "ML"
     },
 
     {
@@ -880,7 +880,7 @@ let questions = [
     "d) Embarazo"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "ML"
     },
 
     {
@@ -895,7 +895,7 @@ let questions = [
     "d) Dar cuenta al equipo de violencia de la institución"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "ML"
     },
 
 ];
