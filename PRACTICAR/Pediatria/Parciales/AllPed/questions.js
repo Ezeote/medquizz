@@ -897,6 +897,9 @@ let questions = [
     },
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
 {
     "info_quest": "Parcial 2021",
     "numb": 1,
@@ -1433,7 +1436,7 @@ let questions = [
     "d) Sonda nasogástrica, ventilación bolsa máscara"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -1448,7 +1451,7 @@ let questions = [
     "d) 60%"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -1463,7 +1466,7 @@ let questions = [
     "d) Cinemática de baja entidad "
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -1478,7 +1481,7 @@ let questions = [
     "d) Una SCQ del 5% requiere reposición con fluidos intravenosos."
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -1493,7 +1496,7 @@ let questions = [
     "d) PA entre 50-90 mmHg"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -1508,7 +1511,7 @@ let questions = [
     "d) Cianosis"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -1523,7 +1526,7 @@ let questions = [
     "d) Acidosis metabólica"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -1538,7 +1541,7 @@ let questions = [
     "d) Exclusivamente si presenta falla hemodinámica"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -1553,7 +1556,7 @@ let questions = [
     "d) La fiebre de 7 días de evolución es lo más común"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -1568,7 +1571,7 @@ let questions = [
     "d) Retirar en forma segura de la fuente de energía"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -1583,7 +1586,7 @@ let questions = [
     "d) Intentar reducir y de lograrlo operarlo a los 3 meses"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Cirugia"
     },
 
     {
@@ -1598,7 +1601,7 @@ let questions = [
     "d) Fistula enterocutanea"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Cirugia"
     },
 
     {
@@ -1613,7 +1616,7 @@ let questions = [
     "d) Regresión"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "PM"
     },
 
     {
@@ -1628,7 +1631,7 @@ let questions = [
     "d) Desplazamiento"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "PM"
     },
 
     {
@@ -1643,7 +1646,7 @@ let questions = [
     "d) Pensamiento abstracto"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "PM"
     },
 
     {
@@ -1658,7 +1661,7 @@ let questions = [
     "d) A los 9 años se empiezan a acercar a la noción de muerte aliado a la capacidad de abstracción"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "PM"
     },
 
     {
@@ -1673,7 +1676,7 @@ let questions = [
     "d) Aumenta el bloqueo emocional"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "PM"
     },
 
     {
@@ -1688,7 +1691,7 @@ let questions = [
     "d) Retraso mental leve"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "SMC"
     },
 
     {
@@ -1703,7 +1706,7 @@ let questions = [
     "d) 11-12 años"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "SMC"
     },
 
     {
@@ -1718,7 +1721,7 @@ let questions = [
     "d) Entrenamiento inadecuado"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "SMC"
     },
 
     {
@@ -1733,7 +1736,7 @@ let questions = [
     "d) Déficit intelectual, retraso global del desarrollo, psicosociales"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "SMC"
     },
 
     {
@@ -1748,7 +1751,7 @@ let questions = [
     "d) Ambivalencia"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "SMC"
     },
 
     {
@@ -1763,7 +1766,7 @@ let questions = [
     "d) Münchausen por poderes"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "ML"
     },
 
     {
@@ -1778,7 +1781,7 @@ let questions = [
     "d) Embarazo"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "ML"
     },
 
     {
@@ -1793,7 +1796,7 @@ let questions = [
     "d) Dar cuenta al equipo de violencia de la institución"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "ML"
     },
 
 
@@ -4227,7 +4230,7 @@ let questions = [
     {
     "info_quest": "Parcial 2024",
     "numb": 54,
-    "question": "¿Cómo debe conducirse el equipo ante la situación planteada en la pregunta anterior?",
+    "question": "Una niña de 5 años que sufrió una fractura, durante la entrevista con el equipo que la recibe en emergencia, verbaliza que eso le sucedió porque se peleó con su hermano menor el día anterior a la fractura. ¿Cómo debe conducirse el equipo ante la situación planteada?",
     "answer": ["b) Desculpabilizar explicando que no hay relación causal entre los eventos"],
     "options": [
     "a) Minimizar el comentario de la niña ya que no es el foco de la intervención",
@@ -4324,9 +4327,2649 @@ let questions = [
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 
+{
+    "info_quest": "Examen 3/2022",
+        "numb": 1,
+    "question": "Niño de 2 años previamente sano, CEV vigente. Presenta rinorrea, tos catarral y fiebre. Del examen se destaca: reactivo. bien coloreado, Fr 50 pm. PP: sonoridad normal, estertores subcrepitantes difusos bilaterales Radiografía de tórax: opacidades homogéneas bilaterales. ¿Cuál de los siguientes, es el agente etiológico más probablemente involucrado?",
+    "answer": ["b. Staphylococco aureus"],
+    "options": [
+    "a. Streptococco pneumoniae",
+    "b. Staphylococco aureus",
+    "c. Hemophilus influenza tipo b",
+    "d. Virus respiratorios"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 2,
+    "question": "Considere un niño con neumonía con derrame pleural. En la interpretación del estudio citoquímico del líquido obtenido por toracocentesis ¿cuál de los siguientes datos es un criterio menor de empiera?",
+    "answer": ["d. Proteínas mayor a 40 gl"],
+    "options": [
+    "a. Adenosindeaminasa mayor a 60",
+    "b. Existencia de pus",
+    "c. Glucosa menor a 40 mg/dl",
+    "d. Proteínas mayor a 40 gl"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 3,
+    "question": "En el manejo de un niño con infección respiratoria e insuficiencia respiratoria severa, ¿cuál de los siguientes valores de la gasometría significa acidosis respiratoria?",
+    "answer": ["b. paCO2 30"],
+    "options": [
+    "a. paO2 80",
+    "b. paCO2 30",
+    "c. paCO2 65",
+    "d. pH 7.30"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 4,
+    "question": "En un niño cursando una neumonía aguda bilateral con insuficiencia respiratoria, ¿cuál de los siguientes es el principal mecanismo fisiopatológico para esta complicación?",
+    "answer": ["a. Alteración ventilación/ perfusión"],
+    "options": [
+    "a. Alteración ventilación/ perfusión",
+    "b. Aumento del espacio muerto",
+    "c. Efecto shunt",
+    "d. Hipodinamia"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 5,
+    "question": "Para el tratamiento de niños con asma persistente, ¿cuál de los siguientes se considera el “medicamento controlador“ de primera línea?",
+    "answer": ["c. Fluticasona inhalada"],
+    "options": [
+    "a. B2 adrenérgico de acción corta",
+    "b. Prednisolona oral",
+    "c. Fluticasona inhalada",
+    "d. Antileucotrienos"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 6,
+    "question": "En niños con tos convulsa, ¿cuál es la razón principal del tratamiento con Azitromicina?",
+    "answer": ["a. Evitar la diseminación"],
+    "options": [
+    "a. Evitar la diseminación",
+    "b. Disminuir la intensidad de los síntomas",
+    "c. Acortar la duración de la enfermedad",
+    "d. Prevenir la evolución a hipertensión pulmonar"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 7,
+    "question": "Considere un lactante de 2 meses, alimentado a pecho directo con buen crecimiento. Lo consultan por regurgitaciones y vómitos diarios, frecuentes, blancos, de volumen variable en las diferentes tomas, sin otros síntomas. Examen físico normal. ¿Cuál es el diagnóstico más probable?",
+    "answer": ["d. Posible hipertensión endocraneana"],
+    "options": [
+    "a. Reflujo gastroesofágico",
+    "b. Enfermedad por reflujo",
+    "c. Estenosis hipertrófica del píloro",
+    "d. Posible hipertensión endocraneana"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 8,
+    "question": "¿Cuál de las siguientes es la complicación más frecuente del resfriado común?",
+    "answer": ["a. Sobreinfección bacteriana"],
+    "options": [
+    "a. Sobreinfección bacteriana",
+    "b. Sinusitis aguda",
+    "c. Otitis media aguda",
+    "d. Bronquiolitis"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 9,
+    "question": "En un niño con bronquiolitis, ¿cuál de los siguientes antecedentes se considera un factor de riesgo de mala evolución clínica?",
+    "answer": ["d. Exposición al humo de tabaco"],
+    "options": [
+    "a. Prematurez",
+    "b. Grande para edad gestacional",
+    "c. Enfermedad renal crónica",
+    "d. Exposición al humo de tabaco"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 10,
+    "question": "¿Cuál de los siguientes es un efecto adverso del uso de salbutamol?",
+    "answer": ["b. Alcalosis metabólica"],
+    "options": [
+    "a. Hipoglucemia",
+    "b. Alcalosis metabólica",
+    "c. Hipercapnia transitoria",
+    "d. Hipokalemia"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 11,
+    "question": "En un niño sin control esfinteriano con sospecha de infección urinaria, sin elementos clínicos de gravedad. ¿Cuál es el método recomendado para la recolección de la orina?",
+    "answer": ["c. Cateterismo vesical"],
+    "options": [
+    "a. Bolsa colectora",
+    "b. Chorro medio",
+    "c. Cateterismo vesical",
+    "d. Punción vesical"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 12,
+    "question": "Niña de 6 años previamente sana, con infección urinaria alta y buena tolerancia digestiva. ¿Cuál de los siguientes antimicrobianos está recomendado para el tratamiento empírico?",
+    "answer": ["c. Ampicilina Sulbactam"],
+    "options": [
+    "a. Fosfomicina trometamol",
+    "b. Cefuroxime axetil",
+    "c. Ampicilina Sulbactam",
+    "d. Cefradina"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 13,
+    "question": "Cuál es el efecto adverso más frecuente de los opioides?",
+    "answer": ["d. Hiperalgesia"],
+    "options": [
+    "a. Prurito",
+    "b. Somnolencia",
+    "c. Estreñimiento",
+    "d. Hiperalgesia"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 14,
+    "question": "En un niño con una enfermedad que amenaza su vida, ¿cuál es el mejor momento para iniciar Cuidados Paliativos?",
+    "answer": ["a. Cuando la familia lo solicita al equipo de salud"],
+    "options": [
+    "a. Cuando la familia lo solicita al equipo de salud",
+    "b. Cuando todas las opciones de tratamiento curativo fallaron",
+    "c. Próximo al diagnóstico",
+    "d. Cerca de los últimos meses de vida"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 15,
+    "question": "En un lactante de 6 meses correctamente inmunizado, con sospecha de meningoencefalitis aguda bacteriana, cuál de los siguientes agentes etiológicos es el más probablemente involucrado?",
+    "answer": ["c. Listeria monocytogenes"],
+    "options": [
+    "a. Estreptococo grupo B",
+    "b. Escherichia col",
+    "c. Listeria monocytogenes",
+    "d. Neisseria Meningitidis"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 16,
+    "question": "En un recién nacido que sospecha meningoencefalitis aguda bacteriana, cuál de los siguientes planes de tratamiento antibiótico está indicado?",
+    "answer": ["b. Ampicilina + ceftriaxona"],
+    "options": [
+    "a. Ampicilina + cefotaxime",
+    "b. Ampicilina + ceftriaxona",
+    "c. Clindamicina + gentamicina",
+    "d. Ceftriaxona + vancomicina"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 17,
+    "question": "En un recién nacido de término que se alimentó con leche materna, ¿en qué momento se debe obtener la muestra de sangre para realizar la pesquisa neonatal?",
+    "answer": ["b. 36 horas"],
+    "options": [
+    "a. 24 horas",
+    "b. 36 horas",
+    "c. 40 horas",
+    "d. 48 horas"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 18,
+    "question": "¿Cuál de las siguientes características clínicas se observa en forma precoz en un niño con desnutrición proteico calórica?",
+    "answer": ["c. Facies volteriana"],
+    "options": [
+    "a. Signo del calzón",
+    "b. Signo de la tabaquera",
+    "c. Facies volteriana",
+    "d. Panículo hipot urgente"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 19,
+    "question": "En un niño menor de 2 años con desnutrición crónica, ¿cuál es la carencia nutricional específica más frecuente?",
+    "answer": ["a. Ferropenia"],
+    "options": [
+    "a. Ferropenia",
+    "b. Déficit de Zinc",
+    "c. Déficit de folatos",
+    "d. Déficit de vitamina A"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 20,
+    "question": "En niños de entre 6 meses y 2 años. ¿Cuál de las siguientes es la causa más frecuente de anemia carencial?",
+    "answer": ["d. Inmunológica"],
+    "options": [
+    "a. Pérdida sanguínea",
+    "b. Malabsorción intestinal",
+    "c. Carencia alimentaria",
+    "d. Inmunológica"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 21,
+    "question": "Usted asiste a un paciente de 12 años con un z score del índice de masa corporal para la edad (IMC/Edad) de +3,4 desvíos estándar. Teniendo en cuenta este índice antropométrico, ¿ qué diagnóstico nutricional realiza?",
+    "answer": ["d. Obesidad severa"],
+    "options": [
+    "a. Riesgo de Sobrepeso",
+    "b. Sobrepeso",
+    "c. Obesidad",
+    "d. Obesidad severa"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 22,
+    "question": "Considere a un lactante de 13 meses con el certificado de esquema de vacunación vigente. ¿Cuáles vacunas fueron las últimas que recibió?",
+    "answer": ["c. Sarampión-rubéola-paperas, varicela, triple bacteriana"],
+    "options": [
+    "a. Hepatitis A, pentavalente",
+    "b. Anti neumocócica, polio inactivada, pentavalente",
+    "c. Sarampión-rubéola-paperas, varicela, triple bacteriana",
+    "d. Polio inactivada, antineumocócica, sarampión-rubéola-paperas"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 23,
+    "question": "¿En qué niños está contraindicada la vacuna antigripal?",
+    "answer": ["a. Portadores de inmunodepresión"],
+    "options": [
+    "a. Portadores de inmunodepresión",
+    "b. Con antecedente de alergia grave al huevo",
+    "c. Con antecedente de alergia a la amoxicilina",
+    "d. Portadores de enfermedades neurológicas"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 24,
+    "question": "¿Cuál de las siguientes debería ser la recomendación para la higiene dental de un niño de 3 años?",
+    "answer": ["d. Pasta dental con 1000- 1450 ppm de flúor"],
+    "options": [
+    "a. Higiene con cepillo dental, agua, sin pasta dental",
+    "b. Pasta dental sin flúor, para evitar la aparición de fluorosis dental",
+    "c. Pasta dental con baja concentración de flúor (tipo infantil)",
+    "d. Pasta dental con 1000- 1450 ppm de flúor"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 25,
+    "question": "Según las normas nacionales de atención pediátrica, ¿a qué edades se recomienda control con oftalmólogo?",
+    "answer": ["b. A los 3 y 5 años"],
+    "options": [
+    "a. A los 2 y 8 años",
+    "b. A los 3 y 5 años",
+    "c. A los 3, 5 y 12 años",
+    "d. A los 5, 12 y 14 años"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 26,
+    "question": "De acuerdo a la ley de seguridad vial, cuando los niños o adolescentes viajan como pasajeros de vehículos de cuatro ruedas, ¿hasta qué momento deben usar “Sistema de retención infantil“?",
+    "answer": ["a. Hasta los 7 años de edad"],
+    "options": [
+    "a. Hasta los 7 años de edad",
+    "b. Hasta los 12 años de edad",
+    "c. Hasta que miden 1 metro d. Hasta que miden 1,50 metros",
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 27,
+    "question": "En un paciente con insuficiencia cardiaca, ¿cuál de los siguientes signos es consecuencia de bajo gasto cardiaco?",
+    "answer": ["c. Hipotensión arterial"],
+    "options": [
+    "a. Reflujo hepatoyugular",
+    "b. Hepatomegalia",
+    "c. Hipotensión arterial",
+    "d. Aleteo nasal"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 28,
+    "question": "Un niño de 15 meses presenta una crisis febril simple, ¿cuál de las siguientes características la definen como tal?",
+    "answer": ["d. Presencia de elementos proscritos"],
+    "options": [
+    "a. Ausencia de elementos focales",
+    "b. Duración mayor a 15 minutos",
+    "c. Reiteración en las 24 horas",
+    "d. Presencia de elementos proscritos"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 29,
+    "question": "En un paciente con una crisis febril, ¿Cuál de los siguientes, es un factor de riesgo para epilepsia?",
+    "answer": ["c. Duración de la fiebre menor a 24 horas y"],
+    "options": [
+    "a. Temperatura axilar mayor de 38°C +",
+    "b. Antecedentes familiares de epilepsia",
+    "c. Duración de la fiebre menor a 24 horas y",
+    "d. Sexo masculino"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 30,
+    "question": "Cual de las siguientes alteraciones metabólicas puede ocasionar una crisis epiléptica en apirexia?",
+    "answer": ["b. Acidosis metabólica"],
+    "options": [
+    "a. Hiperpotasemia",
+    "b. Acidosis metabólica",
+    "c. Hiponatremia",
+    "d. Hipopotasemia"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 31,
+    "question": "Cual de las siguientes capas de la piel están comprometidas en el impétigo?",
+    "answer": ["c. Celular subcutáneo"],
+    "options": [
+    "a. Epidermis",
+    "b. Dermis",
+    "c. Celular subcutáneo",
+    "d. Hipodermis"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 32,
+    "question": "¿Cuál de las siguientes gérmenes está más frecuentemente involucrada en la etiopatogenia del forúnculo?",
+    "answer": ["c. S. pneumoniae"],
+    "options": [
+    "a. S pyogenes",
+    "b. S. aureus",
+    "c. S. pneumoniae",
+    "d. H. influenzae"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 33,
+    "question": "El tratamiento antibiótico empírico de niños con disentería ¿A qué agente microbiano está dirigido?",
+    "answer": ["d. Campylobacter"],
+    "options": [
+    "a. Salmonella sp",
+    "b. Escherichia coli",
+    "c. Shigella flexneri",
+    "d. Campylobacter"
+
+    ],
+    "comment": "",
+    "discipline": "PED",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 34,
+    "question": "En un niño con una convulsión con fiebre activa asistido en el hospital, qué fármaco se recomienda administrar?",
+    "answer": ["c. Fenobarbital"],
+    "options": [
+    "a. Ibuprofeno",
+    "b. Diazepam",
+    "c. Fenobarbital",
+    "d. Adrenalina"
+
+    ],
+    "comment": "",
+    "discipline": "Emergencia",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 35,
+    "question": "Usted evalúa la severidad de una crisis asmática mediante la aplicación del PAS score, cual de las siguientes opciones es correcta?",
+    "answer": ["b. Un resultado de 12 cataloga la crisis como leve"],
+    "options": [
+    "a. Los trajes integran el score",
+    "b. Un resultado de 12 cataloga la crisis como leve",
+    "c. No debe aplicarse para evaluar respuesta al tratamiento",
+    "d. La frecuencia respiratoria no tiene variaciones con la edad"
+
+    ],
+    "comment": "",
+    "discipline": "Emergencia",
+    },
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 36,
+    "question": "Usted asiste un traumatizado en vía pública, lúcido, con una herida con sangrado activo de un miembro, ¿cuál de las siguientes medidas aplica en primer lugar?",
+    "answer": ["b. Compresión de la herida"],
+    "options": [
+    "a. Lavado de la herida con suero fisiológico",
+    "b. Compresión de la herida",
+    "c. Inmovilización con collarete cervical",
+    "d. Colocación de una vía intraósea"
+    ],
+    "comment": "",
+    "discipline": "Emergencia",
+    },
+
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 37,
+        "question": "Al arribo a emergencia de un niño quemado con agua caliente, ¿cuál de las siguientes indicaciones es la prioridad?",
+    "answer": ["c. Analgesia"],
+    "options": [
+    "a. Antibióticos",
+    "b. Hidratación",
+    "c. Analgesia",
+    "d. Curación"
+    ],
+    "comment": "",
+    "discipline": "Emergencia",
+    },
+
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 38,
+        "question": "En un niño con un trauma grave de cráneo, como interpreta la presencia de anisocoria?",
+    "answer": ["d. Hipoperfusión encefálica"],
+    "options": [
+    "a. Hipertensión endocraneana",
+    "b. Lesión aislada del quinto par craneal",
+    "c. Signo de irritación meníngea",
+    "d. Hipoperfusión encefálica"
+    ],
+    "comment": "",
+    "discipline": "Emergencia",
+    },
+
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 39,
+        "question": "¿Cuál de las siguientes opciones NO integra el triángulo de evaluación pediátrica (TEP)?",
+    "answer": ["a. Calidad del llanto"],
+    "options": [
+    "a. Calidad del llanto",
+    "b. Estridor",
+    "c. Frecuencia cardiaca",
+    "d. Cianosis"
+    ],
+    "comment": "",
+    "discipline": "Emergencia",
+    },
+
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 40,
+        "question": "En un niño con gastroenteritis aguda, ¿cuál de las siguientes condiciones contraindica la terapia de rehidratación oral?",
+    "answer": ["a. Depresión de conciencia"],
+    "options": [
+    "a. Depresión de conciencia",
+    "b. Edad menor de un mes",
+    "c. Desnutrición",
+    "d. Disminución de la diuresis"
+    ],
+    "comment": "",
+    "discipline": "Emergencia",
+    },
+
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 41,
+        "question": "En un paciente mordido por un perro que recibió analgesia en domicilio, ¿cuál de las siguientes opciones integra el manejo hospitalario inicial?",
+    "answer": ["c. Antibióticos profilácticos"],
+    "options": [
+    "a. Suturar las lesiones no punzantes",
+    "b. Lavado profuso de las heridas",
+    "c. Antibióticos profilácticos",
+    "d. Todas son correctas"
+    ],
+    "comment": "",
+    "discipline": "Emergencia",
+    },
+
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 42,
+        "question": "En un niño con fiebre sin foco. ¿Cuál de las siguientes, es indicación de realizar una punción lumbar?",
+    "answer": ["d. Inmunizaciones no vigentes"],
+    "options": [
+    "a. Fiebre elevada",
+    "b. Chucho febril",
+    "c. RN de 15 días de vida",
+    "d. Inmunizaciones no vigentes"
+    ],
+    "comment": "",
+    "discipline": "Emergencia",
+    },
+
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 43,
+        "question": "En un paciente víctima de una injuria eléctrica, ¿cuál de las siguientes opciones es considerada un factor de riesgo de presentar una arritmia cardiaca?",
+    "answer": ["d. Consulta tardía luego de 12 horas del evento"],
+    "options": [
+    "a. Trayecto de la corriente mano-mano",
+    "b. Corriente de descarga tipo continua P",
+    "c. Dolor en el sitio de entrada de la corriente",
+    "d. Consulta tardía luego de 12 horas del evento"
+    ],
+    "comment": "",
+    "discipline": "Emergencia",
+    },
+
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 44,
+        "question": "¿Cuál de las siguientes, es la complicación más frecuente de la apendicectomía por vía laparoscópica?",
+    "answer": ["b. Absceso intraabdominal"],
+    "options": [
+    "a. Infección del puerto de entrada umbilical",
+    "b. Absceso intraabdominal",
+    "c. Oclusión intestinal",
+    "d. Fistula enterocutánea"
+    ],
+    "comment": "",
+    "discipline": "Cirugia",
+    },
+
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 45,
+        "question": "Frente a un lactante de 11 meses que presenta una invaginación intestinal de 12 horas de evolución, sin elementos de complicación, ¿cuál es la conducta adecuada?",
+    "answer": ["b. Desinvaginación por vía laparotómica"],
+    "options": [
+    "a. Controlar y esperar por una desinvaginación espontánea",
+    "b. Desinvaginación por vía laparotómica",
+    "c. Desinvaginación por vía laparoscópica",
+    "d. Desinvaginación hidrostática guiada por ecografía"
+    ],
+    "comment": "",
+    "discipline": "Cirugia",
+    },
+
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 46,
+        "question": "¿Cuál de las siguientes lesiones se encuentran con mayor frecuencia en casos de maltrato físico?",
+    "answer": ["d. Lesiones viscerales intraabdominales"],
+    "options": [
+    "a. Fracturas de huesos largos",
+    "b. Quemaduras de piel por brasa de cigarrillo",
+    "c. Equimosis y hematomas cutáneos",
+    "d. Lesiones viscerales intraabdominales"
+    ],
+    "comment": "",
+    "discipline": "ML",
+    },
+
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 47,
+        "question": "¿Cuál de las siguientes aseveraciones es correcta respecto al diagnóstico de muerte súbita antes de los 12 meses de vida extrauterina?",
+    "answer": ["a. Corresponde por definición al síndrome de muerte súbita del lactante"],
+    "options": [
+    "a. Corresponde por definición al síndrome de muerte súbita del lactante",
+    "b. Queda excluido ante la comprobación de manchas de Tardieu puedes subpleurales",
+    "c. Frecuentemente la autopsia revela la presencia de infección respiratoria baja",
+    "d. Requiere previo estudio anatomopatológico macroscópico e histopatológico"
+    ],
+    "comment": "",
+    "discipline": "ML",
+    },
+
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 48,
+        "question": "¿Cuál de los siguientes es un signo de muy alta especificidad para el diagnóstico de abuso sexual?",
+    "answer": ["b. Encopresis y ensuciamiento"],
+    "options": [
+    "a. Infecciones urinarias a repetición",
+    "b. Encopresis y ensuciamiento",
+    "c. Chancro en el paladar blando",
+    ],
+    "comment": "",
+    "discipline": "ML",
+    },
+
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 49,
+        "question": "Considere una adolescente de 12 años que consulta en un servicio de emergencia alegando un abuso sexual crónico intradomiciliario. A los efectos de realizar el examen físico ¿cuál es las siguientes consideraciones es correcta?",
+    "answer": ["d. Para el examen genital es indispensable la presencia de un adulto responsable."],
+    "options": [
+    "a. Se debe solicitar el consentimiento de la paciente",
+    "b. Un examen físico normal descarta el diagnóstico de abuso",
+    "c. Es imprescindible la valoración por especialista en ginecología",
+    "d. Para el examen genital es indispensable la presencia de un adulto responsable."
+    ],
+    "comment": "",
+    "discipline": "ML",
+    },
+
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 50,
+        "question": "Un niño de 8 años es llevado a la policlínica barrial por dos amigos de 12 y 14 años con quienes estaba jugando al fútbol en la vereda, luego de ser mordido en la pierna y brazo por el perro de un vecino. El hecho ocurrió una hora luego de la salida de la escuela mientras sus padres no habían regresado del trabajo. ¿Cuál debería ser la conducta del médico?",
+    "answer": ["c. Asistió inmediatamente y realizar el traslado, si corresponde, según la gravedad, registrando todo en la historia clínica"],
+    "options": [
+    "a. Solicitar la concurrencia de un adulto referente para realizar las maniobras terapéuticas necesarias",
+    "b. Brindar la atención básica y denunciar la situación de negligencia en los cuidados paternos en el Juzgado Especializado",
+    "c. Asistió inmediatamente y realizar el traslado, si corresponde, según la gravedad, registrando todo en la historia clínica",
+    "d. Comunicarse con el Ministerio Público y solicitar la interconsulta con el médico forense para definir los pasos a seguir"
+    ],
+    "comment": "",
+    "discipline": "SMC",
+    },
+
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 51,
+        "question": "¿Cuál de las siguientes opciones es considerada una de las principales barreras para la implementación de la Convención de los Derechos del Niño en un Estado?",
+    "answer": ["a. Falta de formación en la población"],
+    "options": [
+    "a. Falta de formación en la población",
+    "b. Falta de puesta de límites en la familia",
+    "c. Falta de tradiciones democráticas",
+    "d. Falta de cultura de información"
+    ],
+    "comment": "",
+    "discipline": "SMC",
+    },
+
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 52,
+        "question": "En los casos de apego ansioso ambivalente, ¿cuál es la conducta característica del niño ante el regreso de su cuidador luego de una separación?",
+    "answer": ["c. Alegría exacerbada"],
+    "options": [
+    "a. Dificultad para calmarse",
+    "b. Indiferencia extrema",
+    "c. Alegría exacerbada",
+    "d. Ambivalencia permanente"
+    ],
+    "comment": "",
+    "discipline": "SMC",
+    },
+
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 53,
+        "question": "En relación con el desarrollo de la inteligencia del niño, según la Teoría de Piaget, ¿qué aspecto caracteriza el sub estadio sensorio-motor?",
+    "answer": ["b. Intuición y clasificación de objetos en distintas categorías"],
+    "options": [
+    "a. Función del lenguaje e interacción con objetos en ausencia",
+    "b. Intuición y clasificación de objetos en distintas categorías",
+    "c. Noción de permanencia del objeto y lenguaje",
+    "d. Esquemas que conectan movimiento y sentidos"
+    ],
+    "comment": "",
+    "discipline": "SMC",
+    },
+
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 54,
+        "question": "¿Cuál es la prevalencia del Trastorno por déficit de atención con hiperactividad en niños escolares?",
+    "answer": ["d. entre 8 y 10%"],
+    "options": [
+    "a. entre 2 y 4%",
+    "b. entre 3 y 5%",
+    "c. entre 6 y 7%",
+    "d. entre 8 y 10%",
+    ],
+    "comment": "",
+    "discipline": "SMC",
+    },
+
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 55,
+    "question": "Los trastornos del aprendizaje hacen referencia a ciertos déficits y deben cumplir determinados criterios. ¿Cuántos criterios son necesarios para realizar el diagnóstico?",
+    "answer":["b. 3"],
+   "options": [
+    "a. 2",
+    "b. 3",
+    "c. 4",
+    "d. 5"
+    ],
+    "comment": "",
+    "discipline": "SMC",
+    },
+
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 56,
+    "question": "Una niña de 10 años consulta, junto a sus padres, en el hospital por diarrea y sangrado enteral. El equipo médico comienza la anamnesis. La paciente llora en el momento que relata los síntomas. ¿Cuál de las siguientes es la estrategia de comunicación más adecuada por parte del médico?",
+    "answer": ["a. Intentar tranquilizaria diciéndole: “Tranquila no pasa nada“"],
+    "options": [
+    "a. Intentar tranquilizaria diciéndole: “Tranquila no pasa nada“",
+    "b. Continuar con la entrevista, naturalizando la angustia de la niña",
+    "c. Indagar los miedos y favorecer la expresión del malestar emocional",
+    "d. Solicitar af os padres (que la tranquilicen para poder continuar con la anamnesis"
+    ],
+    "comment": "",
+    "discipline": "PM",
+    },
+
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 57,
+    "question": "¿Qué mecanismo utilizan los padres de un niño con un diagnóstico de una enfermedad crónica, para compensar los sentimientos de culpa que frecuentemente presentan?",
+    "answer": ["b. Minimizan la enfermedad"],
+    "options": [
+    "a. La proyectan en su hijo",
+    "b. Minimizan la enfermedad",
+    "c. Niegan la enfermedad",
+    "d. Sobreprotegen a su hijo"
+    ],
+    "comment": "",
+    "discipline": "PM",
+    },
+
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 58,
+    "question": "En el transcurso de una enfermedad crónica, se pueden exacerbar los miedos evolutivos de los niños. ¿Qué tipo de miedo se encuentra presenta en niños de 3 a 7 años?",
+    "answer": ["c. Al contagio"],
+    "options": [
+    "a. Al dolor",
+    "b. Al futuro incierto",
+    "c. Al contagio",
+    "d. A los ruidos fuertes"
+    ],
+    "comment": "",
+    "discipline": "PM",
+    },
+
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 59,
+    "question": "¿Cuál de las siguientes es una característica de la depresión en los niños durante la hospitalización?",
+    "answer": ["b. En adolescentes se expresa por angustia de separación"],
+    "options": [
+    "a. Tiene una presentación muy similar al adulto",
+    "b. En adolescentes se expresa por angustia de separación",
+    "c. Su presentación varía por edad y por sexo",
+    "d. Es más frecuente en internaciones a corto plazo"
+    ],
+    "comment": "",
+    "discipline": "PM",
+    },
+
+
+    {
+    "info_quest": "Examen 3/2022",
+        "numb": 60,
+    "question": "¿Qué características tiene el concepto de muerte en el niño de 5 años?",
+    "answer": ["a. Adquiere la noción de irreversibilidad"],
+    "options": [
+    "a. Adquiere la noción de irreversibilidad",
+    "b. Se encuentra aliado a la capacidad de abstracción",
+    "c. Adquieren una idea de muerte adecuada",
+    "d. Comienzan la búsqueda de los mecanismos de causa y efecto"
+    ],
+    "comment": "",
+    "discipline": "PM",
+    },
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 
+{
+    "info_quest": "Examen 12/2023",
+        "numb": 1,
+    "question": "¿Cuál de los siguientes es un criterio de internación en bronquiolitis?",
+    "answer": ["c. Saturación menor de 95%"],
+    "options": [
+    "a. Tos catarral",
+    "b. Fiebre de 38°C",
+    "c. Saturación menor de 95%"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 2,
+    "question": "¿Cuál de los siguientes fármacos se encuentra recomendado para el tratamiento del primer episodio de bronquiolitis moderada?",
+    "answer": ["b. Salbutamol"],
+    "options": [
+    "a. Mucolíticos",
+    "b. Salbutamol",
+    "c. Corticoides"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 3,
+    "question": "¿Cuál es el mecanismo fisiopatológico principal involucrado en el asma?",
+    "answer": ["b. Limitación variable del flujo aéreo espiratorio"],
+    "options": [
+    "a. Limitación fija del flujo aéreo espiratorio",
+    "b. Limitación variable del flujo aéreo espiratorio",
+    "c. Limitación de la compliance tóraco – pulmonar"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 4,
+    "question": "¿Cuál de los siguientes constituye un dispositivo de oxigenación de bajo flujo?",
+    "answer": ["a. Máscara de flujo libre"],
+    "options": [
+    "a. Máscara de flujo libre",
+    "b. Máscara con reservorio con válvulas",
+    "c. Máscara de flujo controlado"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 5,
+    "question": "¿Cuál de los siguientes enteropatógenos producen diarrea por invasión de la mucosa intestinal?",
+    "answer": ["b. Yersinia enterocolítica"],
+    "options": [
+    "a. Vibrio cholerae",
+    "b. Yersinia enterocolítica",
+    "c. E. Coli enteropatógena"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 6,
+    "question": "¿Cuál de los siguientes beneficios se le atribuye al uso de sulfato de zinc en gastroenteritis aguda?",
+    "answer": ["a. Disminuye la gravedad de la diarrea"],
+    "options": [
+    "a. Disminuye la gravedad de la diarrea",
+    "b. Disminuye el riesgo de invaginación intestinal",
+    "c. Disminuye la utilización de antieméticos"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 7,
+    "question": "¿Cuál de las siguientes enfermedades se pesquisa a través de la muestra de sangre obtenida del cordón umbilical?",
+    "answer": ["b. Hipotiroidismo primario"],
+    "options": [
+    "a. Fibrosis quística",
+    "b. Hipotiroidismo primario",
+    "c. Hiperplasia suprarrenal congénita"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 8,
+    "question": "¿Cuál de las siguientes es una conducta del desarrollo que podría observarse en lactante sano de 9 meses?",
+    "answer": ["a. Se para apoyado en muebles"],
+    "options": [
+    "a. Se para apoyado en muebles",
+    "b. Comprende órdenes simples",
+    "c. Arma frases de 2 palabras"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 9,
+    "question": "¿Cuál de las siguientes es una manifestación clínica de la pediculosis del cuero cabelludo?",
+    "answer": ["c. Piodermia"],
+    "options": [
+    "a. Alopecia",
+    "b. Prurito",
+    "c. Piodermia"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 10,
+    "question": "¿Cuál de los siguientes es uno de los agentes etiológicos más frecuente de sinusitis aguda?",
+    "answer": ["b. Moraxella catarrhalis"],
+    "options": [
+    "a. Pseudomonas aeruginosa",
+    "b. Moraxella catarrhalis",
+    "c. Bordetella pertussis"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 11,
+    "question": "Para tratar a un niño con dolor leve secundario a trauma de miembro inferior. ¿Qué plan analgésico seleccionaría?",
+    "answer": ["a. Ibuprofeno"],
+    "options": [
+    "a. Ibuprofeno",
+    "b. Morfina",
+    "c. Fentanilo"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 12,
+    "question": "¿Cuáles son las características bioquímicas del líquido cefalorraquídeo en un paciente con meningoencefalitis aguda supurada?",
+    "answer": ["a. Hipoglucorraquia e hiperproteinorraquia"],
+    "options": [
+    "a. Hipoglucorraquia e hiperproteinorraquia",
+    "b. Hiperglucorraquia e hipoproteinorraquia",
+    "c. Hipoglucorraquia e hipoporteinorraquia"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 13,
+    "question": "¿A quién está indicado el tratamiento con quimioprofilaxis frente a un caso de meningoencefalitis aguda supurada?",
+    "answer": ["b. Convivientes de caso índice"],
+    "options": [
+    "a. Solamente a contactos menores de 2 años",
+    "b. Convivientes de caso índice",
+    "c. Vecino con contacto esporádico"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 14,
+    "question": "¿Cómo se realiza la evaluación de riesgo en caso de violencia hacia niños, niñas y adolescentes?",
+    "answer": ["b. Considera la proximidad cotidiana del agresor-víctima"],
+    "options": [
+    "a. Se utilizan escalas numéricas para su clasificación",
+    "b. Considera la proximidad cotidiana del agresor-víctima",
+    "c. Varía según la edad y la realización de la denuncia policial"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 15,
+    "question": "¿Cuál es la principal finalidad del tratamiento con antibióticos en la tos convulsa?",
+    "answer": ["b. Evitar la diseminación del microorganismo"],
+    "options": [
+    "a. Prevenir complicaciones de la enfermedad",
+    "b. Evitar la diseminación del microorganismo",
+    "c. Eliminar el estado de portador de Bordetella pertussis"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 16,
+    "question": "¿Cuál de los siguientes elementos clínicos es sugestivo de impétigo vesícula-pustuloso/costroso?",
+    "answer": ["c. Costras mielicéricas"],
+    "options": [
+    "a. Ampollas",
+    "b. Micropápulas confluentes",
+    "c. Costras mielicéricas"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 17,
+    "question": "¿Cuál es el agente etiológico más frecuente en las infecciones osteoarticulares en niños mayores de 3 años?",
+    "answer": ["c. Staphylococcus aureus"],
+    "options": [
+    "a. Kingella kingae",
+    "b. Streptococcus pneumoniae",
+    "c. Staphylococcus aureus"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 18,
+    "question": "En un niño con fiebre sin foco, ¿cuál es el grupo etario que presenta mayor riesgo de padecer una enfermedad bacteriana invasiva?",
+    "answer": ["a. Neonatos"],
+    "options": [
+    "a. Neonatos",
+    "b. 1 a 3 meses",
+    "c. 3 a 36 meses"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 19,
+    "question": "¿Cuál de los siguientes es un factor predisponente para infección del tracto urinario?",
+    "answer": ["b. Estreñimiento crónico"],
+    "options": [
+    "a. Vómitos cíclicos",
+    "b. Estreñimiento crónico",
+    "c. Polidipsia"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 20,
+    "question": "¿Cuál es su planteo diagnóstico frente a un lactante de 18 meses, previamente sano, que presenta fiebre y movimientos tónico clónicos generalizados?",
+    "answer": ["c. Convulsión con fiebre"],
+    "options": [
+    "a. Epilepsia",
+    "b. Chucho febril",
+    "c. Convulsión con fiebre"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 21,
+    "question": "¿Cuál es el período de mayor rendimiento para realizar la pesquisa auditiva mediante emisiones otoacústicas?",
+    "answer": ["a. Primeros 4 meses"],
+    "options": [
+    "a. Primeros 4 meses",
+    "b. 6 meses al año",
+    "c. Luego del año"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 22,
+    "question": "¿Con qué periodicidad se recomienda el control odontológico en un niño de 5 años sano?",
+    "answer": ["b. 6 meses"],
+    "options": [
+    "a. 3 meses",
+    "b. 6 meses",
+    "c. Anuales"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 23,
+    "question": "¿Qué grupo de edad tiene mayor riesgo de desarrolla hipertensión arterial en la infancia?",
+    "answer": ["c. Adolescentes"],
+    "options": [
+    "a. Lactantes",
+    "b. Preescolares",
+    "c. Adolescentes"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 24,
+    "question": "¿Cual es un factor predisponente para neumonía por Staphylococcus aureus?",
+    "answer": ["b. Varicela"],
+    "options": [
+    "a. Desnutrición",
+    "b. Varicela",
+    "c. Asma"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 25,
+    "question": "¿Cuál es la etiología más frecuente de empiema pleural?",
+    "answer": ["c. Streptococcus pneumoniae"],
+    "options": [
+    "a. Staphilococcus aureus",
+    "b. Mycobacterium tuberculosis",
+    "c. Streptococcus pneumoniae"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 26,
+    "question": "¿Cuál constituye un signo de alarma en un lactante con vómitos?",
+    "answer": ["a. Mal ascenso ponderal"],
+    "options": [
+    "a. Mal ascenso ponderal",
+    "b. Deposiciones líquidas",
+    "c. Regurgitaciones post ingesta"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 27,
+    "question": "¿En cuál de las siguientes etapas de la vida existe mayor crecimiento y por ende mayores requerimientos nutricionales?",
+    "answer": ["a. Primer año de vida"],
+    "options": [
+    "a. Primer año de vida",
+    "b. Preescolar",
+    "c. Escolar"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 28,
+    "question": "¿Cuál de los siguientes factores perinatales es considerado un factor protector para el desarrollo de sobrepeso-obesidad?",
+    "answer": ["a. Alimentación con pecho directo"],
+    "options": [
+    "a. Alimentación con pecho directo",
+    "b. Peso al nacer menor a 2500 gramos",
+    "c. Sobrepeso materno"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 29,
+    "question": "Cuál de las siguientes es la composición de la vacuna antipoliomielítica incluida actualmente en el esquema nacional de vacunación?",
+    "answer": ["c. Poliovirus 1,2 y 3 inactivados"],
+    "options": [
+    "a. Poliovirus 1,2 y 3 atenuados",
+    "b. Poliovirus 1,2 y 3 salvaje",
+    "c. Poliovirus 1,2 y 3 inactivados"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 30,
+    "question": "¿Cuál de las siguientes sería una contraindicación para recibir una vacuna a virus vivo atenuado?",
+    "answer": ["c. Uso de corticoides mayor a 3 meses de duración"],
+    "options": [
+    "a. Episodio febril posterior a esa vacuna en vacunación previa",
+    "b. Tuberculosis que ha sido tratada adecuadamente",
+    "c. Uso de corticoides mayor a 3 meses de duración"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 31,
+    "question": "Lactante de 1 mes, segundo gemelar, peso al nacer 3100 gr, edad gestacional al nacer 38 semanas, concurre a policlínica a control en salud ¿Cuándo se recomienda el inicio de la suplementación con hierro para prevenir anemia?",
+    "answer": ["a. En este control en salud"],
+    "options": [
+    "a. En este control en salud",
+    "b. A partir de los 2 meses",
+    "c. A partir de los 4 meses"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 32,
+    "question": "De acuerdo a las Normas nacionales de diagnóstico, tratamiento y prevención de Atención Primaria Pediátrica ¿cuál de los siguientes mecanismos de lesiones es el más frecuente en niños menores de 2 años?",
+    "answer": ["a. Intoxicaciones"],
+    "options": [
+    "a. Intoxicaciones",
+    "b. Mordeduras",
+    "c. Ingesta de cuerpo extraño"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 33, 
+    "question": "¿Cuál de las siguientes es una medida de sueño seguro para prevenir la muerte súbita del lactante?",
+    "answer": ["b. Dormir en decúbito supino sin almohada"],
+    "options": [
+    "a. Dormir en decúbito prono sin almohada",
+    "b. Dormir en decúbito supino sin almohada",
+    "c. Dormir en decúbito supino y a 45 grados"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 34,
+    "question": "¿Cuál de los siguientes hallazgos clínicos es un signo de shock?",
+    "answer": ["b. Tiempo de recoloración de 4 segundos"],
+    "options": [
+    "a. Pliegue cutáneo hipoelastico",
+    "b. Tiempo de recoloración de 4 segundos",
+    "c. Pulsos periféricos llenos"
+    ],
+    "comment": "",
+    "discipline": "Emergencia"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 35,
+    "question": "¿En qué letra del A-B-C-D-E corresponde realizar la medición de glicemia capilar (HGT) sino fue realizada previamente?",
+    "answer": ["b. D"],
+    "options": [
+    "a. A",
+    "b. D",
+    "c. E"
+    ],
+    "comment": "",
+    "discipline": "Emergencia"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 36,
+    "question": "¿Cuál de los siguientes parámetros integra el componente respiratorio del triángulo de evaluación pediátrica?",
+    "answer": ["c. Quejido"],
+    "options": [
+    "a. Polipnea",
+    "b. Saturación de oxígeno",
+    "c. Quejido"
+    ],
+    "comment": "",
+    "discipline": "Emergencia"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 37,
+    "question": "Usted aplica el triángulo de evaluación pediátrica ¿Cuál es el diagnóstico fisiopatológico si presenta los componentes apariencia y respiratorio afectados?",
+    "answer": ["a. Fallo respiratorio"],
+    "options": [
+    "a. Fallo respiratorio",
+    "b. Shock descompensado",
+    "c. Dificultad respiratoria"
+    ],
+    "comment": "",
+    "discipline": "Emergencia"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 38,
+    "question": "¿Cuál de los siguientes escores clínicos aplica a un niño de 10 años para catalogar la severidad de un síndrome bronco obstructivo?",
+    "answer":["c. PAS"],
+    "options": [
+    "a. Tal modificado",
+    "b. Downes Raphaely",
+    "c. PAS"
+    ],
+    "comment": "",
+    "discipline": "Emergencia"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 39,
+    "question": "Usted recibe un paciente de 2 años con fiebre ¿Cómo cataloga un evento de inicio brusco de mirada fija, movimientos tónico clónicos y cianosis de 4 minutos de duración seguido de hiporreactividad breve?",
+    "answer": ["c. Crisis epiléptica con fiebre"],
+    "options": [
+    "a. Status epiléptico febril",
+    "b. Chucho febril",
+    "c. Crisis epiléptica con fiebre"
+    ],
+    "comment": "",
+    "discipline": "Emergencia"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 40,
+    "question": "¿Cuál de los siguientes hallazgos justifica realizar exámenes de laboratorio en un lactante de 5 meses con fiebre sin foco clínico?",
+    "answer": ["c. Temperatura de 39,5%C"],
+    "options": [
+    "a. TEP estable",
+    "b. Ictericia al nacer",
+    "c. Temperatura de 39,5%C"
+    ],
+    "comment": "",
+    "discipline": "Emergencia"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 41,
+    "question": "¿Cuál de las siguientes opciones es una contraindicación a la terapia de rehidratación oral en un lactante con pérdidas digestivas y fiebre?",
+    "answer": ["b. Convulsión"],
+    "options": [
+    "a. Dos vómitos en 12 horas",
+    "b. Convulsión",
+    "c. Disminución de la diuresis"
+    ],
+    "comment": "",
+    "discipline": "Emergencia"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 42,
+    "question": "¿Cuál de los siguientes hallazgos se asocia con riesgo de lesión intracraneana en el trauma de cráneo?",
+    "answer": ["b. Pérdida de 2 puntos en la escala de coma de Glasgow"],
+    "options": [
+    "a. Hematoma duro en región frontal",
+    "b. Pérdida de 2 puntos en la escala de coma de Glasgow",
+    "c. Convulsión breve inmediata al trauma"
+    ],
+    "comment": "",
+    "discipline": "Emergencia"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 43,
+    "question": "En cuál de las siguientes situaciones está indicado y es seguro realizar carbón activado en un niño ventilando al aire?",
+    "answer": ["c. Ingesta de antidepresivos 1 hora previa"],
+    "options": [
+    "a. Intoxicación por litio",
+    "b. Depresión neuropsíquica",
+    "c. Ingesta de antidepresivos 1 hora previa"
+    ],
+    "comment": "",
+    "discipline": "Emergencia"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 44,
+    "question": "Lactante de 4 meses, sexo masculino, que consulta en emergencia con una hernia inguinal derecha dolorosa, tensa e irreductible. No presenta elementos fluxivos a nivel de piel. Ud. lo posiciona en trendelemburg y luego de realizar maniobras de taxis, logra reducirla. ¿Cuándo se debe resolver su hernia?",
+    "answer": ["b. Ingreso hospitalario y en las próximas 48 hs."],
+    "options": [
+    "a. En ese momento, al cumplir el ayuno.",
+    "b. Ingreso hospitalario y en las próximas 48 hs.",
+    "c. Pase a policlínica para ingresar a la lista de coordinación."
+    ],
+    "comment": "",
+    "discipline": "Cirugia"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 45,
+    "question": "Frente a un niño de 8 años que presenta adherencias balanoprepuciales sin fimosis. ¿Cuál es el tratamiento adecuado?",
+    "answer": ["a. Medidas higiénicas"],
+    "options": [
+    "a. Medidas higiénicas",
+    "b. Medidas higiénicas + xilocaína urológica",
+    "c. Medidas higiénicas + crema con corticoides"
+    ],
+    "comment": "",
+    "discipline": "Cirugia"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 46,
+    "question": "Los intercambios sensoriales, motores y afectivos que ocurren en la díada cuidador-bebé favorecen el desarrollo temprano. ¿Cuál es la relevancia de que en la díada se produzca lo que se denomina sincronía?",
+    "answer": ["c. Funciona como organizador de la interacción y favorece la regulación mutua"],
+    "options": [
+    "a. Cumple un rol fundamental para que el cuidador anticipe las necesidades del bebé",
+    "b. Oficia como regulador de los afectos que el bebé evoca en su cuidador",
+    "c. Funciona como organizador de la interacción y favorece la regulación mutua"
+    ],
+    "comment": "",
+    "discipline": "SMC"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 47,
+    "question": "¿Qué alteraciones caracterizan el trastorno específico del aprendizaje?",
+    "answer": ["a. De las funciones neuropsicológicas superiores"],
+    "options": [
+    "a. De las funciones neuropsicológicas superiores",
+    "b. De las funciones atencionales por patologías psiquiátricas",
+    "c. De las funciones sensoriales y psicomotoras"
+    ],
+    "comment": "",
+    "discipline": "SMC"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 48,
+    "question": "Las representaciones mentales maternas y paternas tienen efectos en las modalidades de interacción dirigidas hacia el bebé. El pediatra puede intervenir en las mismas. ¿De qué modo pueden realizarse intervenciones con la guía cuidador-bebé?",
+    "answer": ["b. Vèrbalizando las Iniciativas y expresiones emocionales del bebé, adjudicándose un sentido"],
+    "options": [
+    "a. Mostrando a los cuidadores aquellas señales que manifiesta el bebé, que no logran identificar",
+    "b. Vèrbalizando las Iniciativas y expresiones emocionales del bebé, adjudicándose un sentido",
+    "c. Corrigiendo activamente las representaciones mentales de los cuidadores, por los riesgos que implican"
+    ],
+    "comment": "",
+    "discipline": "SMC"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 49,
+    "question": "La interacción temprana del niño con su/s cuidador/es principal/es adquiere gran importancia durante los primeros tiempos de vida. ¿Qué aspectos fundamentan dicha relevancia?",
+    "answer": ["b. Construir bases de procesos importantes para el desarrollo, como la autorregulación"],
+    "options": [
+    "a. Cubrir las necesidades que presenta el bebé de alimento e higiene por parte del adulto",
+    "b. Construir bases de procesos importantes para el desarrollo, como la autorregulación",
+    "c. Determinar las posibilidades de aprendizaje que el niño desplegará durante su infancia"
+    ],
+    "comment": "",
+    "discipline": "SMC"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 50,
+    "question": "En la teoría del desarrollo psicosexual infantil propuesta por Freud, se plantean diferentes fases, entre ellas la fase fálica, ¿cuáles son las principales características de esta fase?",
+    "answer": ["c. Exploración sexual y descubrimiento de los genitales"],
+    "options": [
+    "a. Exploración emocional y búsqueda de proximidad",
+    "b. Exploración del entorno y control sobre el mismo",
+    "c. Exploración sexual y descubrimiento de los genitales"
+    ],
+    "comment": "",
+    "discipline": "SMC"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 51,
+    "question": "Si consideramos el proceso de adquisición del concepto de muerte ¿Cuál de las siguientes opciones es verdadera para un niño de 5 años?",
+    "answer": ["a. Comienza la búsqueda de los mecanismos de causa y efecto"],
+    "options": [
+    "a. Comienza la búsqueda de los mecanismos de causa y efecto",
+    "b. Entiende que es un evento irreversible",
+    "c. Puede comprender que es algo que nos sucederá a todas las personas"
+    ],
+    "comment": "",
+    "discipline": "PM"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 52,
+    "question": "¿Qué caracteriza el tipo de pensamiento de un niño de 3 años?",
+    "answer": ["b. Comprende lo que observa y toca"],
+    "options": [
+    "a. Ha superado el egocentrismo y el pensamiento mágico",
+    "b. Comprende lo que observa y toca",
+    "c. Se caracteriza por la abstracción"
+    ],
+    "comment": "",
+    "discipline": "PM"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 53,
+    "question": "¿Cuál de estos enunciados es verdadero en relación al concepto de “Psicoprofilaxis quirúrgica“ en niños?",
+    "answer": ["c. Es una técnica psicoterapéutica que trabaja aspectos emocionales"],
+    "options": [
+    "a. Es útil porque evita la aparición de miedos previo a la cirugía",
+    "b. Es aconsejable realizarla poco tiempo previo a la cirugía",
+    "c. Es una técnica psicoterapéutica que trabaja aspectos emocionales"
+    ],
+    "comment": "",
+    "discipline": "PM"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 54,
+    "question": "¿Qué genera en un niño de aproximadamente 7 años haber sido informado adecuadamente por el equipo de salud acerca del diagnóstico de su enfermedad?",
+    "answer": ["a. La posibilidad de algún grado de control de la enfermedad"],
+    "options": [
+    "a. La posibilidad de algún grado de control de la enfermedad",
+    "b. Aumenta el estrés del niño haciéndolo más vulnerable",
+    "c. Dificultades en la relación médico-paciente."
+    ],
+    "comment": "",
+    "discipline": "PM"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 55.,
+    "question": "Qué se debe hacer al momento de comunicar el diagnóstico de una enfermedad de un niño al niño y su familia?",
+    "answer": ["b. Indagar con qué información cuentan el niño y su familia hasta ese momento"],
+    "options": [
+    "a. Recurrir al equipo de salud mental para que brinde la información pertinente.",
+    "b. Indagar con qué información cuentan el niño y su familia hasta ese momento",
+    "c. Aclarar que la expresión de las emociones como el miedo y la angustia es algo normal"
+    ],
+    "comment": "",
+    "discipline": "PM"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 56,
+    "question": "Acerca de la lesionología en el maltrato físico infantil, es correcto afirmar que:",
+    "answer": ["b. Las fracturas metafisarias de los huesos de los miembros son típicas"],
+    "options": [
+    "a. Las lesiones por quemadura con la brasa del cigarrillo son muy frecuentes",
+    "b. Las fracturas metafisarias de los huesos de los miembros son típicas",
+    "c. El hematoma retroperitoneal es un hallazgo habitual en menores de 2 años"
+    ],
+    "comment": "",
+    "discipline": "ML"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 57,
+    "question": "Acerca de las causas de muerte súbita infantil (MSI) marque la opción correcta:",
+    "answer": ["c. La infección respiratoria baja es un diagnóstico autópsico frecuente"],
+    "options": [
+    "a. El síndrome de Reye es una de las que se comprueba con mayor frecuencia",
+    "b. La obstrucción de la vía aérea alta es un hallazgo típico del SMSL",
+    "c. La infección respiratoria baja es un diagnóstico autópsico frecuente"
+    ],
+    "comment": "",
+    "discipline": "ML"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 58,
+    "question": " En relación al abuso sexual infantil en niñas de edad escolar, ¿cuál de los siguientes elementos tiene mayor relevancia para el diagnóstico?:",
+    "answer": ["a. El relato espontáneo de la víctima en el ámbito escolar"],
+    "options": [
+    "a. El relato espontáneo de la víctima en el ámbito escolar",
+    "b. La presencia de un eritema vulvar comprobado por el pediatra",
+    "c. La comprobación de fisuras anales a la hora 6 en posición ginecológica"
+    ],
+    "comment": "",
+    "discipline": "ML"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 59,
+    "question": "Con respecto al abuso sexual infantil, es correcto que:",
+    "answer": ["c. El examen genital normal no descarta el diagnóstico"],
+    "options": [
+    "a. Es frecuente el hallazgo de lesiones extragenitales",
+    "b. El examen genital forma el meso interdiario",
+    "c. El examen genital normal no descarta el diagnóstico"
+    ],
+    "comment": "",
+    "discipline": "ML"
+    },
+
+    {
+    "info_quest": "Examen 12/2023",
+        "numb": 60,
+    "question": "Se recibe en policlinica a una niña de 10 años por la denuncia de una agresión sexual reiterada. Al examen se constata una equimosis evolucionada de 1x1 centímetro en el borde cubital del antebrazo derecho; erosiones superficiales costrosas en el codo derecho y en ambas rodillas. Maduración sexual: grado Il de la escala de Tanner. Genitales externos normales, con un himen anular con orificio de 5 milímetros. Señale lo correcto sobre la interpretación de los hallazgos",
+    "answer": ["a. Se puede descartar la penetración reiterada del pene en erección en la vagina"],
+    "options": [
+    "a. Se puede descartar la penetración reiterada del pene en erección en la vagina",
+    "b. El examen excluye la hipotesis de un delito de abuso sexual especialmente agravado",
+    "c. Las lesiones son sugestivas de un maltrato físico por mecanismo activo o por negligencia "
+    ],
+    "comment": "",
+    "discipline": "ML"
+    },
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////
+
+{
+    "info_quest": "Examen 2/2025",
+        "numb": 1,
+    "question": "En un niño sano, sin alergias conocidas, que cursa una faringitis a Streptococcus pyogenes, ¿cuál es el tratamiento de primera línea?",
+    "answer": ["a. Amoxicilina"],
+    "options": [
+    "a. Amoxicilina",
+    "b. Amoxicilina- clavulánico",
+    "c. Azitromicina"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+    {
+
+    "info_quest": "Examen 2/2025",
+        "numb": 2,
+    "question": "Considere un lactante de 5 meses con sospecha de tos convulsa. ¿Cuál de los siguientes es un factor de riesgo de complicación y mala evolución?",
+    "answer": ["b. Leucocitosis > a 20.000/mm3"],
+    "options": [
+    "a. Frecuencia cardíaca menor a 100",
+    "b. Leucocitosis > a 20.000/mm3",
+    "c. Fiebre > a 39° C desde el inicio"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 3,
+    "question": "¿Cuál de los siguientes constituye un criterio de severidad para neumonía adquirida en la comunidad?",
+    "answer": ["c. Leucopenia"],
+    "options": [
+    "a. Temperatura axilar de 39°C",
+    "b. Síntomas arrastrados",
+    "c. Leucopenia"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 4,
+    "question": "Adolescente de 12 años previamente sano, CEV vigente. Presenta síntomas respiratorios de 1 semana de evolución con: tos irritativa, mialgias y cefalea. A la auscultación: estertores subcrepitantes difusos y sibilancias espiratorias bilaterales. En la radiografía de tórax: compromiso radiológico intersticial y difuso. ¿Cuál de los siguientes es el agente etiológico más probablemente involucrado?",
+    "answer": ["c. Mycoplasma pneumoniae"],
+    "options": [
+    "a. Mycobacterium tuberculosis",
+    "b. Streptococcus pneumoniae",
+    "c. Mycoplasma pneumoniae"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 5,
+    "question": "¿Cuál de los siguientes fenómenos etiopatogénicos están involucrados en la bronquiolitis aguda?",
+    "answer": ["b. Necrosis, edema y exudación del epitelio bronquial"],
+    "options": [
+    "a. Proliferación de microorganismos a nivel alveolar y consolidación parenquimatosa",
+    "b. Necrosis, edema y exudación del epitelio bronquial",
+    "c. Inflamación crónica de las vías respiratorias"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 6,
+    "question": "¿Cuál de los siguientes componentes son necesarios para realizar el diagnóstico de bronquiolitis en un lactante?",
+    "answer": ["a. Signos y síntomas compatibles"],
+    "options": [
+    "a. Signos y síntomas compatibles",
+    "b. Radiografía de tórax confirmatoria",
+    "c. PCR para virus respiratorios estacionales"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 7,
+    "question": "¿Cuál es un criterio mayor en el índice predictivo de asma?",
+    "answer": ["c. Dermatitis atópica"],
+    "options": [
+    "a. Rinitis alérgica",
+    "b. Asma en los abuelos maternos",
+    "c. Dermatitis atópica"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 8,
+    "question": "¿Cuál de los siguientes perfiles gasométricos define la insuficiencia respiratoria I?",
+    "answer": ["a. Hipoxemia con normocapnia"],
+    "options": [
+    "a. Hipoxemia con normocapnia",
+    "b. Hipoxemia con hipercapnia",
+    "c. Hipoxemia con alcalosis metabólica"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 9,
+    "question": "A los efectos de realizar el diagnóstico retrospectivo de “crisis febril simple“, ¿cuál de los siguientes diagnósticos diferenciales es imprescindible descartar?",
+    "answer": ["b. Infección del sistema nervioso central"],
+    "options": [
+    "a. Infección respiratoria aguda bacteriana",
+    "b. Infección del sistema nervioso central",
+    "c. Infección del tracto urinario"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 10,
+    "question": "En un niño en el que se sospecha meningoencefalitis aguda, ¿cuál de los siguientes, es un signo de hipertensión endocraneana?",
+    "answer": ["a. Depresión de conciencia"],
+    "options": [
+    "a. Depresión de conciencia",
+    "b. Púrpura petequial progresivo",
+    "c. Presencia de rigidez de nuca"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 11,
+    "question": "Considere un niño en el que se realizó una punción lumbar por sospecha de meningoencefalitis aguda bacteriana. ¿Cuál de los siguientes valores del estudio citoquímico del Líquido cefalorraquídeo es esperado para confirmar dicho diagnóstico?",
+    "answer": ["c. Glucosa menor a 40 mg/di"],
+    "options": [
+    "a. Proteínas menores a 100 mg/dl",
+    "b. Menos de 10 células por mm3",
+    "c. Glucosa menor a 40 mg/di"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 12,
+    "question": "En un recién nacido, ¿cuál de los siguientes es un factor de riesgo para infección osteoarticular?",
+    "answer": ["c. Presencia de una vía venosa"],
+    "options": [
+    "a. Ausencia de lactancia materna",
+    "b. Retraso en la caída del cordón",
+    "c. Presencia de una vía venosa"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 13,
+    "question": "En un paciente con gastroenteritis aguda, sin vómitos y con elementos clínicos de deshidratación moderada, ¿cuál de las siguientes es la medida terapéutica de elección para la reposición inicial?",
+    "answer": ["a. Suero de rehidratación oral 75"],
+    "options": [
+    "a. Suero de rehidratación oral 75",
+    "b. Solución salina fisiológica intravenosa",
+    "c. Solución polielectrolítica intravenosa (solución 90)"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 14,
+    "question": "Considere un niño con una lesión de piel única, vesículo pustulosa de unos 4 mm de diámetro, sin fiebre y buen estado general. ¿Cuál de los siguientes tratamientos indicaría?",
+    "answer": ["a. Mupirocina tópica"],
+    "options": [
+    "a. Mupirocina tópica",
+    "b. Cefradina por vía oral",
+    "c. Ceftriaxona intravenosa"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 15,
+    "question": "¿Cuál de las siguientes es la presentación clínica más frecuente de la celulitis periorbitaria?",
+    "answer": ["b. Edema y eritema de párpados"],
+    "options": [
+    "a. Alteraciones de la motilidad ocular",
+    "b. Edema y eritema de párpados",
+    "c. Pérdida de la agudeza visual"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 16,
+    "question": "Considere un niño con fiebre sin foco, clínicamente estable y sin factores de riesgo. ¿En qué rango etario está indicado realizar una punción lumbar como conducta inicial?",
+    "answer": ["a. Menor a 28 días"],
+    "options": [
+    "a. Menor a 28 días",
+    "b. Entre 1- 3 meses",
+    "c. Entre 3- 36 meses"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 17,
+    "question": "¿Cuál es la manifestación clínica más frecuente de Infección urinaria en el lactante?",
+    "answer": ["b. Fiebre sin foco"],
+    "options": [
+    "a. Escaso ascenso ponderal",
+    "b. Fiebre sin foco",
+    "c. Dolor abdominal"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 18,
+    "question": "En el control en salud de un lactante de 3 meses, con buen crecimiento, los padres refieren regurgitaciones y vómitos aislados desde el mes de vida. No presenta alteraciones al examen físico. ¿Cuál de los siguientes es el diagnóstico más probable?",
+    "answer": ["b. Reflujo gastroesofágico"],
+    "options": [
+    "a. Estenosis hipertrófica del píloro",
+    "b. Reflujo gastroesofágico",
+    "c. Obstrucción intestinal"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 19,
+    "question": "¿Cuál de las siguientes intoxicaciones se presenta más frecuentemente durante el invierno?",
+    "answer": ["c. Monóxido de carbono"],
+    "options": [
+    "a. Paracetamol",
+    "b. Benzodiacepinas",
+    "c. Monóxido de carbono"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 20,
+    "question": "Según la normativa nacional vigente para viajes de niños en automóvil y uso de sistema de retención infantil, un niño de 10 años, ¿en qué lugar y condición debería viajar?",
+    "answer": ["b. Asiento trasero a la derecha del conductor, cinturón de tres puntas"],
+    "options": [
+    "a. Asiento trasero por detrás del conductor, cinturón de tres puntas",
+    "b. Asiento trasero a la derecha del conductor, cinturón de tres puntas",
+    "c. Asiento trasero a la derecha del conductor, cinturón de dos puntas"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 21,
+    "question": "¿Cuál de los siguientes mecanismos de lesiones es el más frecuente en niños mayores de 10 años?",
+    "answer": ["c. Intoxicaciones"],
+    "options": [
+    "a. Mordeduras",
+    "b. Quemaduras",
+    "c. Intoxicaciones"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 22,
+    "question": "En un niño de 1 año, normopeso que se presenta con cifras de hipertensión grado 2 ¿Cuál de las siguientes causas de hipertensión secundaria sería la más probable?",
+    "answer": ["c. Renovascular"],
+    "options": [
+    "a. Endocrinológicas",
+    "b. Neuroblastoma",
+    "c. Renovascular"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 23,
+    "question": "Considere un niño de 3 meses de vida que no mantiene la cabeza erguida y firme. ¿Qué diagnóstico del neurodesarrollo le amerita?",
+    "answer": ["b. Retraso del desarrollo"],
+    "options": [
+    "a. Desarrollo normal",
+    "b. Retraso del desarrollo",
+    "c. Desvío del desarrollo"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 24,
+    "question": "Considere un un niño/ a que presenta un test de tripsina inmunoreactiva (TIR) elevada. ¿Qué estudio solicitaría para confirmar la presencia de Fibrosis Quística?",
+    "answer": ["c. Test del sudor"],
+    "options": [
+    "a. Regulador de conductancia transmembranal de la fibrosis quística (CFTR)",
+    "b. Proteína asociada a la pancreatitis (PAP)",
+    "c. Test del sudor"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 25,
+    "question": "¿Cuál de las siguientes es la causa más frecuente de alteración visual en los niños?",
+    "answer": ["b. Defectos de refracción"],
+    "options": [
+    "a. Cataratas congénitas",
+    "b. Defectos de refracción",
+    "c. Retinopatía del prematuro"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 26,
+    "question": "En un niño menor a 24 meses ¿cuál de los siguientes es un factor protector de prevención de anemia?",
+    "answer": ["a. Lactancia materna exclusiva hasta los 6 meses"],
+    "options": [
+    "a. Lactancia materna exclusiva hasta los 6 meses",
+    "b. Preparados para lactantes a partir del mes de vida",
+    "c. Consumo de alimentos como zapallo, boniato, zanahoria."
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 27,
+    "question": "Considere un lactante con peso al nacimiento de 2.900 g, ¿a qué edad debe iniciar el hierro profiláctico?",
+    "answer": ["a. 1 mes"],
+    "options": [
+    "a. 1 mes",
+    "b. 2 meses",
+    "c. 4 meses"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 28,
+    "question": "En un niño con desnutrición ¿cuál de los siguientes índices antropométricos se ve afectado al inicio?",
+    "answer": ["b. Peso/edad"],
+    "options": [
+    "a. Perímetro craneano/edad",
+    "b. Peso/edad",
+    "c. Talla/edad"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 29,
+    "question": "¿Cuál de los siguientes es un factor de riesgo de obesidad infantil?",
+    "answer": ["c. Recuperación del peso postnatal acelerado"],
+    "options": [
+    "a. Normopeso materno",
+    "b. Al nacimiento, peso adecuado a la edad gestacional",
+    "c. Recuperación del peso postnatal acelerado"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 30,
+    "question": "Según el certificado esquema de vacunación de Uruguay, ¿en qué edades debe administrarse la vacuna triple viral (Sarampión, Parotiditis y Rubéola)?",
+    "answer": ["c. 12 meses y 15 meses"],
+    "options": [
+    "a. 12 meses y 21 meses",
+    "b. 15 meses y 21 meses",
+    "c. 12 meses y 15 meses"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 31,
+    "question": "¿Cuál de las siguientes es una contraindicación para la administración de la vacuna Influenza?",
+    "answer": ["c. Reacción alérgica al huevo severa"],
+    "options": [
+    "a. Ser portador de inmunodeficiencia primaria",
+    "b. Presentar obesidad mórbida",
+    "c. Reacción alérgica al huevo severa"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 32,
+    "question": "Considere un niño con dolor, ¿cuál de las siguientes es la primera medida no farmacológica recomendada?",
+    "answer": ["b. Brindar información"],
+    "options": [
+    "a. Ofrecer musicoterapia",
+    "b. Brindar información",
+    "c. Imaginación guiada"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 33,
+    "question": "Considere un niño con dolor severo al que se le prescribió morfina. ¿Cuál de los siguientes efectos adversos es el más frecuente y que no desarrolla tolerancia?",
+    "answer": ["a. Estreñimiento"],
+    "options": [
+    "a. Estreñimiento",
+    "b. Náuseas y vómitos",
+    "c. Prurito generalizado"
+    ],
+    "comment": "",
+    "discipline": "PED"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 34,
+    "question": "¿Cuál de las siguientes afirmaciones sobre el TEP (Triángulo de evaluación pediátrica) es correcta?",
+    "answer": ["b. El tiempo recomendado para su aplicación es 60 segundos"],
+    "options": [
+    "a. La frecuencia cardíaca está incluida en el componente circulatorio",
+    "b. El tiempo recomendado para su aplicación es 60 segundos",
+    "c. Solo puede ser utilizado por profesionales médicos"
+    ],
+    "comment": "",
+    "discipline": "Emergencia"
+    },
+
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 35,
+    "question": "¿Cuál de los siguientes aspectos se valoran en el componente “apariencia“ del TEP (triángulo de evaluación pediátrica)?",
+    "answer":["a. Tono"],
+    "options": [
+    "a. Tono",
+    "b. Palidez",
+    "c. Posición para respirar"
+    ],
+    "comment": "",
+    "discipline": "Emergencia"
+    },
+    
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 36,
+    "question": "¿Qué nivel de triage le asigna a un paciente con una crisis epiléptica activa?",
+    "answer": ["a. Nivel 1"],
+    "options": [
+    "a. Nivel 1",
+    "b. Nivel 2",
+    "c. Nivel 3"
+    ],
+    "comment": "",
+    "discipline": "Emergencia"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 37,
+    "question": "Ud. asiste un paciente de un mes cursando una bronquiolitis, TEP estable, FR 36, sibilancias al final de la espiración, obstrucción nasal, SatO2 98% VEA ¿cuál es su conducta inicial?",
+    "answer": ["c. Posicionamiento, aspirado de secreciones"],
+    "options": [
+    "a. Oxigenoterapia con cánula nasal 2L/min",
+    "b. Salbutamol inhalado por inhalador de dosis medida",
+    "c. Posicionamiento, aspirado de secreciones"
+    ],
+    "comment": "",
+    "discipline": "Emergencia"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 38,
+    "question": "En un paciente de 5 años que cursa una crisis broncoobstructiva, ¿qué score utilizaría para valorar su gravedad?",
+    "answer": ["c. Score asma pediátrico (PAS)"],
+    "options": [
+    "a. TAL modificado por Bello",
+    "b. Downes-Raphaely",
+    "c. Score asma pediátrico (PAS)"
+    ],
+    "comment": "",
+    "discipline": "Emergencia"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 39,
+    "question": "En un paciente que consulta por una Laringitis severa, ¿cómo realizaría la indicación de adrenalina a enfermería?",
+    "answer": ["a. Nebulizada 3 mL (sin diluir)"],
+    "options": [
+    "a. Nebulizada 3 mL (sin diluir)",
+    "b. Nebulizada 3 mL + 5 ml suero fisiológico",
+    "c. Un mL vía subcutánea"
+    ],
+    "comment": "",
+    "discipline": "Emergencia"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 40,
+    "question": "Ud. asiste un niño deshidratado en el contexto de una gastroenteritis aguda, ¿cuál de los siguientes constituye un elemento precoz de deshidratación?",
+    "answer": ["b. Disminución de la diuresis"],
+    "options": [
+    "a. Tiempo de reperfusión prolongado",
+    "b. Disminución de la diuresis",
+    "c. Hipotensión arterial"
+    ],
+    "comment": "",
+    "discipline": "Emergencia"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 41,
+    "question": "En un paciente de 4 años que sufre un TEC (traumatismo encéfalo-craneano) 4 horas previas a la consulta ¿cuál de las siguientes situaciones constituye un elemento de riesgo de lesión intracraneana?",
+    "answer": ["c. Cefalea y vómitos reiterados"],
+    "options": [
+    "a. Hematoma frontal duro de 3 cm diámetro",
+    "b. Pérdida de conocimiento de 30 segundos inmediata al TEC",
+    "c. Cefalea y vómitos reiterados"
+    ],
+    "comment": "",
+    "discipline": "Emergencia"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 42,
+    "question": "El carbón activado es una medida de rescate muy utilizada en la asistencia inicial de un paciente con sospecha de intoxicación aguda. ¿Cuál de las siguientes opciones es correcta en relación con su aplicación clínica?",
+    "answer": ["a. Se puede diluir en jugos para aumentar su aceptación"],
+    "options": [
+    "a. Se puede diluir en jugos para aumentar su aceptación",
+    "b. Se utiliza siempre que se sospecha una intoxicación",
+    "c. La dosis es estándar, no depende del peso del paciente"
+    ],
+    "comment": "",
+    "discipline": "Emergencia"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 43,
+    "question": "En un niño politraumatizado en shock hemorrágico, ¿cuál de las siguientes medidas realiza en primer lugar en la asistencia inicial?",
+    "answer": ["c. Cohibir el sangrado externo"],
+    "options": [
+    "a. Inmovilización completa",
+    "b. Acceso vascular femoral",
+    "c. Cohibir el sangrado externo"
+    ],
+    "comment": "",
+    "discipline": "Emergencia"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 44,
+    "question": "Considere un lactante de 9 meses, con buen estado general, que presenta una invaginación intestinal ileocólica de 6 horas de evolución, con deposiciones normales y en apirexia. ¿Cuál de las siguientes es la conducta terapéutica adecuada?",
+    "answer": ["b. Desinvaginación hidrostática o neumática"],
+    "options": [
+    "a. Observación esperando la resolución espontánea",
+    "b. Desinvaginación hidrostática o neumática",
+    "c. Desinvaginación quirúrgica por abordaje laparoscópico"
+    ],
+    "comment": "",
+    "discipline": "Emergencia"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 45,
+    "question": "¿Cuál es la cronología típica en que aparecen los síntomas de una Apendicitis aguda (Tríada de Murphy)?",
+    "answer": ["c. Dolor, vómitos y fiebre"],
+    "options": [
+    "a. Fiebre, cefalea y dolor",
+    "b. Cefalea, dolor y fiebre",
+    "c. Dolor, vómitos y fiebre"
+    ],
+    "comment": "",
+    "discipline": "Emergencia"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 46,
+    "question": "Tomando el texto de Bonifacino (2019), el desarrollo humano en los primeros años de vida está influenciado por diversos factores. ¿Cuál de las siguientes afirmaciones es correcta en relación con estos factores?",
+    "answer": ["b. Los factores genéticos y epigenéticos interactúan con el contexto ambiental para moldear el desarrollo"],
+    "options": [
+    "a. Las condiciones socioeconómicas influyen sólo negativamente en la interacción madre-bebé",
+    "b. Los factores genéticos y epigenéticos interactúan con el contexto ambiental para moldear el desarrollo",
+    "c. El desarrollo temprano depende exclusivamente de los estímulos proporcionados por los cuidadores primarios"
+    ],
+    "comment": "",
+    "discipline": "SMC"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 47,
+    "question": "¿Qué dimensiones de la interacción temprana se relacionan con la adquisición de la regulación emocional durante la infancia?",
+    "answer": ["a. Intercambios sensoriales, motores y afectivos entre el lactante y sus cuidadores primarios"],
+    "options": [
+    "a. Intercambios sensoriales, motores y afectivos entre el lactante y sus cuidadores primarios",
+    "b. Lactancia materna exclusiva durante los primeros seis meses, ya que favorece un vínculo sano madre-hijo",
+    "c. Coherencia entre las expresiones internas y externas de las emociones de los adultos referentes"
+    ],
+    "comment": "",
+    "discipline": "SMC"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 48,
+    "question": "Según Rebollo, teniendo en cuenta la función afectada ¿cómo podemos clasificar a las dificultades del aprendizaje?",
+    "answer": ["a. Dificultades en las praxias, las gnosias, el lenguaje y las habilidades matemáticas"],
+    "options": [
+    "a. Dificultades en las praxias, las gnosias, el lenguaje y las habilidades matemáticas",
+    "b. Dificultades en la memoria, la atención, la escritura y las operaciones concretas",
+    "c. Dificultades en las funciones ejecutivas, el razonamiento, la percepción y el cálculo"
+    ],
+    "comment": "",
+    "discipline": "SMC"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 49,
+    "question": "Al pensar el abordaje de un paciente pediátrico que presenta enuresis, es de importancia valorar las repercusiones que puede tener en diferentes áreas del desarrollo. En este sentido, ¿cuáles son las repercusiones que se presentan con mayor frecuencia?",
+    "answer": ["a. Sentimientos de vergüenza, baja autoestima, así como retracción social y conflictos en el seno familiar"],
+    "options": [
+    "a. Sentimientos de vergüenza, baja autoestima, así como retracción social y conflictos en el seno familiar",
+    "b. Alteraciones a nivel de la motricidad y el relacionamiento, que van a perdurar hasta la vida adulta",
+    "c. Afectación del área motora y del lenguaje vinculada a una alteración global del desarrollo"
+    ],
+    "comment": "",
+    "discipline": "SMC"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 50,
+    "question": "Estefani de 14 años es llevada por su madre a una Policlínica del Primer Nivel de Atención para control en salud. Al realizar el examen físico, la pediatra constata lesiones en muslos y antebrazos de varios días de evolución, acerca de las cuales la paciente refiere haberse cortado con una trincheta en el baño del liceo. Cuando se le pregunta por qué lo hace, responde: “me hace sentir mejor“. ¿Qué conducta tomaría usted si fuera la pediatra tratante?",
+    "answer": ["b. Aprovecha la consulta para pesquisar otros signos de riesgo"],
+    "options": [
+    "a. Instala tratamiento medicamentoso con antidepresivos",
+    "b. Aprovecha la consulta para pesquisar otros signos de riesgo",
+    "c. Informa a la madre que su hija ha realizado un intento de autoeliminación "
+    ],
+    "comment": "",
+    "discipline": "PM"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 51,
+    "question": "En una consulta en policlínica una madre solicita orientación al médico sobre cómo decirle a su hija de 5 años que su abuela murió la semana pasada. El mismo la orienta y hace especial énfasis en no decirle a la niña que su abuela “se fue al cielo“ o “se durmió“. ¿Qué característica del tipo de pensamiento de un niño de esa edad tiene en cuenta el médico para realizar dicha sugerencia?",
+    "answer": ["a. Lo concreto del pensamiento"],
+    "options": [
+    "a. Lo concreto del pensamiento",
+    "b. Lo egocéntrico del pensamiento",
+    "c. Lo deductivo del pensamiento"
+    ],
+    "comment": "",
+    "discipline": "PM"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 52,
+    "question": "¿Cuál es el objetivo principal de la psicoprofilaxis quirúrgica?:",
+    "answer": ["c. Trabaja el aspecto emocional del niño frente a la cirugía"],
+    "options": [
+    "a. Brindar información acerca de la cirugía",
+    "b. Evitar la angustia del niño previo a la cirugía",
+    "c. Trabaja el aspecto emocional del niño frente a la cirugía"
+    ],
+    "comment": "",
+    "discipline": "PM"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 53,
+    "question": "¿Cuál es la mejor manera de tratar la información de situación de enfermedad de un niño escolar internad en una Unidad de Cuidados intensivos?",
+    "answer": ["a. Brindar al niño la información de forma dosificada en un proceso"],
+    "options": [
+    "a. Brindar al niño la información de forma dosificada en un proceso",
+    "b. Delegar en los padres la tarea de brindarle la información",
+    "c. Referirse exclusivamente a los padres para evitar la angustia del niño"
+    ],
+    "comment": "",
+    "discipline": "PM"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 54,
+    "question": "¿En cuál de estas edades es esperable el temor por parte del niño a la separación de sus figuras de apego?",
+    "answer": ["c. 2 años"],
+    "options": [
+    "a. 10 años",
+    "b. 7 años",
+    "c. 2 años"
+    ],
+    "comment": "",
+    "discipline": "PM"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 55,
+    "question": "Un niño de 6 años que se encuentra actualmente internado, tiene un hermano de 4 años que según la mac siente que es su culpa que el hermano se haya enfermado y que ha manifestado, por momentos, sentimientos hostiles hacia su hermano. ¿Qué característica del tipo de pensamiento explica que el hermano sienta que desencadenó la enfermedad de su hermano?",
+    "answer": ["a. El aspecto mágico del pensamiento"],
+    "options": [
+    "a. El aspecto mágico del pensamiento",
+    "b. El aspecto concreto del pensamiento",
+    "c. El aspecto inductivo del pensamiento"
+    ],
+    "comment": "",
+    "discipline": "PM"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 56,
+    "question": "¿Cuáles son las lesiones más frecuentes en los casos de maltrato físico?",
+    "answer": ["a. Equimosis y hematomas"],
+    "options": [
+    "a. Equimosis y hematomas",
+    "b. Quemaduras por cigarrillos",
+    "c. Hemorragias retinianas"
+    ],
+    "comment": "",
+    "discipline": "ML"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 57,
+    "question": "En un niño de 7 años se hace diagnóstico de intoxicación por benzodiacepinas. Surge de la anamnesis que es su padre quien se las administra, sin prescripción médica con el objetivo de que “se tranquilice porque es muy inquieto“. ¿Cuál es su principal planteo diagnóstico?",
+    "answer": ["b. Maltrato químico"],
+    "options": [
+    "a. Negligencia",
+    "b. Maltrato químico",
+    "c. Sindrome de Münchausen"
+    ],
+    "comment": "",
+    "discipline": "ML"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 58,
+    "question": "Ante un lactante de 3 meses que es llevado a consulta en policlínica periférica por llanto incoercible e impotencia funcional del brazo derecho se diagnostica un síndrome fracturario en el húmero. ¿Cuál sería su conducta?",
+    "answer": ["b. Efectuar el traslado a un centro de mayor nivel"],
+    "options": [
+    "a. Realizar la denuncia en la seccional policial",
+    "b. Efectuar el traslado a un centro de mayor nivel",
+    "c. Solicitar una interconsulta con el médico legista"
+    ],
+    "comment": "",
+    "discipline": "ML"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 59,
+    "question": "¿Qué establece la normativa nacional con relación al derecho de niños, niñas y adolescentes respecto a recibir información y brindar su consentimiento en el sistema de salud?",
+    "answer": ["a. Deben recibir información de acuerdo a su capacidad de entendimiento"],
+    "options": [
+    "a. Deben recibir información de acuerdo a su capacidad de entendimiento",
+    "b. Los adolescentes maduros pueden documentar una voluntad anticipada",
+    "c. El grado de madurez debe ser valorado por el psiquiatra de la institución"
+    ],
+    "comment": "",
+    "discipline": "ML"
+    },
+
+    {
+    "info_quest": "Examen 2/2025",
+        "numb": 60,
+    "question": "Un lactante de 6 meses es llevado a la emergencia del centro de salud tras un episodio de vómitos y diarrea de 24 horas de evolución. Presenta deshidratación severa. Se inician maniobras de reposición, a las cuales no responde, instalando shock, paro cardiorrespiratorio y fallece. ¿Cuál de las siguientes conductas medicolegales debería adoptar el médico del servicio de urgencia?",
+    "answer": ["a. Firmar el certificado de defunción"],
+    "options": [
+    "a. Firmar el certificado de defunción",
+    "b. Realizar la denuncia policial",
+    "c. Ingresarlo al programa MIL (Muerte inesperada del lactante)"
+    ],
+    "comment": "",
+    "discipline": "ML"
+    }
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 
