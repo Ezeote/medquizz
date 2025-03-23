@@ -362,12 +362,12 @@ quit_quiz.onclick = () => {
     userScore = 0;
     userAnswers = [];
     disciplineScores = {
-        Bacterio: { correct: 0, total: 0 },
-        Parasito: { correct: 0, total: 0 },
-        Fisiopato: { correct: 0, total: 0 },
-        Farmaco: { correct: 0, total: 0 },
-        Biofisica: { correct: 0, total: 0 },
-        AnatoP: { correct: 0, total: 0 }
+        PED: { correct: 0, total: 0 },
+        Emergencia: { correct: 0, total: 0 },
+        Cirugia: { correct: 0, total: 0 },
+        ML: { correct: 0, total: 0 },
+        SMC: { correct: 0, total: 0 },
+        PM: { correct: 0, total: 0 }
     };
 
     // Re-select questions from the same disciplines
@@ -396,12 +396,12 @@ changeDisciplineBtn.onclick = () => {
     userScore = 0;
     userAnswers = [];
     disciplineScores = {
-        Bacterio: { correct: 0, total: 0 },
-        Parasito: { correct: 0, total: 0 },
-        Fisiopato: { correct: 0, total: 0 },
-        Farmaco: { correct: 0, total: 0 },
-        Biofisica: { correct: 0, total: 0 },
-        AnatoP: { correct: 0, total: 0 }
+        PED: { correct: 0, total: 0 },
+        Emergencia: { correct: 0, total: 0 },
+        Cirugia: { correct: 0, total: 0 },
+        ML: { correct: 0, total: 0 },
+        SMC: { correct: 0, total: 0 },
+        PM: { correct: 0, total: 0 }
     };
 
     // Clear selected disciplines
@@ -473,7 +473,5 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 });
-
-// ...existing code...
 
 
