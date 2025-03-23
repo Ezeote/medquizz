@@ -438,7 +438,7 @@ let questions = [
     "c. Pulsos periféricos llenos"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -451,7 +451,7 @@ let questions = [
     "c. E"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -464,7 +464,7 @@ let questions = [
     "c. Quejido"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -477,7 +477,7 @@ let questions = [
     "c. Dificultad respiratoria"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -490,7 +490,7 @@ let questions = [
     "c. PAS"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -503,7 +503,7 @@ let questions = [
     "c. Crisis epiléptica con fiebre"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -516,7 +516,7 @@ let questions = [
     "c. Temperatura de 39,5%C"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -529,7 +529,7 @@ let questions = [
     "c. Disminución de la diuresis"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -542,7 +542,7 @@ let questions = [
     "c. Convulsión breve inmediata al trauma"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -555,7 +555,7 @@ let questions = [
     "c. Ingesta de antidepresivos 1 hora previa"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Emergencia"
     },
 
     {
@@ -568,7 +568,7 @@ let questions = [
     "c. Pase a policlínica para ingresar a la lista de coordinación."
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Cirugia"
     },
 
     {
@@ -581,7 +581,7 @@ let questions = [
     "c. Medidas higiénicas + crema con corticoides"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "Cirugia"
     },
 
     {
@@ -594,7 +594,7 @@ let questions = [
     "c. Funciona como organizador de la interacción y favorece la regulación mutua"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "SMC"
     },
 
     {
@@ -607,7 +607,7 @@ let questions = [
     "c. De las funciones sensoriales y psicomotoras"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "SMC"
     },
 
     {
@@ -620,7 +620,7 @@ let questions = [
     "c. Corrigiendo activamente las representaciones mentales de los cuidadores, por los riesgos que implican"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "SMC"
     },
 
     {
@@ -633,7 +633,7 @@ let questions = [
     "c. Determinar las posibilidades de aprendizaje que el niño desplegará durante su infancia"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "SMC"
     },
 
     {
@@ -646,7 +646,7 @@ let questions = [
     "c. Exploración sexual y descubrimiento de los genitales"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "SMC"
     },
 
     {
@@ -659,7 +659,7 @@ let questions = [
     "c. Puede comprender que es algo que nos sucederá a todas las personas"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "PM"
     },
 
     {
@@ -672,7 +672,7 @@ let questions = [
     "c. Se caracteriza por la abstracción"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "PM"
     },
 
     {
@@ -685,7 +685,7 @@ let questions = [
     "c. Es una técnica psicoterapéutica que trabaja aspectos emocionales"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "PM"
     },
 
     {
@@ -698,7 +698,7 @@ let questions = [
     "c. Dificultades en la relación médico-paciente."
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "PM"
     },
 
     {
@@ -711,7 +711,7 @@ let questions = [
     "c. Aclarar que la expresión de las emociones como el miedo y la angustia es algo normal"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "PM"
     },
 
     {
@@ -724,7 +724,7 @@ let questions = [
     "c. El hematoma retroperitoneal es un hallazgo habitual en menores de 2 años"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "ML"
     },
 
     {
@@ -737,7 +737,7 @@ let questions = [
     "c. La infección respiratoria baja es un diagnóstico autópsico frecuente"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "ML"
     },
 
     {
@@ -750,7 +750,7 @@ let questions = [
     "c. La comprobación de fisuras anales a la hora 6 en posición ginecológica"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "ML"
     },
 
     {
@@ -763,7 +763,7 @@ let questions = [
     "c. El examen genital normal no descarta el diagnóstico"
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "ML"
     },
 
     {
@@ -776,7 +776,7 @@ let questions = [
     "c. Las lesiones son sugestivas de un maltrato físico por mecanismo activo o por negligencia "
     ],
     "comment": "",
-    "discipline": "PED"
+    "discipline": "ML"
     },
 
 ];
