@@ -164,7 +164,7 @@ let questions = [
         {
         "info_quest": "1er Parcial 2020",
         "numb": 12,
-        "question": "La imagen corresponde al urocultivo de una paciente de 20 años con sintomatología urinaria baja. La placa fue sembrada con 10 microlitros de orina tomada por la técnica de chorro medio. <br> Con este resultado probablemente estemos frente a un caso de:",
+        "question": "La imagen corresponde al urocultivo de una paciente de 20 años con sintomatología urinaria baja. La placa fue sembrada con 10 microlitros de orina tomada por la técnica de chorro medio. <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/1Parcial2020/Media/p12.PNG' > <br> Con este resultado probablemente estemos frente a un caso de:",
         "answer": ["b. Muestra contaminada, puede corresponder a infección urinaria o no."],
         "options": [
         "a. El cultivo corresponde a un caso de infección urinaria polimicrobiana.",
@@ -325,7 +325,7 @@ let questions = [
         {
         "info_quest": "1er Parcial 2020",
         "numb": 23,
-        "question": "Usted está observando un coprocultivo en agar Salmonella-Shigella (Agar SS) de un niño de 2 años con diarrea aguda. <br> ¿Qué tipo de bacterias producen las colonias que se observan en la imagen?",
+        "question": "Usted está observando un coprocultivo en agar Salmonella-Shigella (Agar SS) de un niño de 2 años con diarrea aguda. <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/1Parcial2020/Media/p23.PNG' > <br> ¿Qué tipo de bacterias producen las colonias que se observan en la imagen?",
         "answer": ["b. Bacterias gram negativas no exigentes."],
         "options": [
         "a. Bacterias gram negativas exigentes.",
@@ -370,7 +370,7 @@ let questions = [
         {
         "info_quest": "1er Parcial 2020",
         "numb": 26,
-        "question": "La siguiente imagen muestra el resultado de una prueba de sinergia realizada en el agar Müller Hinton con discos de ceftriaxona, ácido clavulánico y ceftazidime. Se trata de un aislamiento de Escherichia coli recuperado de urocultivo. <br> Lo que se observa en la imagen se produce porque:",
+        "question": "La siguiente imagen muestra el resultado de una prueba de sinergia realizada en el agar Müller Hinton con discos de ceftriaxona, ácido clavulánico y ceftazidime. Se trata de un aislamiento de Escherichia coli recuperado de urocultivo. <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/1Parcial2020/Media/p26.PNG' > <br> Lo que se observa en la imagen se produce porque:",
         "answer": ["b. El ácido clavulánico inhibe la BLEE y se restaura el efecto de la cefalosporina."],
         "options": [
         "a. Existe efecto sinérgico entre la amoxicilina y el ácido clavulánico.",
@@ -488,7 +488,7 @@ let questions = [
         {
         "info_quest": "1er Parcial 2020",
         "numb": 34,
-        "question": "El laboratorio recibe una muestra de heces para coprocultivo procedente de un niño de 6 meses con diarrea. En el cultivo desarrolla colonias lactosa negativas; se realizas pruebas que determinan que el microorganismo pertenece a la familia Enterobacteriaceae. <br> En la prueba de MIO resulta inmóvil e indol positivo. Presenta el test de la fenilalanina desaminasa (PDA) negativo, es citrato negativo y ureasa positivo. No produce gas en el TSI y no produce ácido sulfhídrico (SH2). <br> Utilizando la tabla de identificación, ¿de qué género o especie bacteriana podría tratarse?",
+        "question": "El laboratorio recibe una muestra de heces para coprocultivo procedente de un niño de 6 meses con diarrea. En el cultivo desarrolla colonias lactosa negativas; se realizas pruebas que determinan que el microorganismo pertenece a la familia Enterobacteriaceae. <br> En la prueba de MIO resulta inmóvil e indol positivo. Presenta el test de la fenilalanina desaminasa (PDA) negativo, es citrato negativo y ureasa positivo. No produce gas en el TSI y no produce ácido sulfhídrico (SH2). <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/1Parcial2020/Media/p34.PNG' > <br> Utilizando la tabla de identificación, ¿de qué género o especie bacteriana podría tratarse?",
         "answer": ["d. Salmonella"],
         "options": [
         "a. Shigella",
@@ -575,7 +575,7 @@ let questions = [
         {
         "info_quest": "1er Parcial 2020",
         "numb": 40,
-        "question": "El laboratorio recibe una muestra de líquido céfalo-raquídeo (LCR) de un niño de 3 meses de vida con diagnóstico de meningoencefalitis aguda. El aspecto del LCR es turbio. La imagen muestra el examen directo de esta muestra: <br> Además de leucocitos polimorfonucleares, ¿qué se observa?",
+        "question": "El laboratorio recibe una muestra de líquido céfalo-raquídeo (LCR) de un niño de 3 meses de vida con diagnóstico de meningoencefalitis aguda. El aspecto del LCR es turbio. La imagen muestra el examen directo de esta muestra: <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/1Parcial2020/Media/p40.PNG' > <br> Además de leucocitos polimorfonucleares, ¿qué se observa?",
         "answer": ["d. Cocos gram positivos en pares"],
         "options": [
         "a. Bacilos gram negativos",
