@@ -246,7 +246,7 @@ let questions = [
     {
     "info_quest": "2do Parcial 2020",
     "numb": 18,
-    "question": "En un modelo animal se registra la mecánica ventilatoria antes y después de una intervención experimental. Los valores se muestran en la tabla adjunta  <br> ¿Qué cambios se observan en la mecánica respiratoria luego de la intervención experimental?",
+    "question": "En un modelo animal se registra la mecánica ventilatoria antes y después de una intervención experimental. Los valores se muestran en la tabla adjunta <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/2Parcial2020/Media/p18-2P2020.PNG' > <br> ¿Qué cambios se observan en la mecánica respiratoria luego de la intervención experimental?",
     "answer": ["d) Se observa un descenso de la complacencia del sistema respiratorio, tanto en condiciones estáticas como dinámicas"],
     "options": [
     "a) Las resistencias totales de la vía aérea disminuyen",
@@ -540,7 +540,7 @@ let questions = [
     {
     "info_quest": "2do Parcial 2020",
     "numb": 38,
-    "question": "Indique la opción correcta interpretando visualmente las siguientes curvas dosis-respuesta: ",
+    "question": "Indique la opción correcta interpretando visualmente las siguientes curvas dosis-respuesta: <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/2Parcial2020/Media/p38-2P2020.PNG' >",
     "answer": ["d) La curva número 1 corresponde a un agonista puro."],
     "options": [
     "a) La curva número 2 presenta mayor eficacia que la curva número 1.",
@@ -614,7 +614,7 @@ let questions = [
     {
     "info_quest": "2do Parcial 2020",
     "numb": 43,
-    "question": "En la siguiente gráfica se representan superpuestas las curvas de concentración plasmática en función de tiempo de una dosis de 10 mg de un fármaco Z administrado por diferentes vías: oral, intravenosa, intramuscular y subcutáne  <br> Señale la opción que intepreta correctamente las curvas:",
+    "question": "En la siguiente gráfica se representan superpuestas las curvas de concentración plasmática en función de tiempo de una dosis de 10 mg de un fármaco Z administrado por diferentes vías: oral, intravenosa, intramuscular y subcutáne  <br> Señale la opción que intepreta correctamente las curvas: <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/2Parcial2020/Media/p43-2P2020.PNG' >",
     "answer": ["c) Si la curva d es la vía oral, la curva b puede ser la vía intramuscular"],
     "options": [
     "a) La curva b es la vía subcutánea y la curva d es la vía intravenosa",
