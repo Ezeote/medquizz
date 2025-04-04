@@ -274,7 +274,7 @@ let questions = [
 
     {
     "numb": 21,
-    "question": "La siguiente es una tabla donde se muestra los halos de sensibilidad por el método de disco difusión en agar para una cepa de Staphylococcus aureus aislada a partir del exudado de un absceso. <br> <img src= '' > <br> ¿Como interpreta desde este antibiograma la susceptibilidad de esta cepa a cefradina?",
+    "question": "La siguiente es una tabla donde se muestra los halos de sensibilidad por el método de disco difusión en agar para una cepa de Staphylococcus aureus aislada a partir del exudado de un absceso. <br> <img src= 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/1Parcial2022/Media/p21-1P2022.PNG' > <br> ¿Como interpreta desde este antibiograma la susceptibilidad de esta cepa a cefradina?",
     "answer": ["b. Es resistente"],
     "options": [
     "a. Es susceptible",
@@ -343,7 +343,7 @@ let questions = [
 
     {
     "numb": 26,
-    "question": "Paciente con internación prolongada en cuidados intensivos. Comienza con fiebre, por lo que se realizan cultivos bacteriológicos varios. Los hemocultivos se positivizan, observándose en el examen directo con tinción de Gram la siguiente imagen: <br> <img src= '' > <br> En función de lo observado ¿Cuál puede ser el agente de esta bacteriemia?",
+    "question": "Paciente con internación prolongada en cuidados intensivos. Comienza con fiebre, por lo que se realizan cultivos bacteriológicos varios. Los hemocultivos se positivizan, observándose en el examen directo con tinción de Gram la siguiente imagen: <br> <img src= 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/1Parcial2022/Media/p26-1P2022.PNG' > <br> En función de lo observado ¿Cuál puede ser el agente de esta bacteriemia?",
     "answer": ["d. Staphylococcus sp"],
     "options": [
     "a. Streptococcus sp.",
@@ -425,7 +425,7 @@ let questions = [
 
     {
     "numb": 32,
-    "question": "En el laboratorio de microbiología se recibió una muestra para urocultivo de un niño de 2 meses. Se aisló un bacilo Gram negativo lactosa positivo que se clasificó dentro del grupo de las enterobacterias. Se realizaron pruebas bioquímicas manuales para determinar género o especie cuyos resultados se muestran a continuación: <br> Móvil, ornitina descarboxilasa +, indol-, lisina descarboxilasa -, fenilalanina desaminasa -, citrato + y en el TSI muestra gas positivo y sulfídrico negativo <br> <img src= '' > <br> ¿A cuál de los siguientes corresponde?",
+    "question": "En el laboratorio de microbiología se recibió una muestra para urocultivo de un niño de 2 meses. Se aisló un bacilo Gram negativo lactosa positivo que se clasificó dentro del grupo de las enterobacterias. Se realizaron pruebas bioquímicas manuales para determinar género o especie cuyos resultados se muestran a continuación: <br> Móvil, ornitina descarboxilasa +, indol-, lisina descarboxilasa -, fenilalanina desaminasa -, citrato + y en el TSI muestra gas positivo y sulfídrico negativo <br> <img src= 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/1Parcial2022/Media/p32-1P2022.PNG' > <br> ¿A cuál de los siguientes corresponde?",
     "answer": ["b. Enterobacter spp"],
     "options": [
     "a. Serratia marcescens",
@@ -519,7 +519,7 @@ let questions = [
 
     {
     "numb": 39,
-    "question": "En la imagen se muestra el resultado del antibiograma de una E. coli aislada de un urocultivo. <br> <img src= '' > <br> A partir de este resultado ¿a qué antibióticos se puede predecir que esta bacteria será resistente?",
+    "question": "En la imagen se muestra el resultado del antibiograma de una E. coli aislada de un urocultivo. <br> <img src= 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/1Parcial2022/Media/p39-1P2022.PNG' > <br> A partir de este resultado ¿a qué antibióticos se puede predecir que esta bacteria será resistente?",
     "answer": ["c. Ampicilina, cefradina, cefuroxime y ceftriaxona"],
     "options": [
     "a. Amoxicilina con ácido clavulánico, ceftriaxona, cefuroxime",
@@ -532,7 +532,7 @@ let questions = [
 
     {
     "numb": 40,
-    "question": "En el laboratorio de microbiología se recibe una muestra para urocultivo de una mujer de 25 años. La muestra se siembra en agar sangre y agar MacConkey-lactosa y luego de su incubación se observa lo siguiente (izquierda placa de agar sangre, derecha placa de agar MacConkey-lactosa): <br> <img src= '' > <br> ¿Cómo interpreta estos resultados?",
+    "question": "En el laboratorio de microbiología se recibe una muestra para urocultivo de una mujer de 25 años. La muestra se siembra en agar sangre y agar MacConkey-lactosa y luego de su incubación se observa lo siguiente (izquierda placa de agar sangre, derecha placa de agar MacConkey-lactosa): <br> <img src= 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/1Parcial2022/Media/p40-1P2022.PNG' > <br> ¿Cómo interpreta estos resultados?",
     "answer": ["a. Recuento significativo de una bacteria gram negativa"],
     "options": [
     "a. Recuento significativo de una bacteria gram negativa",
