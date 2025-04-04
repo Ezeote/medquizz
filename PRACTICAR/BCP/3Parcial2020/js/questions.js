@@ -519,7 +519,7 @@ let questions = [
 
     {
     "numb": 39,
-    "question": " Por fuera de los límites de autorregulación cerebral, frente a un descenso de la presión de perfusión cerebral:",
+    "question": " Por fuera de los límites de autorregulación cerebral, frente a un descenso de la presión de perfusión cerebral: <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/3Parcial2020/Media/p39-3P2020.PNG' >",
     "answer": ["a. El flujo sanguíneo cerebral disminuye"],
     "options": [
     "a. El flujo sanguíneo cerebral disminuye",
@@ -533,7 +533,7 @@ let questions = [
 
     {
     "numb": 40,
-    "question": " Paciente 55 años ingresa por hematemesis (vómitos con sangre) por ulcus gastroduodenal. Al ingreso paciente con PA 70/50 mmHg, que mejora luego del tratamiento. <br> ¿Cuál es el valor de fracción excretada de sodio más probable en esta situación al ingreso?",
+    "question": " Paciente 55 años ingresa por hematemesis (vómitos con sangre) por ulcus gastroduodenal. Al ingreso paciente con PA 70/50 mmHg, que mejora luego del tratamiento. <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/3Parcial2020/Media/p40-3P2020.PNG' > <br> ¿Cuál es el valor de fracción excretada de sodio más probable en esta situación al ingreso?",
     "answer": ["c. 0,5%"],
     "options": [
     "a. 15%",
