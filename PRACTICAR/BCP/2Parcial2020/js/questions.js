@@ -5,7 +5,7 @@ let questions = [
     "numb": 1,
     "question": "¿Cuál es el agente etiológico de la sarna?",
     "answer": "a) Sarcoptes scabiei var hominis",
-    "optitons": [ 
+    "options": [ 
     "a) Sarcoptes scabiei var hominis",
     "b) Pediculus humanus var corporis",
     "c) Phthrius pubis"
