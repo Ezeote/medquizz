@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:type" content="website" />
+    <script src="https://kit.fontawesome.com/f5e72e50e2.js" crossorigin="anonymous"></script>
+
+    <title>RandomQuiz</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- FontAweome CDN Link for Icons-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+    
+    
+</head>
+<body>
+    <header class="bg-white shadow-md">
+        <div class="container1 mx-auto flex justify-between items-center p-4" id="headerCont">
+            <div class="flex items-center">
+                <img alt="logo" class="logo" height="100" src="https://ezeote.github.io/medquizz/Media/miLogo2.png" width=""/>
+            </div>
+            <h1>PRACTICÁ POR TEMAS</h1>
+            <div class="flex-grow text-center">
+                <h1 class="text-xl font-bold"></h1>
+            </div>
+            <nav>
+                <ul class="flex space-x-4">
+                    <li>
+                        <a class="text-gray-700 hover:text-blue-500" href="https://ezeote.github.io/medquizz">Inicio</a>
+                    </li>
+                    <input class="buscador" type="text" placeholder="Search..">
+                </ul>
+            </nav>
+        </div>
+    </header> 
+  
+
+    <!-- Info Box -->
+    <div class="info_box activeInfo">
+        
+        <div class="info-title"><p>10 preguntas aleatorias</p></div>
+                <!-- Selección de disciplina -->
+                <div class="discipline_selection">
+                    <h2>Elegí uno o más módulos</h2>
+                    <label><input type="checkbox" name="discipline" value="Pato"> Patología  médica </label> <br>
+                    <label><input type="checkbox" name="discipline" value="Farmaco"> Farmacología </label> <br>
+                    <label><input type="checkbox" name="discipline" value="AnatoP"> Anatomía Patológica </label>
+                </div>
+        <div class="buttons">
+            <button class="quit"><a href="https://ezeote.github.io/medquizz/BCP/index.html">Salir</a></button>
+            <button class="restart">Continuar</button>
+        </div>
+    </div>
+
+    <!-- BUSCADOR -->
+    <div id="search-results" style="position: absolute; z-index: 9; background: white; border: 1px solid #ccc; display: none;"></div>
+    
+
+
+    <!-- Quiz Box -->
+    <div class="quiz_box">
+        <div class="info_preg"></div>
+        <section>
+            <div class="que_text">
+                <!-- Here I've inserted question from JavaScript -->
+            </div>
+            <div class="option_list">
+                <!-- Here I've inserted options from JavaScript -->
+            </div>
+            <div class="comment_section" id="comment_section">
+                <!-- Comment will be displayed here -->
+            </div>
+        </section>
+    </div>
+
+    <div class="footerNav">
+        <button class="prev_btn">←</button>
+        <div class="total_que"></div>
+        <button class="next_btn">→</button>
+    </div>
+
+  <!-- Result Box -->
+  <div class="result_box">
+    <div class="mainResult">
+        <div class="complete_text">FINALIZADO!</div>
+        <div class="score_text">
+            <!-- Here I've inserted Score Result from JavaScript -->
+        </div>
+    </div>
+          
+
+    <div class="question_results">
+        <!-- Question results will be inserted here -->
+    </div>
+
+    <div class="buttons">
+        <button class="quit" href="">INTENTAR 10 MÁS!</button>
+        <button class="changeDiscipline" href="">ELEGIR OTRA MATERIA</button>
+    </div>
+</div>
+
+
+    <!-- Inside this JavaScript file I've inserted Questions and Options only    -->
+    <script  src="js/questions.js"></script>
+    
+
+    <!-- Inside this JavaScript file I've coded all Quiz Codes -->
+    <script src="js/script.js"></script>
+
+</body>
+</html>
