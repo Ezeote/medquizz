@@ -3707,7 +3707,621 @@ let questions = [
           "comment": "",
           },
         ///////////////////////////////////////////////////////////////////////
-    
+        {
+    "info_quest": "Random",
+    "numb": 1,
+    "question": "Hombre de 34 años, privado de libertad que consulta por cuadro toxiinfeccioso de un mes de evolución. Presenta lesión nodular mal definida en hemitórax izquierdo. Con diagnóstico presuntivo de Tuberculosis se realiza biopsia pulmonar. Indique cuál es el cuadro histológico que espera encontrar:",
+    "answer": ["D) Granulomas con necrosis central y células de Langhans"],
+    "options": [
+    "A) Granulomas epitelioides con necrosis fibrinoide",
+    "B) Granulomas epitelioides sin necrosis y células gigantes multinucleadas",
+    "C) Granulomas con necrosis con detritus nucleares",
+    "D) Granulomas con necrosis central y células de Langhans"
+    ],
+    "discipline": "AnatoP",
+    "comment": "",
+    },
+    {
+    "info_quest": "Random",
+    "numb": 2,
+    "question": "Durante el examen macroscópico de una pieza de corazón producto de autopsia, ud observa una válvula mitral con las siguientes alteraciones: valvas engrosadas con acortamiento y fusión de las comisuras, puentes entre las comisuras y fusión de las cuerdas tendinosas. ¿Cuál sería su diagnóstico?",
+    "answer": ["B) Estenosis mitral reumática"],
+    "options": [
+    "A) Absceso en anillo de la válvula mitral",
+    "B) Estenosis mitral reumática",
+    "C) Insuficiencia mitral aguda",
+    "D) Prolapso de la válvula mitral"
+    ],
+    "discipline": "AnatoP",
+    "comment": "",
+    },
+    {
+    "info_quest": "Random",
+    "numb": 3,
+    "question": "¿Cuál de los siguientes elementos morfológicos es el factor pronóstico más importante a identificar en un paciente con diagnóstico de melanoma maligno?",
+    "answer": ["C) Profundidad de la invasión"],
+    "options": [
+    "A) Tamaño de la lesión",
+    "B) Presencia de nucléolo prominente",
+    "C) Profundidad de la invasión",
+    "D) Presencia de pigmento melánico"
+    ],
+    "discipline": "AnatoP",
+    "comment": "",
+    },
+    {
+    "info_quest": "Random",
+    "numb": 4,
+    "question": "La lesión glomerular mínima se caracteriza por:",
+    "answer": ["D) Glomérulos sin alteraciones ópticas"],
+    "options": [
+    "A) Presencia de depósitos intensos mesangiales de IgG",
+    "B) Membranas basales capilares gruesas",
+    "C) Presencia de semilunas celulares",
+    "D) Glomérulos sin alteraciones ópticas"
+    ],
+    "discipline": "AnatoP",
+    "comment": "",
+    },
+    {
+    "info_quest": "Random",
+    "numb": 5,
+    "question": "Paciente de sexo femenino que consulta por la aparición de una lesión plana circunscrita que se distingue de la piel que la rodea por el color. Mide 4 mm. ¿A qué lesión cutánea corresponde?",
+    "answer": ["A) Mácula"],
+    "options": [
+    "A) Mácula",
+    "B) Habón",
+    "C) Placa",
+    "D) Pápula"
+    ],
+    "discipline": "AnatoP",
+    "comment": "",
+    },
+    {
+    "info_quest": "Random",
+    "numb": 6,
+    "question": "Hombre de 70 años, fumador intenso, que presenta masa tumoral parahiliar pulmonar. Se realiza biopsia que muestra la siguiente imagen histológica: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/PMYT/Buscador/Media/p6.PNG' > <br> Indique cuál sería su planteo diagnóstico:",
+    "answer": ["A) Carcinoma neuroendócrino a células pequeñas"],
+    "options": [
+    "A) Carcinoma neuroendócrino a células pequeñas",
+    "B) Carcinoma escamoso moderadamente diferenciado",
+    "C) Carcinoma sólido de tipo sarcomatoide",
+    "D) Adenocarcinoma moderadamente diferenciado"
+    ],
+    "discipline": "AnatoP",
+    "comment": "",
+    },
+    {
+    "info_quest": "Random",
+    "numb": 7,
+    "question": "Un tumor benigno originado en el epitelio de la mucosa colónica se denomina:",
+    "answer": ["B) Adenoma"],
+    "options": [
+    "A) Carcinoma",
+    "B) Adenoma",
+    "C) Papiloma",
+    "D) Angioma"
+    ],
+    "discipline": "AnatoP",
+    "comment": "",
+    },
+    {
+    "info_quest": "Random",
+    "numb": 8,
+    "question": "Paciente de sexo femenino que consulta por la aparicion de una lesion elevada de 4 mm con liquido en su interior. ¿A qué lesión cutánea corresponde?",
+    "answer": ["C) vesícula"],
+    "options": [
+    "A) habón",
+    "B) mácula",
+    "C) vesícula",
+    "D) pápula"
+    ],
+    "discipline": "AnatoP",
+    "comment": "",
+    },
+    {
+    "info_quest": "Random",
+    "numb": 9,
+    "question": "Mujer de 55 años, fumadora pasiva que presenta tumoración redondeada en lóbulo superior de pulmón derecho. Se realiza biopsia que muestra la siguiente imagen histológica: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/PMYT/Buscador/Media/p9.PNG' > <br> Indique cuál sería su planteo diagnóstico:",
+    "answer": ["A) Adenocarcinoma bien diferenciado"],
+    "options": [
+    "A) Adenocarcinoma bien diferenciado",
+    "B) Carcinoma sólido de tipo sarcomatoide",
+    "C) Carcinoma neuroendócrino a células pequeñas",
+    "D) Carcinoma escamoso bien diferenciado"
+    ],
+    "discipline": "AnatoP",
+    "comment": "",
+    },
+    {
+    "info_quest": "Random",
+    "numb": 10,
+    "question": "En el examen macroscópico de una pieza de corazón durante una autopsia Ud. observa la presencia de pequeñas vegetaciones inflamatorias verrugosas de 1 a 2 mm, que se disponen siguiendo las líneas de cierre valvular, que afección le sugiere:",
+    "answer": ["B) Cardiopatía reumática aguda"],
+    "options": [
+    "A) Cardiopatía reumática crónica",
+    "B) Cardiopatía reumática aguda",
+    "C) Endocarditis infecciosa",
+    "D) Degeneración mixomatosa de la válvula"
+    ],
+    "discipline": "AnatoP",
+    "comment": "",
+    },
+    {
+    "info_quest": "Random",
+    "numb": 11,
+    "question": "La presencia de un nevus melanocítico displásico es factor predisponente para:",
+    "answer": ["D) melanoma maligno nodular"],
+    "options": [
+    "A) carcinoma escamoso bien diferenciado",
+    "B) queratosis actínica hiperqueratósica",
+    "C) carcinoma basocelular",
+    "D) melanoma maligno nodular"
+    ],
+    "discipline": "AnatoP",
+    "comment": "",
+    },
+    {
+    "info_quest": "Random",
+    "numb": 12,
+    "question": "Mujer de 30 años, consumo problemático de drogas, en situación de calle. Consulta por cuadro de tos, fiebre y dolor torácico de 1 mes de evolución. Presenta lesión nodular de bordes mal definidos en pulmón derecho y con diagnóstico presuntivo de tuberculosis pulmonar se biopsia. Cual es el cuadro histológico que espera encontrar?",
+    "answer": ["D) Granulomas epitelioides con necrosis caseosa central"],
+    "options": [
+    "A) Granulomas epitelioides con células gigantes de tipo cuerpo extraño",
+    "B) Granulomas epitelioides confluentes sin necrosis",
+    "C) Granulomas confluentes con necrosis y PMN en acúmulos",
+    "D) Granulomas epitelioides con necrosis caseosa central"
+    ],
+    "discipline": "AnatoP",
+    "comment": "",
+    },
+    {
+    "info_quest": "Random",
+    "numb": 13,
+    "question": "Un tumor benigno originado en el epitelio de la mucosa colónica se denomina:",
+    "answer": ["C) adenoma"],
+    "options": [
+    "A) carcinoma",
+    "B) angioma",
+    "C) adenoma",
+    "D) papiloma"
+    ],
+    "discipline": "AnatoP",
+    "comment": "",
+    },
+    {
+    "info_quest": "Random",
+    "numb": 14,
+    "question": "Hombre de 53 años, fumador desde la adolescencia, que presenta tumoración espiculada en relación a bronquio lobar superior izquierdo. Se realiza biopsia que muestra la siguiente imagen histológica: <br> >img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/PMYT/Buscador/Media/p14.PNG' >",
+    "answer": ["A) Carcinoma escamoso bien diferenciado"],
+    "options": [
+    "A) Carcinoma escamoso bien diferenciado",
+    "B) Adenocarcinoma bien diferenciado",
+    "C) Carcinoma neuroendócrino a células pequeña",
+    "D) Carcinoma sólido de tipo sarcomatoide"
+    ],
+    "discipline": "AnatoP",
+    "comment": "",
+    },
+    {
+    "info_quest": "Random",
+    "numb": 15,
+    "question": "En relación al desarrollo de un melanoma, indique cuál de los siguientes es el factor que predispone al mismo:",
+    "answer": ["C) Presencia de nevus melanocítico displásico"],
+    "options": [
+    "A) Presencia de queratosis actínica en la epidermis adyacente",
+    "B) Presencia de carcinoma escamoso queratinizante bien diferenciado",
+    "C) Presencia de nevus melanocítico displásico",
+    "D) Presencia de carcinomas basocelulares múltiples"
+    ],
+    "discipline": "AnatoP",
+    "comment": "",
+    },
+    /////////////////////////////////////////////
+    {
+    "info_quest": "Random",
+    "numb": 1,
+    "question":" Con respecto a la farmacodinamia de las heparinas, señale la opción correcta:",
+    "answer": ["C) Aceleran la velocidad de inactivación principalmente de la trombina y el factor Xa"],
+    "options": [
+    "A) Antagonizan de forma competitiva a la trombina y al factor Xa",
+    "B) Inhiben la síntesis de los factores de la coagulación II, VII, IX y X",
+    "C) Aceleran la velocidad de inactivación principalmente de la trombina y el factor Xa",
+    "D) Se unan a la antitrombina inactivando principalmente al factor IXa"
+    ],
+    "discipline": "Farmaco",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "Random",
+    "numb": 2,
+    "question":" Paciente de 45 años, hipertenso. Consulta por episodio de estreñimiento. De la anamnesis farmacológica surge que se encuentra en tratamiento con valsartán, hidroclorotiazida, amlodipina, rosuvastatina y ácido acetilsalicílico. ¿A cuál de los siguientes fármacos se puede atribuir el estreñimiento?",
+    "answer": ["B) Amlodipina"],
+    "options": [
+    "A) Valsartán",
+    "B) Amlodipina",
+    "C) Ácido acetilsalicílico",
+    "D) Hidroclorotiazida"
+    ],
+    "discipline": "Farmaco",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "Random",
+    "numb": 3,
+    "question":" Según la guía GINA 2020, en pacientes mayores de 12 años que se encuentren en el paso 1 de control del asma, ¿cuál es el tratamiento recomendado como primera opción?",
+    "answer": ["C) Corticoides inhalados con formoterol a dosis bajas a demanda"],
+    "options": [
+    "A) Corticoides inhalados a dosis medias a demanda",
+    "B) Beta 2 agonistas de acción corta (SABA) cada 12 horas",
+    "C) Corticoides inhalados con formoterol a dosis bajas a demanda",
+    "D) Corticoides inhalados a dosis bajas con SABA a demanda"
+    ],
+    "discipline": "Farmaco",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "Random",
+    "numb": 4,
+    "question":" Según la guía de la buena prescripción de la OMS, ¿cuál es el orden en que se deben analizar los atributos para seleccionar un medicamento de forma racional? Marque la opción correcta:",
+    "answer": ["A) Eficacia, seguridad, conveniencia, costo"],
+    "options": [
+    "A) Eficacia, seguridad, conveniencia, costo",
+    "B) Costo, conveniencia, seguridad, eficacia",
+    "C) Eficacia, costo, conveniencia, seguridad",
+    "D) Seguridad, eficacia, conveniencia, costo"
+    ],
+    "discipline": "Farmaco",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "Random",
+    "numb": 5,
+    "question":" Mujer 52 años, sin antecedentes patológicos a destacar, usted realiza en la consulta diagnóstico de hipertensión arterial esencial grado 1, según la guía ESC/ESH 2018. ¿Cuál sería su conducta terapéutica?",
+    "answer": ["D) Se indica intervenciones en el estilo de vida, sin tratamiento farmacológico inicial, por 3-6 Meses"],
+    "options": [
+    "A) Se indica tratamiento farmacológico de inmediato, combinando tres fármacos antihipertensivos",
+    "B) Se indica tratamiento farmacológico de inmediato, en monoterapia a dosis máximas del fármaco antihipertensivo",
+    "C) Se indica tratamiento farmacológico de inmediato, combinando dos fármacos antihipertensivos",
+    "D) Se indica intervenciones en el estilo de vida, sin tratamiento farmacológico inicial, por 3-6 Meses"
+    ],
+    "discipline": "Farmaco",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "Random",
+    "numb": 6,
+    "question":" ¿En qué fase del desarrollo de medicamentos típicamente se estudia la seguridad a largo plazo?",
+    "answer": ["B) Fase 4"],
+    "options": [
+    "A) Fase 2",
+    "B) Fase 4",
+    "C) Fase 1",
+    "D) Fase 3"
+    ],
+    "discipline": "Farmaco",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "Random",
+    "numb": 7,
+    "question":" Señale cuál de las siguientes afirmaciones es correcta sobre la administración de fármacos por vía inhalatoria:",
+    "answer": ["B) El inicio de acción farmacológico es más rápido en comparación con la vía oral"],
+    "options": [
+    "A) Se obtienen las mismas concentraciones plasmáticas que con la vía oral",
+    "B) El inicio de acción farmacológico es más rápido en comparación con la vía oral",
+    "C) La mayor parte del fármaco inhalado se deposita en los pulmones",
+    "D) El uso de las cámaras espaciadoras disminuye la concentración pulmonar"
+    ],
+    "discipline": "Farmaco",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "Random",
+    "numb": 8,
+    "question":" Al respecto de la farmacocinética de las heparinas de bajo peso molecular (HBPM). Señale la opción correcta:",
+    "answer": ["C) La eliminación es esencialmente renal no saturable"],
+    "options": [
+    "A) Se pueden administrar por vía oral",
+    "B) Se unen ampliamente a proteínas plasmáticas",
+    "C) La eliminación es esencialmente renal no saturable",
+    "D) Tiene una cinética de distribución monocompartimental"
+    ],
+    "discipline": "Farmaco",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "Random",
+    "numb": 9,
+    "question":" Eficacia, efectividad y eficiencia valoran el beneficio de un fármaco en diferentes situaciones, marque la opción correcta:",
+    "answer": ["A) Eficacia es valorado en estudios de fase 2", "D) Eficiencia es el efecto clínico en relación al costo"],
+    "options": [
+    "A) Eficacia es valorado en estudios de fase 2",
+    "B) Efectividad es el efecto clínico del fármaco valorado en condiciones ideales",
+    "C) Eficacia es el efecto clínico del fármaco valorado en condiciones reales",
+    "D) Eficiencia es el efecto clínico en relación al costo"
+    ],
+    "discipline": "Farmaco",
+    "comment": "AMBIGUA (A y D)",
+    },
+
+    {
+    "info_quest": "Random",
+    "numb": 10,
+    "question":" Señale cuál de los siguientes es el mecanismo de acción de clopidogrel:",
+    "answer": ["A) Antagonismo competitivo de los receptores de ADP"],
+    "options": [
+    "A) Antagonismo competitivo de los receptores de ADP",
+    "B) Antagonismo competitivo de la glicoproteína IIb/IIIa",
+    "C) Inhibición no selectiva de la ciclooxigenasa",
+    "D) Potenciación de los efectos de la antitrombina III"
+    ],
+    "discipline": "Farmaco",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "Random",
+    "numb": 11,
+    "question":" Indique cuál de los siguientes efectos adversos producidos por la metformina es frecuente:",
+    "answer": ["B) Náuseas y vómitos."],
+    "options": [
+    "A) Hipersensibilidad.",
+    "B) Náuseas y vómitos.",
+    "C) Hipoglicemia.",
+    "D) Acidosis láctica."
+    ],
+    "discipline": "Farmaco",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "Random",
+    "numb": 12,
+    "question":" 69 años, diabético en tratamiento con metformina. Consulta en policlínica con un filtrado glomerular de 26 mL/min. Indique qué conducta sería la más apropiada:",
+    "answer": ["D) Retiro de metformina e inicio de tratamiento con insulina."],
+    "options": [
+    "A) Continúa el tratamiento con metformina.",
+    "B) Continúa el tratamiento con metformina e inicio de insulina.",
+    "C) Continúa el tratamiento con metformina e inicia otro antidiabético oral.",
+    "D) Retiro de metformina e inicio de tratamiento con insulina."
+    ],
+    "discipline": "Farmaco",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "Random",
+    "numb": 13,
+    "question":" Paciente 74 años, cirrótico. Indique cuál de las siguientes benzodiazepinas sería la más adecuada para el tratamiento ansiolítico:",
+    "answer": ["D) Oxazepam"],
+    "options": [
+    "A) Diazepam.",
+    "B) Bromazepam.",
+    "C) Flunitrazepam.",
+    "D) Oxazepam"
+    ],
+    "discipline": "Farmaco",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "Random",
+    "numb": 14,
+    "question":" Señale cuál de los siguientes es un efecto adverso frecuente por el uso de benzodiazepinas:",
+    "answer": ["B) Ataxia."],
+    "options": [
+    "A) Depresión respiratoria.",
+    "B) Ataxia.",
+    "C) Depresión de conciencia.",
+    "D) Vómitos."
+    ],
+    "discipline": "Farmaco",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "Random",
+    "numb": 15,
+    "question":" Sobre los efectos adversos del ácido acetilsalicílico (AAS), señale la opción correcta:",
+    "answer": ["D) Las alteraciones a nivel renal se dan principalmente por inhibición de la COX-2."],
+    "options": [
+    "A) El síndrome de Reye se observa frecuentemente en adultos.",
+    "B) La hemorragia gastrointestinal es la hemorragia menos frecuente.",
+    "C) La hipersensibilidad es más frecuente con dosis altas.",
+    "D) Las alteraciones a nivel renal se dan principalmente por inhibición de la COX-2."
+    ],
+    "discipline": "Farmaco",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "Random",
+    "numb": 16,
+    "question":" Eficacia, efectividad y eficiencia valoran el beneficio de un fármaco en diferentes situaciones, marque la opción correcta:",
+    "answer": ["B) Efectividad es el efecto clínico del fármaco en condiciones reales."],
+    "options": [
+    "A) Eficacia es el efecto del fármaco valorado en condiciones reales.",
+    "B) Efectividad es el efecto clínico del fármaco en condiciones reales.",
+    "C) Eficiencia es el efecto clínico del fármaco valorado en ensayos de fase 3.",
+    "D) Eficiencia es valorado en estudios de fase 2"
+    ],
+    "discipline": "Farmaco",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "Random",
+    "numb": 17,
+    "question":" Sobre las características farmacocinéticas de la warfarina, señale la opción correcta:",
+    "answer": ["B) Atraviesa la placenta."],
+    "options": [
+    "A) Tiene baja unión a proteínas plasmáticas.",
+    "B) Atraviesa la placenta.",
+    "C) Se metaboliza en el hígado por glucuronidación.",
+    "D) Presenta una baja biodisponibilidad."
+    ],
+    "discipline": "Farmaco",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "Random",
+    "numb": 18,
+    "question":" ¿En qué fase de desarrollo de medicamentos típicamente se estudia la farmacocinética clínica?",
+    "answer": ["C) Fase 1"],
+    "options": [
+    "A) Fase 4",
+    "B) Fase 3",
+    "C) Fase 1",
+    "D) Fase 2"
+    ],
+    "discipline": "Farmaco",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "Random",
+    "numb": 19,
+    "question":" Mujer de 75 años de edad con antecedentes personales de hipertensión arterial y glaucoma en tratamiento con indapamida, amlodipina, enalapril y acetazolamida. Consulta por dolor articular agudo y enrojecimiento del primer dedo del pie. Se realiza diagnóstico de crisis gotosa. ¿A cuál de los siguientes fármacos se puede atribuir dicho efecto?",
+    "answer": ["C) Indapamida."],
+    "options": [
+    "A) Acetazolamida.",
+    "B) Amlodipina.",
+    "C) Indapamida.",
+    "D) Enalapril."
+    ],
+    "discipline": "Farmaco",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "Random",
+    "numb": 20,
+    "question":" Indique cuál de los siguientes efectos adversos producidos por la metformina es frecuente:",
+    "answer": ["C) Dolor abdominal."],
+    "options": [
+    "A) Hipoglicemia.",
+    "B) Acidosis láctica.",
+    "C) Dolor abdominal.",
+    "D) Hipersensibilidad."
+    ],
+    "discipline": "Farmaco",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "Random",
+    "numb": 21,
+    "question":" Paciente 74 años, cirrótico. Indique cuál de las siguientes benzodiazepinas sería la más adecuada para el tratamiento ansiolítico:",
+    "answer": ["A) Lorazepam."],
+    "options": [
+    "A) Lorazepam.",
+    "B) Flunitrazepam.",
+    "C) Diazepam.",
+    "D) Bromazepam"
+    ],
+    "discipline": "Farmaco",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "Random",
+    "numb": 22,
+    "question":" Las benzodiazepinas generan múltiples efectos adversos. Indique cuál de los siguientes puede considerarse grave luego de su administración intravenosa:",
+    "answer": ["C) Depresión respiratoria."],
+    "options": [
+    "A) Incoordinación motora.",
+    "B) Amnesia anterógrada.",
+    "C) Depresión respiratoria.",
+    "D) Tolerancia y dependencia"
+    ],
+    "discipline": "Farmaco",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "Random",
+    "numb": 23,
+    "question":" Paciente de sexo masculino, 76 años, 5º día de postoperatorio de fractura de cadera, no recibió tromboprofilaxis durante internación. Presenta edema asimétrico en miembro inferior derecho y por eco doppler venoso se confirma diagnóstico de trombosis venosa profunda (TVP). Como se podría clasificar la TVP:",
+    "answer": ["C) Provocada por factor transitorio mayor"],
+    "options": [
+    "A) Provocada por factor transitorio menor",
+    "B) Provocada por factor persistente",
+    "C) Provocada por factor transitorio mayor",
+    "D) No provocada"
+    ],
+    "discipline": "Farmaco",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "Random",
+    "numb": 24,
+    "question":" El dabigatrán se excreta por vía renal y su compromiso aumenta los efectos adversos. Señale en cuál de las siguientes situaciones clínicas se debe monitorizar la función renal:",
+    "answer": ["A) En pacientes añosos."],
+    "options": [
+    "A) En pacientes añosos.",
+    "B) Paciente cirrótico.",
+    "C) Paciente embarazada.",
+    "D) Paciente obeso."
+    ],
+    "discipline": "Farmaco",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "Random",
+    "numb": 25,
+    "question":" Indique qué conducta tomaría en un paciente diabético sin tratamiento previo que se presenta con insuficiencia renal crónica con un filtrado glomerular de 25 mL/min:",
+    "answer": ["D) Inicio de plan de insulinización."],
+    "options": [
+    "A) Inicio de tratamiento con metformina.",
+    "B) Inicio de tratamiento con linagliptina.",
+    "C) Inicio de tratamiento con glimepirida.",
+    "D) Inicio de plan de insulinización."
+    ],
+    "discipline": "Farmaco",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "Random",
+    "numb": 26,
+    "question":" ¿Cuál de los siguientes pacientes tendrá el mejor balance beneficio/riesgo con el uso de enalapril, como tratamiento antihipertensivo?",
+    "answer": ["A) Hombre 45 años diabético tipo 2 sin nefropatía conocida."],
+    "options": [
+    "A) Hombre 45 años diabético tipo 2 sin nefropatía conocida.",
+    "B) Hombre 69 años afrodescendiente, sin otras comorbilidades.",
+    "C) Mujer 78 años con cirrosis en tratamiento con espironolactona.",
+    "D) Mujer 32 años, embarazada de 20 semanas de gestación."
+    ],
+    "discipline": "Farmaco",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "Random",
+    "numb": 27,
+    "question":" Indique cuál de los siguientes efectos adversos producidos por la metformina es considerado grave:",
+    "answer": ["C) Acidosis láctica."],
+    "options": [
+    "A) Mala absorción digestiva.",
+    "B) Arritmias ventriculares.",
+    "C) Acidosis láctica.",
+    "D) Coma hipoglicémico."
+    ],
+    "discipline": "Farmaco",
+    "comment": "",
+    },
 
 
 
