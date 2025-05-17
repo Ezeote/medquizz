@@ -490,7 +490,7 @@ let questions = [
 
     {
     "numb": 36,
-    "question": "El síndrome de Marfan en una enfermedad que afecta al gen que codifica para la proteína fibrilina 1. ¿Cuál de las siguientes fibras se verían afectadas por esta enfermedad? <br> <img src='' >",
+    "question": "El síndrome de Marfan en una enfermedad que afecta al gen que codifica para la proteína fibrilina 1. ¿Cuál de las siguientes fibras se verían afectadas por esta enfermedad? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/MHBIOx/RANDOM/Media/p36.PNG?token=GHSAT0AAAAAADDT4PCOX6ZOMCYNEX743E4O2BI7CPQ' >",
     "answer": ["c) Las fibras presentes en C"],
     "options": [
     "a) Las fibras presentes en A",
@@ -504,7 +504,7 @@ let questions = [
 
     {
     "numb": 37,
-    "question": "En la siguiente imagen se muestra un sector de un órgano linfoide y su correspondiente ampliación. <br> <img src='' > <br> Seleccione la correcta:",
+    "question": "En la siguiente imagen se muestra un sector de un órgano linfoide y su correspondiente ampliación. <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/MHBIOx/RANDOM/Media/p37.PNG?token=GHSAT0AAAAAADDT4PCOHZNUYIBW2C3AMGWO2BI7CRQ' > <br> Seleccione la correcta:",
     "answer": ["b) Presenta folículos linfoides"],
     "options": [
     "a) Su parénquima se divide en corteza y médula",
@@ -518,7 +518,7 @@ let questions = [
 
     {
     "numb": 38,
-    "question": "Con respecto a la variedad de tejido que predomina en esta imagen. <br> <img src='' >",
+    "question": "Con respecto a la variedad de tejido que predomina en esta imagen. <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/MHBIOx/RANDOM/Media/p38.PNG?token=GHSAT0AAAAAADDT4PCPIN3I3AKWH3GDKIKA2BI7CTQ' >",
     "answer": ["c) Posee una sustancia fundamental rica en condroitín sulfato"],
     "options": [
     "a) Es característico de los pabellones auriculares",
@@ -532,7 +532,7 @@ let questions = [
 
     {
     "numb": 39,
-    "question": "Respecto a lo que se observa en la imagen:<br> <img src='' >",
+    "question": "Respecto a lo que se observa en la imagen:<br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/MHBIOx/RANDOM/Media/p39.PNG?token=GHSAT0AAAAAADDT4PCPBK4FRSQPG5QN4SVU2BI7CVA' >",
     "answer": ["d) El asterisco negro señala un tejido vascular"],
     "options": [
     "a) El asterisco negro señala un tejido conectivo denso regular",
@@ -546,7 +546,7 @@ let questions = [
 
     {
     "numb": 40,
-    "question": "Cuál o cuáles de los tipos celulares presentes en la imagen pertenecen al grupo de los granulocitos? <br> <img src='' >",
+    "question": "Cuál o cuáles de los tipos celulares presentes en la imagen pertenecen al grupo de los granulocitos? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/MHBIOx/RANDOM/Media/p40.PNG?token=GHSAT0AAAAAADDT4PCPKESYI27GVAP5WOZ22BI7CWA' >",
     "answer": ["b) B y D"],
     "options": [
     "a) Solo A",
@@ -560,7 +560,7 @@ let questions = [
 
     {
     "numb": 41,
-    "question": "En cuál de los siguientes sectores del sarcómero marcados con la imagen, se podría detectar la presencia de tropomiosina <br> <img src='' >",
+    "question": "En cuál de los siguientes sectores del sarcómero marcados con la imagen, se podría detectar la presencia de tropomiosina <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/MHBIOx/RANDOM/Media/p41.PNG?token=GHSAT0AAAAAADDT4PCOUN4UGXMGBFXKNF5K2BI7CXQ' >",
     "answer": ["d) Tanto en A como C"],
     "options": [
     "a) En todo A y todo B",
@@ -574,7 +574,7 @@ let questions = [
 
     {
     "numb": 42,
-    "question": "Con respecto al tejido que predomina en la imagen: <br> <img src='' >",
+    "question": "Con respecto al tejido que predomina en la imagen: <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/MHBIOx/RANDOM/Media/p42.PNG?token=GHSAT0AAAAAADDT4PCPGXNZ2SOCHTZ755XI2BI7CYQ' >",
     "answer": ["d) Posee una única gota lipídica"],
     "options": [
     "a) Corresponde a tejido adiposo multilocular",
@@ -588,7 +588,7 @@ let questions = [
 
     {
     "numb": 43,
-    "question": "La imagen de la derecha corresponde a un mayor aumento del área recuadrada en la imagen izquierda. <br> Indique cuál de los tipos celulares listados más abajo NO APARECE en las imágenes: <br> <img src='' >",
+    "question": "La imagen de la derecha corresponde a un mayor aumento del área recuadrada en la imagen izquierda. <br> Indique cuál de los tipos celulares listados más abajo NO APARECE en las imágenes: <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/MHBIOx/RANDOM/Media/p43.PNG?token=GHSAT0AAAAAADDT4PCO3DX5FWI353YZDWAA2BI7CZQ' >",
     "answer": ["c) Condrocitos"],
     "options": [
     "a) Osteoblastos",
@@ -602,7 +602,7 @@ let questions = [
 
     {
     "numb": 44,
-    "question": "Los sarcómeros son estructuras propias de las células musculares presentes en… <br> <img src='' >",
+    "question": "Los sarcómeros son estructuras propias de las células musculares presentes en… <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/MHBIOx/RANDOM/Media/p44.PNG?token=GHSAT0AAAAAADDT4PCOQTKQXIJMIPP6Y6GU2BI7C3Q' >",
     "answer": ["a) A y C"],
     "options": [
     "a) A y C",
