@@ -4,7 +4,7 @@ let questions = [
     "info_quest": "1er Parcial 2021",
     "numb": 1,
     "question": "La formación de comunidades bacterianas intracelulares por parte de Escherichia coli uropatógeno explica en parte que cuando estas bacterias causan infección puedan:",
-    "answer": ["a. Presentar mayor sensibilidad a antibióticos betalactámicos"],
+    "answer": ["b. Resistir a la respuesta inmune innata"],
     "options": [
     "a. Presentar mayor sensibilidad a antibióticos betalactámicos",
     "b. Resistir a la respuesta inmune innata",
