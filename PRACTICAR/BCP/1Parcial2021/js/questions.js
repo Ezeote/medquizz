@@ -677,7 +677,7 @@ let questions = [
     "info_quest": "1er Parcial 2021",
     "numb": 47,
     "question": "¿Cuál de las siguientes manifestaciones clínicas corresponde al parasitismo por Giardia lamblia?",
-    "answer": ["c. Anemia severa"],
+    "answer": ["a. Síndrome disabsortivo"],
     "options": [
     "a. Síndrome disabsortivo",
     "b. Prurito anal por su salida activa por el ano",
@@ -691,13 +691,13 @@ let questions = [
     {
     "info_quest": "1er Parcial 2021",
     "numb": 48,
-    "question": "¿Cuál es la helmintiasis intestinal más frecuente en nuestro medio y que afecta mayormente a la población infantil? Seleccione una:",
-    "answer": ["d. Hymenolepiasis por Hymenolepis nana"],
+    "question": "¿Cuál es el mecanismo de transmisión de Leishmania infantum al ser humano preponderante en Uruguay?",
+    "answer": ["d. vectorial"],
     "options": [
-    "a. Oxiuriasis por Enterobius vermicularis",
-    "b. Ascaridiasis por Ascaris lumbricoides",
-    "c. Echinococcosis por Echinococcus granulosus",
-    "d. Hymenolepiasis por Hymenolepis nana"
+    "a. vertical",
+    "b. transfusional",
+    "c. oral",
+    "d. vectorial"
     ],
     "discipline": "Parasito",
     "comment": "",
