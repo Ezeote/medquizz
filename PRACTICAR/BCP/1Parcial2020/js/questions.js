@@ -4,7 +4,7 @@ let questions = [
         "info_quest": "1er Parcial 2020",
         "numb": 1,
         "question": "¿Cuál de los siguientes perfiles obtenidos en un antibiograma realizado a un aislamiento de S. aureus, corresponde al de una cepa sensible a meticilina?",
-        "answer": ["b. Sensible a penicilina y resistente a cefoxitina."],
+        "answer": ["a. Sensible a cefoxitina y resistente a penicilina."],
         "options": [
         "a. Sensible a cefoxitina y resistente a penicilina.",
         "b. Sensible a penicilina y resistente a cefoxitina.",
@@ -18,7 +18,7 @@ let questions = [
         "info_quest": "1er Parcial 2020",
         "numb": 2,
         "question": "¿Con qué tipo de métodos cuantitativos puede realizarse un seguimiento de la respuesta al tratamiento antirretroviral en los pacientes infectados por VIH?",
-        "answer": ["a. Métodos serológicos directos."],
+        "answer": ["c. Métodos genéticos."],
         "options": [
         "a. Métodos serológicos directos.",
         "b. Métodos serológicos indirectos.",
