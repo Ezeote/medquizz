@@ -16173,890 +16173,1774 @@ let questions = [
         },
   //////////////////////////////////////////////////
   {
-      "info_quest": "1er Parcial 2021",
-      "numb": 1,
-      "question": "La formación de comunidades bacterianas intracelulares por parte de Escherichia coli uropatógeno explica en parte que cuando estas bacterias causan infección puedan:",
-      "answer": ["a. Presentar mayor sensibilidad a antibióticos betalactámicos"],
-      "options": [
-      "a. Presentar mayor sensibilidad a antibióticos betalactámicos",
-      "b. Resistir a la respuesta inmune innata",
-      "c. Adherirse mediante pilis tipo P y ascender por la vía urinaria"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 2,
-      "question": "En la identificación de los cocos Gram positivos, ¿que evalúa la presencia de burbujas cuando se expone la bacteria en estudio al peróxido de hidrógeno? ",
-      "answer": ["c. La presencia de la enzima catalasa que degrada el peróxido generando oxígeno y agua"],
-      "options": [
-      "a. La presencia del clumping factor asociado a la superficie bacteriana",
-      "b. La presencia de la enzima coagulasa que permite transformar el fibrinógeno en fibrina",
-      "c. La presencia de la enzima catalasa que degrada el peróxido generando oxígeno y agua"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 3,
-      "question": "En las infecciones estacionales por virus influenza ¿Cuál de las siguientes es una característica de la hemaglutinina que explica la existencia de pandemias? ",
-      "answer": ["a. Variación antigénica debida a recombinación entre distintos virus"],
-      "options": [
-      "a. Variación antigénica debida a recombinación entre distintos virus",
-      "b. Variación antigénica debida a acumulación de mutaciones puntuales",
-      "c. Variación de fase por regulación específica en la expresión de distintas variantes"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 4,
-      "question": "Usted obtiene una muestra de secreciones respiratorias ¿Cuál de las siguientes opciones es la mejor para remitir dicha muestra al laboratorio para la detección de antígenos virales? ",
-      "answer": ["a. Temperatura de 4°C, sin medio de transporte viral y sin antibióticos"],
-      "options": [
-      "a. Temperatura de 4°C, sin medio de transporte viral y sin antibióticos",
-      "b. Temperatura ambiente sin medio de transporte viral y con antibióticos",
-      "c. Temperatura ambiente con medio de transporte viral y sin antibióticos",
-      "d. Temperatura de 4°C con medio de transporte viral y con antibióticos"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 5,
-      "question": "¿Cuál de las siguientes opciones indica factores de virulencia principales de Escherichia coli enterotoxigénica? ",
-      "answer": ["b. Toxinas termolábil (LT-1) y termoestable (STa)"],
-      "options": [
-      "a. Fimbrias adherentes agregantes (AAF) y toxina termoestable enteroagregante",
-      "b. Toxinas termolábil (LT-1) y termoestable (STa)",
-      "c. Proteína intimina y sistema de secreción de tipo 3 (SST3)",
-      "d. Proteína intimina y toxinas de Shiga (Stx-1, Stx-2)"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 6,
-      "question": "¿Cuál de los siguientes es el principal efecto inducido por los ácidos teicoicos bacterianos? ",
-      "answer": ["a. Respuesta inflamatoria"],
-      "options": [
-      "a. Respuesta inflamatoria",
-      "b. Adherencia",
-      "c. Captación de hierro",
-      "d. Evasión de la respuesta inmune"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 7,
-      "question": "Frente a un cuadro de meningitis ocasionado por Streptococcus pneumoniae es necesario realizar un estudio de susceptibilidad antibiótica. En el caso de que el halo de inhibición a la oxacilina sea menor a 20mm, ¿a qué antibióticos se debe determinar la concentración inhibitoria mínima (CIM) inicialmente?",
-      "answer": ["c. Ceftriaxona y penicilina"],
-      "options": [
-      "a. Eritromicina y cefoxitin",
-      "b. Cefoxitin y cefuroxime",
-      "c. Ceftriaxona y penicilina",
-      "d. Ciprofloxacina y cefuroxime"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 8,
-      "question": "Una paciente presenta una infección urinaria baja causada por una cepa de Escherichia coli productora de Betalactamasa de espectro ampliado (BLEA). ¿Cuál de los siguientes antibióticos podría utilizarse en el tratamiento de esta paciente considerando que esta betalactamasa no lo afecta? ",
-      "answer": ["a. Nitrofurantoina"],
-      "options": [
-      "a. Nitrofurantoina",
-      "b. Cefradina",
-      "c. Amoxicilina"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 9,
-      "question": "¿Cuál de las siguientes estructuras de Streptococcus pneumoniae le permite sobrevivir en el torrente sanguíneo? ",
-      "answer": ["a. Cápsula"],
-      "options": [
-      "a. Cápsula",
-      "b. Neumolisina",
-      "c. Neuraminidasa",
-      "d. Polisacárido C"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 10,
-      "question": "En el proceso de identificación de una cepa bacteriana se obtienen los siguientes resultados: coco gran positivo, no exigente, catalasa positivo y DNAsa positivo. ¿A cuál de los siguientes microorganismos puede corresponder? ",
-      "answer": ["c. Staphylococcus aureus"],
-      "options": [
-      "a. Streptococcus pyogenes",
-      "b. Streptococcus pneumoniae",
-      "c. Staphylococcus aureus",
-      "d. Staphylococcus epidermidis"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 11,
-      "question": "¿A qué se debe la resistencia a cefuroxime de Mycoplasma pneumoniae? ",
-      "answer": ["a. Ausencia de pared"],
-      "options": [
-      "a. Ausencia de pared",
-      "b. Producción de PBP2a",
-      "c. Producción de betalactamasas de tipo BLEA"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 12,
-      "question": "Sexo femenino, 16 meses, presenta síntomas de infección respiratoria baja. ¿Qué tipo o tipos de muestras serán de elección para la búsqueda de agentes virales? ",
-      "answer": ["c. Aspirado nasofaríngeo"],
-      "options": [
-      "a. Expectoración e hisopado nasofaríngeo",
-      "b. Expectoración",
-      "c. Aspirado nasofaríngeo",
-      "d. Aspirado nasofaríngeo y hemocultivo"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 13,
-      "question": "¿Qué método diagnóstico directo puede realizarse a partir de una lesión primaria para evidenciar Treponema pallidum? ",
-      "answer": ["c. Observación microscópica directa en campo oscuro"],
-      "options": [
-      "a. Un método treponémico como TPHA",
-      "b. Un método treponémico como FTA-Abs",
-      "c. Observación microscópica directa en campo oscuro",
-      "d. Observación microscópica directa en campo claro"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 14,
-      "question": "En un paciente con meningoencefalitis aguda supurada, se realiza punción lumbar y a partir del líquido cefalorraquídeo se cultiva Neisseria meningitidis. ¿Para cuál de los siguientes antibióticos es necesario realizar un estudio de susceptibilidad que oriente la quimioprofilaxis de los contactos de este paciente?",
-      "answer": ["b. rifampicina"],
-      "options": [
-      "a. penicilina",
-      "b. rifampicina",
-      "c. ceftriaxona"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 15,
-      "question": "En el laboratorio se aisló una cepa de Haemophilus influenzae a partir del hemocultivo de un adulto con diagnóstico clínico de neumonía. Se realizó una prueba rápida colorimétrica con un disco impregnado de nitrocefina que resultó positiva. ¿Qué indica este resultado? ",
-      "answer": ["c. La cepa tiene una betalactamasa"],
-      "options": [
-      "a. La cepa tiene mutaciones en PBP3",
-      "b. La cepa tiene PBP en mosaico",
-      "c. La cepa tiene una betalactamasa"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 16,
-      "question": "En un virus como el VIH, la estructura formada por lípidos y glicoproteínas que rodea la nucleocápside viral se denomina: ",
-      "answer": ["c. envoltura"],
-      "options": [
-      "a. matriz",
-      "b. cápside",
-      "c. envoltura",
-      "d. cápsula"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 17,
-      "question": "SARS-COV-2 es un virus que presenta una gran capacidad para generar variantes genéticas. ¿a cuál de las siguientes características de la partícula viral se debe esto? ",
-      "answer": ["c. Presenta genoma de ARN"],
-      "options": [
-      "a. Presenta una cápside icosaédrica",
-      "b. Presenta genoma de ADN",
-      "c. Presenta genoma de ARN",
-      "d. Presenta espículas glicoproteicas en la envoltura"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 18,
-      "question": "Un niño de 8 meses presenta vómitos reiterados y varias deposiciones líquidas sin sangre ni moco. Entre las siguiente opciones ¿Cuál es el agente etiológico más probable de este proceso infeccioso?",
-      "answer": ["c. Escherichia coli enteropatógeno (EPEC)"],
-      "options": [
-      "a. Escherichia coli enterotoxigénica (ETEC)",
-      "b. Shigella sonnei",
-      "c. Escherichia coli enteropatógeno (EPEC)",
-      "d. Salmonella entérica"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 19,
-      "question": "En el diagnóstico microbiológico de las meningoencefalitis agudas supuradas, se realiza una punción lumbar para obtener líquido cefalorraquídeo. La muestra se cultiva en agar sangre y agar chocolate y luego de la incubación se observa desarrollo en ambos medios. ¿Cuál es el procedimiento a seguir?",
-      "answer": ["a. Realizar un frotis teñido con gram a partir de las colonias"],
-      "options": [
-      "a. Realizar un frotis teñido con gram a partir de las colonias",
-      "b. Realizar la prueba de satelitismo y requerimiento de factores V y X",
-      "c. Realizar la prueba de optoquina y el estudio de susceptibilidad a oxacilina"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 20,
-      "question": "Si le informan que un aislamiento de Staphylococcus aureus es meticilino sensible, usted interpreta que:",
-      "answer": ["b. Es sensible a cefalosporinas de primera generación pero puede ser resistente a penicilina"],
-      "options": [
-      "a. Es sensible a todos los betalactámicos menos a cefalosporinas de primera generación",
-      "b. Es sensible a cefalosporinas de primera generación pero puede ser resistente a penicilina",
-      "c. Es sensible a todos los betalactámicos incluso a penicilina"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 21,
-      "question": "La siguiente es una tabla donde se muestra los halos de sensibilidad por el método de disco difusión en agar para una cepa de Staphylococcus aureus aislada a partir del exudado de un absceso. <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p21-1P-2021.PNG' alt=''> <br>¿Cómo interpreta desde este antibiograma la susceptibilidad de esta cepa a cefradina? ",
-      "answer": ["b. Es resistente"],
-      "options": [
-      "a. Es susceptible",
-      "b. Es resistente",
-      "c. Es intermedio",
-      "d. No se evaluó"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 22,
-      "question": "De block quirúrgico se envió un trozo de tejido de pared abdominal de un paciente con infección de herida quirúrgica. La muestra se sembró en agar sangre, agar simple y agar MacConkey lactosa. Ambos medios se incubaron a 35°C en aerobiosis. Se obtuvo desarrollo monomicrobiano en agar sangre (colonias beta hemolíticas) y agar simple. En agar MacConkey lactosa no hubo crecimiento. ¿Qué características presenta el microorganismo involucrado? ",
-      "answer": ["d. Se trata de una bacteria Gram positiva no exigente"],
-      "options": [
-      "a. Se trata de una bacteria Gram negativa no exigente",
-      "b. Se trata de una bacteria Gram negativa exigente",
-      "c. Se trata de una bacteria Gram positiva exigente",
-      "d. Se trata de una bacteria Gram positiva no exigente"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 23,
-      "question": "¿Cuál de las siguientes opciones indica dos especies bacterianas naturalmente resistentes a la penicilina? ",
-      "answer": ["c. E. coli y P. mirabilis"],
-      "options": [
-      "a. S. aureus y E. coli",
-      "b. S. pyogenes y S. aureus",
-      "c. E. coli y P. mirabilis",
-      "d. S. aureus y P. mirabilis"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 24,
-      "question": "¿Por qué es importante la ventilación en la prevención de la infección por SARS-COV-2? Seleccione una:",
-      "answer": ["d. Por la transmisión a través de secreciones respiratorias"],
-      "options": [
-      "a. Por el riesgo de transmisión indirecta a través de las manos",
-      "b. Por el riesgo de transmisión por hemoderivados",
-      "c. Por el riesgo de transmisión vertical",
-      "d. Por la transmisión a través de secreciones respiratorias"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 25,
-      "question": "¿En base a cuál de las siguientes características, se clasifican los papilomavirus humanos en distintos grupos? ",
-      "answer": ["a. bajo y alto riesgo oncogénico"],
-      "options": [
-      "a. bajo y alto riesgo oncogénico",
-      "b. bajo y alto riesgo de persistencia en el hospedero",
-      "c. bajo y alto riesgo de transmisión"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 26,
-      "question": "Paciente con internación prolongada en cuidados intensivos. Comienza con fiebre, por lo que se realizan cultivos bacteriológicos varios. Los hemocultivos se positivizan, observándose en el examen directo con tinción de Gram la siguiente imagen: <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p26-1P-2021.PNG' alt=''> <br>  En función de lo observado ¿Cuál puede ser el agente de esta bacteriemia? Seleccione una:",
-      "answer": ["d. Staphylococcus sp"],
-      "options": [
-      "a. Streptococcus sp.",
-      "b. Enterococcus sp.",
-      "c. Clostridium sp.",
-      "d. Staphylococcus sp"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 27,
-      "question": "En el diagnóstico de infección por virus influenza H1N1, señale qué puede detectar un método directo basado en reacción en cadena de la polimerasa:",
-      "answer": ["d. genes codificantes de hemaglutinina y neuraminidasa"],
-      "options": [
-      "a. anticuerpos de tipo IgM anti H1N1",
-      "b. anticuerpos de tipo IgG anti H1N1",
-      "c. proteínas hemaglutinina tipo H1 y neuroaminidasa tipo N1",
-      "d. genes codificantes de hemaglutinina y neuraminidasa"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 28,
-      "question": "¿Cuál es la utilidad del antibiograma por disco difusión? ",
-      "answer": ["c. permite determinar la categoría de sensible, intermedio o resistente"],
-      "options": [
-      "a. permite correlacionar el valor de CIM con la concentración bactericida mínima",
-      "b. permite definir el valor de la concentración inhibitoria mínima (CIM)",
-      "c. permite determinar la categoría de sensible, intermedio o resistente"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 29,
-      "question": "¿Cuál de los siguientes factores de virulencia posibilitan la evasión del sistema inmune por parte de S. pneumoniae cuando causa infección? Seleccione una:",
-      "answer": ["c. Cápsula polisacarídica rodeando la pared celular"],
-      "options": [
-      "a. Proteínas asociadas a la membrana externa que rodea la pared celular",
-      "b. Variabilidad de los lipopolisacáridos que rodean a la pared celular",
-      "c. Cápsula polisacarídica rodeando la pared celular",
-      "d. Cápsula lipídica rodeando la pared celular"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 30,
-      "question": "¿Qué función cumple la proteína F del virus respiratorio sincicial (VRS)? Seleccione una:",
-      "answer": ["c. Entrada del virus a la célula"],
-      "options": [
-      "a. Desnudamiento del genoma viral en el núcleo",
-      "b. Adsorción inicial del virus a la célula",
-      "c. Entrada del virus a la célula"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 31,
-      "question": "¿Cuál de los siguientes antibióticos actúa inhibiendo la síntesis proteica? Seleccione una:",
-      "answer": ["c. Macrólidos"],
-      "options": [
-      "a. Glicopéptidos",
-      "b. Fluoroquinolonas",
-      "c. Macrólidos",
-      "d. Trimetoprim-sulfametoxazol"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 32,
-      "question": "En el laboratorio de microbiología se recibió una muestra para urocultivo de un niño de 2 meses. Se aisló un bacilo Gram negativo lactosa positivo que se clasificó dentro del grupo de las enterobacterias. <br> Se realizaron pruebas bioquímicas manuales para determinar género o especie cuyos resultados se muestran a continuación: <br> Móvil, ornitina descarboxilasa +, indol-, lisina descarboxilasa -, fenilalanina desaminasa -, citrato + y en el TSI muestra gas positivo y sulfídrico negativo <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p32-1P-2021.PNG' alt=''> <br> Con la ayuda de la tabla identifique al microorganismo, ¿a cuál de los siguientes corresponde?",
-      "answer": ["b. Enterobacter spp"],
-      "options": [
-      "a. Serratia marcescens",
-      "b. Enterobacter spp",
-      "c. Klebsiella pneumoniae",
-      "d. Escherichia coli"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 33,
-      "question": "En un paciente de 2 meses de edad que presenta síndrome de piel escaldada ¿Cuál de los siguientes factores de virulencia debe producir el microorganismo causal? ",
-      "answer": ["b. Toxinas epidermolíticas estafilocóccicas"],
-      "options": [
-      "a. Toxina del shock tóxico estreptocóccico",
-      "b. Toxinas epidermolíticas estafilocóccicas",
-      "c. Alfa hemolisinas estreptocóccicas",
-      "d. Beta lisinas estafilocóccicas"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 34,
-      "question": "Como parte del estudio microbiológico de la diarrea aguda, suele utilizarse el medio Salmonella-Shigella (agar SS) para el coprocultivo. Este medio es selectivo y diferencial porque",
-      "answer": ["a. inhibe el crecimiento de bacterias Gram positivas y diferencia entre fermentadoras y no fermentadoras de lactosa"],
-      "options": [
-      "a. inhibe el crecimiento de bacterias Gram positivas y diferencia entre fermentadoras y no fermentadoras de lactosa",
-      "b. inhibe el crecimiento de bacterias exigentes nutricionalmente y diferencia bacterias gran negativas de las gram positivas",
-      "c. inhibe el crecimiento de las bacterias Gram positivas y diferencia cocos de bacilos entre los gram negativos"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 35,
-      "question": "En el laboratorio de microbiología se realiza un frotis y tinción de gram directo de una muestra de esputo en la que se observan de 20 a 40 células epiteliales, entre 2 y 4 polimorfonucleares por campo de bajo aumento, y distintas morfologías bacterianas. ¿Cómo interpreta este resultado? ",
-      "answer": ["c. Se trata de secreciones orofaríngeas, se descarta la muestra"],
-      "options": [
-      "a. Se trata de secreciones del tracto respiratorio bajo, se siembra la muestra para continuar su estudio",
-      "b. Se trata de secreciones del tracto respiratorio bajo, se rechaza la muestra",
-      "c. Se trata de secreciones orofaríngeas, se descarta la muestra",
-      "d. Se trata de secreciones orofaríngeas, se siembra la muestra para continuar su estudio"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 36,
-      "question": "¿Qué pasos deberán ocurrir durante la infección por un virus como Enterovirus, cuando ingresa al organismo por la vía oral y produce manifestaciones en el sistema nervioso central? ",
-      "answer": ["b. Multiplicación en mucosa, pasaje a ganglios, viremia primaria, replica en distintos órganos, viremia secundaria alcanzando el sistema nervioso central"],
-      "options": [
-      "a. Multiplicación en mucosa respiratoria, especialmente en senos paranasales y pulmón, pasando por contigüidad a las meninges.",
-      "b. Multiplicación en mucosa, pasaje a ganglios, viremia primaria, replica en distintos órganos, viremia secundaria alcanzando el sistema nervioso central",
-      "c. Multiplicación en sitio de entrada y transporte retrógrado a través de axones sensitivos al ganglio trigeminal y desde allí alcanzar las meninges y la corteza cerebral"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 37,
-      "question": "Lactante de 2 meses, sano, con diagnóstico de probable infección urinaria por presentar fiebre y detectar nitritos y leucocitos en el examen de orina. Señale cuál de los siguientes microorganismos puede ser con mayor probabilidad el agente etiológico de ésta infección:",
-      "answer": ["c. Proteus mirabilis"],
-      "options": [
-      "a. Staphylococcus saprophyticus",
-      "b. Streptococcus agalactiae",
-      "c. Proteus mirabilis"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 38,
-      "question": "De una muestra de esputo se aisló un bacilo Gram negativo que creció en agar chocolate y se identificó como Haemophilus spp. ¿Qué pruebas utilizaría para determinar la especie? Seleccione una:",
-      "answer": ["a. Fermentación de azúcares"],
-      "options": [
-      "a. Fermentación de azúcares",
-      "b. Producción de indol",
-      "c. Ornitina descarboxilasa"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 39,
-      "question": "En la imagen se muestra el resultado del antibiograma de una E. coli aislada de un urocultivo. <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p39-1P-2021.PNG' alt=''> <br> A partir de este resultado ¿a qué antibióticos se puede predecir que esta bacteria será resistente?",
-      "answer": ["c. Ampicilina, cefradina, cefuroxime y ceftriaxona"],
-      "options": [
-      "a. Amoxicilina con ácido clavulánico, ceftriaxona, cefuroxime",
-      "b. Amoxicilina, cefuroxime, ceftriaxona e imipenem",
-      "c. Ampicilina, cefradina, cefuroxime y ceftriaxona"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 40,
-      "question": "En el laboratorio de microbiología se recibe una muestra para urocultivo de una mujer de 25 años. La muestra se siembra en agar sangre y agar MacConkey-lactosa y luego de su incubación se observa lo siguiente (izquierda placa de agar sangre, derecha placa de agar MacConkey-lactosa): <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p40-1P-2021.PNG' alt=''> <br> ¿Cómo interpreta estos resultados? ",
-      "answer": ["a. Recuento significativo de una bacteria gram negativa"],
-      "options": [
-      "a. Recuento significativo de una bacteria gram negativa",
-      "b. Recuento significativo de una bacteria gram positiva",
-      "c. Recuento no significativo de una bacteria gram positiva",
-      "d. Recuento no significativo de una bacteria gram negativa"
-      ],
-      "discipline": "Bacterio",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 41,
-      "question": "¿Cuál es la puerta de entrada de Cryptococcus spp.? ",
-      "answer": ["b. Inhalación de basidiosporas deshidratadas presentes en el ambiente."],
-      "options": [
-      "a. Ingestión de levaduras deshidratadas.",
-      "b. Inhalación de basidiosporas deshidratadas presentes en el ambiente.",
-      "c. Transmisión vertical de levaduras en el primer trimestre del embarazo.",
-      "d. Implantación subcutánea de esporos deshidratados."
-      ],
-      "discipline": "Parasito",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 42,
-      "question": "¿Cómo se confirma el diagnóstico etiológico de una queratitis por Acanthamoeba spp? Seleccione una:",
-      "answer": ["c. Mediante visualización de quistes en el examen directo y/o cultivo."],
-      "options": [
-      "a. Mediante visualización de ooquistes en el examen directo y/o cultivo.",
-      "b. Mediante visualización de amastigotas en el examen directo y/o cultivo.",
-      "c. Mediante visualización de quistes en el examen directo y/o cultivo.",
-      "d. Mediante visualización de huevos de en el examen directo y/o cultivo."
-      ],
-      "discipline": "Parasito",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 43,
-      "question": "¿Cuál de las siguientes manifestaciones clínicas corresponde al parasitismo por Giardia lamblia?",
-      "answer": ["a. Síndrome disabsortivo"],
-      "options": [
-      "a. Síndrome disabsortivo",
-      "b. Prurito anal por su salida activa por el ano",
-      "c. Anemia severa",
-      "d. Obstrucción intestinal"
-      ],
-      "discipline": "Parasito",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 44,
-      "question": "¿Cuál es la helmintiasis intestinal más frecuente en nuestro medio y que afecta mayormente a la población infantil? ",
-      "answer": ["a. Oxiuriasis por Enterobius vermicularis"],
-      "options": [
-      "a. Oxiuriasis por Enterobius vermicularis",
-      "b. Ascaridiasis por Ascaris lumbricoides",
-      "c. Echinococcosis por Echinococcus granulosus",
-      "d. Hymenolepiasis por Hymenolepis nana"
-      ],
-      "discipline": "Parasito",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 45,
-      "question": "¿Cuál de las siguientes medidas de prevención tiene importancia en el control de la Oxiurosis?",
-      "answer": ["d. Lavado de manos y uñas cortas"],
-      "options": [
-      "a. Escasa educación sanitaria de la población vulnerable",
-      "b. Correcta disposición ambiental de materias fecales humanas",
-      "c. Caminar sin calzado",
-      "d. Lavado de manos y uñas cortas"
-      ],
-      "discipline": "Parasito",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 46,
-      "question": "Señale qué opción corresponde a un mecanismo de agresión parasitaria de acción mecánica:",
-      "answer": ["b. Microtraumatismos por mordedura de Enterobius vermicularis."],
-      "options": [
-      "a. Productos de excreción-secreción de Ascaris lumbricoides.",
-      "b. Microtraumatismos por mordedura de Enterobius vermicularis.",
-      "c. Hematofagia de Fasciola hepática.",
-      "d. Polarización a respuestas de tipo TH2, disminuyendo los linfocitos TH1."
-      ],
-      "discipline": "Parasito",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 47,
-      "question": "¿Cuál de las siguientes manifestaciones clínicas corresponde al parasitismo por Giardia lamblia?",
-      "answer": ["c. Anemia severa"],
-      "options": [
-      "a. Síndrome disabsortivo",
-      "b. Prurito anal por su salida activa por el ano",
-      "c. Anemia severa",
-      "d. Obstrucción intestinal"
-      ],
-      "discipline": "Parasito",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 48,
-      "question": "¿Cuál es la helmintiasis intestinal más frecuente en nuestro medio y que afecta mayormente a la población infantil? Seleccione una:",
-      "answer": ["d. Hymenolepiasis por Hymenolepis nana"],
-      "options": [
-      "a. Oxiuriasis por Enterobius vermicularis",
-      "b. Ascaridiasis por Ascaris lumbricoides",
-      "c. Echinococcosis por Echinococcus granulosus",
-      "d. Hymenolepiasis por Hymenolepis nana"
-      ],
-      "discipline": "Parasito",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 49,
-      "question": "¿Cuál de las siguientes medidas de prevención tiene importancia en el control de la Oxiurosis?",
-      "answer": ["d. Lavado de manos y uñas cortas"],
-      "options": [
-      "a. Escasa educación sanitaria de la población vulnerable",
-      "b. Correcta disposición ambiental de materias fecales humanas",
-      "c. Caminar sin calzado",
-      "d. Lavado de manos y uñas cortas"
-      ],
-      "discipline": "Parasito",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 50,
-      "question": "Señale qué opción corresponde a un mecanismo de agresión parasitaria de acción mecánica:",
-      "answer": ["a. Productos de excreción-secreción de Ascaris lumbricoides."],
-      "options": [
-      "a. Productos de excreción-secreción de Ascaris lumbricoides.",
-      "b. Microtraumatismos por mordedura de Enterobius vermicularis.",
-      "c. Hematofagia de Fasciola hepática.",
-      "d. Polarización a respuestas de tipo TH2, disminuyendo los linfocitos TH1."
-      ],
-      "discipline": "Parasito",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 51,
-      "question": "¿Cuál de las siguientes manifestaciones clínicas corresponde al parasitismo por Giardia lamblia?",
-      "answer": ["d. Obstrucción intestinal"],
-      "options": [
-      "a. Síndrome disabsortivo",
-      "b. Prurito anal por su salida activa por el ano",
-      "c. Anemia severa",
-      "d. Obstrucción intestinal"
-      ],
-      "discipline": "Parasito",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 52,
-      "question": "¿Cuál es la helmintiasis intestinal más frecuente en nuestro medio y que afecta mayormente a la población infantil? Seleccione una:",
-      "answer": ["d. Hymenolepiasis por Hymenolepis nana"],
-      "options": [
-      "a. Oxiuriasis por Enterobius vermicularis",
-      "b. Ascaridiasis por Ascaris lumbricoides",
-      "c. Echinococcosis por Echinococcus granulosus",
-      "d. Hymenolepiasis por Hymenolepis nana"
-      ],
-      "discipline": "Parasito",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 53,
-      "question": "¿Cuál de las siguientes medidas de prevención tiene importancia en el control de la Oxiurosis? Seleccione una:",
-      "answer": ["d. Lavado de manos y uñas cortas"],
-      "options": [
-      "a. Escasa educación sanitaria de la población vulnerable",
-      "b. Correcta disposición ambiental de materias fecales humanas",
-      "c. Caminar sin calzado",
-      "d. Lavado de manos y uñas cortas"
-      ],
-      "discipline": "Parasito",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 54,
-      "question": "Señale qué opción corresponde a un mecanismo de agresión parasitaria de acción mecánica:",
-      "answer": ["b. Microtraumatismos por mordedura de Enterobius vermicularis."],
-      "options": [
-      "a. Productos de excreción-secreción de Ascaris lumbricoides.",
-      "b. Microtraumatismos por mordedura de Enterobius vermicularis.",
-      "c. Hematofagia de Fasciola hepática.",
-      "d. Polarización a respuestas de tipo TH2, disminuyendo los linfocitos TH1."
-      ],
-      "discipline": "Parasito",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 55,
-      "question": "En relación a la respuesta inmune humoral, ¿cuál de las opciones indica lo correcto para cada tipo de anticuerpos? Seleccione una:",
-      "answer": ["c. Los anticuerpos IgG son generalmente de mayor especificidad que los IgM."],
-      "options": [
-      "a. Los anticuerpos IgG son los primeros en producirse frente a una primoinfección.",
-      "b. Los anticuerpos IgM son responsables de establecer la memoria inmunológica.",
-      "c. Los anticuerpos IgG son generalmente de mayor especificidad que los IgM.",
-      "d. Los anticuerpos IgA se producen simultáneamente con los IgM en todo momento."
-      ],
-      "discipline": "Parasito",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 56,
-      "question": "¿Cuáles son los agentes más frecuentes de queratitis fúngicas? Seleccione una:",
-      "answer": ["a. Hongos de los géneros Aspergillus spp. y Fusarium spp."],
-      "options": [
-      "a. Hongos de los géneros Aspergillus spp. y Fusarium spp.",
-      "b. Hongos de los géneros Trichophyton spp. y Epidermophyton spp.",
-      "c. Levaduras de los géneros Cryptococcus spp y Candida spp.",
-      "d. Hongos de los géneros Scedosporium spp y Rhizopus spp."
-      ],
-      "discipline": "Parasito",
-      "comment": "",
-      },
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 57,
-      "question": "¿Cuál de los siguientes métodos es el adecuado para el diagnóstico de la Tricocefalosis? Seleccione una:",
-      "answer": ["a. Coproparasitario seriado"],
-      "options": [
-      "a. Coproparasitario seriado",
-      "b. Método de Baermann",
-      "c. Harada Mori"
-      ],
-      "discipline": "Parasito",
-      "comment": ""
-      },
-  
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 58,
-      "question": "Considerando las formas de parasitismo existentes en la naturaleza, indique cuál de las opciones corresponde a una interacción que implica el uso del hospedero únicamente como hábitat, sin causar daños. ",
-      "answer": ["b. Inquilinismo"],
-      "options": [
-      "a. Mutualismo",
-      "b. Inquilinismo",
-      "c. Comensalismo",
-      "d. Simbiosis"
-      ],
-      "discipline": "Parasito",
-      "comment": ""
-      },
-  
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 59,
-      "question": "¿Cuáles de las siguientes técnicas se pueden usar para diagnosticar Enfermedad de Chagas en la etapa latente? Seleccione una:",
-      "answer": ["c. Hemaglutinación e inmunofluorescencia indirecta"],
-      "options": [
-      "a. Gota gruesa y hemaglutinación",
-      "b. Hemaglutinación y xenodiagnóstico",
-      "c. Hemaglutinación e inmunofluorescencia indirecta",
-      "d. Fijación del complemento y xenodiagnóstico"
-      ],
-      "discipline": "Parasito",
-      "comment": ""
-      },
-  
-  
-      {
-      "info_quest": "1er Parcial 2021",
-      "numb": 60,
-      "question": "¿Qué tipo de zoonosis es la Balantidiosis? Seleccione una:",
-      "answer": ["b. zoonosis directa"],
-      "options": [
-      "a. aprozoonosis",
-      "b. zoonosis directa",
-      "c. metazoonosis",
-      "d. ciclozoonosis"
-      ],
-      "discipline": "Parasito",
-      "comment": "",
-      },
+    "info_quest": "1er Parcial 2021",
+    "numb": 1,
+    "question": "La formación de comunidades bacterianas intracelulares por parte de Escherichia coli uropatógeno explica en parte que cuando estas bacterias causan infección puedan:",
+    "answer": ["b. Resistir a la respuesta inmune innata"],
+    "options": [
+    "a. Presentar mayor sensibilidad a antibióticos betalactámicos",
+    "b. Resistir a la respuesta inmune innata",
+    "c. Adherirse mediante pilis tipo P y ascender por la vía urinaria"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
 
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 2,
+    "question": "En la identificación de los cocos Gram positivos, ¿que evalúa la presencia de burbujas cuando se expone la bacteria en estudio al peróxido de hidrógeno? ",
+    "answer": ["c. La presencia de la enzima catalasa que degrada el peróxido generando oxígeno y agua"],
+    "options": [
+    "a. La presencia del clumping factor asociado a la superficie bacteriana",
+    "b. La presencia de la enzima coagulasa que permite transformar el fibrinógeno en fibrina",
+    "c. La presencia de la enzima catalasa que degrada el peróxido generando oxígeno y agua"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 3,
+    "question": "En las infecciones estacionales por virus influenza ¿Cuál de las siguientes es una característica de la hemaglutinina que explica la existencia de pandemias? ",
+    "answer": ["a. Variación antigénica debida a recombinación entre distintos virus"],
+    "options": [
+    "a. Variación antigénica debida a recombinación entre distintos virus",
+    "b. Variación antigénica debida a acumulación de mutaciones puntuales",
+    "c. Variación de fase por regulación específica en la expresión de distintas variantes"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 4,
+    "question": "Usted obtiene una muestra de secreciones respiratorias ¿Cuál de las siguientes opciones es la mejor para remitir dicha muestra al laboratorio para la detección de antígenos virales? ",
+    "answer": ["a. Temperatura de 4°C, sin medio de transporte viral y sin antibióticos"],
+    "options": [
+    "a. Temperatura de 4°C, sin medio de transporte viral y sin antibióticos",
+    "b. Temperatura ambiente sin medio de transporte viral y con antibióticos",
+    "c. Temperatura ambiente con medio de transporte viral y sin antibióticos",
+    "d. Temperatura de 4°C con medio de transporte viral y con antibióticos"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 5,
+    "question": "¿Cuál de las siguientes opciones indica factores de virulencia principales de Escherichia coli enterotoxigénica? ",
+    "answer": ["b. Toxinas termolábil (LT-1) y termoestable (STa)"],
+    "options": [
+    "a. Fimbrias adherentes agregantes (AAF) y toxina termoestable enteroagregante",
+    "b. Toxinas termolábil (LT-1) y termoestable (STa)",
+    "c. Proteína intimina y sistema de secreción de tipo 3 (SST3)",
+    "d. Proteína intimina y toxinas de Shiga (Stx-1, Stx-2)"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 6,
+    "question": "¿Cuál de los siguientes es el principal efecto inducido por los ácidos teicoicos bacterianos? ",
+    "answer": ["a. Respuesta inflamatoria"],
+    "options": [
+    "a. Respuesta inflamatoria",
+    "b. Adherencia",
+    "c. Captación de hierro",
+    "d. Evasión de la respuesta inmune"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 7,
+    "question": "Frente a un cuadro de meningitis ocasionado por Streptococcus pneumoniae es necesario realizar un estudio de susceptibilidad antibiótica. En el caso de que el halo de inhibición a la oxacilina sea menor a 20mm, ¿a qué antibióticos se debe determinar la concentración inhibitoria mínima (CIM) inicialmente?",
+    "answer": ["c. Ceftriaxona y penicilina"],
+    "options": [
+    "a. Eritromicina y cefoxitin",
+    "b. Cefoxitin y cefuroxime",
+    "c. Ceftriaxona y penicilina",
+    "d. Ciprofloxacina y cefuroxime"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 8,
+    "question": "Una paciente presenta una infección urinaria baja causada por una cepa de Escherichia coli productora de Betalactamasa de espectro ampliado (BLEA). ¿Cuál de los siguientes antibióticos podría utilizarse en el tratamiento de esta paciente considerando que esta betalactamasa no lo afecta? ",
+    "answer": ["a. Nitrofurantoina"],
+    "options": [
+    "a. Nitrofurantoina",
+    "b. Cefradina",
+    "c. Amoxicilina"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 9,
+    "question": "¿Cuál de las siguientes estructuras de Streptococcus pneumoniae le permite sobrevivir en el torrente sanguíneo? ",
+    "answer": ["a. Cápsula"],
+    "options": [
+    "a. Cápsula",
+    "b. Neumolisina",
+    "c. Neuraminidasa",
+    "d. Polisacárido C"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 10,
+    "question": "En el proceso de identificación de una cepa bacteriana se obtienen los siguientes resultados: coco gran positivo, no exigente, catalasa positivo y DNAsa positivo. ¿A cuál de los siguientes microorganismos puede corresponder? ",
+    "answer": ["c. Staphylococcus aureus"],
+    "options": [
+    "a. Streptococcus pyogenes",
+    "b. Streptococcus pneumoniae",
+    "c. Staphylococcus aureus",
+    "d. Staphylococcus epidermidis"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 11,
+    "question": "¿A qué se debe la resistencia a cefuroxime de Mycoplasma pneumoniae? ",
+    "answer": ["a. Ausencia de pared"],
+    "options": [
+    "a. Ausencia de pared",
+    "b. Producción de PBP2a",
+    "c. Producción de betalactamasas de tipo BLEA"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 12,
+    "question": "Sexo femenino, 16 meses, presenta síntomas de infección respiratoria baja. ¿Qué tipo o tipos de muestras serán de elección para la búsqueda de agentes virales? ",
+    "answer": ["c. Aspirado nasofaríngeo"],
+    "options": [
+    "a. Expectoración e hisopado nasofaríngeo",
+    "b. Expectoración",
+    "c. Aspirado nasofaríngeo",
+    "d. Aspirado nasofaríngeo y hemocultivo"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 13,
+    "question": "¿Qué método diagnóstico directo puede realizarse a partir de una lesión primaria para evidenciar Treponema pallidum? ",
+    "answer": ["c. Observación microscópica directa en campo oscuro"],
+    "options": [
+    "a. Un método treponémico como TPHA",
+    "b. Un método treponémico como FTA-Abs",
+    "c. Observación microscópica directa en campo oscuro",
+    "d. Observación microscópica directa en campo claro"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 14,
+    "question": "En un paciente con meningoencefalitis aguda supurada, se realiza punción lumbar y a partir del líquido cefalorraquídeo se cultiva Neisseria meningitidis. ¿Para cuál de los siguientes antibióticos es necesario realizar un estudio de susceptibilidad que oriente la quimioprofilaxis de los contactos de este paciente?",
+    "answer": ["b. rifampicina"],
+    "options": [
+    "a. penicilina",
+    "b. rifampicina",
+    "c. ceftriaxona"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 15,
+    "question": "En el laboratorio se aisló una cepa de Haemophilus influenzae a partir del hemocultivo de un adulto con diagnóstico clínico de neumonía. Se realizó una prueba rápida colorimétrica con un disco impregnado de nitrocefina que resultó positiva. ¿Qué indica este resultado? ",
+    "answer": ["c. La cepa tiene una betalactamasa"],
+    "options": [
+    "a. La cepa tiene mutaciones en PBP3",
+    "b. La cepa tiene PBP en mosaico",
+    "c. La cepa tiene una betalactamasa"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 16,
+    "question": "En un virus como el VIH, la estructura formada por lípidos y glicoproteínas que rodea la nucleocápside viral se denomina: ",
+    "answer": ["c. envoltura"],
+    "options": [
+    "a. matriz",
+    "b. cápside",
+    "c. envoltura",
+    "d. cápsula"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 17,
+    "question": "SARS-COV-2 es un virus que presenta una gran capacidad para generar variantes genéticas. ¿a cuál de las siguientes características de la partícula viral se debe esto? ",
+    "answer": ["c. Presenta genoma de ARN"],
+    "options": [
+    "a. Presenta una cápside icosaédrica",
+    "b. Presenta genoma de ADN",
+    "c. Presenta genoma de ARN",
+    "d. Presenta espículas glicoproteicas en la envoltura"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 18,
+    "question": "Un niño de 8 meses presenta vómitos reiterados y varias deposiciones líquidas sin sangre ni moco. Entre las siguiente opciones ¿Cuál es el agente etiológico más probable de este proceso infeccioso?",
+    "answer": ["c. Escherichia coli enteropatógeno (EPEC)"],
+    "options": [
+    "a. Escherichia coli enterotoxigénica (ETEC)",
+    "b. Shigella sonnei",
+    "c. Escherichia coli enteropatógeno (EPEC)",
+    "d. Salmonella entérica"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 19,
+    "question": "En el diagnóstico microbiológico de las meningoencefalitis agudas supuradas, se realiza una punción lumbar para obtener líquido cefalorraquídeo. La muestra se cultiva en agar sangre y agar chocolate y luego de la incubación se observa desarrollo en ambos medios. ¿Cuál es el procedimiento a seguir?",
+    "answer": ["a. Realizar un frotis teñido con gram a partir de las colonias"],
+    "options": [
+    "a. Realizar un frotis teñido con gram a partir de las colonias",
+    "b. Realizar la prueba de satelitismo y requerimiento de factores V y X",
+    "c. Realizar la prueba de optoquina y el estudio de susceptibilidad a oxacilina"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 20,
+    "question": "Si le informan que un aislamiento de Staphylococcus aureus es meticilino sensible, usted interpreta que:",
+    "answer": ["b. Es sensible a cefalosporinas de primera generación pero puede ser resistente a penicilina"],
+    "options": [
+    "a. Es sensible a todos los betalactámicos menos a cefalosporinas de primera generación",
+    "b. Es sensible a cefalosporinas de primera generación pero puede ser resistente a penicilina",
+    "c. Es sensible a todos los betalactámicos incluso a penicilina"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 21,
+    "question": "La siguiente es una tabla donde se muestra los halos de sensibilidad por el método de disco difusión en agar para una cepa de Staphylococcus aureus aislada a partir del exudado de un absceso. <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p21-1P-2021.PNG' alt=''> <br>¿Cómo interpreta desde este antibiograma la susceptibilidad de esta cepa a cefradina? ",
+    "answer": ["b. Es resistente"],
+    "options": [
+    "a. Es susceptible",
+    "b. Es resistente",
+    "c. Es intermedio",
+    "d. No se evaluó"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 22,
+    "question": "De block quirúrgico se envió un trozo de tejido de pared abdominal de un paciente con infección de herida quirúrgica. La muestra se sembró en agar sangre, agar simple y agar MacConkey lactosa. Ambos medios se incubaron a 35°C en aerobiosis. Se obtuvo desarrollo monomicrobiano en agar sangre (colonias beta hemolíticas) y agar simple. En agar MacConkey lactosa no hubo crecimiento. ¿Qué características presenta el microorganismo involucrado? ",
+    "answer": ["d. Se trata de una bacteria Gram positiva no exigente"],
+    "options": [
+    "a. Se trata de una bacteria Gram negativa no exigente",
+    "b. Se trata de una bacteria Gram negativa exigente",
+    "c. Se trata de una bacteria Gram positiva exigente",
+    "d. Se trata de una bacteria Gram positiva no exigente"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 23,
+    "question": "¿Cuál de las siguientes opciones indica dos especies bacterianas naturalmente resistentes a la penicilina? ",
+    "answer": ["c. E. coli y P. mirabilis"],
+    "options": [
+    "a. S. aureus y E. coli",
+    "b. S. pyogenes y S. aureus",
+    "c. E. coli y P. mirabilis",
+    "d. S. aureus y P. mirabilis"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 24,
+    "question": "¿Por qué es importante la ventilación en la prevención de la infección por SARS-COV-2? Seleccione una:",
+    "answer": ["d. Por la transmisión a través de secreciones respiratorias"],
+    "options": [
+    "a. Por el riesgo de transmisión indirecta a través de las manos",
+    "b. Por el riesgo de transmisión por hemoderivados",
+    "c. Por el riesgo de transmisión vertical",
+    "d. Por la transmisión a través de secreciones respiratorias"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 25,
+    "question": "¿En base a cuál de las siguientes características, se clasifican los papilomavirus humanos en distintos grupos? ",
+    "answer": ["a. bajo y alto riesgo oncogénico"],
+    "options": [
+    "a. bajo y alto riesgo oncogénico",
+    "b. bajo y alto riesgo de persistencia en el hospedero",
+    "c. bajo y alto riesgo de transmisión"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 26,
+    "question": "Paciente con internación prolongada en cuidados intensivos. Comienza con fiebre, por lo que se realizan cultivos bacteriológicos varios. Los hemocultivos se positivizan, observándose en el examen directo con tinción de Gram la siguiente imagen: <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p26-1P-2021.PNG' alt=''> <br>  En función de lo observado ¿Cuál puede ser el agente de esta bacteriemia? Seleccione una:",
+    "answer": ["d. Staphylococcus sp"],
+    "options": [
+    "a. Streptococcus sp.",
+    "b. Enterococcus sp.",
+    "c. Clostridium sp.",
+    "d. Staphylococcus sp"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 27,
+    "question": "En el diagnóstico de infección por virus influenza H1N1, señale qué puede detectar un método directo basado en reacción en cadena de la polimerasa:",
+    "answer": ["d. genes codificantes de hemaglutinina y neuraminidasa"],
+    "options": [
+    "a. anticuerpos de tipo IgM anti H1N1",
+    "b. anticuerpos de tipo IgG anti H1N1",
+    "c. proteínas hemaglutinina tipo H1 y neuroaminidasa tipo N1",
+    "d. genes codificantes de hemaglutinina y neuraminidasa"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 28,
+    "question": "¿Cuál es la utilidad del antibiograma por disco difusión? ",
+    "answer": ["c. permite determinar la categoría de sensible, intermedio o resistente"],
+    "options": [
+    "a. permite correlacionar el valor de CIM con la concentración bactericida mínima",
+    "b. permite definir el valor de la concentración inhibitoria mínima (CIM)",
+    "c. permite determinar la categoría de sensible, intermedio o resistente"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 29,
+    "question": "¿Cuál de los siguientes factores de virulencia posibilitan la evasión del sistema inmune por parte de S. pneumoniae cuando causa infección? Seleccione una:",
+    "answer": ["c. Cápsula polisacarídica rodeando la pared celular"],
+    "options": [
+    "a. Proteínas asociadas a la membrana externa que rodea la pared celular",
+    "b. Variabilidad de los lipopolisacáridos que rodean a la pared celular",
+    "c. Cápsula polisacarídica rodeando la pared celular",
+    "d. Cápsula lipídica rodeando la pared celular"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 30,
+    "question": "¿Qué función cumple la proteína F del virus respiratorio sincicial (VRS)? Seleccione una:",
+    "answer": ["c. Entrada del virus a la célula"],
+    "options": [
+    "a. Desnudamiento del genoma viral en el núcleo",
+    "b. Adsorción inicial del virus a la célula",
+    "c. Entrada del virus a la célula"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 31,
+    "question": "¿Cuál de los siguientes antibióticos actúa inhibiendo la síntesis proteica? Seleccione una:",
+    "answer": ["c. Macrólidos"],
+    "options": [
+    "a. Glicopéptidos",
+    "b. Fluoroquinolonas",
+    "c. Macrólidos",
+    "d. Trimetoprim-sulfametoxazol"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 32,
+    "question": "En el laboratorio de microbiología se recibió una muestra para urocultivo de un niño de 2 meses. Se aisló un bacilo Gram negativo lactosa positivo que se clasificó dentro del grupo de las enterobacterias. <br> Se realizaron pruebas bioquímicas manuales para determinar género o especie cuyos resultados se muestran a continuación: <br> Móvil, ornitina descarboxilasa +, indol-, lisina descarboxilasa -, fenilalanina desaminasa -, citrato + y en el TSI muestra gas positivo y sulfídrico negativo <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p32-1P-2021.PNG' alt=''> <br> Con la ayuda de la tabla identifique al microorganismo, ¿a cuál de los siguientes corresponde?",
+    "answer": ["b. Enterobacter spp"],
+    "options": [
+    "a. Serratia marcescens",
+    "b. Enterobacter spp",
+    "c. Klebsiella pneumoniae",
+    "d. Escherichia coli"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 33,
+    "question": "En un paciente de 2 meses de edad que presenta síndrome de piel escaldada ¿Cuál de los siguientes factores de virulencia debe producir el microorganismo causal? ",
+    "answer": ["b. Toxinas epidermolíticas estafilocóccicas"],
+    "options": [
+    "a. Toxina del shock tóxico estreptocóccico",
+    "b. Toxinas epidermolíticas estafilocóccicas",
+    "c. Alfa hemolisinas estreptocóccicas",
+    "d. Beta lisinas estafilocóccicas"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 34,
+    "question": "Como parte del estudio microbiológico de la diarrea aguda, suele utilizarse el medio Salmonella-Shigella (agar SS) para el coprocultivo. Este medio es selectivo y diferencial porque",
+    "answer": ["a. inhibe el crecimiento de bacterias Gram positivas y diferencia entre fermentadoras y no fermentadoras de lactosa"],
+    "options": [
+    "a. inhibe el crecimiento de bacterias Gram positivas y diferencia entre fermentadoras y no fermentadoras de lactosa",
+    "b. inhibe el crecimiento de bacterias exigentes nutricionalmente y diferencia bacterias gran negativas de las gram positivas",
+    "c. inhibe el crecimiento de las bacterias Gram positivas y diferencia cocos de bacilos entre los gram negativos"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 35,
+    "question": "En el laboratorio de microbiología se realiza un frotis y tinción de gram directo de una muestra de esputo en la que se observan de 20 a 40 células epiteliales, entre 2 y 4 polimorfonucleares por campo de bajo aumento, y distintas morfologías bacterianas. ¿Cómo interpreta este resultado? ",
+    "answer": ["c. Se trata de secreciones orofaríngeas, se descarta la muestra"],
+    "options": [
+    "a. Se trata de secreciones del tracto respiratorio bajo, se siembra la muestra para continuar su estudio",
+    "b. Se trata de secreciones del tracto respiratorio bajo, se rechaza la muestra",
+    "c. Se trata de secreciones orofaríngeas, se descarta la muestra",
+    "d. Se trata de secreciones orofaríngeas, se siembra la muestra para continuar su estudio"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 36,
+    "question": "¿Qué pasos deberán ocurrir durante la infección por un virus como Enterovirus, cuando ingresa al organismo por la vía oral y produce manifestaciones en el sistema nervioso central? ",
+    "answer": ["b. Multiplicación en mucosa, pasaje a ganglios, viremia primaria, replica en distintos órganos, viremia secundaria alcanzando el sistema nervioso central"],
+    "options": [
+    "a. Multiplicación en mucosa respiratoria, especialmente en senos paranasales y pulmón, pasando por contigüidad a las meninges.",
+    "b. Multiplicación en mucosa, pasaje a ganglios, viremia primaria, replica en distintos órganos, viremia secundaria alcanzando el sistema nervioso central",
+    "c. Multiplicación en sitio de entrada y transporte retrógrado a través de axones sensitivos al ganglio trigeminal y desde allí alcanzar las meninges y la corteza cerebral"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 37,
+    "question": "Lactante de 2 meses, sano, con diagnóstico de probable infección urinaria por presentar fiebre y detectar nitritos y leucocitos en el examen de orina. Señale cuál de los siguientes microorganismos puede ser con mayor probabilidad el agente etiológico de ésta infección:",
+    "answer": ["c. Proteus mirabilis"],
+    "options": [
+    "a. Staphylococcus saprophyticus",
+    "b. Streptococcus agalactiae",
+    "c. Proteus mirabilis"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 38,
+    "question": "De una muestra de esputo se aisló un bacilo Gram negativo que creció en agar chocolate y se identificó como Haemophilus spp. ¿Qué pruebas utilizaría para determinar la especie? Seleccione una:",
+    "answer": ["a. Fermentación de azúcares"],
+    "options": [
+    "a. Fermentación de azúcares",
+    "b. Producción de indol",
+    "c. Ornitina descarboxilasa"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 39,
+    "question": "En la imagen se muestra el resultado del antibiograma de una E. coli aislada de un urocultivo. <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p39-1P-2021.PNG' alt=''> <br> A partir de este resultado ¿a qué antibióticos se puede predecir que esta bacteria será resistente?",
+    "answer": ["c. Ampicilina, cefradina, cefuroxime y ceftriaxona"],
+    "options": [
+    "a. Amoxicilina con ácido clavulánico, ceftriaxona, cefuroxime",
+    "b. Amoxicilina, cefuroxime, ceftriaxona e imipenem",
+    "c. Ampicilina, cefradina, cefuroxime y ceftriaxona"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 40,
+    "question": "En el laboratorio de microbiología se recibe una muestra para urocultivo de una mujer de 25 años. La muestra se siembra en agar sangre y agar MacConkey-lactosa y luego de su incubación se observa lo siguiente (izquierda placa de agar sangre, derecha placa de agar MacConkey-lactosa): <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p40-1P-2021.PNG' alt=''> <br> ¿Cómo interpreta estos resultados? ",
+    "answer": ["a. Recuento significativo de una bacteria gram negativa"],
+    "options": [
+    "a. Recuento significativo de una bacteria gram negativa",
+    "b. Recuento significativo de una bacteria gram positiva",
+    "c. Recuento no significativo de una bacteria gram positiva",
+    "d. Recuento no significativo de una bacteria gram negativa"
+    ],
+    "discipline": "Bacterio",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 41,
+    "question": "¿Cuál es la puerta de entrada de Cryptococcus spp.? ",
+    "answer": ["b. Inhalación de basidiosporas deshidratadas presentes en el ambiente."],
+    "options": [
+    "a. Ingestión de levaduras deshidratadas.",
+    "b. Inhalación de basidiosporas deshidratadas presentes en el ambiente.",
+    "c. Transmisión vertical de levaduras en el primer trimestre del embarazo.",
+    "d. Implantación subcutánea de esporos deshidratados."
+    ],
+    "discipline": "Parasito",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 42,
+    "question": "¿Cómo se confirma el diagnóstico etiológico de una queratitis por Acanthamoeba spp? Seleccione una:",
+    "answer": ["c. Mediante visualización de quistes en el examen directo y/o cultivo."],
+    "options": [
+    "a. Mediante visualización de ooquistes en el examen directo y/o cultivo.",
+    "b. Mediante visualización de amastigotas en el examen directo y/o cultivo.",
+    "c. Mediante visualización de quistes en el examen directo y/o cultivo.",
+    "d. Mediante visualización de huevos de en el examen directo y/o cultivo."
+    ],
+    "discipline": "Parasito",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 43,
+    "question": "¿Cuál de las siguientes manifestaciones clínicas corresponde al parasitismo por Giardia lamblia?",
+    "answer": ["a. Síndrome disabsortivo"],
+    "options": [
+    "a. Síndrome disabsortivo",
+    "b. Prurito anal por su salida activa por el ano",
+    "c. Anemia severa",
+    "d. Obstrucción intestinal"
+    ],
+    "discipline": "Parasito",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 44,
+    "question": "¿Cuál es la helmintiasis intestinal más frecuente en nuestro medio y que afecta mayormente a la población infantil? ",
+    "answer": ["a. Oxiuriasis por Enterobius vermicularis"],
+    "options": [
+    "a. Oxiuriasis por Enterobius vermicularis",
+    "b. Ascaridiasis por Ascaris lumbricoides",
+    "c. Echinococcosis por Echinococcus granulosus",
+    "d. Hymenolepiasis por Hymenolepis nana"
+    ],
+    "discipline": "Parasito",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 45,
+    "question": "¿Cuál de las siguientes medidas de prevención tiene importancia en el control de la Oxiurosis?",
+    "answer": ["d. Lavado de manos y uñas cortas"],
+    "options": [
+    "a. Escasa educación sanitaria de la población vulnerable",
+    "b. Correcta disposición ambiental de materias fecales humanas",
+    "c. Caminar sin calzado",
+    "d. Lavado de manos y uñas cortas"
+    ],
+    "discipline": "Parasito",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 46,
+    "question": "Señale qué opción corresponde a un mecanismo de agresión parasitaria de acción mecánica:",
+    "answer": ["b. Microtraumatismos por mordedura de Enterobius vermicularis."],
+    "options": [
+    "a. Productos de excreción-secreción de Ascaris lumbricoides.",
+    "b. Microtraumatismos por mordedura de Enterobius vermicularis.",
+    "c. Hematofagia de Fasciola hepática.",
+    "d. Polarización a respuestas de tipo TH2, disminuyendo los linfocitos TH1."
+    ],
+    "discipline": "Parasito",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 47,
+    "question": "¿Cuál de las siguientes manifestaciones clínicas corresponde al parasitismo por Giardia lamblia?",
+    "answer": ["c. Anemia severa"],
+    "options": [
+    "a. Síndrome disabsortivo",
+    "b. Prurito anal por su salida activa por el ano",
+    "c. Anemia severa",
+    "d. Obstrucción intestinal"
+    ],
+    "discipline": "Parasito",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 48,
+    "question": "¿Cuál es la helmintiasis intestinal más frecuente en nuestro medio y que afecta mayormente a la población infantil? Seleccione una:",
+    "answer": ["d. Hymenolepiasis por Hymenolepis nana"],
+    "options": [
+    "a. Oxiuriasis por Enterobius vermicularis",
+    "b. Ascaridiasis por Ascaris lumbricoides",
+    "c. Echinococcosis por Echinococcus granulosus",
+    "d. Hymenolepiasis por Hymenolepis nana"
+    ],
+    "discipline": "Parasito",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 49,
+    "question": "¿Cuál de las siguientes medidas de prevención tiene importancia en el control de la Oxiurosis?",
+    "answer": ["d. Lavado de manos y uñas cortas"],
+    "options": [
+    "a. Escasa educación sanitaria de la población vulnerable",
+    "b. Correcta disposición ambiental de materias fecales humanas",
+    "c. Caminar sin calzado",
+    "d. Lavado de manos y uñas cortas"
+    ],
+    "discipline": "Parasito",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 50,
+    "question": "Señale qué opción corresponde a un mecanismo de agresión parasitaria de acción mecánica:",
+    "answer": ["a. Productos de excreción-secreción de Ascaris lumbricoides."],
+    "options": [
+    "a. Productos de excreción-secreción de Ascaris lumbricoides.",
+    "b. Microtraumatismos por mordedura de Enterobius vermicularis.",
+    "c. Hematofagia de Fasciola hepática.",
+    "d. Polarización a respuestas de tipo TH2, disminuyendo los linfocitos TH1."
+    ],
+    "discipline": "Parasito",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 51,
+    "question": "¿Cuál de las siguientes manifestaciones clínicas corresponde al parasitismo por Giardia lamblia?",
+    "answer": ["d. Obstrucción intestinal"],
+    "options": [
+    "a. Síndrome disabsortivo",
+    "b. Prurito anal por su salida activa por el ano",
+    "c. Anemia severa",
+    "d. Obstrucción intestinal"
+    ],
+    "discipline": "Parasito",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 52,
+    "question": "¿Cuál es la helmintiasis intestinal más frecuente en nuestro medio y que afecta mayormente a la población infantil? Seleccione una:",
+    "answer": ["d. Hymenolepiasis por Hymenolepis nana"],
+    "options": [
+    "a. Oxiuriasis por Enterobius vermicularis",
+    "b. Ascaridiasis por Ascaris lumbricoides",
+    "c. Echinococcosis por Echinococcus granulosus",
+    "d. Hymenolepiasis por Hymenolepis nana"
+    ],
+    "discipline": "Parasito",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 53,
+    "question": "¿Cuál de las siguientes medidas de prevención tiene importancia en el control de la Oxiurosis? Seleccione una:",
+    "answer": ["c. Caminar sin calzado"],
+    "options": [
+    "a. Escasa educación sanitaria de la población vulnerable",
+    "b. Correcta disposición ambiental de materias fecales humanas",
+    "c. Caminar sin calzado",
+    "d. Lavado de manos y uñas cortas"
+    ],
+    "discipline": "Parasito",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 54,
+    "question": "Señale qué opción corresponde a un mecanismo de agresión parasitaria de acción mecánica:",
+    "answer": ["b. Microtraumatismos por mordedura de Enterobius vermicularis."],
+    "options": [
+    "a. Productos de excreción-secreción de Ascaris lumbricoides.",
+    "b. Microtraumatismos por mordedura de Enterobius vermicularis.",
+    "c. Hematofagia de Fasciola hepática.",
+    "d. Polarización a respuestas de tipo TH2, disminuyendo los linfocitos TH1."
+    ],
+    "discipline": "Parasito",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 55,
+    "question": "En relación a la respuesta inmune humoral, ¿cuál de las opciones indica lo correcto para cada tipo de anticuerpos? Seleccione una:",
+    "answer": ["c. Los anticuerpos IgG son generalmente de mayor especificidad que los IgM."],
+    "options": [
+    "a. Los anticuerpos IgG son los primeros en producirse frente a una primoinfección.",
+    "b. Los anticuerpos IgM son responsables de establecer la memoria inmunológica.",
+    "c. Los anticuerpos IgG son generalmente de mayor especificidad que los IgM.",
+    "d. Los anticuerpos IgA se producen simultáneamente con los IgM en todo momento."
+    ],
+    "discipline": "Parasito",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 56,
+    "question": "¿Cuáles son los agentes más frecuentes de queratitis fúngicas? Seleccione una:",
+    "answer": ["a. Hongos de los géneros Aspergillus spp. y Fusarium spp."],
+    "options": [
+    "a. Hongos de los géneros Aspergillus spp. y Fusarium spp.",
+    "b. Hongos de los géneros Trichophyton spp. y Epidermophyton spp.",
+    "c. Levaduras de los géneros Cryptococcus spp y Candida spp.",
+    "d. Hongos de los géneros Scedosporium spp y Rhizopus spp."
+    ],
+    "discipline": "Parasito",
+    "comment": "",
+    },
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 57,
+    "question": "¿Cuál de los siguientes métodos es el adecuado para el diagnóstico de la Tricocefalosis? Seleccione una:",
+    "answer": ["a. Coproparasitario seriado"],
+    "options": [
+    "a. Coproparasitario seriado",
+    "b. Método de Baermann",
+    "c. Harada Mori"
+    ],
+    "discipline": "Parasito",
+    "comment": ""
+    },
+
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 58,
+    "question": "Considerando las formas de parasitismo existentes en la naturaleza, indique cuál de las opciones corresponde a una interacción que implica el uso del hospedero únicamente como hábitat, sin causar daños. ",
+    "answer": ["b. Inquilinismo"],
+    "options": [
+    "a. Mutualismo",
+    "b. Inquilinismo",
+    "c. Comensalismo",
+    "d. Simbiosis"
+    ],
+    "discipline": "Parasito",
+    "comment": ""
+    },
+
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 59,
+    "question": "¿Cuáles de las siguientes técnicas se pueden usar para diagnosticar Enfermedad de Chagas en la etapa latente? Seleccione una:",
+    "answer": ["c. Hemaglutinación e inmunofluorescencia indirecta"],
+    "options": [
+    "a. Gota gruesa y hemaglutinación",
+    "b. Hemaglutinación y xenodiagnóstico",
+    "c. Hemaglutinación e inmunofluorescencia indirecta",
+    "d. Fijación del complemento y xenodiagnóstico"
+    ],
+    "discipline": "Parasito",
+    "comment": ""
+    },
+
+
+    {
+    "info_quest": "1er Parcial 2021",
+    "numb": 60,
+    "question": "¿Qué tipo de zoonosis es la Balantidiosis? Seleccione una:",
+    "answer": ["b. zoonosis directa"],
+    "options": [
+    "a. aprozoonosis",
+    "b. zoonosis directa",
+    "c. metazoonosis",
+    "d. ciclozoonosis"
+    ],
+    "discipline": "Parasito",
+    "comment": "",
+    },
+//////////////////////////////////////////////////
+  {
+        "info_quest": "1er Parcial 2020",
+        "numb": 1,
+        "question": "¿Cuál de los siguientes perfiles obtenidos en un antibiograma realizado a un aislamiento de S. aureus, corresponde al de una cepa sensible a meticilina?",
+        "answer": ["a. Sensible a cefoxitina y resistente a penicilina."],
+        "options": [
+        "a. Sensible a cefoxitina y resistente a penicilina.",
+        "b. Sensible a penicilina y resistente a cefoxitina.",
+        "c. Resistente a cefoxitina y sensible a eritromicina y clindamicina."
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 2,
+        "question": "¿Con qué tipo de métodos cuantitativos puede realizarse un seguimiento de la respuesta al tratamiento antirretroviral en los pacientes infectados por VIH?",
+        "answer": ["c. Métodos genéticos."],
+        "options": [
+        "a. Métodos serológicos directos.",
+        "b. Métodos serológicos indirectos.",
+        "c. Métodos genéticos."
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 3,
+        "question": "¿En las infecciones estafilocóccicas cuál de los siguientes factores de virulencia participan en la evasión de la respuesta inmune?",
+        "answer": ["b. Proteína A."],
+        "options": [
+        "a. Receptores de unión al colágeno.",
+        "b. Proteína A.",
+        "c. Proteínas de unión a penicilina (PBP)."
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 4,
+        "question": "¿Cuál es el principal factor de virulencia responsable de la capacidad de E. coli uropatogénico para captar hierro?",
+        "answer": ["b. Sideróforos."],
+        "options": [
+        "a. Sistema de secreción de tipo 3.",
+        "b. Sideróforos.",
+        "c. Fimbrias manosa sensible."
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 5,
+        "question": "Niño de 2 años que consulta por deposiciones líquidas sin elementos anormales y vómitos. ¿Cuál de los siguientes microorganismos está más frecuentemente involucrado en este tipo de cuadros?",
+        "answer": ["c. Rotavirus"],
+        "options": [
+        "a. Adenovirus",
+        "b. Salmonella entérica",
+        "c. Rotavirus",
+        "d. Escherichia coli enterotoxigénica (ETEC)"
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 6,
+        "question": "¿Cuál de las siguientes características presenta la vacuna anti neumocóccica incluida en nuestro certificado esquema de vacunación?",
+        "answer": ["a. Vacuna polisacarídica 13 valente."],
+        "options": [
+        "a. Vacuna polisacarídica 13 valente.",
+        "b. Vacuna conjugada 13 valente.",
+        "c. Vacuna polisacarídica 23 valente.",
+        "d. Vacuna conjugada 23 valente."
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 7,
+        "question": "Paciente de sexo masculino, 30 años de edad, fumador, que relata mantener relaciones sexuales con múltiples parejas sin utilizar protección. Relata decaimiento, astenia, náuseas y fiebre la semana previa, la cual cedió espontáneamente al comenzar la ictericia. Al examen de abdomen: blando, depresible, hepatomegalia dolorosa de un través de dedo. Se le realizan marcadores para detectar infección por virus de hepatitis. Los resultados son los siguientes: <br> Anticuerpos anti VHA total + <br> IgM anti-VHA – <br> Antígeno de superficie de VHB (HBsAg) – <br> Antígeno e de VHB (HBeAg) – <br> IgM anti-antigeno del core de VHB – <br> Anticuerpos anti antígeno e de VHB (HBeAc) – <br> Anticuerpos anti antígeno de superficie (HBsAc) + <br> Anticuerpos anti VHC – <br> ¿Cuál de las siguientes opciones es adecuada en la interpretación de estos resultados?",
+        "answer": ["a. El paciente cursó previamente una hepatitis B y debemos descartar si está cursando hepatitis C."],
+        "options": [
+        "a. El paciente cursó previamente una hepatitis B y debemos descartar si está cursando hepatitis C.",
+        "b. El paciente puede estar vacunado contra la hepatitis A y debemos descartar si está cursando hepatitis C.",
+        "c. El paciente fue vacunado contra la hepatitis A y actualmente está cursando una hepatitis B.",
+        "d. El paciente cursó previamente una hepatitis B y debemos descartar si está cursando hepatitis A."
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 8,
+        "question": "¿Qué método de diagnóstico directo es actualmente el preferido para el diagnóstico de tos convulsa?",
+        "answer": ["b. Pruebas basadas en amplificación de ácidos nucleicos (PCR)."],
+        "options": [
+        "a. Cultivo.",
+        "b. Pruebas basadas en amplificación de ácidos nucleicos (PCR).",
+        "c. Detección de anticuerpos frente a toxina Pertussis.",
+        "d. Microscopía."
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 9,
+        "question": "¿Cuál de los siguientes agentes de meningoencefalitis presenta como factor de virulencia la capacidad de inducir su internalización por parte de células no fagocíticas?",
+        "answer": ["d. Listeria monocytogenes"],
+        "options": [
+        "a. Streptococcus pneumoniae",
+        "b. Escherichia coli K1",
+        "c. Streptococcus agalactiae",
+        "d. Listeria monocytogenes"
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 10,
+        "question": "Señale cuál de los siguientes antibióticos son de primera línea para el tratamiento de una infección urinaria alta:",
+        "answer": ["c. Cefuroxime"],
+        "options": [
+        "a. Ácido pipemídico",
+        "b. Fosfomicina trometamol",
+        "c. Cefuroxime",
+        "d. Clindamicina"
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 11,
+        "question": "En un paciente de 3 años con absceso de rodilla, se aísla de S. aureus meticilino resistente. ¿Cuál antibiótico podría utilizarse?",
+        "answer": ["b. Trimetoprim sulfametoxazol"],
+        "options": [
+        "a. Imipenem",
+        "b. Trimetoprim sulfametoxazol",
+        "c. Amoxicilina clavulánico",
+        "d. Cefradina"
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 12,
+        "question": "La imagen corresponde al urocultivo de una paciente de 20 años con sintomatología urinaria baja. La placa fue sembrada con 10 microlitros de orina tomada por la técnica de chorro medio. <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/1Parcial2020/Media/p12.PNG' > <br> Con este resultado probablemente estemos frente a un caso de:",
+        "answer": ["b. Muestra contaminada, puede corresponder a infección urinaria o no."],
+        "options": [
+        "a. El cultivo corresponde a un caso de infección urinaria polimicrobiana.",
+        "b. Muestra contaminada, puede corresponder a infección urinaria o no.",
+        "c. Se descarta una infección del tracto urinario en esta paciente.",
+        "d. El urocultivo corresponde a un caso de bacteriuria asintomática."
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 13,
+        "question": "Se recibe en el laboratorio de microbiología clínica una muestra de líquido cefalorraquídeo (LCR) de un paciente de 30 años, inmunocompetente, con diagnóstico clínico de encefalitis. La muestra se encuentra en un tubo transparente con tapa de rosca, y se puede observar que su aspecto es claro y límpido. El resultado del estudio citoquímico indicó valores de glucosa normales y proteínas levemente aumentadas, con una pleocitosis linfocitaria leve. Teniendo en cuenta la edad del paciente y las características del LCR, los agentes más probablemente implicados en esta encefalitis podrían ser:",
+        "answer": ["b. Virus herpes simple y Enterovirus"],
+        "options": [
+        "a. Citomegalovirus y Enterovirus",
+        "b. Virus herpes simple y Enterovirus",
+        "c. Virus herpes simple y Citomegalovirus"
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 14,
+        "question": "¿Qué equipamiento de protección personal debe utilizar el personal de salud en la asistencia de un paciente con diagnóstico reciente de tuberculosis pulmonar?",
+        "answer": ["a. Mascarilla tipo N95."],
+        "options": [
+        "a. Mascarilla tipo N95.",
+        "b. Mascarilla quirúrgica.",
+        "c. Sobretúnica y guantes.",
+        "d. Antiparras y mascarilla quirúrgica."
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 15,
+        "question": "¿Cuál de los siguientes microorganismos se transmite con mucha frecuencia por el consumo de carne vacuna poco cocida?",
+        "answer": ["c. Escherichia coli enterohemorrágica (EHEC)"],
+        "options": [
+        "a. Escherichia coli enterotoxigénica (ETEC)",
+        "b. Shigella spp.",
+        "c. Escherichia coli enterohemorrágica (EHEC)",
+        "d. Yersinia enterocolítica"
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 16,
+        "question": "¿Por qué se considera que el SARS-CoV2 presentó un salto interespecie?",
+        "answer": ["c. Porque presenta alta homología genética con un coronavirus de murciélagos."],
+        "options": [
+        "a. Porque infecta tanto humanos como otras especies como aves y cerdos.",
+        "b. Porque se transmitió desde humanos a pangolines.",
+        "c. Porque presenta alta homología genética con un coronavirus de murciélagos."
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 17,
+        "question": "La disminución del flujo urinario por hipertrofia prostática es la principal causa del aumento en la frecuencia de infecciones urinarias en:",
+        "answer": ["a. Adultos mayores del sexo masculino."],
+        "options": [
+        "a. Adultos mayores del sexo masculino.",
+        "b. Lactantes del sexo masculino.",
+        "c. Mujeres embarazadas.",
+        "d. Adultos mayores del sexo femenino."
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 18,
+        "question": "¿Para cuál de estos agentes etiológicos de diarrea aguda está recomendado el uso de antibióticos en el tratamiento de niños inmunocompetentes?",
+        "answer": ["c. Shigella"],
+        "options": [
+        "a. Salmonella",
+        "b. Escherichia coli enteropatogénica (EPEC)",
+        "c. Shigella"
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 19,
+        "question": "¿Cuál de los siguientes agentes virales de encefalitis se replica en las placas de Peyer previo a su diseminación a los órganos blanco?",
+        "answer": ["d. Virus Coxsackie A16"],
+        "options": [
+        "a. Arbovirus",
+        "b. Virus herpes simple tipo 1",
+        "c. Citomegalovirus",
+        "d. Virus Coxsackie A16"
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 20,
+        "question": "Streptococcus pneumoniae es uno de los principales agentes de meningoencefalitis bacteriana. ¿Cuál de las siguientes es una función de los ácidos teicocicos bacterianos en el contexto de la infección meníngea?",
+        "answer": ["a. Inductor de la respuesta inflamatoria."],
+        "options": [
+        "a. Inductor de la respuesta inflamatoria.",
+        "b. Adherencia a los plexos coroideos.",
+        "c. Evasión de la respuesta efecto del sistema inmune."
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 21,
+        "question": "Neisseria meningitidis es uno de los principales agentes de meningoencefalitis bacteriana. Para alcanzar el líquido cefalorraquídeo debe invadir la barrera hematoencefálica, a la cual inicialmente se une mediante su:",
+        "answer": ["e. Pili tipo IV"],
+        "options": [
+        "a. Ácido lipoteicoico",
+        "b. Cápsula",
+        "c. Lipooligosacárido",
+        "d. Pared celular",
+        "e. Pili tipo IV"
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 22,
+        "question": "La sensibilidad de la baciloscopía de esputo para el diagnóstico de tuberculosis pulmonar:",
+        "answer": ["b. Es inferior a la del cultivo."],
+        "options": [
+        "a. Es superior a la del cultivo.",
+        "b. Es inferior a la del cultivo.",
+        "c. Es igual a la del cultivo."
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 23,
+        "question": "Usted está observando un coprocultivo en agar Salmonella-Shigella (Agar SS) de un niño de 2 años con diarrea aguda. <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/1Parcial2020/Media/p23.PNG' > <br> ¿Qué tipo de bacterias producen las colonias que se observan en la imagen?",
+        "answer": ["b. Bacterias gram negativas no exigentes."],
+        "options": [
+        "a. Bacterias gram negativas exigentes.",
+        "b. Bacterias gram negativas no exigentes.",
+        "c. Bacterias gram positivas no exigentes.",
+        "d. Bacterias gram positivas exigentes"
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 24,
+        "question": "¿Cuál de las siguientes características estructurales del virus influenza A se relaciona directamente con la alta variabilidad antigénica propia de este virus?",
+        "answer": ["c. Poseer un genoma de ARN segmentado."],
+        "options": [
+        "a. Poseer envoltura.",
+        "b. Poseer más de un tipo de glicoproteínas de envoltura.",
+        "c. Poseer un genoma de ARN segmentado.",
+        "d. Poseer más de un tipo de proteínas de cápside."
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 25,
+        "question": "Mujer, 26 años, con diagnóstico de cistitis. ¿Cuál de los siguientes microorganismos se encuentra con mayor frecuencia causando esta infección?",
+        "answer": ["a. Staphylococcus saprophyticus"],
+        "options": [
+        "a. Staphylococcus saprophyticus",
+        "b. Enterococcus faecalis",
+        "c. Staphylococcus epidermidis",
+        "d. Staphylococcus aureus"
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 26,
+        "question": "La siguiente imagen muestra el resultado de una prueba de sinergia realizada en el agar Müller Hinton con discos de ceftriaxona, ácido clavulánico y ceftazidime. Se trata de un aislamiento de Escherichia coli recuperado de urocultivo. <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/1Parcial2020/Media/p26.PNG' > <br> Lo que se observa en la imagen se produce porque:",
+        "answer": ["b. El ácido clavulánico inhibe la BLEE y se restaura el efecto de la cefalosporina."],
+        "options": [
+        "a. Existe efecto sinérgico entre la amoxicilina y el ácido clavulánico.",
+        "b. El ácido clavulánico inhibe la BLEE y se restaura el efecto de la cefalosporina.",
+        "c. Existe efecto sinérgico entre la amoxicilina y la cefalosporina de tercera generación."
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 27,
+        "question": "La diarrea en la infección por Escherichia coli enteroinvasiva (EIEC) ocurre por:",
+        "answer": ["d. Invasión de las células epiteliales intestinales y respuesta inflamatoria local de daño epitelial."],
+        "options": [
+        "a. Acción citolítica y tóxica de la proteína NPS4 sobre el epitelio intestinal provocando la pérdida de electrolitos e impidiendo la reabsorción de agua.",
+        "b. Alteración de las microvellosidades intestinales por lesiones de tipo adhesión y borramiento, lo que da lugar a malabsorción.",
+        "c. Hipersecreción de líquido por la acción de las enteroxinas termoestables y termolábiles.",
+        "d. Invasión de las células epiteliales intestinales y respuesta inflamatoria local de daño epitelial."
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 28,
+        "question": "Cuando en el laboratorio se detecta el fenotipo de resistencia constitutiva a clindamicina en aislamientos de Staphylococcus aureus, implicando que los genes responsables de este fenotipo:",
+        "answer": ["c. Se expresarán seguramente durante el tratamiento."],
+        "options": [
+        "a. Pueden expresarse durante el tratamiento.",
+        "b. No se expresarán durante el tratamiento.",
+        "c. Se expresarán seguramente durante el tratamiento."
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 29,
+        "question": "¿Cuál de los siguientes mecanismos podría explicar la resistencia a penicilina y/o a cefalosporinas en una cepa de Streptococcus pneumoniae aislada de un paciente con neumonía?",
+        "answer": ["a. La presencia de PBPs en mosaico."],
+        "options": [
+        "a. La presencia de PBPs en mosaico.",
+        "b. La presencia de betalactamasas.",
+        "c. La presencia de bombas expulsoras de betalactámicos.",
+        "d. La presencia de PBP2a o PBP2’."
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 30,
+        "question": "En el ciclo de vida de Chlamydia trachomatis, las bacterias presentan 2 formas: el cuerpo elemental (CE) y el cuerpo reticulado (CR). ¿Cuál de las opciones indica las características de estas dos formas bacterianas?",
+        "answer": ["c. El CR consume aminoácidos de la célula huésped."],
+        "options": [
+        "a. El CE es metabólicamente activo y no puede infectar una célula susceptible.",
+        "b. El CR es metabólicamente inactivo y es la forma infectiva.",
+        "c. El CR consume aminoácidos de la célula huésped.",
+        "d. El CE consume aminoácidos de la célula huésped."
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 31,
+        "question": "Señale cuál de los siguientes antibióticos o familias de antibióticos actúan inhibiendo la síntesis proteica bacteriana:",
+        "answer": ["b. Macrólidos"],
+        "options": [
+        "a. Quinolonas",
+        "b. Macrólidos",
+        "c. Fosfomicina",
+        "d. Trimetoprim-sulfametoxazol"
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 32,
+        "question": "Una prueba útil para identificar dentro del género Staphylococcus la especie S. aureus es la prueba de:",
+        "answer": ["b. Coagulasa"],
+        "options": [
+        "a. CAMP",
+        "b. Coagulasa",
+        "c. Oxidasa",
+        "d. Catalasa "
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 33,
+        "question": "Paciente de 65 años, con enfermedad pulmonar obstructiva crónica (EPOC), es internado en sala general con diagnóstico de neumonía aguda comunitaria. Se envía al laboratorio una muestra de expectoración para el estudio bacteriológico, en la cual se observan al microscopio abundantes leucocitos polimorfonucleares y bacilos gram negativos. <br> ¿Cuál de las siguientes etiologías considera la más probable?",
+        "answer": ["b. Haemophilus influenzae"],
+        "options": [
+        "a. Escherichia coli",
+        "b. Haemophilus influenzae",
+        "c. Mycobacterium tuberculosis",
+        "d. Streptococcus pneumoniae"
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 34,
+        "question": "El laboratorio recibe una muestra de heces para coprocultivo procedente de un niño de 6 meses con diarrea. En el cultivo desarrolla colonias lactosa negativas; se realizas pruebas que determinan que el microorganismo pertenece a la familia Enterobacteriaceae. <br> En la prueba de MIO resulta inmóvil e indol positivo. Presenta el test de la fenilalanina desaminasa (PDA) negativo, es citrato negativo y ureasa positivo. No produce gas en el TSI y no produce ácido sulfhídrico (SH2). <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/1Parcial2020/Media/p34.PNG' > <br> Utilizando la tabla de identificación, ¿de qué género o especie bacteriana podría tratarse?",
+        "answer": ["d. Salmonella"],
+        "options": [
+        "a. Shigella",
+        "b. Yersinia enterocolitica",
+        "c. Escherichia coli",
+        "d. Salmonella"
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 35,
+        "question": "¿Cuál es la puerta de entrada del virus varicela zoster al causar infección en el hombre?",
+        "answer": ["a. Mucosa respiratoria"],
+        "options": [
+        "a. Mucosa respiratoria",
+        "b. Mucosa digestiva",
+        "c. Piel con microlesiones"
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 36,
+        "question": "En la patogenia de Neisseria gonorrhoeae, indique cuál de los siguientes factores de virulencia actúa principalmente en la etapa de colonización:",
+        "answer": ["d. Proteasa IgA"],
+        "options": [
+        "a. Sideróforos",
+        "b. Peptidoglicano",
+        "c. Vesículas de membrana externa",
+        "d. Proteasa IgA"
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 37,
+        "question": "¿Cuál de los siguientes virus de hepatitis se transmiten fundamentalmente por vía fecal oral?",
+        "answer": ["a. Virus de hepatitis A"],
+        "options": [
+        "a. Virus de hepatitis A",
+        "b. Virus de hepatitis C",
+        "c. Virus de hepatitis B"
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 38,
+        "question": "¿Cuál de los siguientes métodos utilizados para el diagnóstico de Sífilis es considerado un método cualitativo?",
+        "answer": ["b. Fluorescent Treponemal Antibody Absorption Test (FTA-Abs)"],
+        "options": [
+        "a. Rapid Plasma Reagin (RPR)",
+        "b. Fluorescent Treponemal Antibody Absorption Test (FTA-Abs)",
+        "c. Venereal Disease Research Laboratory (VDRL)"
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 39,
+        "question": "¿Cuál de las siguientes complicaciones se puede producir una vez superada la infección aguda por Streptococcus pyogenes?",
+        "answer": ["b. Fiebre reumática luego de una faringitis."],
+        "options": [
+        "a. Invasión y multiplicación bacteriana en tejidos adyacentes al sitio de infección.",
+        "b. Fiebre reumática luego de una faringitis.",
+        "c. Fiebre escarlatina.",
+        "d. Bacteriemia secundaria a la infección cutánea."
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 40,
+        "question": "El laboratorio recibe una muestra de líquido céfalo-raquídeo (LCR) de un niño de 3 meses de vida con diagnóstico de meningoencefalitis aguda. El aspecto del LCR es turbio. La imagen muestra el examen directo de esta muestra: <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/1Parcial2020/Media/p40.PNG' > <br> Además de leucocitos polimorfonucleares, ¿qué se observa?",
+        "answer": ["d. Cocos gram positivos en pares"],
+        "options": [
+        "a. Bacilos gram negativos",
+        "b. Cocos gram negativos en pares",
+        "c. Bacilos gram positivos",
+        "d. Cocos gram positivos en pares"
+        ],
+        "comment": "",
+        "discipline": "Bacterio",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 41,
+        "question": "En la relación hospedero/parásito existen factores propios del hospedero y otros propios del parásito que hacen posible esa asociación. ¿Cuál de los siguientes factores corresponden al parásito?",
+        "answer": ["a. Mecanismos de evasión"],
+        "options": [
+        "a. Mecanismos de evasión",
+        "b. Estado inmunitario",
+        "c. Sexo y factores hormonales",
+        "d. Estado nutricional"
+        ],
+        "comment": "",
+        "discipline": "Parasito",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 42,
+        "question": "Señale a qué opción corresponde un mecanismo de agresión parasitaria de acción mecánica:",
+        "answer": ["d. Compresión extrínseca"],
+        "options": [
+        "a. Evasión inmunitaria",
+        "b. Productos de excreción-secreción",
+        "c. Hematofagia",
+        "d. Compresión extrínseca"
+        ],
+        "comment": "",
+        "discipline": "Parasito",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 43,
+        "question": "¿Cuál de las siguientes geohelmintiasis es zoonótica?",
+        "answer": ["b. Toxocariasis"],
+        "options": [
+        "a. Estrongiloidosis",
+        "b. Toxocariasis",
+        "c. Trichuriosis",
+        "d. Ascaridiasis"
+        ],
+        "comment": "",
+        "discipline": "Parasito",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 44,
+        "question": "La sintomatología en la leishmaniosis visceral humana es muy variada. ¿Cuál de las siguientes combinaciones de signo, sintomatología y epidemiología consideraría en un caso clínico sospechoso de leishmaniasis visceral humana?",
+        "answer": ["b. Noción epidemiológica en el último año, fiebre y hepatoesplenomegalia."],
+        "options": [
+        "a. Procedente de zona endémica con fiebre de 72 horas, sin otros síntomas.",
+        "b. Noción epidemiológica en el último año, fiebre y hepatoesplenomegalia.",
+        "c. Sin relación epidemiológica, con artralgias, mialgias y fiebre de 4 días.",
+        "d. Procedente de Montevideo, con adenomegalias de 15 días, anorexia y astenia."
+        ],
+        "comment": "",
+        "discipline": "Parasito",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 45,
+        "question": "En la inmunidad frente a los artrópodos, ¿Qué dos tipos de respuestas de hipersensibilidad se pueden desencadenar contra las picaduras de insectos?",
+        "answer": ["a. Hipersensibilidad tipo I y tipo IV"],
+        "options": [
+        "a. Hipersensibilidad tipo I y tipo IV",
+        "b. Hipersensibilidad tipo II y tipo III",
+        "c. Hipersensibilidad tipo I y tipo II",
+        "d. Hipersensibilidad tipo III y tipo IV"
+        ],
+        "comment": "",
+        "discipline": "Parasito",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 46,
+        "question": "Con respecto a la patogenia de Toxoplasma gondii en la neurotoxoplasmosis, ¿cuál es la opción correcta?",
+        "answer": ["b. Toxoplasma gondii se asocia primariamente a leucocitos, los que le ofrecen un nicho intracelular, asegurando así la diseminación hematógena."],
+        "options": [
+        "a. Toxoplasma gondii llega al SNC a través de los vasos sanguíneos fenestrados del plexo coroideo asociados a leucocitos.",
+        "b. Toxoplasma gondii se asocia primariamente a leucocitos, los que le ofrecen un nicho intracelular, asegurando así la diseminación hematógena.",
+        "c. Toxoplasma gondii se encuentra asociado a leucocitos, por lo que no es posible encontrarlo como trofozoítos libres en sangre periférica.",
+        "d. Toxoplasma gondii llega al SNC desde la circulación sanguínea a través de las meninges asociados a leucocitos."
+        ],
+        "comment": "",
+        "discipline": "Parasito",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 47,
+        "question": "Paciente de sexo masculino, 29 años, usuario de lentes de contacto, presenta queratitis de ojo derecho de un mes de evolución. Se sospecha etiología amebiana. ¿Qué examen solicitaría para confirmar el diagnóstico?",
+        "answer": ["d. Estudio parasitológico de la lesión con examen directo y cultivos en medios no nutritivos enriquecidos."],
+        "options": [
+        "a. Estudio micológico de la lesión con examen directo y cultivo en medios de agar Sabouraud.",
+        "b. Estudio parasitológico de la lesión con examen directo y cultivo en medios de agar Sabouraud.",
+        "c. Estudio micológico de la lesión con examen directo y cultivos en medios no nutritivos enriquecidos.",
+        "d. Estudio parasitológico de la lesión con examen directo y cultivos en medios no nutritivos enriquecidos."
+        ],
+        "comment": "",
+        "discipline": "Parasito",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 48,
+        "question": "¿Qué valor presenta el estudio citoquímico del líquido cefalorraquídeo en la criptococosis meningoencefálica?",
+        "answer": ["c. El estudio citoquímico del líquido cefalorraquídeo puede resultar sin alteraciones."],
+        "options": [
+        "a. El estudio citoquímico del líquido cefalorraquídeo es patológico en la totalidad de los casos.",
+        "b. El estudio citoquímico del líquido cefalorraquídeo puede descartar esta patología.",
+        "c. El estudio citoquímico del líquido cefalorraquídeo puede resultar sin alteraciones."
+        ],
+        "comment": "",
+        "discipline": "Parasito",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 49,
+        "question": "¿En cuál de las siguientes enteroparasitosis se utiliza para complementar el examen coproparasitario y realizar diagnóstico, la coloración de un frotis de materia fecal con la técnica Tricrómica modificada?",
+        "answer": ["a. Microsporidiosis"],
+        "options": [
+        "a. Microsporidiosis",
+        "b. Giardiasis",
+        "c. Cryptosporidiosis",
+        "d. Oxiurosis"
+        ],
+        "comment": "",
+        "discipline": "Parasito",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 50,
+        "question": "En referencia a la epidemiología de la hidatidosis, ¿Cuál es la opción correcta?",
+        "answer": ["b. Al día de hoy existen 10 genotipos (G1 a G10) y 1 cepa en león."],
+        "options": [
+        "a. Una escasa minoría de los países endémicos son ganaderos.",
+        "b. Al día de hoy existen 10 genotipos (G1 a G10) y 1 cepa en león.",
+        "c. Uruguay se encuentra dentro de los países con menor endemia.",
+        "d. La endemia en nuestro país se basa en el ciclo perro-porcino-hombre."
+        ],
+        "comment": "",
+        "discipline": "Parasito",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 51,
+        "question": "¿Cuál de las siguientes medidas carece de importancia en el control de las geohelmintiasis?",
+        "answer": ["a. Protección de las heridas."],
+        "options": [
+        "a. Protección de las heridas.",
+        "b. Lavado de frutas y verduras.",
+        "c. Saneamiento.",
+        "d. Lavado de manos."
+        ],
+        "comment": "",
+        "discipline": "Parasito",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 52,
+        "question": "¿Cuál es el mecanismo patogénico de Fasciola hepática en los estadíos juveniles?",
+        "answer": ["c. Destrucción parenquimatosa"],
+        "options": [
+        "a. Acción antibacteriana",
+        "b. Obstrucción intestinal",
+        "c. Destrucción parenquimatosa",
+        "d. Obstrucción de conductos biliares"
+        ],
+        "comment": "",
+        "discipline": "Parasito",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 53,
+        "question": "¿Cuál de los siguientes métodos constituye un método diagnóstico indirecto?",
+        "answer": ["a. Detección de anticuerpos específicos contra un parásito en suero del paciente."],
+        "options": [
+        "a. Detección de anticuerpos específicos contra un parásito en suero del paciente.",
+        "b. Detección de genes específicos de un parásito en una muestra.",
+        "c. Detección del agente parasitario en una muestra.",
+        "d. Detección de antígenos de un parásito en una muestra."
+        ],
+        "comment": "",
+        "discipline": "Parasito",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 54,
+        "question": "¿Cuánto tiempo viven habitualmente los adultos de Enterobius vermicularis en el intestino humano?",
+        "answer": ["d. 2 meses"],
+        "options": [
+        "a. 2 años",
+        "b. 2 semanas",
+        "c. 2 días",
+        "d. 2 meses"
+        ],
+        "comment": "",
+        "discipline": "Parasito",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 55,
+        "question": "¿Cuál de las siguientes opciones representa una indicación absoluta de inicio de tratamiento tripanocida para la enfermedad de Chagas?",
+        "answer": ["d. Pacientes con reactivación de la enfermedad."],
+        "options": [
+        "a. Pacientes seropositivos menores de 30 años.",
+        "b. Pacientes seropositivos previo a la donación de órgano.",
+        "c. Pacientes en etapa crónica.",
+        "d. Pacientes con reactivación de la enfermedad."
+        ],
+        "comment": "",
+        "discipline": "Parasito",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 56,
+        "question": "El parasitismo implica:",
+        "answer": ["b. La asociación en la que un organismo vive a expensas del otro y le causa daño."],
+        "options": [
+        "a. La asociación en la que dos organismos son dependientes entre sí y resultan perjudicados.",
+        "b. La asociación en la que un organismo vive a expensas del otro y le causa daño.",
+        "c. La asociación en la que dos organismos son dependientes entre sí y resultan beneficiados."
+        ],
+        "comment": "",
+        "discipline": "Parasito",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 57,
+        "question": "¿Cuáles son los agentes más frecuentes y cuál es su procedencia en la queratitis micótica?",
+        "answer": ["c. Exógenos como mohos de los géneros Fusarium spp y Aspergillus spp."],
+        "options": [
+        "a. Exógenos como amebas de los géneros Naegleria y Acanthamoeba.",
+        "b. Endógenos como los Microsporidios.",
+        "c. Exógenos como mohos de los géneros Fusarium spp y Aspergillus spp.",
+        "d. Endógenos como Achantamoeba spp."
+        ],
+        "comment": "",
+        "discipline": "Parasito",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 58,
+        "question": "Con respecto a la patogenia de la neurocisticercosis, ¿cuál es la opción correcta?",
+        "answer": ["c. El parásito excreta proteasas de cysteína que disminuyen el número de LT CD4+ por apoptosis."],
+        "options": [
+        "a. El parásito mediante el factor de metacestodo aumenta la producción de citosinas como IL-2, IL-4 e IFN gamma.",
+        "b. El hospedero excreta proteasas de cysteína que aumentan el número de LT CD4+ y estimulan la respuesta Th2.",
+        "c. El parásito excreta proteasas de cysteína que disminuyen el número de LT CD4+ por apoptosis.",
+        "d. El parásito excreta factor de metacestodo que estimula la proliferación celular inducida por mitógenos."
+        ],
+        "comment": "",
+        "discipline": "Parasito",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 59,
+        "question": "¿En cuál de las siguientes parasitosis intestinales es característico el prurito anal?",
+        "answer": ["a. Enterobiasis"],
+        "options": [
+        "a. Enterobiasis",
+        "b. Criptosporidiosis",
+        "c. Ascaridiasis",
+        "d. Giardiasis"
+        ],
+        "comment": "",
+        "discipline": "Parasito",
+        },
+
+        {
+        "info_quest": "1er Parcial 2020",
+        "numb": 60,
+        "question": "Con respecto a la morfología de Toxoplasma gondii, ¿cuál es la opción correcta?",
+        "answer": ["b. Los quistes tisulares están formados por bradizoitos."],
+        "options": [
+        "a. El complejo apical está formado por el núcleo, gránulos densos y el conoide.",
+        "b. Los quistes tisulares están formados por bradizoitos.",
+        "c. La reproducción en los tejidos se produce en la forma taquizoitos.",
+        "d. Presenta tres formas evolutivas: zoito, taquizoito y bradizoito"
+        ],
+        "comment": "",
+        "discipline": "Parasito",
+        },
       ////////////////////////////////////////////////
       {
         "info_quest": "2do Parcial 2021",
