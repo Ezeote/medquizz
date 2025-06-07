@@ -46,7 +46,7 @@ let questions = [
     "info_quest": "1er Parcial 2021",
     "numb": 4,
     "question": "Usted obtiene una muestra de secreciones respiratorias ¿Cuál de las siguientes opciones es la mejor para remitir dicha muestra al laboratorio para la detección de antígenos virales? ",
-    "answer": ["a. Temperatura de 4°C, sin medio de transporte viral y sin antibióticos"],
+    "answer": ["d. Temperatura de 4°C con medio de transporte viral y con antibióticos"],
     "options": [
     "a. Temperatura de 4°C, sin medio de transporte viral y sin antibióticos",
     "b. Temperatura ambiente sin medio de transporte viral y con antibióticos",
