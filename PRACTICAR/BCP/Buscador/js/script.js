@@ -46,6 +46,49 @@ function selectDisciplines() {
     filteredQuestions.forEach((question, index) => question.numb = index + 1); // Renumber questions from 1 to 10
 }
 
+// Start a FULL practice for a single discipline: load ALL questions in that discipline
+function startFullModule(discipline) {
+    // Reset state
+    que_count = 0;
+    que_numb = 1;
+    userScore = 0;
+    userAnswers = [];
+    disciplineScores = {
+        Bacterio: { correct: 0, total: 0 },
+        Parasito: { correct: 0, total: 0 },
+        Fisiopato: { correct: 0, total: 0 },
+        Farmaco: { correct: 0, total: 0 },
+        Biofisica: { correct: 0, total: 0 },
+        AnatoP: { correct: 0, total: 0 }
+    };
+
+    // Set selected discipline and load ALL questions for it (no slice to 10)
+    selectedDisciplines = [discipline];
+    filteredQuestions = questions.filter(q => q.discipline === discipline);
+    if (filteredQuestions.length === 0) {
+        alert('No hay preguntas disponibles para el módulo: ' + discipline);
+        return;
+    }
+    // Renumber questions sequentially
+    filteredQuestions.forEach((q, i) => q.numb = i + 1);
+
+    // Show quiz
+    info_box.classList.remove("activeInfo"); // hide info box
+    quiz_box.classList.add("activeQuiz"); // show quiz box
+    showQuetions(0); // show first question
+    queCounter(1);
+    // Show navigation appropriately
+    next_btn.classList.add("show");
+    if (filteredQuestions.length > 1) {
+        prev_btn.classList.add("show");
+    } else {
+        prev_btn.classList.remove("show");
+    }
+    // Hide the comment section initially
+    const cs = document.getElementById("comment_section");
+    if (cs) cs.classList.add("hidden");
+}
+
 // Function to shuffle an array
 function shuffleArray(array) {
     for (let i = array.length - 1; i > 0; i--) {
@@ -472,6 +515,14 @@ document.addEventListener('DOMContentLoaded', () => {
             searchResults.style.display = 'none';
         }
     }
+    // Attach FULL buttons inside the discipline selector to start a full-module practice
+    const fullButtons = document.querySelectorAll('.full-btn');
+    fullButtons.forEach(btn => {
+        btn.addEventListener('click', (e) => {
+            const disc = btn.dataset.discipline;
+            if (disc) startFullModule(disc);
+        });
+    });
 });
 
 // ...existing code...
