@@ -11,7 +11,7 @@ let questions = [
 "c) Parenquimatosa",
 ],
 "discipline": "Fisiopato",
-"comments": "",
+"comment": "",
 
 },
 
@@ -27,7 +27,7 @@ let questions = [
 "d) Vasoconstricción de arteriola eferente",
 ],
 "discipline": "Fisiopato",
-"comments": "",
+"comment": "",
 
 },
 
@@ -42,7 +42,7 @@ let questions = [
 "c) 50%",
 ],
 "discipline": "Fisiopato",
-"comments": "",
+"comment": "",
 
 },
 
@@ -58,7 +58,7 @@ let questions = [
 "d) Hiperazoemia mantenida",
 ],
 "discipline": "Fisiopato",
-"comments": "",
+"comment": "",
 
 },
 
@@ -74,7 +74,7 @@ let questions = [
 "d) Fósforo",
 ],
 "discipline": "Fisiopato",
-"comments": "",
+"comment": "",
 
 },
 
@@ -89,7 +89,7 @@ let questions = [
 "c) Aumentadas",
 ],
 "discipline": "Fisiopato",
-"comments": "",
+"comment": "",
 
 },
 
@@ -105,7 +105,7 @@ let questions = [
 "d) Administración de vasodilatadores sistémicos.",
 ],
 "discipline": "Fisiopato",
-"comments": "",
+"comment": "",
 
 },
 
@@ -121,7 +121,7 @@ let questions = [
 "d) El volumen sanguíneo cerebral disminuye.",
 ],
 "discipline": "Fisiopato",
-"comments": "",
+"comment": "",
 
 },
 
@@ -136,7 +136,7 @@ let questions = [
 "c) Desplazamiento de la curva hacia la derecha.",
 ],
 "discipline": "Fisiopato",
-"comments": "",
+"comment": "",
 
 },
 
@@ -151,7 +151,7 @@ let questions = [
 "c) Hipertrofia de la capa muscular media arterial",
 ],
 "discipline": "Fisiopato",
-"comments": "",
+"comment": "",
 
 },
 
@@ -167,7 +167,7 @@ let questions = [
 "d) Aumento de la función contráctil del miocardio por disminución crónica del flujo sanguíneo coronario.",
 ],
 "discipline": "Fisiopato",
-"comments": "",
+"comment": "",
 
 },
 
@@ -182,7 +182,7 @@ let questions = [
 "c) Necrosis",
 ],
 "discipline": "Fisiopato",
-"comments": "",
+"comment": "",
 
 },
 
@@ -197,7 +197,7 @@ let questions = [
 "c) Aumento de la presión de oclusión pulmonar, mayor a 15 mmHg",
 ],
 "discipline": "Fisiopato",
-"comments": "",
+"comment": "",
 
 },
 
@@ -212,7 +212,7 @@ let questions = [
 "c) Estimulación de la guanilato ciclasa soluble",
 ],
 "discipline": "Fisiopato",
-"comments": "",
+"comment": "",
 
 },
 
@@ -227,7 +227,7 @@ let questions = [
 "c) Se mantiene el gasto cardíaco estable frente a aumentos importantes de la poscarga",
 ],
 "discipline": "Fisiopato",
-"comments": "",
+"comment": "",
 
 },
 
@@ -243,7 +243,7 @@ let questions = [
 "d) Hipertrofia de la aurícula derecha",
 ],
 "discipline": "Fisiopato",
-"comments": "",
+"comment": "",
 
 },
 
@@ -258,7 +258,7 @@ let questions = [
 "c) Pliegue cutáneo hipoelástico",
 ],
 "discipline": "Fisiopato",
-"comments": "",
+"comment": "",
 
 },
 
@@ -273,7 +273,7 @@ let questions = [
 "c) Aumento de la liberación de calcio desde el retículo sarcoplásmico en diástole",
 ],
 "discipline": "Fisiopato",
-"comments": "",
+"comment": "",
 
 },
 
@@ -288,7 +288,7 @@ let questions = [
 "c) Falta agregar otro fármaco para cumplir con la definición",
 ],
 "discipline": "Fisiopato",
-"comments": "",
+"comment": "",
 
 },
 
@@ -303,7 +303,7 @@ let questions = [
 "c) El aumento de la presión arterial y la disminución del tono arteriolar",
 ],
 "discipline": "Fisiopato",
-"comments": "",
+"comment": "",
 
 },
 
@@ -319,7 +319,7 @@ let questions = [
 "d) La disminución del tono de la arteria aferente y eferente a nivel glomerular",
 ],
 "discipline": "Fisiopato",
-"comments": "",
+"comment": "",
 
 },
 
@@ -335,7 +335,7 @@ let questions = [
 "d) Caliente y húmedo",
 ],
 "discipline": "Fisiopato",
-"comments": "",
+"comment": "",
 
 },
 
@@ -351,7 +351,7 @@ let questions = [
 "d) Propiltiouracilo",
 ],
 "discipline": "Farmaco",
-"comments": "",
+"comment": "",
 
 },
 
@@ -367,7 +367,7 @@ let questions = [
 "d) Receptores acoplados a proteína G",
 ],
 "discipline": "Farmaco",
-"comments": "",
+"comment": "",
 
 },
 
@@ -383,7 +383,7 @@ let questions = [
 "d) Intramuscular",
 ],
 "discipline": "Farmaco",
-"comments": "",
+"comment": "",
 
 },
 
@@ -399,7 +399,7 @@ let questions = [
 "d) Anemia aplásica",
 ],
 "discipline": "Farmaco",
-"comments": "",
+"comment": "",
 
 },
 
@@ -415,7 +415,7 @@ let questions = [
 "d) Se une extensamente a proteínas plasmáticas, más del 90%",
 ],
 "discipline": "Farmaco",
-"comments": "",
+"comment": "",
 
 },
 
@@ -431,7 +431,7 @@ let questions = [
 "d) Naproxeno",
 ],
 "discipline": "Farmaco",
-"comments": "",
+"comment": "",
 
 },
 
@@ -447,7 +447,7 @@ let questions = [
 "d) Antagonismo 5-HT2 serotoninérgico",
 ],
 "discipline": "Farmaco",
-"comments": "",
+"comment": "",
 
 },
 
@@ -463,7 +463,7 @@ let questions = [
 "d) Aumenta la conductancia de Cl",
 ],
 "discipline": "Farmaco",
-"comments": "",
+"comment": "",
 
 },
 
@@ -479,7 +479,7 @@ let questions = [
 "d) Presenta amplia distribución tisular concentrando en el parénquima renal",
 ],
 "discipline": "Farmaco",
-"comments": "",
+"comment": "",
 
 },
 
@@ -495,7 +495,7 @@ let questions = [
 "d) Presencia de macrófagos, células gigantes multinucleadas rodeados por polimorfonucleares.",
 ],
 "discipline": "AnatoP",
-"comments": "",
+"comment": "",
 
 },
 
@@ -511,7 +511,7 @@ let questions = [
 "d) Eosinófilos, células gigantes multinucleadas tipo cuerpo extraño y fibroblastos.",
 ],
 "discipline": "AnatoP",
-"comments": "",
+"comment": "",
 
 },
 
@@ -527,7 +527,7 @@ let questions = [
 "d) Ocurre en el compartimiento intracelular y se confirma con tinción de hematoxilina y eosina",
 ],
 "discipline": "AnatoP",
-"comments": "",
+"comment": "",
 
 },
 
@@ -543,7 +543,7 @@ let questions = [
 "d) Aumento del número nuclear y del contenido proteico unicelular",
 ],
 "discipline": "AnatoP",
-"comments": "",
+"comment": "",
 
 },
 
@@ -559,7 +559,7 @@ let questions = [
 "d) Exudación de líquido con proteínas abundantes y fibrina organizada.",
 ],
 "discipline": "AnatoP",
-"comments": "",
+"comment": "",
 
 },
 
@@ -575,7 +575,7 @@ let questions = [
 "d) Infiltrado de polimorfonucleares neutrófilos y congestión de vasos sanguíneos",
 ],
 "discipline": "AnatoP",
-"comments": "",
+"comment": "",
 
 },
 
@@ -590,7 +590,7 @@ let questions = [
 "c) Coagulativa",
 ],
 "discipline": "AnatoP",
-"comments": "",
+"comment": "",
 
 },
 
@@ -606,7 +606,7 @@ let questions = [
 "d) Hipertrofia",
 ],
 "discipline": "AnatoP",
-"comments": "",
+"comment": "",
 
 },
 
@@ -622,8 +622,9 @@ let questions = [
 "d) Ausencia de proliferación de vasos sanguíneos de neoformación",
 ],
 "discipline": "AnatoP",
-"comments": "",
+"comment": "",
 
 },
+
 
 ];
