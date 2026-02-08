@@ -106,16 +106,17 @@ h2{
     display: inline-block;
     margin-top: 15px;
     padding: 10px 20px;
-    background-color: #007bff;
+     background: linear-gradient(45deg, var(--c1, #ff6262), var(--c2, #7178ff) 51%, var(--c1, #ff6262)) var(--x, 0)/ 200%;
     color: #fff;
     border: none;
     border-radius: 5px;
     text-decoration: none;
     font-size: 14px;
-    transition: background-color 0.3s;
+        transition: 0.5s;
+
 }
 .button-cube .content .btn:hover {
-    background-color: #0056b3;
+    --x: 100%;
 }
 .modal {
     display: none;
@@ -237,3 +238,4 @@ h2{
         color: rgb(85, 178, 255); /* Change color on hover */
     }
 }
+
