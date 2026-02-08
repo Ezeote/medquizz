@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:type" content="website" />
+    <script src="https://kit.fontawesome.com/f5e72e50e2.js" crossorigin="anonymous"></script>
+
+    <title>CREAR PRUEBA</title>
+    <style> 
+      
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;   
+	height: 100vh;  
+    width: 100%;  
+    
+}
+header {
+    background: linear-gradient(-45deg, #1e338e, #0056b3, #1e338e);
+	background-size: 700% 700%;
+	animation: gradient 15s ease infinite;
+    border-radius: 0px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    height: 80px;
+    
+}
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+    
+}
+h1{
+    text-align: center;
+    color: white;
+}
+.container1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+.flex-grow {
+    flex-grow: 1; /* Allow the title to take up available space */
+    text-align: center;
+}
+
+nav ul {
+    display: flex; /* Ensure the list items are in a horizontal line */
+    list-style: none; /* Remove default list styling */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+}
+
+nav ul li {
+    margin-left: 20px; /* Space between list items */
+}
+
+nav ul li a {
+    text-decoration: none; /* Remove underline from links */
+    color: rgb(255, 255, 255); /* Default text color */
+}
+
+nav ul li a:hover {
+    color: rgb(85, 178, 255); /* Change color on hover */
+}
+
+
+
+#formContainer{
+            position: relative;
+            width: 80%;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+
+
+
+        
+        input, textarea {
+            width: 100%;
+            margin-bottom: 10px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        button {
+            padding: 10px 15px;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+        /* simple modal / floating panel styles */
+        .modal {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: white;
+            box-shadow: 0 8px 24px rgba(0,0,0,0.2);
+            padding: 20px;
+            z-index: 9999;
+            width: 90%;
+            max-width: 600px;
+            border-radius: 8px;
+        }
+        /* layout for editor: left panel (form) and right panel (output) */
+        #editorLayout {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            align-items: flex-start;
+            padding: 20px;
+            width: 100%;
+            box-sizing: border-box;
+        }
+        .panel {
+            position: relative;
+            width: 48%;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            max-height: 80vh;
+            overflow: auto;
+        }
+        #outputPanel {
+            width: 48%;
+        }
+        .hidden { display: none; }
+
+
+
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    padding: 20px;
+}
+.button-cube {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 200px;
+    text-align: center;
+    transition: transform 0.3s;
+}
+.button-cube:hover {
+    transform: translateY(-10px);
+}
+.button-cube img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+.button-cube .content {
+    padding: 15px;
+}
+.button-cube .content h3 {
+    margin: 0;
+    font-size: 18px;
+    color: #333;
+}
+.button-cube .content p {
+    margin: 10px 0 0;
+    font-size: 14px;
+    color: #666;
+}
+.button-cube .content .btn {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 14px;
+    transition: background-color 0.3s;
+}
+.button-cube .content .btn:hover {
+    background-color: #0056b3;
+}
+
+.modal-list button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    text-align: left;
+    font-size: 14px;
+    transition: background-color 0.3s;
+}
+.modal-list button:hover {
+    background-color: #0056b3;
+}
+
+
+
+::selection{
+    color: #fff;
+    background: #007bff;
+}
+  
+    </style>
+    <!-- FontAweome CDN Link for Icons-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+
+    
+</head>
+<body>
+    <header class="bg-white shadow-md">
+        <div class="container1 mx-auto flex justify-between items-center p-4" id="headerCont">
+            <div class="flex items-center">
+                <img alt="logo" class="logo" height="100" src="https://ezeote.github.io/medquizz/Media/miLogo2.png" width=""/>
+            </div>
+            <h1>CREAR PRUEBA</h1>
+            <div class="flex-grow text-center">
+                <h1 class="text-xl font-bold"></h1>
+            </div>
+            <nav>
+                <ul class="flex space-x-4">
+                    <li>
+                        <a class="text-gray-700 hover:text-blue-500" href="https://ezeote.github.io/medquizz">Inicio</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header> 
+  
+<!-- Welcome modal asking for the global `info_quest` for following questions -->
+<div id="welcomeDiv" class="modal">
+    <label for="global_info_quest"><strong>¿Qué parcial es?</strong></label>
+    <input type="text" id="global_info_quest" placeholder="Ej: 1er_PARCIAL_MHBIO_2025">
+    <div style="text-align:right; margin-top:10px;">
+        <button id="nextBtn">Siguiente</button>
+    </div>
+    <p style="font-size:12px; color:#666; margin-top:10px;">DE MOMENTO, SOLO EN PC (diseño en proceso).<br> Pasas pregunta a pregunta, a la derecha se muestra el formato con que se sube. Lo copias, pegas y <a href="https://drive.google.com/drive/folders/1kOvetbUukZeZpw0piB_vHNu_1IAA2yYA">lo subis a esta carpeta de drive</a></p>
+</div>
+
+<!-- Editor layout: left (form) and right (output) -->
+<div id="editorLayout" class="hidden">
+    <div id="formContainer" class="panel hidden">
+        <label for="numb">Num (auto):</label>
+        <input type="number" id="numb" placeholder="Enter question number" value="1" readonly>
+
+        <label for="question">Pregunta:</label>
+        <textarea id="question" placeholder="Escribe la pregunta aquí"></textarea>
+
+        <label for="answer">Respuesta:</label>
+        <input type="text" id="answer" placeholder="Respuesta correcta">
+
+        <label>Opciones:</label>
+        <input type="text" id="option1" placeholder="Opción a">
+        <input type="text" id="option2" placeholder="Opción b">
+        <input type="text" id="option3" placeholder="Opción c">
+        <input type="text" id="option4" placeholder="Opción d">
+
+        <label for="info_quest">PRUEBA</label>
+        <input type="text" id="info_quest" placeholder="Ej: Examen_BCP_2022">
+
+        <label for="comment">Comentario:</label>
+        <input type="text" id="comment" placeholder="Ej.: esta pregunta es ambigua">
+
+        <div style="display:flex; gap:10px; justify-content:flex-end; margin-top:8px;">
+            <button onclick="addQuestion()">Agregar pregunta</button>
+            <button onclick="downloadQuestions()">Guardar como .TXT</button>
+        </div>
+    </div>
+
+    <div id="outputPanel" class="panel">
+        <h2 style="margin-top:0;">TEXTO PREGUNTAS:</h2>
+        <pre id="output"></pre>
+    </div>
+</div>
+
+<script>
+    // questions storage
+    const questionsArray = [];
+    // global info_quest set from the initial modal
+    let globalInfoQuest = "";
+    // next automatic question number (starts at 1)
+    let nextNumber = 1;
+
+    // Next button: capture the global info_quest and show the form modal
+    document.getElementById('nextBtn').addEventListener('click', function () {
+        const val = document.getElementById('global_info_quest').value.trim();
+        if (!val) {
+            alert('Por favor ingresa qué parcial es (info_quest).');
+            return;
+        }
+    globalInfoQuest = val;
+    const infoEl = document.getElementById('info_quest');
+    infoEl.value = globalInfoQuest;
+    infoEl.readOnly = true; // prevent editing so it's clear it's applied globally
+
+    // set initial automatic number in the form
+    const numbEl = document.getElementById('numb');
+    numbEl.value = nextNumber;
+
+    // hide welcome modal and show form
+    document.getElementById('welcomeDiv').classList.add('hidden');
+    document.getElementById('formContainer').classList.remove('hidden');
+    // focus first editable input (question)
+    document.getElementById('question').focus();
+    });
+
+    function addQuestion() {
+        const question = document.getElementById('question').value;
+        const answer = document.getElementById('answer').value;
+        const options = [
+            document.getElementById('option1').value.trim(),
+            document.getElementById('option2').value.trim(),
+            document.getElementById('option3').value.trim(),
+            document.getElementById('option4').value.trim()
+        ];
+
+        // prefer the explicit info_quest input, fallback to globalInfoQuest
+        const info_quest = document.getElementById('info_quest').value || globalInfoQuest || "";
+        const comment = document.getElementById('comment').value || "";
+
+        // Use automatic number and increment for next question
+        const currentNumber = nextNumber;
+        nextNumber = nextNumber + 1;
+        // update the displayed number in the form
+        document.getElementById('numb').value = nextNumber;
+
+        let questionObject = {
+            info_quest: info_quest,
+            numb: parseInt(currentNumber),
+            question: question,
+            answer: [answer],
+            options: options,
+            comment: comment
+        };
+
+        questionsArray.push(questionObject);
+        document.getElementById('output').textContent =
+            'let questions = ' + JSON.stringify(questionsArray, null, 2) + ';';
+
+    // Clear input fields except info_quest (it's global)
+        document.getElementById('question').value = '';
+        document.getElementById('answer').value = '';
+        document.getElementById('option1').value = '';
+        document.getElementById('option2').value = '';
+        document.getElementById('option3').value = '';
+        document.getElementById('option4').value = '';
+        document.getElementById('comment').value = '';
+
+    // move focus to question for quick entry of the next question
+    document.getElementById('question').focus();
+    }
+
+    function downloadQuestions() {
+        const text = document.getElementById('output').textContent;
+        const blob = new Blob([text], { type: 'text/plain' });
+        const url = URL.createObjectURL(blob);
+
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'preguntas.txt';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+    }
+</script>
+
+
+</body>
+</html>
