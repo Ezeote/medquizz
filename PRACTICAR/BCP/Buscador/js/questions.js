@@ -348,7 +348,7 @@ let questions = [
       "reactivación de enfermedad de Chagas crónica dado que necesita recibir inmunosupresores por el trasplante",
       "adquirir enfermedad de Chagas derivada de transfusiones dado que el sangrado intraoperatorio puede requerir transfusión de sangre total"
       ],
-      "image": "https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/14-12-2022E/media/p25.PNG", // Add the image URL here
+      "image": "https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/14-12-2022E/media/p25.PNG", // Add the image URL here
       "comment": "",
       "discipline": "Parasito",
   },
@@ -557,7 +557,7 @@ let questions = [
       "Mayor descenso que el observado cuando la creatinina sérica asciende de 2 a 4 ml/min.",
       "Traduce una pequeña disminución del filtrado glomerular"
       ],
-      "image": "https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/14-12-2022E/media/p40.PNG", // Add the image URL here
+      "image": "https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/14-12-2022E/media/p40.PNG", // Add the image URL here
       "comment": "",
       "discipline": "Fisiopato",
   },
@@ -586,7 +586,7 @@ let questions = [
       "Presenta mayor potencia que el de la curva número 1",
       "Tiene menor actividad intrínseca que el de la curva número 2"
       ],
-      "image": "https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/14-12-2022E/media/p42.PNG", // Add the image URL here
+      "image": "https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/14-12-2022E/media/p42.PNG", // Add the image URL here
       "comment": "",
       "discipline": "Farmaco",
   },
@@ -2159,7 +2159,7 @@ let questions = [
   ],
   "discipline": "Fisiopato",
   "comment": "",
-  "image":"https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/2019-02-07E/media/pregunta%2033.PNG", // Add the image URL here
+  "image":"https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/2019-02-07E/media/pregunta%2033.PNG", // Add the image URL here
   },
   {
 
@@ -2190,7 +2190,7 @@ let questions = [
   ],
   "discipline": "Fisiopato",
   "comment": "",
-  "image":"https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/2019-02-07E/media/pregunta%2035.PNG", // Add
+  "image":"https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/2019-02-07E/media/pregunta%2035.PNG", // Add
   },
   {
 
@@ -2291,12 +2291,12 @@ let questions = [
   ],
   "discipline": "Farmaco",
   "comment": "",
-  "image":"https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/2019-02-07E/media/pregunta%2042.PNG", // Add
+  "image":"https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/2019-02-07E/media/pregunta%2042.PNG", // Add
   },
   {
     "info_quest": "Examen 7/02/2019",
     "numb": 43,
-    "question": "En un modelo de órgano aislado (arteria aislada de conejo), se administra angiotensina II (AII) y se cuantifica la respuesta vasoconstrictora (control). Se incuban las arterias con angiotensina II y se administran dosis crecientes de losartán (100nM y 300 nM). Se obtienen las curvas que se presentan en el gráfico:<br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/2019-02-07E/media/pregunta%2042.PNG'> <br>A partir de los datos aportados por la gráfica, puede concluirse que:",
+    "question": "En un modelo de órgano aislado (arteria aislada de conejo), se administra angiotensina II (AII) y se cuantifica la respuesta vasoconstrictora (control). Se incuban las arterias con angiotensina II y se administran dosis crecientes de losartán (100nM y 300 nM). Se obtienen las curvas que se presentan en el gráfico:<br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/2019-02-07E/media/pregunta%2042.PNG'> <br>A partir de los datos aportados por la gráfica, puede concluirse que:",
     "answer": ["Losartán y AII comparten el mismo sistema receptorial"],
     "options": [
     "Losartán y AII comparten el mismo sistema receptorial",
@@ -3899,7 +3899,7 @@ let questions = [
   {
   "info_quest": "Examen 6/02/2025",
   "numb": 37,
-  "question": "Paciente de 19 años consumidor de cocaína ingresa por shock hipovolémico en anemia aguda por politraumatismo. Requiere 10 volúmenes de glóbulos rojos en las primeras 24 horas. A las 48 horas se mantiene hemodinamicamente estable sin requerimientos de transfusiones . <br> De la valoración de la función renal se destaca: <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/2025-02-06/media/p37.PNG'> <br> ¿Cuál es el diagnóstico de la función renal màs probable? ",
+  "question": "Paciente de 19 años consumidor de cocaína ingresa por shock hipovolémico en anemia aguda por politraumatismo. Requiere 10 volúmenes de glóbulos rojos en las primeras 24 horas. A las 48 horas se mantiene hemodinamicamente estable sin requerimientos de transfusiones . <br> De la valoración de la función renal se destaca: <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/2025-02-06/media/p37.PNG'> <br> ¿Cuál es el diagnóstico de la función renal màs probable? ",
   "answer": ["Injuria renal aguda parenquimatosa isquémica"],
   "options":[
   "Injuria renal aguda pre-renal",
@@ -4797,7 +4797,7 @@ let questions = [
       "post- renal",
       "parenquimatosa"
     ],
-    "image": "https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/BCP-07022022-p41.png", // Add the image URL here
+    "image": "https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/BCP-07022022-p41.png", // Add the image URL here
   "discipline": "Fisiopato",
   "comment": "",
   },
@@ -11060,7 +11060,7 @@ let questions = [
   {
   "info_quest": "2do Parcial 2023",
   "numb": 5, 
-  "question": "Usted observa un test de sinergia entre discos de carbapenemes (Meropenem e Imipenem) y EDTA. Con estos resultados usted afirma que el microorganismo seguramente sea portador de: <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p5-2doP-2023.PNG' alt=''>",
+  "question": "Usted observa un test de sinergia entre discos de carbapenemes (Meropenem e Imipenem) y EDTA. Con estos resultados usted afirma que el microorganismo seguramente sea portador de: <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p5-2doP-2023.PNG' alt=''>",
   "answer": ["Una carbapenemasa de clase B como NDM-1"],
   "options": [
   "Una carbapenemasa de clase A del tipo KPC-2",
@@ -11535,7 +11535,7 @@ let questions = [
   {
   "info_quest": "2do Parcial 2023",
   "numb": 39, 
-  "question": "¿Qué espera que suceda si el ciclo respiratorio ocurre por encima del punto de inflexión superior de la curva de presión volumen (PV)? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p39-2doP-2023.PNG' alt=''>",
+  "question": "¿Qué espera que suceda si el ciclo respiratorio ocurre por encima del punto de inflexión superior de la curva de presión volumen (PV)? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p39-2doP-2023.PNG' alt=''>",
   "answer": ["Aumento del trabajo respiratorio"],
   "options": [
   "Aumento del trabajo respiratorio",
@@ -12040,7 +12040,7 @@ let questions = [
   {
   "info_quest": "2do Parcial 2024",
   "numb": 4,
-  "question": "Un paciente de 40 años de edad, presenta un cuadro clínico sugestivo de hepatitis de etiología viral. Se determinan marcadores serológicos, cuyo resultado se presenta a continuación:<br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p4-2P-2024.PNG' alt=''> <br> ¿Cuál es la situación de este paciente en relación con el virus de hepatitis B?",
+  "question": "Un paciente de 40 años de edad, presenta un cuadro clínico sugestivo de hepatitis de etiología viral. Se determinan marcadores serológicos, cuyo resultado se presenta a continuación:<br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p4-2P-2024.PNG' alt=''> <br> ¿Cuál es la situación de este paciente en relación con el virus de hepatitis B?",
   "answer": ["Está cursando una infección aguda"],
   "options": [
   "Está vacunado",
@@ -12129,7 +12129,7 @@ let questions = [
   {
   "info_quest": "2do Parcial 2024",
   "numb": 10,
-  "question": "La siguiente tabla presenta los resultados obtenidos de susceptibilidad a antibióticos de una cepa de Staphylococcus aureus <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p10-2P-2024.PNG' alt=''> <br> ¿Cuál es el mecanismo que explica la resistencia observada?",
+  "question": "La siguiente tabla presenta los resultados obtenidos de susceptibilidad a antibióticos de una cepa de Staphylococcus aureus <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p10-2P-2024.PNG' alt=''> <br> ¿Cuál es el mecanismo que explica la resistencia observada?",
   "answer": ["Alteración del sitio blanco"],
   "options": [
   "Impermeabilidad",
@@ -12491,7 +12491,7 @@ let questions = [
   {
   "info_quest": "2do Parcial 2024",
   "numb": 34,
-  "question": "En la siguiente tabla se detallan los parámetros de la mecánica ventilatoria en un paciente en condiciones basales (A) y luego de una intervención (B) <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p34-2P-2024.PNG' alt=''> <br> ¿Qué cambios se observan en la mecánica respiratoria?",
+  "question": "En la siguiente tabla se detallan los parámetros de la mecánica ventilatoria en un paciente en condiciones basales (A) y luego de una intervención (B) <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p34-2P-2024.PNG' alt=''> <br> ¿Qué cambios se observan en la mecánica respiratoria?",
   "answer": ["La complacencia estática del sistema respiratorio desciende con respecto a la situación basal"],
   "options": [
   "Las resistencias totales de vía aérea aumentan",
@@ -12566,7 +12566,7 @@ let questions = [
   {
   "info_quest": "2do Parcial 2024",
   "numb": 39,
-  "question": "El siguiente gráfico muestra la curva de autorregulación de la circulación coronaria en un sujeto sano. ¿A qué corresponde el punto marcado en la figura? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p39-2P-2024.PNG' alt=''>",
+  "question": "El siguiente gráfico muestra la curva de autorregulación de la circulación coronaria en un sujeto sano. ¿A qué corresponde el punto marcado en la figura? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p39-2P-2024.PNG' alt=''>",
   "answer": ["Al punto máximo de vasodilatación"],
   "options": [
   "Al punto máximo de vasodilatación",
@@ -12580,7 +12580,7 @@ let questions = [
   {
   "info_quest": "2do Parcial 2024",
   "numb": 40,
-  "question": "Un paciente de 55 años, diabético, ingresa con insuficiencia renal aguda severa en el contexto de pielonefritis aguda. Se realiza la siguiente gasometría arterial. ¿Cuál es su diagnóstico gasométrico? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p40-2P-2024.PNG' alt=''>",
+  "question": "Un paciente de 55 años, diabético, ingresa con insuficiencia renal aguda severa en el contexto de pielonefritis aguda. Se realiza la siguiente gasometría arterial. ¿Cuál es su diagnóstico gasométrico? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p40-2P-2024.PNG' alt=''>",
   "answer": ["Acidosis metabólica con respuesta adaptativa adecuada"],
   "options": [
   "Acidosis respiratoria con respuesta adaptativa adecuada",
@@ -12813,7 +12813,7 @@ let questions = [
   {
   "info_quest": "2do Parcial 2024",
   "numb": 56,
-  "question": "A partir del experimento mostrado en la figura, donde se comparan diferentes fármacos agonistas y el efecto que éstos presentan sobre el porcentaje de aumento del volumen eyectado ¿Cuál de los fármacos presenta mayor potencia? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p56y57-2P-2024.PNG' alt=''>",
+  "question": "A partir del experimento mostrado en la figura, donde se comparan diferentes fármacos agonistas y el efecto que éstos presentan sobre el porcentaje de aumento del volumen eyectado ¿Cuál de los fármacos presenta mayor potencia? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p56y57-2P-2024.PNG' alt=''>",
   "answer": ["Fármaco A"],
   "options": [
   "Fármaco A",
@@ -12827,7 +12827,7 @@ let questions = [
   {
   "info_quest": "2do Parcial 2024",
   "numb": 57,
-  "question": "Con relación al gráfico ¿Cuál de los fármacos agonistas presenta menor actividad intrínseca? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p56y57-2P-2024.PNG' alt=''>",
+  "question": "Con relación al gráfico ¿Cuál de los fármacos agonistas presenta menor actividad intrínseca? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p56y57-2P-2024.PNG' alt=''>",
   "answer": ["Fármaco C"],
   "options": [
   "Fármaco A",
@@ -12900,7 +12900,7 @@ let questions = [
   {
   "info_quest": "2do Parcial 2024",
   "numb": 62,
-  "question": "Frente a la curva de sobrevida mostrada en la figura, que describe una evolución de la fracción de sobrevida con la dosis de radiación de tipo lineal-cuadrático, ¿cuál de los siguientes parámetros representa la probabilidad por unidad de dosis y por célula de inducir rotura de doble cadena por el pasaje del mismo haz de radiación? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p62-2P-2024.PNG' alt=''>",
+  "question": "Frente a la curva de sobrevida mostrada en la figura, que describe una evolución de la fracción de sobrevida con la dosis de radiación de tipo lineal-cuadrático, ¿cuál de los siguientes parámetros representa la probabilidad por unidad de dosis y por célula de inducir rotura de doble cadena por el pasaje del mismo haz de radiación? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p62-2P-2024.PNG' alt=''>",
   "answer": ["Coeficiente alfa"],
   "options": [
   "Coeficiente alfa",
@@ -15052,7 +15052,7 @@ let questions = [
     {
     "info_quest": "2do Parcial 2022",
     "numb": 46,
-    "question": "En la siguiente gráfica de una curva dosis-respuesta, ¿cuál de las siguientes opciones corresponde a un fármaco capaz de producir la curva D? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p46-2doP-2022.PNG'>",
+    "question": "En la siguiente gráfica de una curva dosis-respuesta, ¿cuál de las siguientes opciones corresponde a un fármaco capaz de producir la curva D? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p46-2doP-2022.PNG'>",
     "answer": ["Un antagonista no competitivo."],
     "options": [
     "Un agonista inverso.",
@@ -15067,7 +15067,7 @@ let questions = [
     {
     "info_quest": "2do Parcial 2022",
     "numb": 47,
-    "question": "¿Qué característica diferencia a los fármacos agonistas A y B? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p47-2doP-2022.PNG'>",
+    "question": "¿Qué característica diferencia a los fármacos agonistas A y B? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p47-2doP-2022.PNG'>",
     "answer": ["Potencia."],
     "options": [
     "Eficacia.",
@@ -15278,7 +15278,7 @@ let questions = [
       {
         "info_quest": "3er Parcial 2022",
         "numb": 1,
-        "question": "El siguiente gráfico muestra la curva de autorregulación de la circulación coronaria en un sujeto sano. En el esquema hay un punto marcado con una flecha. ¿A que corresponde? <br> <img scr = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p1-3erP-2022.PNG' alt = ''",
+        "question": "El siguiente gráfico muestra la curva de autorregulación de la circulación coronaria en un sujeto sano. En el esquema hay un punto marcado con una flecha. ¿A que corresponde? <br> <img scr = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p1-3erP-2022.PNG' alt = ''",
         "answer": ["Vasodilatación máxima."],
         "options": [
         "Vasodilatación máxima.",
@@ -15617,7 +15617,7 @@ let questions = [
         {
         "info_quest": "3er Parcial 2022",
         "numb": 24,
-        "question": "Paciente de 70 años ingresa a la emergencia con diarrea acuosa. Al examen físico deshidratado con PA 70/40 mmHg. Se comienza reposición hidroelectrolítica. Se muestran los valores de función renal previo y post reposición. ¿Qué diagnóstico realiza de la funcionalidad renal más probable? <br> <img scr = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p24-3erP-2022.PNG' alt = ''>",
+        "question": "Paciente de 70 años ingresa a la emergencia con diarrea acuosa. Al examen físico deshidratado con PA 70/40 mmHg. Se comienza reposición hidroelectrolítica. Se muestran los valores de función renal previo y post reposición. ¿Qué diagnóstico realiza de la funcionalidad renal más probable? <br> <img scr = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p24-3erP-2022.PNG' alt = ''>",
         "answer": ["Insuficiencia renal aguda pre-renal"],
         "options": [
         "Enfermedad renal crónica",
@@ -16466,7 +16466,7 @@ let questions = [
     {
     "info_quest": "1er Parcial 2021",
     "numb": 21,
-    "question": "La siguiente es una tabla donde se muestra los halos de sensibilidad por el método de disco difusión en agar para una cepa de Staphylococcus aureus aislada a partir del exudado de un absceso. <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p21-1P-2021.PNG' alt=''> <br>¿Cómo interpreta desde este antibiograma la susceptibilidad de esta cepa a cefradina? ",
+    "question": "La siguiente es una tabla donde se muestra los halos de sensibilidad por el método de disco difusión en agar para una cepa de Staphylococcus aureus aislada a partir del exudado de un absceso. <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p21-1P-2021.PNG' alt=''> <br>¿Cómo interpreta desde este antibiograma la susceptibilidad de esta cepa a cefradina? ",
     "answer": ["b. Es resistente"],
     "options": [
     "a. Es susceptible",
@@ -16540,7 +16540,7 @@ let questions = [
     {
     "info_quest": "1er Parcial 2021",
     "numb": 26,
-    "question": "Paciente con internación prolongada en cuidados intensivos. Comienza con fiebre, por lo que se realizan cultivos bacteriológicos varios. Los hemocultivos se positivizan, observándose en el examen directo con tinción de Gram la siguiente imagen: <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p26-1P-2021.PNG' alt=''> <br>  En función de lo observado ¿Cuál puede ser el agente de esta bacteriemia? Seleccione una:",
+    "question": "Paciente con internación prolongada en cuidados intensivos. Comienza con fiebre, por lo que se realizan cultivos bacteriológicos varios. Los hemocultivos se positivizan, observándose en el examen directo con tinción de Gram la siguiente imagen: <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p26-1P-2021.PNG' alt=''> <br>  En función de lo observado ¿Cuál puede ser el agente de esta bacteriemia? Seleccione una:",
     "answer": ["d. Staphylococcus sp"],
     "options": [
     "a. Streptococcus sp.",
@@ -16628,7 +16628,7 @@ let questions = [
     {
     "info_quest": "1er Parcial 2021",
     "numb": 32,
-    "question": "En el laboratorio de microbiología se recibió una muestra para urocultivo de un niño de 2 meses. Se aisló un bacilo Gram negativo lactosa positivo que se clasificó dentro del grupo de las enterobacterias. <br> Se realizaron pruebas bioquímicas manuales para determinar género o especie cuyos resultados se muestran a continuación: <br> Móvil, ornitina descarboxilasa +, indol-, lisina descarboxilasa -, fenilalanina desaminasa -, citrato + y en el TSI muestra gas positivo y sulfídrico negativo <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p32-1P-2021.PNG' alt=''> <br> Con la ayuda de la tabla identifique al microorganismo, ¿a cuál de los siguientes corresponde?",
+    "question": "En el laboratorio de microbiología se recibió una muestra para urocultivo de un niño de 2 meses. Se aisló un bacilo Gram negativo lactosa positivo que se clasificó dentro del grupo de las enterobacterias. <br> Se realizaron pruebas bioquímicas manuales para determinar género o especie cuyos resultados se muestran a continuación: <br> Móvil, ornitina descarboxilasa +, indol-, lisina descarboxilasa -, fenilalanina desaminasa -, citrato + y en el TSI muestra gas positivo y sulfídrico negativo <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p32-1P-2021.PNG' alt=''> <br> Con la ayuda de la tabla identifique al microorganismo, ¿a cuál de los siguientes corresponde?",
     "answer": ["b. Enterobacter spp"],
     "options": [
     "a. Serratia marcescens",
@@ -16729,7 +16729,7 @@ let questions = [
     {
     "info_quest": "1er Parcial 2021",
     "numb": 39,
-    "question": "En la imagen se muestra el resultado del antibiograma de una E. coli aislada de un urocultivo. <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p39-1P-2021.PNG' alt=''> <br> A partir de este resultado ¿a qué antibióticos se puede predecir que esta bacteria será resistente?",
+    "question": "En la imagen se muestra el resultado del antibiograma de una E. coli aislada de un urocultivo. <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p39-1P-2021.PNG' alt=''> <br> A partir de este resultado ¿a qué antibióticos se puede predecir que esta bacteria será resistente?",
     "answer": ["c. Ampicilina, cefradina, cefuroxime y ceftriaxona"],
     "options": [
     "a. Amoxicilina con ácido clavulánico, ceftriaxona, cefuroxime",
@@ -16743,7 +16743,7 @@ let questions = [
     {
     "info_quest": "1er Parcial 2021",
     "numb": 40,
-    "question": "En el laboratorio de microbiología se recibe una muestra para urocultivo de una mujer de 25 años. La muestra se siembra en agar sangre y agar MacConkey-lactosa y luego de su incubación se observa lo siguiente (izquierda placa de agar sangre, derecha placa de agar MacConkey-lactosa): <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p40-1P-2021.PNG' alt=''> <br> ¿Cómo interpreta estos resultados? ",
+    "question": "En el laboratorio de microbiología se recibe una muestra para urocultivo de una mujer de 25 años. La muestra se siembra en agar sangre y agar MacConkey-lactosa y luego de su incubación se observa lo siguiente (izquierda placa de agar sangre, derecha placa de agar MacConkey-lactosa): <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p40-1P-2021.PNG' alt=''> <br> ¿Cómo interpreta estos resultados? ",
     "answer": ["a. Recuento significativo de una bacteria gram negativa"],
     "options": [
     "a. Recuento significativo de una bacteria gram negativa",
@@ -18424,7 +18424,7 @@ let questions = [
         {
         "info_quest": "2do Parcial 2021",
         "numb": 33,
-        "question": "En un paciente conectado a ventilación mecánica invasiva se obtienen los siguientes parámetros ventilatorios en dos días sucesivos: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p33-2P-2021.PNG' alt = '' ><br> En relación a la mecánica ventilatoria que presentaba el paciente en el día 1, marque la opción correcta:",
+        "question": "En un paciente conectado a ventilación mecánica invasiva se obtienen los siguientes parámetros ventilatorios en dos días sucesivos: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p33-2P-2021.PNG' alt = '' ><br> En relación a la mecánica ventilatoria que presentaba el paciente en el día 1, marque la opción correcta:",
         "answer": ["c) Presenta una complacencia quasi-estática de 75 ml/cmH20"],
         "options": [
         "a) Presenta una complacencia dinámica de 75 ml/cmH20",
@@ -18529,7 +18529,7 @@ let questions = [
         {
         "info_quest": "2do Parcial 2021",
         "numb": 40,
-        "question": "Se realizan experiencias en modelos de órganos aislados en las que se administra un agonista y un antagonista y se obtienen las siguientes curvas dosis-respuesta <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p40-2P-2021.PNG' ><br>¿Cuál de las siguientes opciones corresponde a la curva número 2?",
+        "question": "Se realizan experiencias en modelos de órganos aislados en las que se administra un agonista y un antagonista y se obtienen las siguientes curvas dosis-respuesta <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p40-2P-2021.PNG' ><br>¿Cuál de las siguientes opciones corresponde a la curva número 2?",
         "answer": ["b) Agonista en presencia de antagonista competitivo"],
         "options": [
         "a) Antagonista no competitivo en presencia de agonista",
@@ -18740,7 +18740,7 @@ let questions = [
         {
         "info_quest": "2do Parcial 2021",
         "numb": 54,
-        "question": "Al comparar la evolución en función de la dosis de radiación de las curvas de sobrevida para una cepa mutante en la familia de genes XP y para otra cepa normal se puede aseverar que: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p54-2P-2021.PNG'>",
+        "question": "Al comparar la evolución en función de la dosis de radiación de las curvas de sobrevida para una cepa mutante en la familia de genes XP y para otra cepa normal se puede aseverar que: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p54-2P-2021.PNG'>",
         "answer": ["c) La dosis cuasiumbral (Dq) es menor para la cepa XP- que para la cepa normal"],
         "options": [
         "a) El número de extrapolación tiene el mismo valor para las dos cepas",
@@ -18980,7 +18980,7 @@ let questions = [
           {
           "info_quest": "3er Parcial 2021",
           "numb": 10,
-          "question": "Un paciente joven, diabético tipo 1, es ingresado en emergencia por cetoacidosis diabética luego de abandonar la medicación. Presenta sed intensa, diuresis de 3 litros en 12h y glucosuria +++. Paraclínica de sangre: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p10-3P-2021.PNG'> <br> ¿Qué alteraciones del balance interno pueden estar contribuyendo a la hiperpotasemia?",
+          "question": "Un paciente joven, diabético tipo 1, es ingresado en emergencia por cetoacidosis diabética luego de abandonar la medicación. Presenta sed intensa, diuresis de 3 litros en 12h y glucosuria +++. Paraclínica de sangre: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p10-3P-2021.PNG'> <br> ¿Qué alteraciones del balance interno pueden estar contribuyendo a la hiperpotasemia?",
           "answer": ["a) Hiperosmolalidad plasmática."],
           "options": [
           "a) Hiperosmolalidad plasmática.",
@@ -18995,7 +18995,7 @@ let questions = [
           {
           "info_quest": "3er Parcial 2021",
           "numb": 11,
-          "question": "Un paciente joven, diabético tipo 1, es ingresado en emergencia por cetoacidosis diabética luego de abandonar la medicación. Presenta sed intensa, diuresis de 3 litros en 12h y glucosuria +++. Paraclínica de sangre: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p10-3P-2021.PNG'> <br> Considerando los mayores riesgos para la vida del paciente asociados con la hiperpotasemia, ¿qué estudio solicitaría de inmediato?",
+          "question": "Un paciente joven, diabético tipo 1, es ingresado en emergencia por cetoacidosis diabética luego de abandonar la medicación. Presenta sed intensa, diuresis de 3 litros en 12h y glucosuria +++. Paraclínica de sangre: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p10-3P-2021.PNG'> <br> Considerando los mayores riesgos para la vida del paciente asociados con la hiperpotasemia, ¿qué estudio solicitaría de inmediato?",
           "answer": ["b) Electrocardiograma."],
           "options": [
           "a) Gasometría arterial.",
@@ -19011,7 +19011,7 @@ let questions = [
           {
           "info_quest": "3er Parcial 2021",
           "numb": 12,
-          "question": "Un paciente joven, diabético tipo 1, es ingresado en emergencia por cetoacidosis diabética luego de abandonar la medicación. Presenta sed intensa, diuresis de 3 litros en 12h y glucosuria +++. Paraclínica de sangre: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p10-3P-2021.PNG'> <br> ¿Qué alteraciones espera encontrar en el balance externo de potasio?",
+          "question": "Un paciente joven, diabético tipo 1, es ingresado en emergencia por cetoacidosis diabética luego de abandonar la medicación. Presenta sed intensa, diuresis de 3 litros en 12h y glucosuria +++. Paraclínica de sangre: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p10-3P-2021.PNG'> <br> ¿Qué alteraciones espera encontrar en el balance externo de potasio?",
           "answer": ["c) Aumento de pérdidas urinarias potasio."],
           "options": [
           "a) Aumento de pérdidas digestivas de potasio.",
@@ -19073,7 +19073,7 @@ let questions = [
           {
           "info_quest": "3er Parcial 2021",
           "numb": 16,
-          "question": "Un paciente de 66 años con cirrosis hepática se presenta en emergencia, desorientado en tiempo y espacio, con tendencia al sueño y la siguiente paraclínica de sangre: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p16-3P-2021.PNG' > <br> ¿Cuál de las siguientes opciones explica la alteración que presenta el paciente y su mecanismo causal?",
+          "question": "Un paciente de 66 años con cirrosis hepática se presenta en emergencia, desorientado en tiempo y espacio, con tendencia al sueño y la siguiente paraclínica de sangre: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p16-3P-2021.PNG' > <br> ¿Cuál de las siguientes opciones explica la alteración que presenta el paciente y su mecanismo causal?",
           "answer": ["d) Hiperbilirrubinemia causada principalmente por colestasis hepática."],
           "options": [
           "a) Hiponatremia por aumento de la secreción de ADH por estimulo osmótico.",
@@ -20285,7 +20285,7 @@ let questions = [
     {
     "info_quest": "Examen 27/02/25",
     "numb": 36,
-    "question": "Paciente de 47 años consumidor de antiinflamatorios no esteroideos. Ingresa por hemorragia digestiva alta por úlcera gástrica. Requiere 4 volúmenes de glóbulos rojos. De la analítica sanguínea se destaca: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p36-27-2-25E.png'> <br> ¿Cuál es el diagnóstico de la función renal más probable?",
+    "question": "Paciente de 47 años consumidor de antiinflamatorios no esteroideos. Ingresa por hemorragia digestiva alta por úlcera gástrica. Requiere 4 volúmenes de glóbulos rojos. De la analítica sanguínea se destaca: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p36-27-2-25E.png'> <br> ¿Cuál es el diagnóstico de la función renal más probable?",
     "answer": ["a) Injuria renal aguda pre-renal"],
     "options": [
     "a) Injuria renal aguda pre-renal",
