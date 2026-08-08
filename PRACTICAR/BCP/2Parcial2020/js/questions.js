@@ -11,7 +11,7 @@ let questions = [
     "c) Phthrius pubis"
     ],
     "discipline": "Parasito",
-    "comment": "",
+    "comment": "A es correcta porque Sarcoptes scabiei var hominis es el ácaro responsable de la sarna en humanos. B y C son incorrectas porque representan otros parásitos que no causan sarna.",
     },
 
     {
@@ -26,7 +26,7 @@ let questions = [
     "d) El tamaño."
     ],
     "discipline": "Parasito",
-    "comment": "",
+    "comment": "A es correcta porque los espiráculos respiratorios posteriores son una característica distintiva de la larva de Cochliomyia hominivorax. B, C y D son incorrectas porque no son características específicas de esta larva.",
     },
 
     {
@@ -40,7 +40,7 @@ let questions = [
     "c) Filamentos hialinos, finos, con microconidios agrupados en su extremo distal (en margarita)."
     ],
     "discipline": "Parasito",
-    "comment": "",
+    "comment": "C es correcta porque los filamentos hialinos, finos, con microconidios agrupados en su extremo distal (en margarita) son características específicas de Sporothrix spp. en cultivos a 28ºC. A, B y D son incorrectas porque no representan estas características.",
     },
 
     {
@@ -55,7 +55,7 @@ let questions = [
     "d) Se produce un aumento de la compliance pulmonar."
     ],
     "discipline": "Parasito",
-    "comment": "",
+    "comment": "A es correcta porque la disminución de la producción del surfactante es una característica importante en la patogenia de la pneumocistosis. B, C y D son incorrectas porque no representan las características principales de esta patología.",
     },
 
     {
@@ -70,7 +70,7 @@ let questions = [
     "d) Humano"
     ],
     "discipline": "Parasito",
-    "comment": "",
+    "comment": "B es correcta porque el perro es un hospedero habitual de los nemátodos causantes del Síndrome de Larva Migrans Cutánea. A, C y D son incorrectas porque no son hospederos habituales de estos parásitos.",
     },
 
     {
@@ -84,7 +84,7 @@ let questions = [
     "c) Un 50% de los huevos llegan a adultos."
     ],
     "discipline": "Parasito",
-    "comment": "",
+    "comment": "A es correcta porque Sarcoptes scabiei var hominis es el ácaro responsable de la sarna en humanos. B y C son incorrectas porque representan otras características o comportamientos de diferentes parásitos.",
     },
 
     {
@@ -98,7 +98,7 @@ let questions = [
     "c) Malassezia furfur"
     ],
     "discipline": "Parasito",
-    "comment": "",
+    "comment": "A es correcta porque Malassezia pachydermatis es una especie que afecta a los animales pero no a los humanos. B y C son incorrectas porque son especies que sí afectan a los humanos.",
     },
 
     {
@@ -112,7 +112,7 @@ let questions = [
     "c) Cutánea, por inoculación traumátic"
     ],
     "discipline": "Parasito",
-    "comment": "",
+    "comment": "C es correcta porque la vía de entrada más frecuente de Sporothrix schenckii es cutánea, por inoculación traumática. A y B son incorrectas porque representan otras vías de entrada para diferentes patógenos.",
     },
 
     {
@@ -126,7 +126,7 @@ let questions = [
     "c) Cabeza triangular"
     ],
     "discipline": "Parasito",
-    "comment": "",
+    "comment": "C es correcta porque los ofidios ponzoñosos tienen una cabeza triangular como característica morfológica distintiva. A, B y D son incorrectas porque no son características específicas de estos serpientes venenosas.",
     },
 
     {
@@ -140,7 +140,7 @@ let questions = [
     "c) Es una técnica que se usa sólo en inmunodeprimidos."
     ],
     "discipline": "Parasito",
-    "comment": "",
+    "comment": "C es correcta porque la Doble Difusión Simple en Agar es una técnica que se usa principalmente en pacientes inmunodeprimidos para el diagnóstico de Aspergilosis. A y B son incorrectas porque no representan la característica principal de esta técnica.",
     },
 
     {
@@ -154,7 +154,7 @@ let questions = [
     "c) Produce micosis profunda localizad"
     ],
     "discipline": "Parasito",
-    "comment": "",
+    "comment": "B es correcta porque Histoplasma capsulatum produce micosis sistémica. A, C y D son incorrectas porque no representan la característica principal de este patógeno.",
     },
 
     {
@@ -168,7 +168,7 @@ let questions = [
     "c) Células cervicovaginales"
     ],
     "discipline": "Parasito",
-    "comment": "",
+    "comment": "A es correcta porque la secreción vaginal es la muestra biológica más adecuada para identificar Trichomonas vaginalis. B y C son incorrectas porque no son las muestras preferidas para este diagnóstico.",
     },
 
     {
@@ -183,7 +183,7 @@ let questions = [
     "d) Carne de cerdo"
     ],
     "discipline": "Parasito",
-    "comment": "",
+    "comment": "C es correcta porque la Hidatidosis por Echinococcus granulosus se transmite a través del consumo de fruta o verdura fresca contaminadas con huevos del parásito. A, B y D son incorrectas porque no representan el alimento fuente principal de esta enfermedad.",
     },
 
     {
@@ -197,7 +197,7 @@ let questions = [
     "c) El lavado bronquioalveolar presenta una baja sensibilidad (menor al 60%)"
     ],
     "discipline": "Parasito",
-    "comment": "",
+    "comment": "B es correcta porque el esputo inducido presenta sensibilidad reducida (50-60%) en el diagnóstico de Pneumocistosis. A y C son incorrectas porque no representan la característica principal de esta técnica.",
     },
 
     {
@@ -211,7 +211,7 @@ let questions = [
     "c) Filamentos hialinos con macroconidios y microconidios."
     ],
     "discipline": "Parasito",
-    "comment": "",
+    "comment": "B es correcta porque los filamentos hialinos, finos, ramificados y artrosporados son características específicas del parasitismo por dermatofitos en el estudio micológico directo.",
     },
 
     {
@@ -226,7 +226,7 @@ let questions = [
     "d) Cianosis periférica"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
+    "comment": "C es correcta porque la relación PaO2/FiO2 menor a 150 es un criterio diagnóstico para insuficiencia respiratoria.",
     },
 
     {
@@ -240,7 +240,7 @@ let questions = [
     "c) Fosfolipidos"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
+    "comment": "B es correcta porque la bilirrubina es un antioxidante endógeno que protege las células del daño oxidativo.",
     },
 
     {
@@ -255,7 +255,7 @@ let questions = [
     "d) Se observa un descenso de la complacencia del sistema respiratorio, tanto en condiciones estáticas como dinámicas"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
+    "comment": "D es correcta porque se observa un descenso de la complacencia del sistema respiratorio, tanto en condiciones estáticas como dinámicas, lo cual es característico de ciertas patologías respiratorias.",
     },
 
     {
@@ -270,7 +270,7 @@ let questions = [
     "d) Descenso de la capacidad pulmonar total"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
+    "comment": "C es correcta porque en la EPOC y el enfisema pulmonar se observa una relación VEF1/CVF < 70%, lo cual es característico de la obstrucción respiratoria.",
     },
 
     {
@@ -285,7 +285,7 @@ let questions = [
     "d) Trastorno de la difusión"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
+    "comment": "B es correcta porque el shunt intrapulmonar es el principal mecanismo de hipoxemia en la neumonía y en el distrés respiratorio.",
     },
 
     {
@@ -299,7 +299,7 @@ let questions = [
     "c) hipomagnesemia"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
+    "comment": "A es correcta porque la hipopotasemia puede contribuir a la alteración del equilibrio ácido-base en este paciente.",
     },
 
     {
@@ -313,7 +313,7 @@ let questions = [
     "c) Alteraciones del magnesio"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
+    "comment": "B es correcta porque la depleción del ATP es un mecanismo de lesión celular. A y C son incorrectas porque no representan mecanismos de lesión celular.",
     },
 
     {
@@ -327,7 +327,7 @@ let questions = [
     "c) 13"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
+    "comment": "B es correcta porque en una insuficiencia renal severa, el agujero aniónico suele estar elevado, y un valor de 19 es consistente con esta condición. A y C son incorrectas porque representan valores que no son típicos de insuficiencia renal severa.",
     },
 
     {
@@ -341,7 +341,7 @@ let questions = [
     "c) 1 hora"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
+    "comment": "B es correcta porque los mecanismos adaptativos en la acidosis respiratoria aguda demoran aproximadamente 10 minutos en alcanzar su adaptación completa.",
     },
 
     {
@@ -355,7 +355,7 @@ let questions = [
     "c) Ubiquitinación de proteínas"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
+    "comment": "A es correcta porque la carbonilación de proteínas es un producto de los radicales libres. B y C son incorrectas porque no representan productos de los radicales libres.",
     },
 
     {
@@ -370,7 +370,7 @@ let questions = [
     "d) Acidosis respiratoria aguda respuesta adaptativa inadecuada"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
+    "comment": "A es correcta porque en la alcalosis respiratoria aguda se observa un pH elevado y una disminución de la PaCO2, lo cual es consistente con la respuesta adaptativa adecuada.",
     },
 
     {
@@ -385,7 +385,7 @@ let questions = [
     "d) Gasto cardíaco bajo, resistencias periféricas normales"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
+    "comment": "C es correcta porque en el shock séptico hiperdinámico se observa un gasto cardíaco normal o elevado junto con resistencias periféricas bajas.",
     },
 
     {
@@ -400,7 +400,7 @@ let questions = [
     "d) Índice cardíaco"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
+    "comment": "B es correcta porque la presión parcial arterial de O2 es un determinante directo del contenido arterial de oxígeno. A, C y D son incorrectas porque no representan determinantes directos del contenido arterial de oxígeno.",
     },
 
     {
@@ -414,7 +414,7 @@ let questions = [
     "c) Interleuquina 1"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
+    "comment": "C es correcta porque la interleuquina 1 es un pirógeno conocido que induce fiebre. A y B son incorrectas porque no son mediadores pirógenos.",
     },
 
     {
@@ -429,7 +429,7 @@ let questions = [
     "d) Hipovolémico"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
+    "comment": "A es correcta porque en el shock cardiogénico se observa una disminución del gasto cardíaco y un aumento de la presión venosa central.",
     },
 
     {
@@ -444,7 +444,7 @@ let questions = [
     "d) La coexistencia de un trastorno primario (respiratorio o metabólico) y una alteración del estado de hidratación del paciente"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
+    "comment": "A es correcta porque un trastorno mixto del equilibrio ácido-base implica la coexistencia de dos trastornos primarios, que pueden ser ambos metabólicos o uno respiratorio y otro metabólico.",
     },
 
     {
@@ -459,7 +459,7 @@ let questions = [
     "d) Carecen de afinidad por receptores alfa1 adrenérgicos vasculares."
     ],
     "discipline": "Farmaco",
-    "comment": "",
+    "comment": "A es correcta porque los betabloqueantes de tercera generación asocian un efecto vasodilatador a su acción antagonista betaadrenérgico. B, C y D son incorrectas porque no representan características específicas de los betabloqueantes de tercera generación.",
     },
 
     {
@@ -474,7 +474,7 @@ let questions = [
     "d) Disminuye la presión arterial sistólica por efectos inotrópico y cronotrópico negativos porque es un betabloqueante."
     ],
     "discipline": "Farmaco",
-    "comment": "",
+    "comment": "D es correcta porque el propranolol es un betabloqueante que disminuye la presión arterial sistólica por sus efectos inotrópico y cronotrópico negativos.",
     },
 
     {
@@ -488,7 +488,7 @@ let questions = [
     "c) Se unen a su receptor de forma covalente."
     ],
     "discipline": "Farmaco",
-    "comment": "",
+    "comment": "B es correcta porque los fármacos agonistas tienen afinidad por su receptor y también poseen actividad intrínseca, lo que les permite activar la respuesta biológica.",
     },
 
     {
@@ -503,7 +503,7 @@ let questions = [
     "d) Sequedad de boca por disminución de la secreción salival."
     ],
     "discipline": "Farmaco",
-    "comment": "",
+    "comment": "D es correcta porque la metilbromuro de homatropina es un antagonista muscarínico que causa sequedad de boca por disminución de la secreción salival.",
     },
 
     {
@@ -518,7 +518,7 @@ let questions = [
     "d) Atenolol"
     ],
     "discipline": "Farmaco",
-    "comment": "",
+    "comment": "D es correcta porque el atenolol es un betabloqueante de segunda generación, selectivo para los receptores beta-1 adrenérgicos. A, B y C son incorrectas porque representan otros tipos de fármacos o betabloqueantes de diferentes generaciones.",
     },
 
     {
@@ -534,7 +534,7 @@ let questions = [
     "e) Aumento de la presión arterial sistólica por acción agonista parcial beta1 adrenérgico."
     ],
     "discipline": "Farmaco",
-    "comment": "",
+    "comment": "D es correcta porque el atenolol es un betabloqueante de segunda generación que causa bradicardia por disminución de la frecuencia del nodo sinusal debido a su acción antagonista beta1 adrenérgico.",
     },
 
     {
@@ -549,7 +549,7 @@ let questions = [
     "d) La curva número 1 corresponde a un agonista puro."
     ],
     "discipline": "Farmaco",
-    "comment": "",
+    "comment": "D es correcta porque la curva número 1 representa el efecto de un agonista puro, que produce una respuesta proporcional a la dosis.",
     },
 
     {
@@ -564,7 +564,7 @@ let questions = [
     "d) Es una herramienta útil para medir parámetros de interacción fármaco-receptor como la afinidad y la actividad intrínseca."
     ],
     "discipline": "Farmaco",
-    "comment": "",
+    "comment": "A es correcta porque la curva concentración plasmática en función del tiempo permite analizar la cinética de eliminación del fármaco.",
     },
 
     {
@@ -579,7 +579,7 @@ let questions = [
     "d) Aumento de la secreción de insulina por acción alfa-2 adrenérgica"
     ],
     "discipline": "Farmaco",
-    "comment": "",
+    "comment": "C es correcta porque la noradrenalina actúa sobre los receptores beta-1 adrenérgicos en el riñón, estimulando la secreción de renina.",
     },
 
     {
@@ -594,7 +594,7 @@ let questions = [
     "d) Hipervolemia."
     ],
     "discipline": "Farmaco",
-    "comment": "",
+    "comment": "B es correcta porque la atropina es un antagonista muscarínico que puede revertir los efectos de los pesticidas organofosforados sobre el sistema nervioso parasimpático.",
     },
 
     {
@@ -608,7 +608,7 @@ let questions = [
     "c) Escopolamina es un inhibidor reversible de la colinesterasa."
     ],
     "discipline": "Farmaco",
-    "comment": "",
+    "comment": "A es correcta porque el tiotropio es un antagonista muscarínico que bloquea los receptores M3 en los músculos lisos bronquiales, causando relajación del músculo liso y dilatación de las vías aéreas.",
     },
 
     {
@@ -622,7 +622,7 @@ let questions = [
     "c) Si la curva d es la vía oral, la curva b puede ser la vía intramuscular"
     ],
     "discipline": "Farmaco",
-    "comment": "",
+    "comment": "C es correcta porque si la curva d representa la vía oral, la curva b podría representar la vía intramuscular, que generalmente tiene una absorción más rápida que la vía oral pero más lenta que la vía intravenosa.",
     },
 
     {
@@ -637,7 +637,7 @@ let questions = [
     "d) Depende de la vía de administración, de la forma farmacéutica utilizada y de las características fisicoquímicas del fármaco."
     ],
     "discipline": "Farmaco",
-    "comment": "",
+    "comment": "D es correcta porque la biodisponibilidad depende de varios factores, incluyendo la vía de administración, la forma farmacéutica y las características fisicoquímicas del fármaco.",
     },
 
     {
@@ -652,7 +652,7 @@ let questions = [
     "d) Aumento de la frecuencia cardíaca"
     ],
     "discipline": "Farmaco",
-    "comment": "",
+    "comment": "B es correcta porque la acetilcolina causa broncoconstricción al estimular los receptores muscarínicos en los músculos lisos bronquiales.",
     },
 
     {
@@ -667,7 +667,7 @@ let questions = [
     "d) Especies reactivas del oxígeno y el azufre"
     ],
     "discipline": "Biofisica",
-    "comment": "",
+    "comment": "C es correcta porque las especies reactivas del oxígeno y el nitrógeno son las más involucradas en el daño celular causado por radiaciones ionizantes.",
     },
 
     {
@@ -683,7 +683,7 @@ let questions = [
     "e) S intermedio y S tardío."
     ],
     "discipline": "Biofisica",
-    "comment": "",
+    "comment": "E es correcta porque en las fases S del ciclo celular, los tejidos tienen menor sensibilidad a los efectos de las radiaciones ionizantes.",
     },
 
     {
@@ -697,7 +697,7 @@ let questions = [
     "c) El modelo de proporcionalidad directa"
     ],
     "discipline": "Biofisica",
-    "comment": "",
+    "comment": "A es correcta porque el modelo lineal-cuadrático se ajusta mejor a las curvas de sobrevida en respuesta a radiaciones ionizantes, considerando tanto los efectos lineales como los cuadráticos de la dosis.",
     },
 
     {
@@ -727,7 +727,7 @@ let questions = [
     "c) De la elasticidad y la atenuación"
     ],
     "discipline": "Biofisica",
-    "comment": "",
+    "comment": "B es correcta porque la velocidad del sonido en los tejidos blandos depende de la elasticidad y la densidad del material.",
     },
 
     {
@@ -741,7 +741,7 @@ let questions = [
     "c) Del número atómico del material a atravesar pero no de la energía de los fotones"
     ],
     "discipline": "Biofisica",
-    "comment": "",
+    "comment": "B es correcta porque el coeficiente de atenuación lineal (µ) depende tanto de la energía de los fotones como del número atómico del material que atraviesan, afectando la cantidad de radiación que se atenúa.",
     },
 
     {
@@ -755,7 +755,7 @@ let questions = [
     "c) La transferencia lineal de energía es igual para todas las radiaciones."
     ],
     "discipline": "Biofisica",
-    "comment": "",
+    "comment": "A es correcta porque la dosis equivalente se calcula multiplicando la dosis absorbida por un factor de ponderación que depende del tipo de radiación.",
     },
 
     {
@@ -769,7 +769,7 @@ let questions = [
     "c) No depende de Z"
     ],
     "discipline": "Biofisica",
-    "comment": "",
+    "comment": "B es correcta porque la generación de la imagen de rayos X diagnósticos depende del número atómico (Z) del material absorbente, que afecta la absorción y scatter de los fotones.",
     },
 
     {
@@ -783,7 +783,7 @@ let questions = [
     "c) La utilización de protección no aplica la dosimetría personal"
     ],
     "discipline": "Biofisica",
-    "comment": "",
+    "comment": "B es correcta porque la evaluación de la exposición laboral a radiaciones ionizantes considera tanto la dosimetría personal como los elementos de protección.",
     },
 
     {
@@ -797,7 +797,7 @@ let questions = [
     "c) La utilización de radiación ionizante que alinea los spines nucleares"
     ],
     "discipline": "Biofisica",
-    "comment": "",
+    "comment": "B es correcta porque la base física de la resonancia magnética se basa en la utilización de un campo magnético que alinea los spines nucleares.",
     },
 
     {
@@ -813,7 +813,7 @@ let questions = [
     "e) Becquerel/tiempo"
     ],
     "discipline": "Biofisica",
-    "comment": "",
+    "comment": "B es correcta porque la magnitud exposición se expresa en Coulomb/Kg.",
     },
 
     {
@@ -827,7 +827,7 @@ let questions = [
     "c) Todo el personal que trabaja en block se considera ocupacionalmente expuesto"
     ],
     "discipline": "Biofisica",
-    "comment": "",
+    "comment": "A es correcta porque en el block quirúrgico puede haber mayor exposición debido a la utilización de equipos de imagenología intraoperatoria.",
     },
 
     {
@@ -842,7 +842,7 @@ let questions = [
     "d) Pueden manifestarse por una sola exposición"
     ],
     "discipline": "Biofisica",
-    "comment": "",
+    "comment": "D es correcta porque los efectos estocásticos pueden manifestarse por una sola exposición, aunque con baja probabilidad.",
     },
 
     {
@@ -857,7 +857,7 @@ let questions = [
     "d) No generan eyección de electrones desde átomos"
     ],
     "discipline": "Biofisica",
-    "comment": "",
+    "comment": "C es correcta porque las radiaciones corpusculares pueden ser generadas tanto por la naturaleza (como los rayos cósmicos) como artificialmente (como en aceleradores de partículas).",
     },
 
     {
@@ -873,7 +873,7 @@ let questions = [
     "e) Existe una proporcionalidad directa con el numero atómico elevado al cubo que determina la formación de la imagen radiológica"
     ],
     "discipline": "Biofisica",
-    "comment": "",
+    "comment": "E es correcta porque existe una proporcionalidad directa con el número atómico elevado al cubo que determina la formación de la imagen radiológica.",
     },
 
 ];
