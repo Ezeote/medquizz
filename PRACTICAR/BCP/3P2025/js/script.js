@@ -166,10 +166,15 @@ function showQuetions(index) {
         }
     }
 
-    // Display the comment for the question
+    // Display the comment only for answered questions; otherwise keep it hidden.
     const commentSection = document.getElementById("comment_section");
-    commentSection.innerHTML = questions[index].comment;
-    commentSection.classList.remove("hidden"); // Remove hidden class to show the comment section
+    commentSection.innerHTML = '';
+    commentSection.classList.add("hidden");
+
+    if (userAnswers[index]) {
+        commentSection.innerHTML = questions[index].comment;
+        commentSection.classList.remove("hidden");
+    }
 }
 
 ////////////////////////////////////////////////////////////////////////////////
@@ -212,9 +217,9 @@ function optionSelected(answer) {
         }
     }
 
-    // Display the comment for the question
+    // Display the comment only after selecting an option
     commentSection.innerHTML = questions[que_count].comment;
-    commentSection.classList.remove("hidden"); // Remove hidden class to show the comment section
+    commentSection.classList.remove("hidden");
 
     for (let i = 0; i < allOptions; i++) {
         option_list.children[i].classList.add("disabled"); // once user select an option then disabled all options
