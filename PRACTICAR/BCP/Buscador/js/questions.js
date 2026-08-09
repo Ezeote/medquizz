@@ -11001,5176 +11001,5575 @@ let questions = [
 /////////////////////////////////////////////////////
 
   {
-  "info_quest": "2do Parcial 2023",
-  "numb": 1, 
-  "question": "Según las guías nacionales para el tratamiento de la infección por VIH se usan dos o más antirretrovirales administrados en forma simultánea. ¿Cuál es el fundamento de esto?",
-  "answer": ["Disminuir la probabilidad de falla terapéutica debido a la generación de variantes virales con resistencia a algún antirretroviral."],
-  "options": [
-  "Reducir el tiempo del tratamiento mediante la combinación de distintos antirretrovirales.",
-  "Aumentar el espectro de actividad sobre algunos tipos M, N y O de VIH-1, para los que algunas drogas son inefectivas.",
-  "Disminuir la probabilidad de falla terapéutica debido a la generación de variantes virales con resistencia a algún antirretroviral."
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 2, 
-  "question": "En base al algoritmo diagnóstico de la infección por VIH, ante un resultado negativo en un test rápido de tamizaje poblacional, ¿qué conducta corresponde adoptar?",
-  "answer": ["No es necesario realizar otro estudio"],
-  "options": [
-  "No es necesario realizar otro estudio",
-  "Solicitar nueva muestra para reiterar el test rápido",
-  "Utilizar la misma muestra para realizar test de ELISA",
-  "Utilizar la misma muestra para la realización de PCR cuantitativa",
-  "Solicitar nueva muestra para aplicar un test de alta especificidad como Western Blot"
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 3, 
-  "question": "Dado el siguiente perfil serológico para citomegalovirus (CMV): IgG reactivo de baja avidez, IgM reactivo. ¿Qué tipo de infección es la más probable?",
-  "answer": ["Primoinfección"],
-  "options": [
-  "Primoinfección",
-  "Reactivación de una infección latente",
-  "Infección por CMV de más de 3 meses en estado latente",
-  "Reinfección con una nueva cepa de CMV en una persona ya infectada"
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 4, 
-  "question": "¿A cuál de los siguientes antibióticos presenta resistencia natural Klebsiella pneumoniae?",
-  "answer": ["Vancomicina"],
-  "options": [
-  "Imipenem",
-  "Ceftazidime",
-  "Gentamicina",
-  "Vancomicina",
-  "Ciprofloxacina"
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 5, 
-  "question": "Usted observa un test de sinergia entre discos de carbapenemes (Meropenem e Imipenem) y EDTA. Con estos resultados usted afirma que el microorganismo seguramente sea portador de: <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p5-2doP-2023.PNG' alt=''>",
-  "answer": ["Una carbapenemasa de clase B como NDM-1"],
-  "options": [
-  "Una carbapenemasa de clase A del tipo KPC-2",
-  "Una carbapenemasa de clase B como NDM-1",
-  "Una betalactamasa de clase C como CMY-2",
-  "Una carbapenemasa de clase D como OXA-48"
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 6, 
-  "question": "¿Qué ventaja presenta la técnica de Interferon Gamma Release Assay (IGRA) sobre la prueba de la tuberculina (PPD) a la hora de hacer diagnóstico de infección tuberculosa?",
-  "answer": ["Permite diferenciar entre vacunados e infectados"],
-  "options": [
-  "Es más barata",
-  "Requiere menos equipamiento",
-  "Permite diferenciar entre vacunados e infectados",
-  "Permite diferenciar entre infección latente y enfermedad tuberculosa"
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 7, 
-  "question": "¿Qué tipo de protección confiere la vacunación con el bacilo de Calmette-Guerin (BCG)?",
-  "answer": ["Previene las formas graves de enfermedad por M. tuberculosis complex", "Provee protección cruzada frente a infecciones por Mycobacterium leprae"],
-  "options": [
-  "Previene la reinfección por Mycobacterium tuberculosis",
-  "Previene la infección por Mycobacterium tuberculosis complex",
-  "Previene las formas graves de enfermedad por M. tuberculosis complex",
-  "Provee protección cruzada frente a infecciones por Mycobacterium leprae"
-  ],
-  "discipline": "Bacterio",
-  "comment": "Esta es ambigua. C y D",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 8, 
-  "question": "¿A qué mecanismo se debe la meticilino resistencia en Staphylococcus aureus?",
-  "answer": ["Cambio en el sitio de acción del antibiótico"],
-  "options": [
-  "Bomba de eflujo del fármaco",
-  "Metilación del ARN ribosomal",
-  "Hidrólisis enzimática por betalactamasas",
-  "Cambio en el sitio de acción del antibiótico"
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 9, 
-  "question": "¿Cuál de los siguientes métodos de estudio es recomendado para pesquisar las cepas de Staphylococcus aureus con susceptibilidad disminuida a vancomicina?",
-  "answer": ["Determinar la concentración inhibitoria mínima mediante elipsograma con tira de vancomicina"],
-  "options": [
-  "Realizar disco difusión de Kirby Bauer utilizando un disco de 10 ug de vancomicina",
-  "Determinar la concentración inhibitoria mínima mediante elipsograma con tira de vancomicina",
-  "Evaluar mediante sistemas automatizados el desarrollo bacteriano en 3 concentraciones distintas de vancomicina"
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 10, 
-  "question": "¿Qué método diagnóstico se utiliza para el estudio de queratitis por hongos o protozoarios?",
-  "answer": ["Examen microscópico directo y cultivo de material de la lesión"],
-  "options": [
-  "Ecografía ocular y orbitaria",
-  "Tomografía de coherencia óptica",
-  "Búsqueda de anticuerpos IgG e IgM en suero por ELISA",
-  "Examen microscópico directo y cultivo de material de la lesión"
-  ],
-  "discipline": "Parasito",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 11, 
-  "question": "¿Qué se observa en el examen directo de las lesiones mucocutáneas en el diagnóstico de Paracoccidioidomicosis?",
-  "answer": ["Levaduras multibrotantes"],
-  "options": [
-  "Tubos germinales",
-  "Filamentos gruesos",
-  "Levaduras multibrotantes",
-  "Clamidosporos verrucosos"
-  ],
-  "discipline": "Parasito",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 12, 
-  "question": "¿Cuál de las siguientes técnicas de examen microscópico directo se utiliza para evidenciar la cápsula de Cryptococcus neoformans?",
-  "answer": ["Tinta china"],
-  "options": [
-  "Tinta china",
-  "Tinción de Gram",
-  "Azul de metileno",
-  "Fresco con suero fisiológico"
-  ],
-  "discipline": "Parasito",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 13, 
-  "question": "¿Cuál de los siguientes hongos es un patógeno primario?",
-  "answer": ["Histoplasma capsulatum"],
-  "options": [
-  "Candida albicans",
-  "Pneumocystis jirovecii",
-  "Histoplasma capsulatum",
-  "Cryptococcus neoformans"
-  ],
-  "discipline": "Parasito",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 14, 
-  "question": "¿Cuál de los siguientes agentes produce granulomas a nivel pulmonar?",
-  "answer": ["Paracoccidioides brasiliensis"],
-  "options": [
-  "Candida albicans",
-  "Pneumocystis jirovecii",
-  "Cryptococcus neoformans",
-  "Paracoccidioides brasiliensis"
-  ],
-  "discipline": "Parasito",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 15, 
-  "question": "¿Cuál de las siguientes micosis endémicas regionales es más frecuente en individuos inmunocomprometidos en nuestro país?",
-  "answer": ["Histoplasmosis"],
-  "options": [
-  "Blastomicosis",
-  "Histoplasmosis",
-  "Coccidioidomicosis",
-  "Paracoccidioidomicosis"
-  ],
-  "discipline": "Parasito",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 16, 
-  "question": "¿Qué estadíos de Toxoplasma gondii están involucrados en la reactivación de la infección en los casos de neurotoxoplasmosis?",
-  "answer": ["Quistes encefálicos de bradizoitos"],
-  "options": [
-  "Quistes encefálicos de taquizoítos",
-  "Quistes encefálicos de bradizoitos",
-  "Ooquistes encefálicos de bradizoitos",
-  "Ooquistes encefálicos de merozoitos"
-  ],
-  "discipline": "Parasito",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 17, 
-  "question": "¿Cuál de los siguientes agentes es el responsable en las queratitis por protozoarios?",
-  "answer": ["Acanthamoeba spp"],
-  "options": [
-  "Entamoeba spp",
-  "Endolimax nana",
-  "Acanthamoeba spp",
-  "Dientamoeba fragilis"
-  ],
-  "discipline": "Parasito",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 18, 
-  "question": "¿Cuál de los siguientes géneros de arácnidos de interés médico se caracteriza por presentar hábitat intradomiciliario?",
-  "answer": ["Loxosceles"],
-  "options": [
-  "Lycosa",
-  "Loxosceles",
-  "Phoneutria",
-  "Latrodectus"
-  ],
-  "discipline": "Parasito",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 19, 
-  "question": "¿Qué medidas iniciales se deben tomar ante un accidente por mordedura de ofidio ponzoñoso?",
-  "answer": ["Lavar la zona afectada con agua y jabón"],
-  "options": [
-  "Lavar la zona afectada con agua y jabón",
-  "Practicar una incisión en el sitio de mordedura",
-  "Succionar el veneno en el punto de inoculación",
-  "Realizar torniquete a nivel de la región afectada"
-  ],
-  "discipline": "Parasito",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 20, 
-  "question": "Paciente de 40 años VIH positivo con bajo recuento de Linfocitos T CD4. Consulta por déficit motor y sensitivo en hemicuerpo izquierdo de evolución progresiva. Al examen físico se constata: Lúcido, presenta muguet oral. Sin rigidez meníngea. Hemiparesia izquierda, desproporcionada, a predominio braquial. Resto sin alteraciones. En relación a los hallazgos clínicos ¿Cuál de los siguientes es el planteo diagnóstico más probable?",
-  "answer": ["Neurotoxoplasmosis"],
-  "options": [
-  "Histoplasmosis",
-  "Neurocisticercosis",
-  "Neurotoxoplasmosis",
-  "Criptococosis meníngea"
-  ],
-  "discipline": "Parasito",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 21, 
-  "question": "¿Cuál de los siguientes fenómenos puede producir coriorretinitis por Toxoplasma gondii, en un paciente inmunocompetente?",
-  "answer": ["Reactivación de quistes tisulares presentes a nivel ocular"],
-  "options": [
-  "Mal uso o higiene inadecuada de lentes de contacto",
-  "Arañazo de un gato infectado con Toxoplasma gondii",
-  "Reactivación de quistes tisulares presentes a nivel ocular",
-  "Implantación ocular traumática con vegetales u otros materiales contaminados"
-  ],
-  "discipline": "Parasito",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 22, 
-  "question": "Paciente con diagnóstico de VIH hace 10 años, sin adherencia al tratamiento antirretroviral. Consulta por cuadro de disnea progresiva que se vuelve de reposo. Al examen físico presenta estigmas de inmunodepresión severa. En la gasometría presenta insuficiencia respiratoria tipo I. ¿Cuál es la etiología fúngica más probable?",
-  "answer": ["Pneumocistosis"],
-  "options": [
-  "Mucormicosis",
-  "Criptococosis",
-  "Pneumocistosis",
-  "Paracoccidiomicosis"
-  ],
-  "discipline": "Parasito",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 23, 
-  "question": "¿Qué estudio solicitaría para confirmar un diagnóstico de Pneumocistosis en un paciente inmunodeprimido?",
-  "answer": ["Estudio micológico de lavado broncoalveolar e inmunofluorescencia para Pneumocystis jiroveci"],
-  "options": [
-  "Búsqueda de anticuerpos en sangre utilizando la técnica de agar de doble difusión simple",
-  "Punción lumbar y estudio micológico de líquido cefalorraquídeo para Pneumocystis jiroveci",
-  "Radiografía de tórax y detección de galactomanano en suero y en lavado broncoalveolar",
-  "Estudio micológico de lavado broncoalveolar e inmunofluorescencia para Pneumocystis jiroveci"
-  ],
-  "discipline": "Parasito",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 24, 
-  "question": "¿En qué trimestre del embarazo la primoinfección con Toxoplasma gondii presenta la mayor probabilidad de transmisión congénita?",
-  "answer": ["Tercer trimestre"],
-  "options": [
-  "Primer trimestre",
-  "Segundo trimestre",
-  "Tercer trimestre",
-  "Es igual en todos los trimestres"
-  ],
-  "discipline": "Parasito",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 25, 
-  "question": "¿Con qué método diagnóstico se realiza el tamizaje de la enfermedad de Chagas en el embarazo?",
-  "answer": ["Serología"],
-  "options": [
-  "Strout",
-  "Serología",
-  "Gota gruesa",
-  "Xenodiagnóstico",
-  "Microhematocrito"
-  ],
-  "discipline": "Parasito",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 26, 
-  "question": "La infección por algunos nematodos que presentan etapa larvaria a nivel pulmonar, como Strongyloides stercoralis puede presentarse clínicamente como Síndrome de Loeffler. ¿En qué consiste este síndrome?",
-  "answer": ["Tos, eosinofilia periférica, opacidades pulmonares migratorias y fugaces"],
-  "options": [
-  "Expectoración hemoptoica, leucocitosis y atelectasia",
-  "Hemoptisis, anemia microcítica e hipocrómica y neumotórax",
-  "Sibilancias, dificultad respiratoria, plaquetopenia y derrame pleural",
-  "Tos, eosinofilia periférica, opacidades pulmonares migratorias y fugaces"
-  ],
-  "discipline": "Parasito",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 27, 
-  "question": "¿Cuál de las siguientes parasitosis es una enfermedad parasitaria transmitida por alimentos(EPTA)?",
-  "answer": ["Fasciolasis"],
-  "options": [
-  "Fasciolasis",
-  "Paludismo",
-  "Leishmaniasis",
-  "Estrongiloidiasis"
-  ],
-  "discipline": "Parasito",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 28, 
-  "question": "Paciente de 78 años que ingresa con convulsiones. Se constata de la analítica: natremia108 mEq/L, potasemia 3.7 mEq/L. Al examen se constata paciente severamente deshidratado, PA 70/40 mmHg. ¿Cuál de los siguientes mecanismos fisiopatológicos pueden explicar la hiponatremia observada?",
-  "answer": ["liberación no osmótica de la arginina vasopresina por hipovolemia"],
-  "options": [
-  "disminución de la ingesta de sodio",
-  "disminución de la ingesta de agua libre",
-  "liberación osmótica de la arginina vasopresina por hipoosmolaridad",
-  "liberación no osmótica de la arginina vasopresina por hipovolemia"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 29, 
-  "question": "¿Qué mecanismo fisiopatológico explica la mielinolisis pontina que se puede observar al corregir excesivamente con el tratamiento una hiponatremia crónica?",
-  "answer": ["deshidratación celular"],
-  "options": [
-  "edema cerebral",
-  "deshidratación celular",
-  "aumento del contenido de agua intracelular",
-  "aumento del contenido de sodio intracelular"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 30, 
-  "question": "¿Cuál de las siguientes situaciones determina el pasaje de potasio desde el espacio intracelular al espacio extracelular?",
-  "answer": ["acidosis metabólica"],
-  "options": [
-  "hipocloremia",
-  "hipernatremia",
-  "alcalosis metabólica",
-  "acidosis metabólica"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 31, 
-  "question": "¿Cuál de los siguientes factores es capaz de perpetuar una alcalosis metabólica?",
-  "answer": ["hipocloremia"],
-  "options": [
-  "hipertensión",
-  "hiponatremia",
-  "hipocloremia",
-  "hiperpotasemia"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 32, 
-  "question": "Paciente de 24 años concurre con vómitos y dolor epigástrico. Al ingreso se constata insuficiencia renal severa. Gasometría arterial ventilando espontáneamente al aire (VEA): PaO2 88 mmHg PaCO2 31 mEq/L pH 7.29 HCO3 - 15 mEq/L ¿Qué diagnóstico gasométrico realiza?",
-  "answer": ["acidosis metabólica con respuesta adaptativa adecuada"],
-  "options": [
-  "acidosis respiratoria con respuesta adaptativa adecuada",
-  "alcalosis respiratoria con respuesta adaptativa adecuada",
-  "acidosis metabólica con respuesta adaptativa inadecuada",
-  "acidosis metabólica con respuesta adaptativa adecuada"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 33, 
-  "question": "¿Qué repercusión tiene la acidosis metabólica sobre el aparato cardiovascular?",
-  "answer": ["vasodilatación periférica"],
-  "options": [
-  "vasodilatación periférica",
-  "vasoconstricción periférica",
-  "aumento de la contractilidad",
-  "aumento de la pulsatilidad arterial"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 34, 
-  "question": "Indique cuál de los siguientes parámetros permite distinguir la hipoventilación de los mecanismos parenquimatosos de insuficiencia respiratoria:",
-  "answer": ["Diferencia alvéolo-arterial de O2"],
-  "options": [
-  "Respuesta al test de hiperoxia",
-  "Diferencia veno-arterial de CO2",
-  "Diferencia alvéolo-arterial de O2",
-  "Respuesta espirométrica a broncodilatadores"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 35, 
-  "question": "¿Cuál es la principal característica distintiva del shunt como mecanismo de hipoxemia?",
-  "answer": ["La ausencia de respuesta al test de hiperoxia"],
-  "options": [
-  "La presencia de hipercapnia",
-  "La hipoxemia no se manifiesta en reposo",
-  "La ausencia de respuesta al test de hiperoxia",
-  "El aumento en la diferencia alvéolo-arterial de O2"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 36, 
-  "question": "La espirometría forzada de un paciente presenta los siguientes resultados: Pre-broncodilatador: Volumen espirado en el 1er segundo (VEF1): 5,31 L Capacidad vital forzada (CVF): 6,09 L Post-broncodilatador: Volumen espirado en el 1er segundo (VEF1): 5.48 L Capacidad vital forzada (CVF): 6.15 L ¿Qué patrón espirométrico presenta?",
-  "answer": ["Normal"],
-  "options": [
-  "Normal",
-  "Hiperinsuflación",
-  "Obstructivo reversible",
-  "Obstructivo irreversible"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 37, 
-  "question": "En un paciente que presenta una espirometría con un aumento de la capacidad pulmonar total y disminución de la capacidad vital. ¿Cómo espera encontrar el volumen residual?",
-  "answer": ["Aumentado"],
-  "options": [
-  "Disminuido",
-  "Aumentado",
-  "Incambiado"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 38, 
-  "question": "En un estudio de los volúmenes pulmonares ¿Cuál opción corresponde a hiperinsuflación pulmonar?",
-  "answer": ["Incremento de la capacidad residual funcional, del volumen residual, y de la capacidad pulmonar total"],
-  "options": [
-  "Descenso de la relación VR (volumen residual) / CPT (capacidad pulmonar total)",
-  "Incremento de la capacidad residual funcional, del volumen residual, y de la capacidad pulmonar total",
-  "Incremento de capacidad residual funcional, con descenso del volumen residual y de la capacidad pulmonar total",
-  "Relación VEF1/CVF <70% (volumen espiratorio forzado en primer segundo/capacidad vital forzada)"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 39, 
-  "question": "¿Qué espera que suceda si el ciclo respiratorio ocurre por encima del punto de inflexión superior de la curva de presión volumen (PV)? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p39-2doP-2023.PNG' alt=''>",
-  "answer": ["Aumento del trabajo respiratorio"],
-  "options": [
-  "Aumento del trabajo respiratorio",
-  "Aumento de la complacencia pulmonar",
-  "Aumento de la resistencia de vía aérea",
-  "Aumento del punto de igual presión (PIP)"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 40, 
-  "question": "En un paciente con síndrome de distrés respiratorio agudo (SDRA). ¿Qué cambios espera encontrar en la mecánica pulmonar?",
-  "answer": ["Descenso de la complacencia estática"],
-  "options": [
-  "Menor tensión superficial",
-  "Descenso de la resistencia de vía aérea",
-  "Aumento de la capacidad pulmonar total",
-  "Descenso de la complacencia estática"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 41, 
-  "question": "En un paciente con un shock hipovolémico, ¿cómo esperaría encontrar los parámetros del metabolismo del oxígeno?",
-  "answer": ["Contenido arterial de oxígeno disminuido"],
-  "options": [
-  "Extracción de oxígeno disminuida",
-  "Disponibilidad de oxígeno aumentada",
-  "Contenido venoso de oxígeno aumentado",
-  "Contenido arterial de oxígeno disminuido"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 42, 
-  "question": "Con respecto a la curva de disociación de la hemoglobina: ¿qué situaciones aumentan la afinidad de la hemoglobina por el O2 (desplazamiento de la curva a la izquierda)?",
-  "answer": ["Aumento del pH"],
-  "options": [
-  "Aumento del pH",
-  "Aumento de la PaCO2",
-  "Aumento del 2,3 DPG",
-  "Aumento de la temperatura"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 43, 
-  "question": "Ante una caída de la disponibilidad sistémica de oxígeno (DO2) por debajo del punto crítico:",
-  "answer": ["La concentración de lactato plasmático aumenta"],
-  "options": [
-  "Se mantiene un metabolismo aeróbico",
-  "La extracción de oxígeno no se modifica",
-  "El consumo tisular de oxígeno no se modifica",
-  "La concentración de lactato plasmático aumenta"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 44, 
-  "question": "Paciente de sexo masculino, 25 años, sin antecedentes patológicos, sufre herida penetrante en muslo con abundante sangrado arterial. Presenta inestabilidad hemodinámica severa. ¿Cuál es el principal determinante de este shock?",
-  "answer": ["Reducción de la precarga"],
-  "options": [
-  "Aumento de la poscarga",
-  "Alteración del inotropismo",
-  "Reducción de la precarga",
-  "Aumento de la capacitancia vascular"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 45, 
-  "question": "¿En cuál de las siguientes situaciones esperaría encontrar una disminución de las resistencias vasculares periféricas?",
-  "answer": ["Shock anafiláctico por picadura de insectos"],
-  "options": [
-  "Shock hemorrágico por rotura esplénica",
-  "Shock obstructivo por taponamiento cardíaco",
-  "Shock anafiláctico por picadura de insectos",
-  "Shock cardiogénico por infarto agudo de miocardio"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 46, 
-  "question": "La causa de lesión celular que tiene un papel más importante en la intoxicación por monóxido de carbono (CO) es:",
-  "answer": ["La hipoxia"],
-  "options": [
-  "La hipoxia",
-  "La lesión por agente físico",
-  "La lesión por agente químico",
-  "La reacción inmunológica frente al CO"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 47, 
-  "question": "Señale la afirmación correcta respecto a las reacciones adversas a medicamentos tipo B:",
-  "answer": ["Dentro de este grupo se encuentran las reacciones de hipersensibilidad."],
-  "options": [
-  "Su intensidad y gravedad son dosis dependientes.",
-  "Dentro de este grupo se encuentran los efectos teratógenos.",
-  "Se vinculan directamente con el mecanismo de acción del fármaco.",
-  "Son las reacciones adversas más frecuentes, llegando al 70% de todas.",
-  "Dentro de este grupo se encuentran las reacciones de hipersensibilidad."
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 48, 
-  "question": "Señale la afirmación correcta sobre características farmacodinámicas de los agonistas y antagonistas:",
-  "answer": ["El agonista parcial tiene menor actividad intrínseca que el agonista puro."],
-  "options": [
-  "Un antagonista competitivo tiene mayor actividad intrínseca que el agonista.",
-  "El agonista parcial tiene menor actividad intrínseca que el agonista puro.",
-  "El antagonista competitivo generalmente se une en forma irreversible al receptor.",
-  "El agonista puro generalmente posee escasa capacidad de modificar los receptores."
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 49, 
-  "question": "¿Cuál de las siguientes es una acción farmacológica de los agentes anticolinérgicos como homatropina?",
-  "answer": ["Estreñimiento, por disminución del tono peristáltico intestinal."],
-  "options": [
-  "Bradicardia, por efecto cronotrópico negativo.",
-  "Sialorrea, por estimulación de secreción salival.",
-  "Incontinencia urinaria, por disminución del tono esfinteriano uretral.",
-  "Estreñimiento, por disminución del tono peristáltico intestinal."
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 50, 
-  "question": "¿Cuál es el mecanismo de acción de atropina?",
-  "answer": ["Es un antagonista muscarínico competitivo no selectivo."],
-  "options": [
-  "Es un potente antagonista alfa1 adrenérgico.",
-  "Es un agonista muscarínico puro, selectivo M2 y M3.",
-  "Es un antagonista muscarínico competitivo no selectivo.",
-  "Es un agonista nicotínico parcial a nivel de sistema nervioso central."
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 51, 
-  "question": "Señale la afirmación correcta sobre la biodisponibilidad oral de los fármacos:",
-  "answer": ["Es un parámetro que mide fracción absorbida y velocidad de absorción."],
-  "options": [
-  "Es directamente proporcional al volumen de distribución.",
-  "Es inversamente proporcional a la liposolubilidad del fármaco.",
-  "Permite inferir cómo se distribuye el fármaco en el organismo.",
-  "Es un parámetro que mide fracción absorbida y velocidad de absorción."
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 52, 
-  "question": "¿En cuál de las siguientes situaciones fisiológicas puede existir disminución del volumen de distribución de fármacos hidrosolubles?",
-  "answer": ["Adulto mayor de 65 años."],
-  "options": [
-  "Recién nacido sano",
-  "Adulto mayor de 65 años.",
-  "Tercer trimestre del embarazo."
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 53, 
-  "question": "¿Qué es la vida media plasmática de un fármaco?",
-  "answer": ["El tiempo en que la concentración plasmática se reduce a la mitad."],
-  "options": [
-  "El tiempo hasta el pico de concentración máxima.",
-  "El intervalo de tiempo entre dosis consecutivas de un fármaco.",
-  "El tiempo en que la concentración plasmática se reduce a la mitad.",
-  "El Intervalo de tiempo en el que se metaboliza la mitad de la dosis administrada."
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 54, 
-  "question": "¿Cuál de los siguientes fármacos puede ser definido como un agonista puro?",
-  "answer": ["Formoterol."],
-  "options": [
-  "Atenolol.",
-  "Bisoprolol.",
-  "Metoprolol.",
-  "Formoterol."
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 55, 
-  "question": "¿Cuál de los siguientes fármacos puede definirse como antagonista competitivo de receptores muscarínicos?",
-  "answer": ["Isopropamida."],
-  "options": [
-  "Dopamina.",
-  "Pregabalina.",
-  "Neostigmina.",
-  "Isopropamida."
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 56, 
-  "question": "¿Cuál de los siguientes mecanismos de acción da lugar a efectos farmacológicos simpaticomiméticos?",
-  "answer": ["Bloqueo de la recaptación presináptica de noradrenalina.", "Bloqueo de receptores alfa2 adrenérgicos presinápticos a nivel central."],
-  "options": [
-  "Bloqueo de la enzima tirosina hidroxilasa neuronal.",
-  "Bloqueo de receptores alfa1 adrenérgicos postsinápticos.",
-  "Bloqueo de la recaptación presináptica de noradrenalina.",
-  "Bloqueo de receptores alfa2 adrenérgicos presinápticos a nivel central."
-  ],
-  "discipline": "Farmaco",
-  "comment": "Esta es ambigua. C y D",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 57, 
-  "question": "¿Cuál de las siguientes es una reacción adversa tipo A que puede observarse luego de administrar salbutamol a dosis habituales por vía inhalatoria a un niño con crisis de asma?",
-  "answer": ["Temblor distal."],
-  "options": [
-  "Bradicardia.",
-  "Temblor distal.",
-  "Edemas de miembros inferiores.",
-  "Frialdad distal de los cuatro miembros."
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 58, 
-  "question": "¿Cuál de los siguientes parámetros farmacocinéticos cambia si utilizamos un medicamento vía oral en comprimidos de liberación programada?",
-  "answer": ["La velocidad de absorción."],
-  "options": [
-  "La velocidad de absorción.",
-  "La velocidad del metabolismo hepático.",
-  "El aclaramiento renal por filtración glomerular.",
-  "La vida media de eliminación del fármaco."
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 59, 
-  "question": "¿Cuál de los siguientes es el parámetro más relevante para medir el proceso de eliminación de los fármacos por vía renal?",
-  "answer": ["Clearance plasmático."],
-  "options": [
-  "Vida media plasmática.",
-  "Clearance plasmático.",
-  "Constante de eliminación.",
-  "Volumen urinario por minuto."
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 60, 
-  "question": "¿Cuál de las siguientes opciones indica una característica de la radiación ionizante de naturaleza corpuscular?",
-  "answer": ["la energía que transmite es cinética e interactúa a través de colisiones"],
-  "options": [
-  "se describe por los parámetros de longitud de onda y frecuencia de onda",
-  "se emite desde la periferia del átomo en forma de radiación característica",
-  "la interacción con los átomos del medio es a través del efecto fotoeléctrico",
-  "la energía que transmite es cinética e interactúa a través de colisiones"
-  ],
-  "discipline": "Biofisica",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 61, 
-  "question": "Debido al efecto fotoeléctrico en las radiografías simples ...",
-  "answer": ["se aumenta el contraste entre tejidos más densos y menos densos"],
-  "options": [
-  "se disminuye el contraste entre tejidos más densos y menos densos",
-  "se aumenta el contraste entre tejidos más densos y menos densos",
-  "se usa radiación corpuscular acompañada de una sustancia de contraste",
-  "se usa radiación corpuscular para diferenciar tejidos densos de menos densos"
-  ],
-  "discipline": "Biofisica",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 62, 
-  "question": "¿Cuál es la definición de actividad en relación a las radiaciones ionizantes?",
-  "answer": ["es el número de desintegraciones de material radiactivo por unidad de tiempo"],
-  "options": [
-  "es la energía absorbida por el material por unidad de tiempo",
-  "es la energía impartida por unidad de masa del volumen irradiado",
-  "es el valor absoluto de la carga total liberada por unidad de masa de aire",
-  "es el número de desintegraciones de material radiactivo por unidad de tiempo"
-  ],
-  "discipline": "Biofisica",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 63, 
-  "question": "¿Cuál es la lesión producida por las radiaciones ionizantes que se relaciona con una mayor probabilidad de generación de aberraciones cromosómicas?",
-  "answer": ["roturas de doble cadena"],
-  "options": [
-  "pérdida de bases",
-  "sustitución de bases",
-  "rotura simple de cadena",
-  "roturas de doble cadena",
-  "unión de proteínas al ADN"
-  ],
-  "discipline": "Biofisica",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 64, 
-  "question": "¿Cuál es una característica de la reparación recombinacional homóloga en el procesamiento de dobles roturas de ADN?",
-  "answer": ["ocurre solo luego de que el ADN haya sido replicado"],
-  "options": [
-  "es necesario la generación de sitios apurínicos",
-  "la lesión se reconoce a través de la proteína XPA",
-  "el daño se procesa por un complejo proteico KU",
-  "se procesa la lesión a través de escisión y resíntesis",
-  "ocurre solo luego de que el ADN haya sido replicado"
-  ],
-  "discipline": "Biofisica",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 65, 
-  "question": "¿Cuál de los siguientes factores actúa como un radiosensibilizante celular?",
-  "answer": ["Alta concentración de oxígeno"],
-  "options": [
-  "Baja tasa de dosis",
-  "Fraccionamiento de la dosis",
-  "Alta concentración de oxígeno",
-  "Alta concentración de glutatión",
-  "Baja transferencia lineal de energía"
-  ],
-  "discipline": "Biofisica",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 66, 
-  "question": "¿Como se denomina a los efectos de las radiaciones ionizantes que se vinculan con la muerte celular a partir de una dosis umbral?",
-  "answer": ["determinísticos"],
-  "options": [
-  "estocásticos",
-  "hereditarios",
-  "probabilísticos",
-  "determinísticos"
-  ],
-  "discipline": "Biofisica",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 67, 
-  "question": "¿Cuál de las siguientes opciones es correcta en relación a las curvas de sobrevida celular que se construyen en función de la dosis?",
-  "answer": ["La dosis letal media (Do) es la dosis que corresponde a una probabilidad de sobrevida igual a 0.37 (37%)"],
-  "options": [
-  "La dosis cuasiumbral (Dq) es el valor N de la ordenada asociado a la pendiente de la curva a altas dosis",
-  "La dosis cuasiumbral (Dq) es el valor N de la ordenada que representa la pendiente de la curva a bajas dosis",
-  "La dosis letal media (Do) es la dosis que corresponde a una probabilidad de sobrevida igual a 0.37 (37%)",
-  "La dosis letal media (Do) es la dosis que corresponde a una probabilidad de sobrevida igual a 0.5 (50%)"
-  ],
-  "discipline": "Biofisica",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 68, 
-  "question": "¿Cuál es el efecto más importante de la exposición prenatal a radiaciones ionizantes en la etapa de pre-implantación?",
-  "answer": ["efecto de todo o nada"],
-  "options": [
-  "microcefalia",
-  "efecto de todo o nada",
-  "anomalías esqueléticas",
-  "retardo en el crecimiento",
-  "aumento del riesgo de cáncer"
-  ],
-  "discipline": "Biofisica",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 69, 
-  "question": "¿Cuál de las siguientes opciones es de relevancia para la radioprotección del paciente a la hora de indicar un estudio con radiaciones ionizante?",
-  "answer": ["justificación"],
-  "options": [
-  "ALARA",
-  "limitación",
-  "restricción",
-  "justificación",
-  "optimización"
-  ],
-  "discipline": "Biofisica",
-  "comment": "",
-  },
-  {
-  "info_quest": "2do Parcial 2023",
-  "numb": 70, 
-  "question": "¿En cuál de los siguientes escenarios de sobre-exposición se considera a los cromosomas dicéntricos como el marcador por excelencia para determinar dosis de radiación?",
-  "answer": ["En individuos expuestos a una fuente de Cobalto 60 proveniente de un equipo en desuso"],
-  "options": [
-  "Luego de 30 años de ocurrido el accidente radiológico",
-  "En un caso de sobre-exposición que se estima por dosimetría física menor a 10 cGy",
-  "En individuos expuestos a una fuente de Cobalto 60 proveniente de un equipo en desuso"
-  ],
-  "discipline": "Biofisica",
-  "comment": "",
-  },
-
-
-
-
-
-/////////////////////////////////////////////////////
-
-
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 1,
-  "question": "El virus de papiloma humano (HPV) se replica en las células del estrato basal del epitelio, presentando potencial oncogénico ¿Cuál de las siguientes características se relaciona con este potencial?",
-  "answer": ["Presenta genoma ADN doble hebra que se puede integrar al genoma celular"],
-  "options": [
-  "Presenta genoma ADN doble hebra que se puede integrar al genoma celular",
-  "Presenta genoma ARN doble hebra que se puede integrar al genoma celular",
-  "Presenta genoma ADN hebra simple y se replica integramente en el citoplasma celular",
-  "Presenta genoma ARN hebra simple y se replica integramente en el citoplasma celular"
-
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 2,
-  "question": "La prueba VDRL constituye una técnica serológica para complementar el diagnóstico de sífilis. ¿Qué evalúa esta prueba?",
-  "answer": ["Anticuerpos circulantes dirigidos contra antígenos no treponémicos"],
-  "options": [
-  "Antígenos circulantes de Treponema pallidum",
-  "Anticuerpos circulantes dirigidos contra antígenos de T. pallidum",
-  "Anticuerpos circulantes dirigidos contra antígenos no treponémicos",
-  "Antígenos circulantes que se liberan debido al daño tisular generado por la infección"
-
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 3,
-  "question": "En la etapa inicial de la infección, Neisseria gonorrhoeae se adhiere a las células de la mucosa. En esta etapa ¿Qué estructuras intervienen en la fijación y penetración en las células del huésped?",
-  "answer": ["Pili y proteínas Opa"],
-  "options": [
-  "Pili y proteínas Opa",
-  "Porinas PorA y PorB",
-  "Rmp y Proteasa de IgA1",
-  "Lipooligosacáridos y proteínas OMV"
-
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 4,
-  "question": "Un paciente de 40 años de edad, presenta un cuadro clínico sugestivo de hepatitis de etiología viral. Se determinan marcadores serológicos, cuyo resultado se presenta a continuación:<br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p4-2P-2024.PNG' alt=''> <br> ¿Cuál es la situación de este paciente en relación con el virus de hepatitis B?",
-  "answer": ["Está cursando una infección aguda"],
-  "options": [
-  "Está vacunado",
-  "Está cursando una infección aguda",
-  "Está cursando una infección crónica",
-  "Tuvo previamente una infección que ya se resolvió"
-
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 5,
-  "question": "¿Cuál es el principal mecanismo de variabilidad genética en el Virus de Hepatitis C responsable de la existencia de múltiples sub-genotipos circulantes?",
-  "answer": ["Mutaciones por errores de la ARN polimerasa y recombinación intra e inter genotipos"],
-  "options": [
-  "Acumulación de mutaciones por errores de la ADN polimerasa",
-  "Reordenamiento de segmentos genómicos intra e inter genotipos",
-  "Mutaciones por errores de la ARN polimerasa y recombinación intra e inter genotipos",
-  "Mutaciones por errores de la ARN polimerasa y reordenamiento de segmentos genómicos"
-
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 6,
-  "question": "En cuanto a la inmunoprofilaxis de las infecciones por Virus de hepatitis A en Uruguay:",
-  "answer": ["Hay una vacuna incluida en el CEV a virus inactivados"],
-  "options": [
-  "No hay vacunas disponibles",
-  "Hay una vacuna incluida en el CEV a virus atenuados",
-  "Hay una vacuna incluida en el CEV a virus inactivados",
-  "Hay una vacuna recombinante disponible que no se encuentra incluida en el CEV"
-
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 7,
-  "question": "En un paciente con diagnóstico de celulitis abscedada se decide tomar una muestra para estudio microbiológico. ¿Cuál de los siguientes métodos elegiría para tomar esta muestra?",
-  "answer": ["Aspiración del material purulento con jeringa"],
-  "options": [
-  "Hisopado del borde de la lesión",
-  "Punción y aspiración del borde de la lesión",
-  "Aspiración del material purulento con jeringa",
-  "Recolección del material purulento con bajalenguas  "
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 8,
-  "question": "De esta muestra se realiza un frotis con tinción de Gram. Considerando la frecuencia ¿Cuáles son los elementos celulares que espera encontrar en la observación microscópica?",
-  "answer": ["Cocos Gram positivos y leucocitos polimorfonucleares"],
-  "options": [
-  "Cocos Gram positivos y leucocitos mononucleares",
-  "Bacilos Gram negativos y leucocitos mononucleares",
-  "Cocos Gram positivos y leucocitos polimorfonucleares",
-  "Bacilos Gram negativos y leucocitos polimorfonucleares"
-
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 9,
-  "question": "Un aislamiento de Staphylococcus aureus recuperado de una celulitis abscedada, muestra ser resistente a cefoxitin y sensible al resto de los antibióticos evaluados en el antibiograma. En base a este resultado ¿Qué antibiótico podría utilizarse para el tratamiento de este paciente?",
-  "answer": ["Trimetoprim sulfametoxazol"],
-  "options": [
-  "Cefradina",
-  "Ceftriaxona",
-  "Amoxicilina clavulánico",
-  "Trimetoprim sulfametoxazol"
-
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 10,
-  "question": "La siguiente tabla presenta los resultados obtenidos de susceptibilidad a antibióticos de una cepa de Staphylococcus aureus <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p10-2P-2024.PNG' alt=''> <br> ¿Cuál es el mecanismo que explica la resistencia observada?",
-  "answer": ["Alteración del sitio blanco"],
-  "options": [
-  "Impermeabilidad",
-  "Bombas de eflujo",
-  "Inhibición enzimática",
-  "Alteración del sitio blanco"
-
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 11,
-  "question": "Un medio de cultivo muy utilizado en microbiología es el Agar MacConkey Lactosa ¿Cómo se clasifica este medio?",
-  "answer": ["selectivo y diferencial"],
-  "options": [
-  "selectivo y rico",
-  "rico y cromogénico",
-  "selectivo y diferencial",
-  "cromogénico y diferencial"
-
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 12,
-  "question": "A partir de un coprocultivo sembrado en Agar Mac Conkey lactosa, se observan predominantemente colonias incoloras. ¿A cuál de los siguientes agentes de diarrea pueden corresponder estas colonias?",
-  "answer": ["Salmonella enterica"],
-  "options": [
-  "Salmonella enterica",
-  "Campylobacter jejuni",
-  "E. coli enteropatógena",
-  "E. coli productora de toxina Shiga"
-
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 13,
-  "question": "Para la identificación de una cepa bacteriana recuperada en Mac Conkey Lactosa partir de un coprocultivo, ¿cuáles de las siguientes pruebas bioquímicas sería útil realizar?",
-  "answer": ["Oxidasa, pruebas de TSI, MIO, y citrato"],
-  "options": [
-  "Catalasa, coagulasa y DNAsa",
-  "Catalasa y sensibilidad a la optoquina",
-  "Oxidasa, pruebas de TSI, MIO, y citrato",
-  "Oxidasa y pruebas de oxidación de glucosa y maltosa"
-
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 14,
-  "question": "En un paciente con sospecha clínica de infección urinaria, se realiza una tira reactiva de orina, que da un resultado positivo para nitritos. ¿Cuál de los siguientes agentes sugiere este resultado?",
-  "answer": ["Proteus mirabilis"],
-  "options": [
-  "Proteus mirabilis",
-  "Streptococcus agalactiae",
-  "Pseudomonas aeruginosa",
-  "Staphylococcus saprophyticus"
-
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 15,
-  "question": "Frente a una sospecha clínica de infección del tracto urinario en un niño de 10 meses ¿en cuál de las siguientes situaciones se considerará significativo un recuento de 100 UFC/mL asegurando la bacteriuria?",
-  "answer": ["Si la orina fue obtenida por punción suprapúbica y el cultivo es mono o polimicrobiano"],
-  "options": [
-  "Si la orina fue obtenida de chorro medio y el cultivo es polimicrobiano",
-  "Si la orina fue obtenida de chorro medio y el cultivo es monomicrobiano",
-  "Si la orina fue obtenida por punción suprapúbica y el cultivo es mono o polimicrobiano",
-  "Si la orina fue obtenida por cateterización vesical y el cultivo es mono o polimicrobiano"
-
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 16,
-  "question": "¿Cuál de las siguientes combinaciones de medios de cultivo resulta adecuada para la siembra de un urocultivo realizado para diagnosticar una infección urinaria baja en una mujer joven?",
-  "answer": ["Agar sangre y agar Mac Conkey lactosa"],
-  "options": [
-  "Agar SS y agar TSA",
-  "Agar sangre y agar SS",
-  "Agar Mac Conkey lactosa y agar TSA",
-  "Agar sangre y agar Mac Conkey lactosa"
-
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 17,
-  "question": "En el diagnóstico etiológico de la neumonia aguda de etiología bacteriana, ¿cuáles son las características microscópicas que debe tener una muestra de expectoración para que sea validada?",
-  "answer": ["Presentar predominancia de células inflamatorias y escasas células epiteliales"],
-  "options": [
-  "Presentar un único tipo de morfología y coloración bacteriana",
-  "Presentar abundancia de células representativas de epitelio respiratorio",
-  "Presentar abundancia de células inflamatorias y un único tipo bacteriano",
-  "Presentar predominancia de células bacterianas y escasas células epiteliales",
-  "Presentar predominancia de células inflamatorias y escasas células epiteliales"
-
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 18,
-  "question": "¿Cuál de las siguientes características se corresponde con la identificación de una cepa de Streptococcus pneumoniae?",
-  "answer": ["Cocos gram positivos, catalasa negativos, alfa hemolíticos"],
-  "options": [
-  "Cocos gram positivos, catalasa negativos, alfa hemolíticos",
-  "Cocos gram positivos, catalasa positivos, beta hemolíticos",
-  "Cocos gram negativos, catalasa positivos, alfa hemolíticos",
-  "Cocos gram negativos, catalasa negativos, beta hemolíticos"
-
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 19,
-  "question": "¿Que buscan determinar las pruebas inmunocromatográficas utilizadas en el diagnóstico de las infecciones respiratorias virales?",
-  "answer": ["Antígenos virales en secreciones respiratorias"],
-  "options": [
-  "Antígenos virales en suero",
-  "Antígenos virales en orina",
-  "Anticuerpos específicos en suero",
-  "Antígenos virales en secreciones respiratorias",
-  "Anticuerpos específicos en secreciones respiratorias"
-
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 20,
-  "question": "¿Que mecanismo de acción comparten los antibióticos ampicilina, vancomicina y fosfomicina?",
-  "answer": ["Inhibición de la pared celular"],
-  "options": [
-  "Inhibición de la pared celular",
-  "Inhibición de la síntesis proteica",
-  "Inhibición del enrollamiento del ADN",
-  "Inhibición de la síntesis del ácido fólico"
-
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 21,
-  "question": "¿A que antibiótico betalactámico es sensible una E. coli que tiene como único mecanismo de resistencia una metalo carbapenemasa?",
-  "answer": ["Aztreonam"],
-  "options": [
-  "Cefradina",
-  "Imipenem",
-  "Aztreonam",
-  "Ceftriaxona"
-
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 22,
-  "question": "¿Qué clase de carbapenemasas puedo detectar mediante el test de sinergia entre los discos de imipenem y meropenem con ácido borónico?",
-  "answer": ["Las de clase A tipo KPC-2"],
-  "options": [
-  "Las de clase A tipo KPC-2",
-  "Las de clase B tipo NDM-1",
-  "Las de clase D tipo OXA-48",
-  "Las de clase C tipo CMY-2"
-
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 23,
-  "question": "¿Qué colocación estratégica de discos debo poner para detectar inequívocamente la presencia deuna beta lactamasa de espectro extendido (BLEE.)?",
-  "answer": ["Ceftriaxona-Amoxicilina clavulánico-Ceftazidime"],
-  "options": [
-  "Cefepime-EDTA-Ceftazidime",
-  "Ceftazidime-Ácido borónico-Meropenem",
-  "Ceftriaxona-Ceftazidime avibactam-Cefepime",
-  "Ceftriaxona-Amoxicilina clavulánico-Ceftazidime"
-
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 24,
-  "question": "Por sospecha clínica y radiológica de tuberculosis pulmonar, se toma una muestra de expectoración. ¿Cuál de las siguientes pruebas presenta mayor sensibilidad?",
-  "answer": ["Cultivo en medio Lowenstein Jensen", "PCR (Gene expert) para detección de genes de M. tuberculosis complex"],
-  "options": [
-  "Cultivo en medio Lowenstein Jensen",
-  "Baciloscopía con tinción de Zhiel Neelsen",
-  "Baciloscopía con tinción fluorescente de auramina-O y rodamina",
-  "PCR (Gene expert) para detección de genes de M. tuberculosis complex"
-
-  ],
-  "discipline": "Bacterio",
-  "comment": "Esta es ambigua. A y D",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 25,
-  "question": "¿Cuál de los siguientes casos puede corresponder a una infección tuberculosa latente?",
-  "answer": ["Un paciente asintomático, con radiografía normal y PPD positiva"],
-  "options": [
-  "Un paciente asintomático, con radiografía normal y PPD negativa",
-  "Un paciente asintomático, con radiografía normal y PPD positiva",
-  "Un paciente que presenta tos, radiografía patológica y PPD positiva",
-  "Un paciente que presenta tos, radiografía normal y baciloscopía positiva",
-  "Un paciente asintomático, con radiografía patológica y baciloscopía positiva"
-
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 26,
-  "question": "¿Qué moléculas son correceptores en los linfocitos T CD4 positivos para el reconocimiento de las glicoproteína gp120 y gp 40 del virus de la inmunodeficiencia humana?",
-  "answer": ["Receptores de quimioquinas CCR5 y CXCR4"],
-  "options": [
-  "Receptores de tipo Toll TLR4 y TLR5",
-  "Receptores de quimioquinas CCR5 y CXCR4",
-  "Receptores del complejo mayor de histocompatibilidad MHC-II"
-
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 27,
-  "question": "¿Cómo interpreta la carga viral indetectable para VIH en sangre en un paciente en tratamiento antirretroviral con serología reactiva para este virus?",
-  "answer": ["La infección de este paciente no es transmisible en este momento"],
-  "options": [
-  "La infección se ha erradicado en este paciente",
-  "La infección de este paciente no es transmisible en este momento",
-  "Se encuentra en fallo virológico ya que aún no se negativiza la serología",
-  "Es un resultado discordante por lo que se debería realizar un tercer método diagnóstico"
-
-  ],
-  "discipline": "Bacterio",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 28,
-  "question": "Un paciente se encuentra ventilando espontáneamente, recibiendo oxigenoterapia mediante cánula nasal (a nivel del mar). La gasometría arterial evidencia: PaO2 55 mmHg, PaCO2 28 mmHg. ¿Cuál es el diagnóstico de insuficiencia respiratoria (IR) para este paciente?",
-  "answer": ["Presenta una IR tipo I"],
-  "options": [
-  "Presenta una IR tipo I",
-  "Presenta una IR tipo II",
-  "No se puede establecer el diagnóstico sin conocer la edad",
-  "No se puede establecer el diagnóstico sin conocer la fracción inspirada de O2 exacta"
-
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 29,
-  "question": "¿Cuál de los siguientes mecanismos es el principal responsable de la hipoxemia durante una crisis asmática?",
-  "answer": ["Baja relación V/Q"],
-  "options": [
-  "Baja relación V/Q",
-  "Shunt intrapulmonar",
-  "Trastorno de la difusión",
-  "Hipoventilación alveolar"
-
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 30,
-  "question": "¿Cuál de los siguientes mecanismos es el principal responsable de la hipoxemia en el edema pulmonar cardiogénico?",
-  "answer": ["Shunt intrapulmonar"],
-  "options": [
-  "Baja relación V/Q",
-  "Shunt intrapulmonar",
-  "Trastorno de la difusión",
-  "Hipoventilación alveolar"
-
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 31,
-  "question": "Un paciente de 62 años, tabaquista intenso desde la infancia, con diagnóstico de enfermedad pulmonar obstructiva crónica (EPOC.) y enfisema pulmonar concurre a control con resultados de estudios espirométrico. ¿Qué alteraciones espera encontrar?",
-  "answer": ["Limitación al flujo espiratorio"],
-  "options": [
-  "Relación VEF1/CVF > 70%",
-  "Limitación al flujo espiratorio",
-  "Descenso de la capacidad residual funcional",
-  "Aumento de las resistencias de vía aérea con respuesta significativa a broncodilatadores"
-
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 32,
-  "question": "¿Cómo esperaría encontrar el bucle flujo - volumen en un paciente con una patología obstructiva de la vía aérea?",
-  "answer": ["Descenso del flujo espiratorio final"],
-  "options": [
-  "Descenso del flujo espiratorio final",
-  "Aumento de flujo espiratorio máximo",
-  "Descenso del flujo inspiratorio máximo",
-  "Aumento del flujo espiratorio esfuerzo dependiente"
-
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 33,
-  "question": "Un estudio de los volúmenes pulmonares informa una capacidad pulmonar total de 128% con respecto al valor esperado para ese paciente. ¿A qué patrón corresponde?",
-  "answer": ["Hiperinsuflación pulmonar leve"],
-  "options": [
-  "Restricción pulmonar leve",
-  "Restricción pulmonar severa",
-  "Hiperinsuflación pulmonar leve",
-  "Hiperinsuflación pulmonar severa"
-
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 34,
-  "question": "En la siguiente tabla se detallan los parámetros de la mecánica ventilatoria en un paciente en condiciones basales (A) y luego de una intervención (B) <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p34-2P-2024.PNG' alt=''> <br> ¿Qué cambios se observan en la mecánica respiratoria?",
-  "answer": ["La complacencia estática del sistema respiratorio desciende con respecto a la situación basal"],
-  "options": [
-  "Las resistencias totales de vía aérea aumentan",
-  "Las complacencia estática y dinámica cambian en sentidos opuestos.",
-  "Los cambios observados pueden corresponder con una obstrucción de la vía aérea superior",
-  "La complacencia estática del sistema respiratorio desciende con respecto a la situación basal"
-
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 35,
-  "question": "En un paciente con un sindrome de distrés respiratorio agudo, ¿qué alteraciones mecánicas espera encontrar?",
-  "answer": ["Descenso de la complacencia pulmonar"],
-  "options": [
-  "Descenso de la elastancia pulmonar",
-  "Descenso de la presión trans pulmonar",
-  "Descenso de la complacencia pulmonar",
-  "Descenso de las resistencias pulmonares totales"
-
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 36,
-  "question": "¿Qué consecuencias tiene la depleción del surfactante pulmonar sobre la mecánica respiratoria?",
-  "answer": ["Distribución heterogénea de la ventilación alveolar"],
-  "options": [
-  "Descenso del trabajo respiratorio",
-  "Descenso de la tensión superficial alveolar",
-  "Aumento de la complacencia del sistema respiratorio",
-  "Distribución heterogénea de la ventilación alveolar"
-
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 37,
-  "question": "La manifestación clínica de la sensibilización periférica es:",
-  "answer": ["la alodinia", "la hiperalgesia"],
-  "options": [
-  "la alodinia",
-  "la hiperalgesia",
-  "el dolor persistente",
-  "la respuesta exagerada a estímulos repetitivos"
-
-  ],
-  "discipline": "Fisiopato",
-  "comment": "Esta es ambigua. A y B",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 38,
-  "question": "En la anemia asociada a los procesos inflamatorios (anemia inflamatoria) se observa:",
-  "answer": ["Una inhibición de la reabsorción del hierro a nivel intestinal"],
-  "options": [
-  "Un aumento de la eritropoyesis medular",
-  "Una disminución de los niveles de hepcidina",
-  "Una inhibición de la reabsorción del hierro a nivel intestinal",
-  "Un aumento de la liberación del hierro desde sus lugares de almacenamiento al plasma"
-
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 39,
-  "question": "El siguiente gráfico muestra la curva de autorregulación de la circulación coronaria en un sujeto sano. ¿A qué corresponde el punto marcado en la figura? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p39-2P-2024.PNG' alt=''>",
-  "answer": ["Al punto máximo de vasodilatación"],
-  "options": [
-  "Al punto máximo de vasodilatación",
-  "Al punto máximo de resistencia vascular coronaria",
-  "Al punto mínimo del calibre de las arteriolas coronarias"
-
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 40,
-  "question": "Un paciente de 55 años, diabético, ingresa con insuficiencia renal aguda severa en el contexto de pielonefritis aguda. Se realiza la siguiente gasometría arterial. ¿Cuál es su diagnóstico gasométrico? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p40-2P-2024.PNG' alt=''>",
-  "answer": ["Acidosis metabólica con respuesta adaptativa adecuada"],
-  "options": [
-  "Acidosis respiratoria con respuesta adaptativa adecuada",
-  "Acidosis metabólica con respuesta adaptativa adecuada",
-  "Alcalosis metabólica con respuesta adaptativa inadecuada",
-  "Alcalosis respiratoria aguda con respuesta adaptativa adecuada"
-
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 41,
-  "question": "¿Cuál de las siguientes situaciones puede determinar una acidosis metabólica con agujero aniónico aumentado?",
-  "answer": ["Shock"],
-  "options": [
-  "Shock",
-  "Diarrea",
-  "Vómitos"
-
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 42,
-  "question": "¿Qué repercusiones fisiopatológicas puede tener la corrección de más de 12 mEq por día en una hiponatremia crónica?",
-  "answer": ["Mielinolisis osmótica"],
-  "options": [
-  "Edema cerebral",
-  "Hipoosmolaridad",
-  "Mielinolisis osmótica"
-
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 43,
-  "question": "¿Cuál de los siguientes constituye un estímulo no osmótico para la liberación de arginina vasopresina?",
-  "answer": ["Hipovolemia"],
-  "options": [
-  "Hipovolemia",
-  "Hipocloremia",
-  "Hipopotasemia"
-
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 44,
-  "question": "¿Cuál de los siguientes son factores de perpetuación de una alcalosis metabólica?",
-  "answer": ["Hipocloremia e hipovolemia"],
-  "options": [
-  "Hipopotasemia e hipoxia",
-  "Hipocloremia e hipovolemia",
-  "Hipocloremia e hipoosmolaridad"
-
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 45,
-  "question": "¿Cuál de las siguientes situaciones determina un movimiento de potasio desde el compartimento extracelular al intracelular produciendo hipopotasemia?",
-  "answer": ["Alcalosis metabólica"],
-  "options": [
-  "Hiperosmolaridad",
-  "Alcalosis metabólica",
-  "Uso de betabloqueantes"
-
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 46,
-  "question": "¿Cuál de las siguientes situaciones determina una disminución de la excreción de potasio produciendo hiperpotasemia?",
-  "answer": ["Uso Inhibidores de la enzima conversora de angiotensina II"],
-  "options": [
-  "Uso Beta 2 adrenérgicos inhalados",
-  "Tratamiento con insulinas de larga duración",
-  "Tratamiento con diuréticos tiazídicos y de asa",
-  "Uso Inhibidores de la enzima conversora de angiotensina II"
-
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 47,
-  "question": "¿Cuáles de las siguientes características farmacocinéticas de las benzodiacepinas es correcta?",
-  "answer": ["Lorazepam posee metabolismo hepático principalmente por conjugación."],
-  "options": [
-  "Diazepam presenta latencia intermedio y vida media prolongada.",
-  "Midazolam posee latencia intermedia con vida media prolongada.",
-  "Flunitrazepam se metaboliza primordialmente por glucuronidación.",
-  "Lorazepam posee metabolismo hepático principalmente por conjugación."
-
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 48,
-  "question": "¿Qué efecto adverso podría observarse con los antipsicóticos que presentan efecto antagonista sobre receptores muscarínicos?",
-  "answer": ["Sequedad bucal"],
-  "options": [
-  "Somnolencia",
-  "Sequedad bucal",
-  "Vasoconstricción"
-
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 49,
-  "question": "¿Cuál de los siguientes grupos farmacológicos actúa como modulador alostérico positivo?",
-  "answer": ["Benzodiacepinas"],
-  "options": [
-  "Anticolinérgicos",
-  "Benzodiacepinas",
-  "Betabloqueantes",
-  "Antiinflamatorios no esteroideos"
-
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 50,
-  "question": "¿Cuál de las siguientes características determinan que se establezca la interacción de un fármaco con su receptor?",
-  "answer": ["Afinidad."],
-  "options": [
-  "Afinidad.",
-  "Potencia.",
-  "Especificidad.",
-  "Actividad intrínseca."
-
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 51,
-  "question": "¿Cual de las siguientes opciones es correcta en relación a la regulación receptorial?",
-  "answer": ["La desensibilización es la pérdida de la respuesta frente a la acción de un agonista."],
-  "options": [
-  "La hipersensibilidad es la reducción de la afinidad de un receptor por su ligando.",
-  "Los cambios receptoriales generalmente se producen en condiciones fisiológicas.",
-  "La desensibilización es la pérdida de la respuesta frente a la acción de un agonista."
-
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 52,
-  "question": "¿Cuál de los siguientes efectos adversos se asocia al uso de morfina?",
-  "answer": ["Hipertonía muscular."],
-  "options": [
-  "Diarrea.",
-  "Midriasis.",
-  "Hipertonía muscular.",
-  "Hipertensión arterial."
-
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 53,
-  "question": "¿Cuál de las siguientes es la principal diferencia entre morfina y tramadol?",
-  "answer": ["El tipo de agonismo"],
-  "options": [
-  "La potencia",
-  "El tipo de agonismo",
-  "El grupo terapéutico",
-  "La vía de administración"
-
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 54,
-  "question": "¿Cuál de las siguientes propiedades farmacocinéticas respecto a morfina es correcta?",
-  "answer": ["La principal vía de metabolización es por glucuronidación."],
-  "options": [
-  "La absorción por vía oral es mayor a 80%.",
-  "Los metabolitos de la morfina son inactivos.",
-  "La mayor fracción de morfina se excreta por las heces.",
-  "La principal vía de metabolización es por glucuronidación."
-
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 55,
-  "question": "¿Cuál es el principal mecanismo por el que los fármacos atraviesan las membranas celulares?",
-  "answer": ["Difusión pasiva"],
-  "options": [
-  "Acuaporinas",
-  "Difusión pasiva",
-  "Transporte activo",
-  "Difusión facilitada"
-
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 56,
-  "question": "A partir del experimento mostrado en la figura, donde se comparan diferentes fármacos agonistas y el efecto que éstos presentan sobre el porcentaje de aumento del volumen eyectado ¿Cuál de los fármacos presenta mayor potencia? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p56y57-2P-2024.PNG' alt=''>",
-  "answer": ["Fármaco A"],
-  "options": [
-  "Fármaco A",
-  "Fármaco B",
-  "Fármaco C"
-
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 57,
-  "question": "Con relación al gráfico ¿Cuál de los fármacos agonistas presenta menor actividad intrínseca? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p56y57-2P-2024.PNG' alt=''>",
-  "answer": ["Fármaco C"],
-  "options": [
-  "Fármaco A",
-  "Fármaco B",
-  "Fármaco C"
-
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 58,
-  "question": "¿Cuál de las siguientes situaciones puede observarse cómo consecuencia de la inducción enzimática del metabolismo de un fármaco?",
-  "answer": ["Si tiene metabolitos inactivos, disminuye la intensidad y/o la duración del efecto"],
-  "options": [
-  "La intensidad y/o duración del efecto se ven inalteradas en cualquier situación",
-  "Si se trata de un profármaco, disminuye la intensidad y/o la duración del efecto",
-  "Si tiene metabolitos inactivos, disminuye la intensidad y/o la duración del efecto",
-  "Si tiene metabolitos inactivos, la intensidad y/o la duración del efecto se ven incrementadas"
-
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 59,
-  "question": "Teniendo en cuenta bases farmacocinéticas de la dosis carga, la misma permite en la práctica clínica:",
-  "answer": ["Alcanzar una concentración terapéutica rápidamente"],
-  "options": [
-  "Disminuir la dosis diaria total",
-  "Aumentar el intervalo interdosis",
-  "Alcanzar una concentración terapéutica rápidamente"
-
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 60,
-  "question": "Luego de una interacción de la radiación electromagnética con la materia a través del efecto fotoeléctrico, el átomo queda desbalanceado energéticamente. ¿Cuál es la forma más probable de que el átomo vuelva a un estado energético más estable?",
-  "answer": ["Por emisión de rayos X característicos"],
-  "options": [
-  "Por fusión con otro átomo",
-  "Por emisión de rayos X característicos",
-  "Por reacción con otros átomos del medio",
-  "Por expulsión de un electrón y un positrón del núcleo"
-
-  ],
-  "discipline": "Biofisica",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 61,
-  "question": "Analizando el efecto biológico de radiaciones de diferente naturaleza, como radiación gamma y radiación alfa, con igual nivel de energía se observa un daño biológico diferente. ¿En que se basa esta diferencia en el daño biológico producido?",
-  "answer": ["La radiación alfa tiene una mayor transferencia lineal de energía"],
-  "options": [
-  "La radiación alfa tiene menos poder de ionización en la distancia",
-  "La radiación alfa tiene una mayor transferencia lineal de energía",
-  "La radiación gamma distribuye la energía más densamente en la distancia",
-  "La radiación gamma tiene menor penetración con alta densidad de ionización"
-
-  ],
-  "discipline": "Biofisica",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 62,
-  "question": "Frente a la curva de sobrevida mostrada en la figura, que describe una evolución de la fracción de sobrevida con la dosis de radiación de tipo lineal-cuadrático, ¿cuál de los siguientes parámetros representa la probabilidad por unidad de dosis y por célula de inducir rotura de doble cadena por el pasaje del mismo haz de radiación? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p62-2P-2024.PNG' alt=''>",
-  "answer": ["Coeficiente alfa"],
-  "options": [
-  "Coeficiente alfa",
-  "Coeficiente beta",
-  "Dosis letal media",
-  "Relación alfa/beta",
-  "Número de extrapolación"
-
-  ],
-  "discipline": "Biofisica",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 63,
-  "question": "¿De qué depende el nivel de contraste entre diferentes tejidos en la formación de imágenes radiológicas (RX simple.)?",
-  "answer": ["del número atómico en una relación Z3"],
-  "options": [
-  "del aumento de energía",
-  "del número atómico en una relación Z3",
-  "de la interacción con el campo eléctrico del núcleo",
-  "de la interacción con electrones pobremente ligados al núcleo"
-
-  ],
-  "discipline": "Biofisica",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 64,
-  "question": "En la atenuación del ultrasonido (ecografía), la energía transportada dentro del cuerpo puede disminuir por:",
-  "answer": ["La difracción, reflexión, absorción y refracción"],
-  "options": [
-  "La mayor velocidad de la onda",
-  "La distancia y frecuencia del transductor",
-  "La difracción, reflexión, absorción y refracción"
-
-  ],
-  "discipline": "Biofisica",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 65,
-  "question": "Los efectos biológicos de las radiaciones ionizantes pueden clasificarse en estocásticos y determinísticos. ¿Cuál de las siguientes opciones describe correctamente las características del efecto estocástico?",
-  "answer": ["no tiene umbral de dosis, la severidad no depende de la dosis y puede ocurrir con una sola exposición"],
-  "options": [
-  "genera muerte celular a largo plazo, tiene fase de latencia y genera síndrome hematopoyético",
-  "presenta relación clara entre dosis y efecto, la severidad aumenta con la dosis y tiene dosis umbral",
-  "se manifiesta a corto plazo, induce la muerte celular a corto plazo y necesita de varias exposiciones",
-  "no tiene umbral de dosis, la severidad no depende de la dosis y puede ocurrir con una sola exposición",
-  "la probabilidad de manifestación no varía con la dosis, no hay relación clara dosis efecto y genera muerte celular"
-
-  ],
-  "discipline": "Biofisica",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 66,
-  "question": "¿Cuál de los siguientes es el efecto más común de la exposición a radiación ionizante durante el tercer trimestre del embarazo?",
-  "answer": ["cáncer en la infancia"],
-  "options": [
-  "microcefalia",
-  "retraso mental",
-  "cáncer en la infancia",
-  "nacimiento prematuro",
-  "muerte fetal intrauterina"
-
-  ],
-  "discipline": "Biofisica",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 67,
-  "question": "La radiación ionizante puede causar varios tipos de daños en el ADN. ¿Cuál de los siguientes mecanismos de reparación es más adecuado para reparar las roturas de doble cadena causadas por este tipo de radiación?",
-  "answer": ["Unión de extremos no homólogos (NHEJ)"],
-  "options": [
-  "Reparación por escisión de bases (BER)",
-  "Unión de extremos no homólogos (NHEJ)",
-  "Reparación de bases mal apareadas (MMR)",
-  "Reparación por escisión de nucleótidos (NER)"
-
-  ],
-  "discipline": "Biofisica",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 68,
-  "question": "Usando ciertos tipos de blindajes se puede atenuar la intensidad de las radiaciones electromagnéticas ionizantes. En este contexto ¿que significado tiene la capa hemireductora?",
-  "answer": ["es el espesor al cual se logra disminuir al 50% la intensidad de radiación"],
-  "options": [
-  "es el espesor al cual se logra disminuir al 10% la intensidad de radiación",
-  "es el espesor al cual se logra disminuir al 50% la intensidad de radiación",
-  "es el tiempo en el cual se logra disminuir al 10% la intensidad de radiación",
-  "es el tiempo en el cual se logra disminuir al 50% la intensidad de radiación"
-
-  ],
-  "discipline": "Biofisica",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 69,
-  "question": "La biodosimetría permite estimar la dosis de radiación absorbida en personas expuestas a radiaciones ionizantes ya sea de manera accidental, ocupacional o terapéutica. ¿Qué técnica permite estimar exposiciones agudas a dosis elevadas 10 años atrás?",
-  "answer": ["Técnica FISH"],
-  "options": [
-  "Ensayo G2",
-  "Técnica FISH",
-  "Análisis de doble roturas de ADN",
-  "Recuento de anillos de cromosomas"
-
-  ],
-  "discipline": "Biofisica",
-  "comment": "",
-},
-  {
-  "info_quest": "2do Parcial 2024",
-  "numb": 70,
-  "question": "¿Cuál es el objetivo principal de la optimización en radioprotección?",
-  "answer": ["Mantener las dosis tan bajas como razonablemente sea posible"],
-  "options": [
-  "Utilizar barreras de protección",
-  "Reducir el tiempo de exposición",
-  "Aumentar la distancia de la fuente de radiación",
-  "Mantener las dosis tan bajas como razonablemente sea posible"
-  ],
-  "discipline": "Biofisica",
-  "comment": "",
-},
-
-
-
-/////////////////////////////////////////////////////
-
-
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 1.,
-  "question": "Cuál de los siguientes antibióticos es el que con mayor frecuencia puede producir enterocolitis por Clostridium difficile?",
-  "answer": ["Clindamicina."],
-  "options": [
-  "Clindamicina.",
-  "Claritromicina.",
-  "Nitrofurantoina.",
-  "Trimetoprima sulfametoxazol."
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 2.,
-  "question": "Cuál de los siguientes grupos de antibióticos debe evitarse en población pediátrica por su potencial vínculo con inhibición del crecimiento cartilaginoso?",
-  "answer": ["Fluoroquinolonas."],
-  "options": [
-  "Macrólidos.",
-  "Sulfonamidas.",
-  "Lincosamidas.",
-  "Fluoroquinolonas."
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 3.,
-  "question": "Cuál de los siguientes antibióticos actúa inhibiendo la síntesis proteica al actuar sobre los ribosomas bacterianos?",
-  "answer": ["Clindamicina."],
-  "options": [
-  "Bacitracina.",
-  "Vancomicina.",
-  "Clindamicina.",
-  "Trimetoprim-sulfametoxazol."
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 4.,
-  "question": "a causa más frecuente de síndrome de Cushing es el uso por tiempo prolongado de glucocorticoides por vía sistémica. Un elemento clínico característico es la redistribución de grasa corporal, con aumento de la misma en algunos sectores del cuerpo, como por ejemplo:",
-  "answer": ["Sector posterior del cuello (giba de búfalo)."],
-  "options": [
-  "Sector posterior del cuello (giba de búfalo).",
-  "Sector distal de los cuatro miembros (obesidad centrífuga).",
-  "Sector proximal de miembros superiores (piernas de gacela)."
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 5.,
-  "question": "Cuál de los siguientes es el fármaco que se utiliza como referencia para comparar la potencia de acción antiinflamatoria de los diferentes glucocorticoides?",
-  "answer": ["Hidrocortisona."],
-  "options": [
-  "Prednisona.",
-  "Fluticasona.",
-  "Hidrocortisona.",
-  "Fludrocortisona."
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 6.,
-  "question": "Mebendazole es un benzimidazol útil para el tratamiento de parasitosis. Señale cuál:",
-  "answer": ["Oxiurosis."],
-  "options": [
-  "Oxiurosis.",
-  "Giardiasis.",
-  "Hidatidosis.",
-  "Pediculosis."
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 7.,
-  "question": "Cuál es el mecanismo de acción por el cual algunos antiinflamatorios no esteroideos producen efecto uricosúrico?",
-  "answer": ["Inhibición del transporte desde la luz tubular"],
-  "options": [
-  "Inhibición de la enzima xantina oxidasa",
-  "Activación selectiva de la xantina oxidasa",
-  "Antagonismo de receptores de aldosterona",
-  "Inhibición del transporte desde la luz tubular"
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 8.,
-  "question": "Marque la afirmación correcta respecto a las acciones farmacológicas de paracetamol:",
-  "answer": ["Carece de efecto antiagregante plaquetario."],
-  "options": [
-  "Posee efecto analgésico tan potente como el de codeína.",
-  "Carece de efecto antiagregante plaquetario.",
-  "Tiene efecto antiséptico a dosis elevadas.",
-  "Carece de efectos a nivel renal."
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 9.,
-  "question": "Cuál es el mecanismo de acción de los antihistamínicos sobre los receptores H1?",
-  "answer": ["Son agonistas inversos."],
-  "options": [
-  "Son agonistas inversos.",
-  "Son agonistas parciales.",
-  "Son antagonistas puros.",
-  "Son antagonistas irreversibles."
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 10,
-  "question": "¿Cuál es la tríada clínica clásica que permite sospechar una intoxicación por opioides en un varón de 25 años que es traído por amigos a la emergencia?",
-  "answer": ["Estupor, miosis, depresión respiratoria."],
-  "options": [
-  "Miosis, taquipnea, diarrea.",
-  "Coma, taquicardia, midriasis.",
-  "Estupor, miosis, depresión respiratoria.",
-  "Constipación, midriasis, excitación psicomotriz."
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 12,
-  "question": "¿Cómo se evidencia que una persona tiene dependencia física a analgésicos opioides?",
-  "answer": ["Aparece síndrome de abstinencia si suspende el uso."],
-  "options": [
-  "Aparece síndrome de abstinencia si suspende el uso.",
-  "Porque tiene pupilas puntiformes y con reactividad lenta.",
-  "Requiere del uso de antagonistas para finalizar la acción.",
-  "Por la tolerancia a su efecto aumenta paulatinamente la dosis."
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 13,
-  "question": "¿Cuál de los siguientes analgésicos opioides es más potente?",
-  "answer": ["Fentanilo."],
-  "options": [
-  "Morfina.",
-  "Codeína.",
-  "Tramadol.",
-  "Fentanilo."
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 14,
-  "question": "¿Cuál es el efecto farmacológico del ácido acetilsalicílico que aparece utilizando dosis tan bajas como 100 mg/día en adultos?",
-  "answer": ["Antiagregante plaquetario."],
-  "options": [
-  "Analgésico.",
-  "Antipirético.",
-  "Antiinflamatorio.",
-  "Antiagregante plaquetario."
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 15,
-  "question": "¿Cuál de los siguientes es el mecanismo de acción de las benzodiazepinas?",
-  "answer": ["Modulación alostérica positiva de receptores GABAA"],
-  "options": [
-  "Agonista parcial de receptores GABAB",
-  "Antagonista de los receptores opioides mu",
-  "Modulación alostérica positiva de receptores GABAA",
-  "Modulación alostérica positiva de receptores B1 adrenérgicos"
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 16,
-  "question": "¿Cuál de las siguientes benzodiazepinas se metaboliza por conjugación con ácido glucurónico sin previa oxidorreducción?",
-  "answer": ["Lorazepam"],
-  "options": [
-  "Diazepam",
-  "Alprazolam",
-  "Lorazepam",
-  "Clonazepam"
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 17,
-  "question": "Señale cuál es el mecanismo de acción de difenilhidantoína:",
-  "answer": ["Actúa a través del bloqueo de canales de sodio."],
-  "options": [
-  "Inhibe la recaptación de noradrenalina.",
-  "Es un potente antagonista muscarínico.",
-  "Actúa a través del bloqueo de canales de sodio.",
-  "Genera modulación alostérica de canales de calcio."
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 18,
-  "question": "¿Cuál de los siguientes fármacos anticonvulsivantes es útil por vía intravenosa para yugular crisis convulsivas?",
-  "answer": ["Diazepam."],
-  "options": [
-  "Diazepam.",
-  "Topiramato.",
-  "Lamotrigina.",
-  "Carbamazepina."
-  ],
-  "discipline": "Farmaco",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 19,
-  "question": "La hiperplasia hepática compensadora tras una hepatectomía parcial, tiene como una de sus principales señales químicas a:",
-  "answer": ["IL-6"],
-  "options": [
-  "IL-1",
-  "IL-6",
-  "IL-4",
-  "IL-12"
-  ],
-  "discipline": "AnatoP",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 20,
-  "question": "La calcificación patológica se puede reconocer histológicamente como:",
-  "answer": ["Estructuras redondeadas laminares basófilas"],
-  "options": [
-  "Estructuras redondeadas laminares basófilas",
-  "Vacuolas intracitoplasmáticas ópticamente claras",
-  "Depósito amorfo intracelular de coloración eosinófila",
-  "Gránulos parduzcos intracitoplasmáticos que rodean al núcleo"
-  ],
-  "discipline": "AnatoP",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 21,
-  "question": "La metaplasia epitelial más frecuente es aquella en la que ocurre la sustitución de un epitelio de tipo:",
-  "answer": ["cilíndrico por uno escamoso"],
-  "options": [
-  "escamoso por uno cilíndrico",
-  "cilíndrico por uno escamoso",
-  "cilíndrico por uno pseudo estratificado",
-  "pseudo estratificado por uno escamoso",
-  "pseudo estratificado por uno cilíndrico"
-  ],
-  "discipline": "AnatoP",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 22,
-  "question": "¿Qué tipo de necrosis puede provocar el depósito de complejos antígenoanticuerpo?",
-  "answer": ["Necrosis fibrinoide"],
-  "options": [
-  "Necrosis grasa",
-  "Necrosis caseosa",
-  "Necrosis fibrinoide",
-  "Necrosis licuefactiva",
-  "Necrosis coagulativa"
-  ],
-  "discipline": "AnatoP",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 23,
-  "question": "¿A que tipo corresponde la hiperplasia endometrial y cual es su mecanismo patogénico?",
-  "answer": ["Es de tipo patológica y se debe a un aumento de los estrógenos"],
-  "options": [
-  "Es de tipo fisiológica y se debe a un aumento células inflamatorias",
-  "Es de tipo fisiológica y se debe a un aumento de los progestágenos",
-  "Es de tipo patológica y se debe a un aumento de los estrógenos",
-  "Es de tipo patológica y se debe a una infección viral, como la de HPV"
-  ],
-  "discipline": "AnatoP",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 24,
-  "question": "¿Cuál de las siguientes lesiones presenta una cicatrización en la que se observa abundante tejido de granulación?",
-  "answer": ["Absceso encefálico", "Lesión de pie diabético"],
-  "options": [
-  "Absceso encefálico",
-  "Lesión de pie diabético",
-  "Infarto agudo de miocardio",
-  "Lesión pulmonar por neumonia aguda"
-  ],
-  "discipline": "AnatoP",
-  "comment": "Esta es ambigua. A y B",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 25,
-  "question": "En la inflamación crónica, además de macrófagos y linfocitos, ¿Qué otro tipo celular resulta fundmental?",
-  "answer": ["Plasmocitos"],
-  "options": [
-  "Plaquetas",
-  "Eosinófilos",
-  "Neutrófilos",
-  "Plasmocitos"
-  ],
-  "discipline": "AnatoP",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 26,
-  "question": "¿Cuál de las siguientes enfermedades infecciosas presenta característicamente inflamación crónica?",
-  "answer": ["Tuberculosis"],
-  "options": [
-  "Tuberculosis",
-  "Infección urinaria alta",
-  "Endocarditis bacteriana",
-  "Neumonia neumococcica"
-  ],
-  "discipline": "AnatoP",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 27,
-  "question": "¿Cuál es la principal característica histológica de los granulomas?",
-  "answer": ["Presentar macrófagos activados con una corona de linfocitos en la periferia"],
-  "options": [
-  "Presentar un centro necrótico",
-  "Presentar un centro colagénico eosinófilo",
-  "Presentar macrófagos activados con una corona de linfocitos en la periferia",
-  "Presentar endotelio de tipo reactivo con una abundante red de estructuras vasculares"
-  ],
-  "discipline": "AnatoP",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 28,
-  "question": "Un paciente con trauma grave de cráneo se encuentra sedado, en coma y con monitoreo invasivo de la presión intracraneana (PIC). Se registra un aumento de los valores de PIC de 18 a 30mmHg. Asumiendo que el paciente presenta autorregulación conservada y la presión arterial media se mantiene constante en 100mmHg ¿Qué espera que ocurra en la hemodinamia intracraneana?",
-  "answer": ["Aumento de la vasodilatación arterial cerebral"],
-  "options": [
-  "Aumento de la presión de perfusión cerebral",
-  "Aumento del volumen de líquido cefalorraquídeo",
-  "Aumento de la vasodilatación arterial cerebral",
-  "Aumento de la velocidad de flujo sanguíneo cerebral"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 29,
-  "question": "Luego de un ataque cerebro vascular de causa isquémica, ¿qué cambios espera que ocurran en la zona de penumbra isquémica?",
-  "answer": ["Descenso del flujo sanguíneo regional"],
-  "options": [
-  "Aumento del consumo de oxígeno",
-  "Descenso de la extracción de oxígeno",
-  "Descenso del flujo sanguíneo regional",
-  "Aumento de la actividad eléctrica neuronal"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 30,
-  "question": "¿Cuál de las siguientes medidas puede aplicarse para tratar la hipertensión endocraneana?",
-  "answer": ["Vasoconstricción arterial cerebral"],
-  "options": [
-  "Aporte de agua libre parenteral",
-  "Vasoconstricción arterial cerebral",
-  "Descenso de la cabecera de la cama del paciente",
-  "Aumento de la temperatura corporal (hipertermia)"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 31,
-  "question": "Señale cuál de los siguientes mecanismos está involucrado en la hipertensión pulmonar tromboembólica crónica:",
-  "answer": ["Microangiopatía vascular por hiperflujo y postobstructiva"],
-  "options": [
-  "Hipoxia",
-  "Disminución de la apoptosis",
-  "Microangiopatía vascular por hiperflujo y postobstructiva"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 32,
-  "question": "En un paciente con alta probabilidad por ecocardiografía de hipertensión pulmonar se obtienen los siguientes valores del cateterismo cardíaco derecho en reposo: PAPm 55 mmHg, IC 2.0 L/min/m2, PAOP 9 mmHg, superficie corporal de 1.7 m2. Luego de realizada una prueba de vasoreactividad aguda, se obtiene una PAPm de 44 mmHg y un IC 2.0. En función de estos resultados, la hipertensión que presenta este paciente se trata de una:",
-  "answer": ["hipertensión arterial pulmonar", "hipertensión pulmonar precapilar con test de vasorreactividad negativo"],
-  "options": [
-  "hipertensión arterial pulmonar",
-  "hipertensión pulmonar postcapilar combinada",
-  "hipertensión pulmonar precapilar con test de vasorreactividad negativo"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "Esta es ambigua. A y C",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 33,
-  "question": "¿Cuál es el perfil hemodinámico más frecuente en la insuficiencia cardíaca aguda (ICA)?",
-  "answer": ["Caliente y húmedo"],
-  "options": [
-  "Frío y seco",
-  "Frío y húmedo",
-  "Caliente y seco",
-  "Caliente y húmedo"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 34,
-  "question": "Cuál de las siguientes es una consecuencia de la congestión pulmonar y sistémica asociada a la insuficiencia cardíaca aguda?",
-  "answer": ["Ileo intestinal", "Aumento de la bilirubina directa"],
-  "options": [
-  "Ileo intestinal",
-  "Aumento de la bilirubina directa",
-  "Disminución del espacio muerto fisiológico pulmonar",
-  "Disminución de la diferencia alvéolo-capilar de oxígeno"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "Esta es ambigua. A y B",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 35,
-  "question": "En el síndrome cardiohepático asociado a la ICA ¿cuál es un biomarcador de función hepática?",
-  "answer": ["La concentración plasmática de albúmina"],
-  "options": [
-  "La proteína C reactiva",
-  "La concentración plasmática de albúmina",
-  "La concentración plasmática de la alanino aminotransferasa",
-  "La concentración plasmática de la gama-glutamil transferasa"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 36,
-  "question": "¿Cuál de los siguientes estados fisiopatológicos se presentan en la isquemia músculo cardíaco?",
-  "answer": ["El hibernamiento miocárdico determinado por la disminución crónica del flujo sanguíneo coronario en reposo."],
-  "options": [
-  "El postacondicionamiento isquémico que determina un aumento del área de necrosis.",
-  "El hibernamiento miocárdico determinado por la disminución crónica del flujo sanguíneo coronario en reposo.",
-  "El preacondicionamiento isquémico que genera mayor producción de especies reactivas del oxígeno y daño miocárdico en situaciones de isquemia ulterior."
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 37,
-  "question": "¿Cuál de las siguientes situaciones puede determinar un descenso en la reserva de flujo sanguíneo coronario?",
-  "answer": ["Disfunción microvascular coronaria."],
-  "options": [
-  "Menor masa ventricular total.",
-  "Disfunción microvascular coronaria.",
-  "Menor flujo sanguíneo basal en reposo.",
-  "Aumento de los niveles de hemoglobina."
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 38,
-  "question": "¿Cuál de los siguientes cambios fisiopatológicos corresponden a la insuficiencia cardíaca crónica (ICC)?",
-  "answer": ["El descenso en la complacencia pulmonar por congestión pulmonar."],
-  "options": [
-  "El descenso en la complacencia pulmonar por congestión pulmonar.",
-  "La presencia de insuficiencia mitral funcional que reduce la dilatación ventricular izquierda.",
-  "La disnea de esfuerzo que se produce únicamente en pacientes con ICC con FEVI reducida."
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 39,
-  "question": "¿Cuál de los siguientes cambios celulares pueden ocurrir en el desarrollo de la ICC?",
-  "answer": ["El miocito insuficiente aumenta su rigidez por oxidación de la titina producto del aumento de las especies reactivas del oxígeno."],
-  "options": [
-  "El miocito insuficiente utiliza con mayor eficiencia los ácidos grasos como fuente de energía.",
-  "La apoptosis como mecanismo de muerte celular no es un fenómeno de importancia en la progresión de la ICC.",
-  "El miocito insuficiente aumenta su rigidez por oxidación de la titina producto del aumento de las especies reactivas del oxígeno.",
-  "La liberación espontánea de Ca2+ por los receptores de rianodina (RyR) del retículo sarcoplásmico en diástole se encuentra disminuida en la ICC."
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 40,
-  "question": "¿Cuál de los siguientes cambios neuro humorales participa en la progresión del remodelado ventricular en la ICC?",
-  "answer": ["El aumento de las citoquinas proinflamatorias."],
-  "options": [
-  "Aumento de los péptidos natriureticos",
-  "El aumento de las citoquinas proinflamatorias.",
-  "El descenso de los niveles de hormona anti diurética.",
-  "El antagonismo de los receptores de mineralocorticoides (espironolactona/eplerenona) que potencian el efecto profibrótico de la aldosterona."
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 41,
-  "question": "¿Qué factor puede modificar el punto de corte de presión arterial para el diagnóstico de hipertensión arterial (HTA)?",
-  "answer": ["La presencia de comorbilidades", "El cambio en el método de medición"],
-  "options": [
-  "El sedentarismo",
-  "La presencia de comorbilidades",
-  "El cambio en el método de medición",
-  "El descenso del índice de masa corporal del paciente"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "Esta es ambigua. B y C",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 42,
-  "question": "¿Cuál de los siguientes es un mecanismo de daño renal determinado por la HTA?",
-  "answer": ["Hipoperfusión renal por engrosamiento de la arteriola aferente."],
-  "options": [
-  "Aumento de la reabsorción de agua libre a nivel renal.",
-  "Hipoperfusión renal por engrosamiento de la arteriola aferente.",
-  "Descenso de la proteinuria por aumento de la permeabilidad vascular.",
-  "Fibrosis glomerular por descenso mantenido de la presión intra glomerular."
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 43,
-  "question": "¿Qué cambios del endotelio vascular pueden favorecer el desarrollo de HTA?",
-  "answer": ["Reducción en la síntesis de óxido nítrico determinando un efecto proliferativo de las células musculares lisas."],
-  "options": [
-  "Menor inactivación de óxido nítrico determinando un efecto vasoconstrictor.",
-  "Aumento de la sensibilidad del músculo liso vascular al efecto del óxido nítrico.",
-  "Reducción en la síntesis de óxido nítrico determinando un efecto proliferativo de las células musculares lisas."
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 44,
-  "question": "¿Cuál de los siguientes trastornos del equilibrio ácido -base es más frecuente observar en la insuficiencia renal severa?",
-  "answer": ["Acidosis metabólica"],
-  "options": [
-  "Acidosis metabólica",
-  "Alcalosis metabólica",
-  "Acidosis respiratoria",
-  "Alcalosis respiratoria"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 45,
-  "question": "¿Cuál es el nivel de filtrado glomerular aproximado en el cuál comienza a ascender la creatinina plasmática por encima de los valores considerados como normales?",
-  "answer": ["50%"],
-  "options": [
-  "80%",
-  "70%",
-  "50%",
-  "30%"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 46,
-  "question": "¿Cuál de los siguientes efectos hemodinámicos puede precipitar una injuria renal aguda en situaciones de hipovolemia con los fármacos que inhiben la acción de la angiotensina II (inhibidores de la enzima conversora de angiotensina)?",
-  "answer": ["Vasodilatación de la arteriola eferente"],
-  "options": [
-  "Vasodilatación de la arteriola aferente",
-  "Vasodilatación de la arteriola eferente",
-  "Vasoconstricción de la arteriola aferente",
-  "Vasoconstricción de la arteriola eferente"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 47,
-  "question": " ¿Cuál de los siguientes factores determina un aumento de la presión intraglomerular?",
-  "answer": ["Dieta hiperproteica"],
-  "options": [
-  "Hipotensión arterial",
-  "Alcalosis metabólica",
-  "Dieta hiperproteica"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 48,
-  "question": "¿Cuál de los siguientes factores en la enfermedad renal crónica estimula la secreción de hormona partiroidea produciendo hiperparatiroidismo secundario?",
-  "answer": ["Hipocalcemia"],
-  "options": [
-  "Hipoglicemia",
-  "Hipocalcemia",
-  "Hipofosforemia",
-  "Hipopotasemia"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 49,
-  "question": "¿Cuál es el efecto sistémico del indoxil sultato en le enfermedad renal crónica?",
-  "answer": ["Aumento del riesgo cardiovascular"],
-  "options": [
-  "Aumento de la hormona antidiurética",
-  "Aumento del riesgo cardiovascular",
-  "Aumento de compromiso digestivo con diarrea",
-  "Actúa como antioxidante como efecto que contrarresta la inflamación"
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-  {
-  "info_quest": "3er Parcial 2023",
-  "numb": 50,
-  "question": "En el paciente cirrótico, una ascitis se considera complicada cuando se acompaña de:",
-  "answer": ["una peritonitis bacteriana espontánea."],
-  "options": [
-  "una hipernatremia.",
-  "una hipogammaglobulinemia.",
-  "un síndrome hepatopulmonar.",
-  "una peritonitis bacteriana espontánea."
-  ],
-  "discipline": "Fisiopato",
-  "comment": "",
-  },
-
-
-/////////////////////////////////////////////////////
-
-
-    {
-    "info_quest": "3er Parcial 2024",
+    "info_quest": "2do Parcial 2023",
     "numb": 1,
-    "question": "Un hombre de 72 años con antecedentes de cardiopatía isquémica es ingresado por insuficiencia cardíaca aguda con edema periférico, disnea y ortopnea. <br> De la paraclínica inicial Creatinina sérica: 2.8 mg/dL (previa conocida: 1.2 mg/dL). <br> Se inicia tratamiento con diuréticos intravenosos y soporte inotrópico, y la creatinina a los 3 días del ingreso es de 1.3 mg/dl. <br> ¿Qué tipo de injuria renal aguda presentó el paciente?",
-    "answer": ["Pre-renal"],
-    "options": [
-    "Pre-renal",
-    "Post-renal",
-    "Rarenquimatosa de etiología isquémica",
+    "question": "Según las guías nacionales para el tratamiento de la infección por VIH se usan dos o más antirretrovirales administrados en forma simultánea. ¿Cuál es el fundamento de esto?",
+    "answer": [
+      "Disminuir la probabilidad de falla terapéutica debido a la generación de variantes virales con resistencia a algún antirretroviral."
     ],
-    "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "Reducir el tiempo del tratamiento mediante la combinación de distintos antirretrovirales.",
+      "Aumentar el espectro de actividad sobre algunos tipos M, N y O de VIH-1, para los que algunas drogas son inefectivas.",
+      "Disminuir la probabilidad de falla terapéutica debido a la generación de variantes virales con resistencia a algún antirretroviral."
+    ],
+    "discipline": "Bacterio",
+    "comment": "Debido a la alta tasa de mutación del VIH, la monoterapia genera rápidamente cepas resistentes. Combinar antirretrovirales de distintos mecanismos suprime eficazmente la replicación viral y evita la selección de mutantes resistentes."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 2,
-    "question": "¿Cuál de los siguientes fármacos puede agravar la injuria renal aguda isquémica por hipovolemia?",
-    "answer": ["Inhibidores de la enzima convertidora de angiotensina"],
-    "options": [
-    "Antagonistas de los canales de calcio",
-    "Antagonistas de los receptores beta-adrenérgicos",
-    "Inhibidores de la enzima convertidora de angiotensina",
+    "question": "En base al algoritmo diagnóstico de la infección por VIH, ante un resultado negativo en un test rápido de tamizaje poblacional, ¿qué conducta corresponde adoptar?",
+    "answer": [
+      "No es necesario realizar otro estudio"
     ],
-    "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "No es necesario realizar otro estudio",
+      "Solicitar nueva muestra para reiterar el test rápido",
+      "Utilizar la misma muestra para realizar test de ELISA",
+      "Utilizar la misma muestra para la realización de PCR cuantitativa",
+      "Solicitar nueva muestra para aplicar un test de alta especificidad como Western Blot"
+    ],
+    "discipline": "Bacterio",
+    "comment": "Un test rápido negativo en un contexto de tamizaje poblacional (sin sospecha clínica de exposición reciente dentro del periodo ventana) tiene un elevado valor predictivo negativo, por lo que descarta la infección y no requiere pruebas adicionales."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 3,
-    "question": "¿Cuánto tiempo suele demorar en mejorar la función renal en un paciente con necrosis tubular aguda isquémica, una vez resuelta la causa subyacente?",
-    "answer": ["7 a 21 días"],
-    "options": [
-    "24 a 48 horas",
-    "7 a 21 días",
-    "4 a 6 semanas",
-    "Más de 3 meses"
+    "question": "Dado el siguiente perfil serológico para citomegalovirus (CMV): IgG reactivo de baja avidez, IgM reactivo. ¿Qué tipo de infección es la más probable?",
+    "answer": [
+      "Primoinfección"
     ],
-    "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "Primoinfección",
+      "Reactivación de una infección latente",
+      "Infección por CMV de más de 3 meses en estado latente",
+      "Reinfección con una nueva cepa de CMV en una persona ya infectada"
+    ],
+    "discipline": "Bacterio",
+    "comment": "La presencia de IgM reactivo junto a anticuerpos IgG de baja avidez (recientemente sintetizados y con débil unión al antígeno) es indicativo de una primoinfección reciente (ocurrida habitualmente en los últimos 3 a 4 meses)."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 4,
-    "question": "¿Cuánto debe disminuir el filtrado glomerular (FG) para que los niveles de creatinina sérica superen los valores normales?",
-    "answer": ["50% del FG normal"],
-    "options": [
-    "10% del FG normal",
-    "50% del FG normal",
-    "75% del FG normal",
-    "90% del FG normal"
+    "question": "¿A cuál de los siguientes antibióticos presenta resistencia natural Klebsiella pneumoniae?",
+    "answer": [
+      "Vancomicina"
     ],
-    "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "Imipenem",
+      "Ceftazidime",
+      "Gentamicina",
+      "Vancomicina",
+      "Ciprofloxacina"
+    ],
+    "discipline": "Bacterio",
+    "comment": "Klebsiella pneumoniae es una bacteria Gram negativa. La vancomicina es un glucopéptido de gran tamaño molecular incapaz de atravesar la membrana externa de los bacilos Gram negativos, lo que les confiere resistencia intrínseca (natural)."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 5,
-    "question": "¿Cuál de los siguientes factores puede contribuir a la hiperfiltración glomerular y a la progresión de la enfermedad renal crónica?",
-    "answer": ["Obesidad"],
-    "options": [
-    "Obesidad",
-    "Dieta hipoproteica",
-    "Restricción calórica estricta",
-    "Uso de inhibidores de la enzima convertidora de angiotensina (IECA)"
+    "question": "Usted observa un test de sinergia entre discos de carbapenemes (Meropenem e Imipenem) y EDTA. Con estos resultados usted afirma que el microorganismo seguramente sea portador de: <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p5-2doP-2023.PNG' alt=''>",
+    "answer": [
+      "Una carbapenemasa de clase B como NDM-1"
     ],
-    "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "Una carbapenemasa de clase A del tipo KPC-2",
+      "Una carbapenemasa de clase B como NDM-1",
+      "Una betalactamasa de clase C como CMY-2",
+      "Una carbapenemasa de clase D como OXA-48"
+    ],
+    "discipline": "Bacterio",
+    "comment": "El EDTA es un quelante de cationes divalentes como el zinc, esenciales para la actividad de las metalo-beta-lactamasas (Clase B de Ambler, ej. NDM, VIM). La sinergia con EDTA confirma la presencia de una enzima de clase B."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 6,
-    "question": "¿Qué ocurre con los podocitos durante la progresión de la enfermedad renal crónica?",
-    "answer": ["Disminuyen en número por apoptosis y desprendimiento."],
-    "options": [
-    "Se regeneran a partir de células madre",
-    "Aumentan en número para compensar el daño.",
-    "Aumentan el espesor para resistir el estrés mecánico",
-    "Disminuyen en número por apoptosis y desprendimiento."
+    "question": "¿Qué ventaja presenta la técnica de Interferon Gamma Release Assay (IGRA) sobre la prueba de la tuberculina (PPD) a la hora de hacer diagnóstico de infección tuberculosa?",
+    "answer": [
+      "Permite diferenciar entre vacunados e infectados"
     ],
-    "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "Es más barata",
+      "Requiere menos equipamiento",
+      "Permite diferenciar entre vacunados e infectados",
+      "Permite diferenciar entre infección latente y enfermedad tuberculosa"
+    ],
+    "discipline": "Bacterio",
+    "comment": "Los ensayos IGRA utilizan antígenos específicos de M. tuberculosis (ESAT-6 y CFP-10) que están ausentes en la cepa vacunal de BCG y en la mayoría de micobacterias no tuberculosas, evitando así los falsos positivos por vacunación previos."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 7,
-    "question": "Indique cuál de los siguientes trastornos del medio interno es uno de los principales mecanismos de daño neurológico secundario en la práctica clínica:",
-    "answer": ["Hiponatremia"],
-    "options": [
-    "Hiponatremia",
-    "Hipocalcemia",
-    "Hipopotasemia",
-    "Hipomagnesemia"
+    "question": "¿Qué tipo de protección confiere la vacunación con el bacilo de Calmette-Guerin (BCG)?",
+    "answer": [
+      "Previene las formas graves de enfermedad por M. tuberculosis complex",
+      "Provee protección cruzada frente a infecciones por Mycobacterium leprae"
     ],
-    "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "Previene la reinfección por Mycobacterium tuberculosis",
+      "Previene la infección por Mycobacterium tuberculosis complex",
+      "Previene las formas graves de enfermedad por M. tuberculosis complex",
+      "Provee protección cruzada frente a infecciones por Mycobacterium leprae"
+    ],
+    "discipline": "Bacterio",
+    "comment": "La vacuna BCG no previene la infección primaria ni la reinfección por M. tuberculosis, pero otorga una alta protección contra las formas diseminadas graves (como la meningitis tuberculosa y la TB miliar) en niños, además de brindar protección cruzada contra M. leprae."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 8,
-    "question": "En un sector de parénquima cerebral injuriado con autorregulación abolida, ¿cuál de los siguientes fenómenos puede dar lugar a hipertensión endocraneana por hiperflujo cerebral?",
-    "answer": ["Hipertensión arterial"],
-    "options": [
-    "Hipotermia",
-    "Hipocapnia",
-    "Hipotensión arterial",
-    "Hipertensión arterial"
+    "question": "¿A qué mecanismo se debe la meticilino resistencia en Staphylococcus aureus?",
+    "answer": [
+      "Cambio en el sitio de acción del antibiótico"
     ],
-    "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "Bomba de eflujo del fármaco",
+      "Metilación del ARN ribosomal",
+      "Hidrólisis enzimática por betalactamasas",
+      "Cambio en el sitio de acción del antibiótico"
+    ],
+    "discipline": "Bacterio",
+    "comment": "La resistencia a meticilina (SARM) está mediada por la adquisición del gen mecA, el cual codifica la proteína PBP2a. Esta nueva proteína fijadora de penicilina posee una afinidad muy reducida por casi todos los betalactámicos (modificación del blanco farmacológico)."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 9,
-    "question": "La hiperventilación es una medida efectiva para reducir la hipertensión endocraneana, ¿sobre qué parámetro actúa para ejercer este efecto?",
-    "answer": ["La presión parcial de CO2 arterial"],
-    "options": [
-    "El metabolismo cerebral",
-    "La temperatura sistémica",
-    "La presión arterial sistémica",
-    "La presión parcial de CO2 arterial"
+    "question": "¿Cuál de los siguientes métodos de estudio es recomendado para pesquisar las cepas de Staphylococcus aureus con susceptibilidad disminuida a vancomicina?",
+    "answer": [
+      "Determinar la concentración inhibitoria mínima mediante elipsograma con tira de vancomicina"
     ],
-    "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "Realizar disco difusión de Kirby Bauer utilizando un disco de 10 ug de vancomicina",
+      "Determinar la concentración inhibitoria mínima mediante elipsograma con tira de vancomicina",
+      "Evaluar mediante sistemas automatizados el desarrollo bacteriano en 3 concentraciones distintas de vancomicina"
+    ],
+    "discipline": "Bacterio",
+    "comment": "Las técnicas por difusión en disco (Kirby-Bauer) no logran diferenciar con precisión las cepas con sensibilidad intermedia o heterorresistencia a vancomicina (VISA/hVISA). Se requiere la cuantificación exacta de la CIM mediante métodos E-test (elipsograma) o microdilución en caldo."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 10,
-    "question": "En la insuficiencia cardíaca crónica, ¿cómo se encuentran típicamente los niveles de endotelina?",
-    "answer": ["Aumentados, contribuyendo a la progresión de la enfermedad."],
-    "options": [
-    "Disminuidos, debido a la vasodilatación compensatoria.",
-    "Normales, ya que no se altera su regulación en esta condición.",
-    "Aumentados, contribuyendo a la progresión de la enfermedad.",
+    "question": "¿Qué método diagnóstico se utiliza para el estudio de queratitis por hongos o protozoarios?",
+    "answer": [
+      "Examen microscópico directo y cultivo de material de la lesión"
     ],
-    "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "Ecografía ocular y orbitaria",
+      "Tomografía de coherencia óptica",
+      "Búsqueda de anticuerpos IgG e IgM en suero por ELISA",
+      "Examen microscópico directo y cultivo de material de la lesión"
+    ],
+    "discipline": "Parasito",
+    "comment": "El diagnóstico microbiológico directo a partir de raspado o biopsia corneal (mediante observación microscópica en fresco o tinciones y siembra en medios de cultivo específicos) es el estándar de oro para evidenciar estructuras fúngicas o quistes/trofozoítos de Acanthamoeba."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 11,
-    "question": "En la insuficiencia cardíaca con fracción de eyección del ventrículo izquierdo (FEVI) preservada, ¿cómo se encuentra la presión diastólica final del ventrículo izquierdo?",
-    "answer": ["Aumentada, debido a la disfunción diastólica del ventrículo izquierdo."],
-    "options": [
-    "Disminuida, debido a una relajación ventricular adecuada.",
-    "Normal, debido a la ausencia de alteraciones diastólicas.",
-    "Aumentada, debido a la disfunción diastólica del ventrículo izquierdo.",
+    "question": "¿Qué se observa en el examen directo de las lesiones mucocutáneas en el diagnóstico de Paracoccidioidomicosis?",
+    "answer": [
+      "Levaduras multibrotantes"
     ],
-    "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "Tubos germinales",
+      "Filamentos gruesos",
+      "Levaduras multibrotantes",
+      "Clamidosporos verrucosos"
+    ],
+    "discipline": "Parasito",
+    "comment": "Paracoccidioides brasiliensis es un hongo dimórfico que en su fase tisular (a 37 °C o en las lesiones) se presenta como una levadura redonda u ovalada con múltiples brotes periféricos (aspecto patognomónico en 'rueda de timón' u 'orejas de Mickey Mouse')."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 12,
-    "question": "¿Cómo se encuentra el contenido de calcio en el retículo sarcoplásmico de los miocitos en la insuficiencia cardíaca?",
-    "answer": ["Disminuido, por alteraciones en la recaptación de calcio"],
-    "options": [
-    "Disminuido, por alteraciones en la recaptación de calcio",
-    "Normal, ya que no se altera la función del retículo sarcoplásmico",
-    "Aumentado, debido a una hiperactividad de la SERCA2a",
+    "question": "¿Cuál de las siguientes técnicas de examen microscópico directo se utiliza para evidenciar la cápsula de Cryptococcus neoformans?",
+    "answer": [
+      "Tinta china"
     ],
-    "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "Tinta china",
+      "Tinción de Gram",
+      "Azul de metileno",
+      "Fresco con suero fisiológico"
+    ],
+    "discipline": "Parasito",
+    "comment": "La tinta china es una técnica de contraste o tinción negativa: el pigmento coloidal no penetra la cápsula polisacárida de Cryptococcus neoformans, permitiendo observar un claro halo refractario alrededor de la levadura sobre un fondo oscuro."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 13,
-    "question": "¿Cómo influye un aumento en la frecuencia cardíaca sobre el consumo de oxígeno del miocardio?",
-    "answer": ["Aumenta el consumo de oxígeno debido al incremento en el trabajo cardíaco"],
-    "options": [
-    "Disminuye el consumo de oxígeno al reducir la duración de la sístole.",
-    "Aumenta el consumo de oxígeno debido al incremento en el trabajo cardíaco",
-    "No afecta el consumo de oxígeno, ya que la frecuencia cardíaca no influye en el metabolismo miocárdico",
+    "question": "¿Cuál de los siguientes hongos es un patógeno primario?",
+    "answer": [
+      "Histoplasma capsulatum"
     ],
-    "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "Candida albicans",
+      "Pneumocystis jirovecii",
+      "Histoplasma capsulatum",
+      "Cryptococcus neoformans"
+    ],
+    "discipline": "Parasito",
+    "comment": "Histoplasma capsulatum es un hongo dimórfico sistémico considerado patógeno primario, ya que posee la capacidad de infectar y causar enfermedad en hospederos inmunocompetentes, a diferencia de los hongos oportunistas."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 14,
-    "question": "¿Cómo se encuentra la reserva de flujo sanguíneo coronario en pacientes con hipertrofia ventricular patológica severa?",
-    "answer": ["Disminuida"],
-    "options": [
-    "Disminuida",
-    "Normal",
-    "Aumentada",
+    "question": "¿Cuál de los siguientes agentes produce granulomas a nivel pulmonar?",
+    "answer": [
+      "Paracoccidioides brasiliensis"
     ],
-    "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "Candida albicans",
+      "Pneumocystis jirovecii",
+      "Cryptococcus neoformans",
+      "Paracoccidioides brasiliensis"
+    ],
+    "discipline": "Parasito",
+    "comment": "Al inhalar los conidios de Paracoccidioides brasiliensis, la respuesta inmune celular de la vía pulmonar genera una inflamación crónica caracterizada por la formación de granulomas epitelioides con células gigantes que contienen levaduras."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 15,
-    "question": "¿Qué es el hibernamiento cardíaco?",
-    "answer": ["Una respuesta fisiológica del miocardio ante la disminución crónica del flujo sanguíneo coronario"],
-    "options": [
-    "Una respuesta fisiológica ante episodios de isquemia aguda",
-    "Una respuesta fisiológica del miocardio ante la disminución crónica del flujo sanguíneo coronario",
-    "Una respuesta patológica en la que el miocardio aumenta su actividad metabólica debido a la insuficiencia cardiaca",
+    "question": "¿Cuál de las siguientes micosis endémicas regionales es más frecuente en individuos inmunocomprometidos en nuestro país?",
+    "answer": [
+      "Histoplasmosis"
     ],
-    "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "Blastomicosis",
+      "Histoplasmosis",
+      "Coccidioidomicosis",
+      "Paracoccidioidomicosis"
+    ],
+    "discipline": "Parasito",
+    "comment": "En Uruguay y el Cono Sur, la histoplasmosis es la micosis sistémica endémica que se reactiva con mayor frecuencia en pacientes con compromiso de la inmunidad celular, predominantemente en personas con VIH avanzado (CD4 < 150 céls/mm³)."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 16,
-    "question": "A un paciente con sospecha de hipertensión pulmonar se le realiza un cateterismo cardíaco derecho y se obtienen los siguientes datos: PAPm = 47 mmHg, PAOP = 11 mmHg, RVP = 6 uW <br> ¿Cuál de las siguientes afirmaciones es correcta con respecto al perfil hemodinámico?",
-    "answer": ["Se trata de una hipertensión pulmonar precapilar"],
-    "options": [
-    "El gradiente transpulmonar es 7",
-    "Se trata de una hipertensión pulmonar precapilar",
-    "Se trata de una hipertensión pulmonar combinada",
-    "Se trata de una hipertensión pulmonar poscapilar aislada"
+    "question": "¿Qué estadíos de Toxoplasma gondii están involucrados en la reactivación de la infección en los casos de neurotoxoplasmosis?",
+    "answer": [
+      "Quistes encefálicos de bradizoitos"
     ],
-    "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "Quistes encefálicos de taquizoítos",
+      "Quistes encefálicos de bradizoitos",
+      "Ooquistes encefálicos de bradizoitos",
+      "Ooquistes encefálicos de merozoitos"
+    ],
+    "discipline": "Parasito",
+    "comment": "Durante la fase crónica de la toxoplasmosis, el parásito permanece latente encerrado en quistes tisulares conteniendo bradizoítos de lento metabolismo. Ante la caída de la inmunidad celular, estos quistes se rompen y liberan taquizoítos activos que generan la neurotoxoplasmosis."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 17,
-    "question": "Durante un cateterismo cardíaco derecho con un catéter de Swan-Ganz, se mide la presión de oclusión pulmonar (PAOP). ¿Qué presión se está estimando de manera indirecta con esta medición?",
-    "answer": ["La presión auricular izquierda"],
-    "options": [
-    "La presión aórtica media",
-    "La presión auricular derecha",
-    "La presión auricular izquierda",
-    "La presión diastólica final del ventrículo derecho"
+    "question": "¿Cuál de los siguientes agentes es el responsable en las queratitis por protozoarios?",
+    "answer": [
+      "Acanthamoeba spp"
     ],
-    "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "Entamoeba spp",
+      "Endolimax nana",
+      "Acanthamoeba spp",
+      "Dientamoeba fragilis"
+    ],
+    "discipline": "Parasito",
+    "comment": "Acanthamoeba spp. es una ameba de vida libre capaz de provocar queratitis grave y dolorosa, asociada estrechamente al uso, lavado o conservación inadecuada de lentes de contacto."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 18,
-    "question": "¿Cómo es el flujo sanguíneo coronario a través del sistema coronario derecho en condiciones normales?",
-    "answer": ["Es sisto-diastólico"],
-    "options": [
-    "Es sistólico",
-    "Es diastólico.",
-    "Es sisto-diastólico",
+    "question": "¿Cuál de los siguientes géneros de arácnidos de interés médico se caracteriza por presentar hábitat intradomiciliario?",
+    "answer": [
+      "Loxosceles"
     ],
-    "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
-    "numb": 19, 
-    "question": "¿Cómo se encuentran los niveles de péptidos natriuréticos biológicamente activos, en un paciente con insuficiencia cardíaca severa? ",
-    "answer": ["Disminuidos"],
     "options": [
-    "Disminuidos",
-    "Normales",
-    "Aumentados",
+      "Lycosa",
+      "Loxosceles",
+      "Phoneutria",
+      "Latrodectus"
     ],
-    "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "discipline": "Parasito",
+    "comment": "Loxosceles (conocida como la araña del rincón) es marcadamente sinantrópica e intradomiciliaria, con hábitos nocturnos y tendencia a ocultarse en lugares oscuros y secos dentro del hogar (detrás de muebles, cuadros o roperos)."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 19,
+    "question": "¿Qué medidas iniciales se deben tomar ante un accidente por mordedura de ofidio ponzoñoso?",
+    "answer": [
+      "Lavar la zona afectada con agua y jabón"
+    ],
+    "options": [
+      "Lavar la zona afectada con agua y jabón",
+      "Practicar una incisión en el sitio de mordedura",
+      "Succionar el veneno en el punto de inoculación",
+      "Realizar torniquete a nivel de la región afectada"
+    ],
+    "discipline": "Parasito",
+    "comment": "Los primeros auxilios ante un accidente ofídico recomiendan únicamente el lavado suave con agua y jabón e inmovilizar la zona. Realizar torniquetes, incisiones o succiones está totalmente contraindicado por agravar la necrosis tisular y el riesgo de sobreinfección."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 20,
-    "question": "La hipertensión arterial crónica, se asocia con hipertrofia miocárdica, que en etapas iniciales suele ser:",
-    "answer": ["Concéntrica"],
-    "options": [
-    "Mixta",
-    "Excéntrica",
-    "Concéntrica",
+    "question": "Paciente de 40 años VIH positivo con bajo recuento de Linfocitos T CD4. Consulta por déficit motor y sensitivo en hemicuerpo izquierdo de evolución progresiva. Al examen físico se constata: Lúcido, presenta muguet oral. Sin rigidez meníngea. Hemiparesia izquierda, desproporcionada, a predominio braquial. Resto sin alteraciones. En relación a los hallazgos clínicos ¿Cuál de los siguientes es el planteo diagnóstico más probable?",
+    "answer": [
+      "Neurotoxoplasmosis"
     ],
-    "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "Histoplasmosis",
+      "Neurocisticercosis",
+      "Neurotoxoplasmosis",
+      "Criptococosis meníngea"
+    ],
+    "discipline": "Parasito",
+    "comment": "En un paciente con VIH e inmunodepresión avanzada (CD4 bajo), un cuadro neurológico focal (hemiparesia) de curso subagudo sin signos de irritación meníngea es la presentación clásica de lesión ocupante de espacio por reactivación de neurotoxoplasmosis."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 21,
-    "question": "Con respecto a los determinantes de la presión arterial, las resistencias vasculares sistémicas dependen de:",
-    "answer": ["Las propiedades de las arteriolas precapilares"],
-    "options": [
-    "El shear stress",
-    "El gasto cardíaco",
-    "Las propiedades de las arteriolas precapilares",
-    "Las propiedades de los grandes vasos de capacitancia"
+    "question": "¿Cuál de los siguientes fenómenos puede producir coriorretinitis por Toxoplasma gondii, en un paciente inmunocompetente?",
+    "answer": [
+      "Reactivación de quistes tisulares presentes a nivel ocular"
     ],
-    "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "Mal uso o higiene inadecuada de lentes de contacto",
+      "Arañazo de un gato infectado con Toxoplasma gondii",
+      "Reactivación de quistes tisulares presentes a nivel ocular",
+      "Implantación ocular traumática con vegetales u otros materiales contaminados"
+    ],
+    "discipline": "Parasito",
+    "comment": "La retinocoroiditis por T. gondii en individuos inmunocompetentes se origina generalmente por la reactivación local espontánea de quistes tisulares enquistados previamente en la retina (como secuela de una infección congénita o adquirida previamente)."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 22,
-    "question": "¿Qué determina las ondas reflejadas que alcanzan la aorta ascendente durante la diástole precoz posterior a la incisura dícrota?",
-    "answer": ["Aumento de la onda de presión"],
-    "options": [
-    "Aumento de la onda de presión",
-    "Disminución de la onda de presión",
-    "Eliminación completa de la onda de presión",
+    "question": "Paciente con diagnóstico de VIH hace 10 años, sin adherencia al tratamiento antirretroviral. Consulta por cuadro de disnea progresiva que se vuelve de reposo. Al examen físico presenta estigmas de inmunodepresión severa. En la gasometría presenta insuficiencia respiratoria tipo I. ¿Cuál es la etiología fúngica más probable?",
+    "answer": [
+      "Pneumocistosis"
     ],
-    "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "Mucormicosis",
+      "Criptococosis",
+      "Pneumocistosis",
+      "Paracoccidiomicosis"
+    ],
+    "discipline": "Parasito",
+    "comment": "Pneumocystis jirovecii es la causa oportunista fúngica clásica de neumonía intersticial subaguda con hipoxemia severa (insuficiencia respiratoria tipo I) e infiltrados bilaterales en pacientes con VIH sin TARV y CD4 muy descendidos."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 23,
-    "question": "¿Cuál de las siguientes es una alteración característica de la insuficiencia hepatocítica?",
-    "answer": ["Disminución en la producción de factores de la coagulación"],
-    "options": [
-    "Aumento de la síntesis plasmática de proteínas",
-    "Disminución en la producción de la bilirrubina",
-    "Aumento en la eliminación de amoníaco por los riñones",
-    "Disminución en la producción de factores de la coagulación"
+    "question": "¿Qué estudio solicitaría para confirmar un diagnóstico de Pneumocistosis en un paciente inmunodeprimido?",
+    "answer": [
+      "Estudio micológico de lavado broncoalveolar e inmunofluorescencia para Pneumocystis jiroveci"
     ],
-    "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "Búsqueda de anticuerpos en sangre utilizando la técnica de agar de doble difusión simple",
+      "Punción lumbar y estudio micológico de líquido cefalorraquídeo para Pneumocystis jiroveci",
+      "Radiografía de tórax y detección de galactomanano en suero y en lavado broncoalveolar",
+      "Estudio micológico de lavado broncoalveolar e inmunofluorescencia para Pneumocystis jiroveci"
+    ],
+    "discipline": "Parasito",
+    "comment": "Pneumocystis jirovecii no es cultivable in vitro. Por ello, la confirmación microbiológica precisa de la toma de muestra del tracto respiratorio inferior (Lavado Broncoalveolar) mediante visualización directa con tinciones inmunofluorescentes o citoquímicas."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 24,
-    "question": "¿Cuál es una de las consecuencias fisiopatológicas involucradas en la insuficiencia hepatocítica?",
-    "answer": ["Reducción en la capacidad de eliminación de toxinas"],
+    "question": "¿En qué trimestre del embarazo la primoinfección con Toxoplasma gondii presenta la mayor probabilidad de transmisión congénita?",
+    "answer": [
+      "Tercer trimestre"
+    ],
     "options": [
-    "Reducción del tono GABA",
-    "Aumento en la producción de bilis",
-    "Aumento en la síntesis de glucógeno hepático",
-    "Reducción en la capacidad de eliminación de toxinas"
+      "Primer trimestre",
+      "Segundo trimestre",
+      "Tercer trimestre",
+      "Es igual en todos los trimestres"
+    ],
+    "discipline": "Parasito",
+    "comment": "La tasa de transmisión placentaria de Toxoplasma gondii aumenta proporcionalmente a la edad gestacional debido a la mayor vascularización y permeabilidad placentaria, siendo máxima en el tercer trimestre (a diferencia de la gravedad del daño fetal, que es mayor en el primer trimestre)."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 25,
+    "question": "¿Con qué método diagnóstico se realiza el tamizaje de la enfermedad de Chagas en el embarazo?",
+    "answer": [
+      "Serología"
+    ],
+    "options": [
+      "Strout",
+      "Serología",
+      "Gota gruesa",
+      "Xenodiagnóstico",
+      "Microhematocrito"
+    ],
+    "discipline": "Parasito",
+    "comment": "El tamizaje prenatal de la enfermedad de Chagas crónica se efectúa mediante pruebas serológicas indirecptas para detección de anticuerpos IgG (como ELISA o hemaglutinación indirecta)."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 26,
+    "question": "La infección por algunos nematodos que presentan etapa larvaria a nivel pulmonar, como Strongyloides stercoralis puede presentarse clínicamente como Síndrome de Loeffler. ¿En qué consiste este síndrome?",
+    "answer": [
+      "Tos, eosinofilia periférica, opacidades pulmonares migratorias y fugaces"
+    ],
+    "options": [
+      "Expectoración hemoptoica, leucocitosis y atelectasia",
+      "Hemoptisis, anemia microcítica e hipocrómica y neumotórax",
+      "Sibilancias, dificultad respiratoria, plaquetopenia y derrame pleural",
+      "Tos, eosinofilia periférica, opacidades pulmonares migratorias y fugaces"
+    ],
+    "discipline": "Parasito",
+    "comment": "El síndrome de Loeffler es una manifestación respiratoria aguda caracterizada por la tríada de tos seca/disnea, eonsinofilia marcada en sangre periférica e infiltrados o infiltraciones pulmonares intersticiales transitorias y migratorias en la radiología."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 27,
+    "question": "¿Cuál de las siguientes parasitosis es una enfermedad parasitaria transmitida por alimentos(EPTA)?",
+    "answer": [
+      "Fasciolasis"
+    ],
+    "options": [
+      "Fasciolasis",
+      "Paludismo",
+      "Leishmaniasis",
+      "Estrongiloidiasis"
+    ],
+    "discipline": "Parasito",
+    "comment": "La Fasciolasis es una zoonosis parasitaria vehiculizada por alimentos, adquirida típicamente por el consumo de plantas acuáticas silvestre de tallo corto (como berros) o agua contaminadas con metacercarias de Fasciola hepatica."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 28,
+    "question": "Paciente de 78 años que ingresa con convulsiones. Se constata de la analítica: natremia108 mEq/L, potasemia 3.7 mEq/L. Al examen se constata paciente severamente deshidratado, PA 70/40 mmHg. ¿Cuál de los siguientes mecanismos fisiopatológicos pueden explicar la hiponatremia observada?",
+    "answer": [
+      "liberación no osmótica de la arginina vasopresina por hipovolemia"
+    ],
+    "options": [
+      "disminución de la ingesta de sodio",
+      "disminución de la ingesta de agua libre",
+      "liberación osmótica de la arginina vasopresina por hipoosmolaridad",
+      "liberación no osmótica de la arginina vasopresina por hipovolemia"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
-    "numb": 25,
-    "question": "¿Cuál de las siguientes opciones sobre la excreción de ceftriaxona es correcta?",
-    "answer": ["Biliar próxima al 40%"],
-    "options": [
-    "Biliar próxima al 40%",
-    "Secreción tubular en un 80%",
-    "Pulmonar en un 50% y renal un 20%",
-    "Hidrólisis por peptidasas plasmáticas"
-    ],
-    "discipline": "Farmaco",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
-    "numb": 26,
-    "question": "¿Cuál de los siguientes antirretrovirales es un inhibidor de la transcriptasa inversa no nucleosídico?",
-    "answer": ["Efavirenz"],
-    "options": [
-    "Efavirenz",
-    "Darunavir",
-    "Dolutegravir",
-    ],
-    "discipline": "Farmaco",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
-    "numb": 27,
-    "question": "¿Cuál de las siguientes propiedades farmacocinéticas de fluconazol es correcta?",
-    "answer": ["Alcanza niveles terapéuticos en líquido cefalorraquídeo."],
-    "options": [
-    "Presenta absorción oral cercana al 10%.",
-    "Su eliminación es predominantemente hepática.",
-    "Es inductor de diversas isoenzimas del citocromo P450.",
-    "Alcanza niveles terapéuticos en líquido cefalorraquídeo."
-    ],
-    "discipline": "Farmaco",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
-    "numb": 28,
-    "question": "¿Cuál de las siguientes vacunas disponible en el carné esquema de vacunación contiene bacterias vivas atenuadas?",
-    "answer": ["BCG"],
-    "options": [
-    "BCG",
-    "Pentavalente",
-    "Triple bacteriana (DPT)",
-    "Triple bacteriana acelular (dpaT)"
-    ],
-    "discipline": "Farmaco",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "comment": "La depleción severa de volumen (hipovolemia) estimula a los barorreceptores arteriales, activando la secreción de vasopresina (AVP/ADH) por vía hemodinámica no osmótica. Esto promueve la reabsorción excesiva de agua libre a nivel renal y genera hiponatremia dilucional."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 29,
-    "question": "¿Cuál de los siguientes grupos farmacológicos pueden alterar la recirculación enterohepática de los estrógenos y disminuir su efecto anticonceptivo?",
-    "answer": ["Antibióticos"],
-    "options": [
-    "Antiácidos",
-    "Analgésicos",
-    "Antibióticos",
-    "Antiepilépticos"
+    "question": "¿Qué mecanismo fisiopatológico explica la mielinolisis pontina que se puede observar al corregir excesivamente con el tratamiento una hiponatremia crónica?",
+    "answer": [
+      "deshidratación celular"
     ],
-    "discipline": "Farmaco",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "edema cerebral",
+      "deshidratación celular",
+      "aumento del contenido de agua intracelular",
+      "aumento del contenido de sodio intracelular"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En la hiponatremia crónica, las células cerebrales adaptan su volumen eliminando osmoles orgánicos. Si el sodio plasmático se eleva velozmente durante la corrección, el LEC se torna hipertónico con relación a las neuronas, desencadenando la salida masiva de agua e induciendo deshidratación celular y desmielinización."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 30,
-    "question": "¿Cuál de las siguientes opciones es una contraindicación de anticonceptivos orales combinados?",
-    "answer": ["Migraña con aura"],
-    "options": [
-    "Dislipemia",
-    "Hipotiroidismo",
-    "Migraña con aura",
-    "Tumores ováricos benignos"
+    "question": "¿Cuál de las siguientes situaciones determina el pasaje de potasio desde el espacio intracelular al espacio extracelular?",
+    "answer": [
+      "acidosis metabólica"
     ],
-    "discipline": "Farmaco",
-    "comment": "",
-    },
+    "options": [
+      "hipocloremia",
+      "hipernatremia",
+      "alcalosis metabólica",
+      "acidosis metabólica"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En la acidosis metabólica (inorgánica), el incremento de H+ extracelular favorece su ingreso a la célula para ser amortiguado. En respuesta, para mantener la electroneutralidad celular, se produce la salida compensatoria de K+ desde el medio intracelular hacia el extracelular."
+  },
+
     {
-    "info_quest": "3er Parcial 2024",
+    "info_quest": "2do Parcial 2023",
     "numb": 31,
-    "question": "¿Cuál de las siguientes opciones indica una conveniencia terapéutica de los anticonceptivos de progesterona inyectables?",
-    "answer": ["Pueden ser usados durante la lactancia"],
-    "options": [
-    "Se administra a nivel subcutáneo",
-    "Pueden ser usados durante la lactancia",
-    "Es seguro en el sangrado uterino anormal",
-    "Mayor adherencia por su aplicación mensual"
+    "question": "¿Cuál de los siguientes factores es capaz de perpetuar una alcalosis metabólica?",
+    "answer": [
+      "hipocloremia"
     ],
-    "discipline": "Farmaco",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "hipertensión",
+      "hiponatremia",
+      "hipocloremia",
+      "hiperpotasemia"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La hipocloremia perpetúa la alcalosis metabólica porque la falta de Cl- en el túbulo renal frena el intercambiador Cl-/HCO3- (pendrina) e impide la excreción renal de bicarbonato. Asimismo, estimula la reabsorción proximal de HCO3- para mantener la electroneutralidad."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 32,
-    "question": "¿Cuál de los siguientes efectos adversos de los progestágenos puede explicarse por su efecto androgénico?",
-    "answer": ["Aumento del acné facial"],
-    "options": [
-    "Descenso de peso",
-    "Aumento del acné facial",
-    "Irregularidad menstrual",
-    "Insomnio de conciliación"
+    "question": "Paciente de 24 años concurre con vómitos y dolor epigástrico. Al ingreso se constata insuficiencia renal severa. Gasometría arterial ventilando espontáneamente al aire (VEA): PaO2 88 mmHg PaCO2 31 mEq/L pH 7.29 HCO3 - 15 mEq/L ¿Qué diagnóstico gasométrico realiza?",
+    "answer": [
+      "acidosis metabólica con respuesta adaptativa adecuada"
     ],
-    "discipline": "Farmaco",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "acidosis respiratoria con respuesta adaptativa adecuada",
+      "alcalosis respiratoria con respuesta adaptativa adecuada",
+      "acidosis metabólica con respuesta adaptativa inadecuada",
+      "acidosis metabólica con respuesta adaptativa adecuada"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El pH (7,29) y el HCO3- (15 mEq/L) indican acidosis metabólica. Según la fórmula de Winter (PaCO2 esperada = 1,5 x [HCO3-] + 8 ± 2), la PaCO2 esperada es 1.5(15) + 8 = 30.5 ± 2 mmHg (entre 28.5 y 32.5 mmHg). Como la PaCO2 medida es 31 mmHg, la compensación respiratoria es adecuada."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 33,
-    "question": "¿Cuál es una característica del mecanismo de acción genómico de los glucocorticoides?",
-    "answer": ["Presenta similar afinidad por los receptores mineralocorticoideos"],
-    "options": [
-    "Aumenta la transcripción del gen de la COX-2",
-    "Requiere administrar dosis altas para objetivar sus efectos",
-    "Los receptores se encuentran ubicados en la membrana celular",
-    "Presenta similar afinidad por los receptores mineralocorticoideos"
+    "question": "¿Qué repercusión tiene la acidosis metabólica sobre el aparato cardiovascular?",
+    "answer": [
+      "vasodilatación periférica"
     ],
-    "discipline": "Farmaco",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "vasodilatación periférica",
+      "vasoconstricción periférica",
+      "aumento de la contractilidad",
+      "aumento de la pulsatilidad arterial"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La acidosis sistémica grave disminuye la sensibilidad del músculo liso vascular a las catecolaminas endógenas y altera el flujo de calcio muscular, provocando una vasodilatación arteriolar periférica e inotropismo negativo."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 34,
-    "question": "¿Cuál es el efecto adverso de los glucocorticoides de uso sistémico cuando se retiran de forma abrupta luego de un período de al menos 15 días de uso?",
-    "answer": ["Insuficiencia suprarrenal aguda"],
-    "options": [
-    "Osteoporosis",
-    "Hiperglucemia",
-    "Insuficiencia suprarrenal aguda",
-    "Disminución de crecimiento y desarrollo"
+    "question": "Indique cuál de los siguientes parámetros permite distinguir la hipoventilación de los mecanismos parenquimatosos de insuficiencia respiratoria:",
+    "answer": [
+      "Diferencia alvéolo-arterial de O2"
     ],
-    "discipline": "Farmaco",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "Respuesta al test de hiperoxia",
+      "Diferencia veno-arterial de CO2",
+      "Diferencia alvéolo-arterial de O2",
+      "Respuesta espirométrica a broncodilatadores"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En la hipoventilación alveolar pura el parénquima pulmonar está sano, por lo que la diferencia alvéolo-arterial de oxígeno (DA-aO2) se mantiene normal (conservada). En cambio, en los trastornos parenquimatosos (desequilibrio V/Q, Shunt, difusión), la DA-aO2 está aumentada."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 35,
-    "question": "¿Cuál de los siguientes mecanismos podría explicar el efecto broncodilatador de las metilxantinas?",
-    "answer": ["Inhibición de la fosfodiesterasa"],
-    "options": [
-    "Inhibición de la fosfodiesterasa",
-    "Liberación de la interleucina-10",
-    "Apoptosis de eosinófilos y neutrófilos",
-    "Agonismo de receptores de adenosina"
+    "question": "¿Cuál es la principal característica distintiva del shunt como mecanismo de hipoxemia?",
+    "answer": [
+      "La ausencia de respuesta al test de hiperoxia"
     ],
-    "discipline": "Farmaco",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "La presencia de hipercapnia",
+      "La hipoxemia no se manifiesta en reposo",
+      "La ausencia de respuesta al test de hiperoxia",
+      "El aumento en la diferencia alvéolo-arterial de O2"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En el shunt o cortocircuito, la sangre pasa por alveolos totalmente no ventilados (V/Q = 0). Administrar O2 al 100% (test de hiperoxia) no logra oxigenar esa fracción de sangre desviada, por lo que la PaO2 casi no aumenta, siendo la marca fisiopatológica distintiva del shunt."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 36,
+    "question": "La espirometría forzada de un paciente presenta los siguientes resultados: Pre-broncodilatador: Volumen espirado en el 1er segundo (VEF1): 5,31 L Capacidad vital forzada (CVF): 6,09 L Post-broncodilatador: Volumen espirado en el 1er segundo (VEF1): 5.48 L Capacidad vital forzada (CVF): 6.15 L ¿Qué patrón espirométrico presenta?",
+    "answer": [
+      "Normal"
+    ],
+    "options": [
+      "Normal",
+      "Hiperinsuflación",
+      "Obstructivo reversible",
+      "Obstructivo irreversible"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La relación VEF1/CVF pre-broncodilatador es 5,31 / 6,09 = 87% (mayor al límite inferior normal del 70%). Dado que los volúmenes absolutos son normales y la relación VEF1/CVF se conserva sin patrón obstructivo ni restrictivo, el trazado espirométrico es normal."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 37,
-    "question": "¿Cuál de los siguientes constituye un efectos adversos de los antihistamínicos H1?",
-    "answer": ["Clorfeniramina puede provocar ansiedad en pacientes pediátricos"],
+    "question": "En un paciente que presenta una espirometría con un aumento de la capacidad pulmonar total y disminución de la capacidad vital. ¿Cómo espera encontrar el volumen residual?",
+    "answer": [
+      "Aumentado"
+    ],
     "options": [
-    "Levocetirizina puede causar sedación",
-    "Difenhidramina puede provocar bradicardia",
-    "Clorfeniramina puede provocar ansiedad en pacientes pediátricos",
-    "Loratadina puede provocar manifestaciones anticolinérgicas severas "],
-    "discipline": "Farmaco",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+      "Disminuido",
+      "Aumentado",
+      "Incambiado"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Sabiendo que CPT = CV + VR, si la Capacidad Pulmonar Total (CPT) está aumentada y la Capacidad Vital (CV) está disminuida, matemáticamente el Volumen Residual (VR = CPT - CV) debe estar significativamente aumentado, lo que refleja atrapamiento aéreo severo."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 38,
-    "question": "Con relación a las propiedades farmacocinéticas de los macrólidos. Marque la opción correcta.",
-    "answer": ["Amplio volumen de distribución"],
-    "options": [
-    "Eliminación pulmonar",
-    "Amplio volumen de distribución",
-    "Baja unión a proteínas plasmáticas",
-    "Metabolismo enzimático plasmático"
+    "question": "En un estudio de los volúmenes pulmonares ¿Cuál opción corresponde a hiperinsuflación pulmonar?",
+    "answer": [
+      "Incremento de la capacidad residual funcional, del volumen residual, y de la capacidad pulmonar total"
     ],
-    "discipline": "Farmaco",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "Descenso de la relación VR (volumen residual) / CPT (capacidad pulmonar total)",
+      "Incremento de la capacidad residual funcional, del volumen residual, y de la capacidad pulmonar total",
+      "Incremento de capacidad residual funcional, con descenso del volumen residual y de la capacidad pulmonar total",
+      "Relación VEF1/CVF <70% (volumen espiratorio forzado en primer segundo/capacidad vital forzada)"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La hiperinsuflación pulmonar ocurre cuando el tórax opera a volúmenes más altos de lo normal, caracterizándose técnicamente por el aumento paralelo de la CPT, de la CRF (aumento del punto de reposo elástico) y del VR."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 39,
-    "question": "Respecto a los benzimidazoles, ¿cuál de las siguientes opciones sobre el mecanismo de acción de mebendazol es correcta?",
-    "answer": ["Inhibición de la polimerización de microtúbulos al unirse a la tubulina β."],
-    "options": [
-    "Inmovilización de los organismos por polimerización de la tubulina α.",
-    "Generación de radicales libres que dañan a los microtúbulos del verme.",
-    "Inhibición de la polimerización de microtúbulos al unirse a la tubulina β.",
+    "question": "¿Qué espera que suceda si el ciclo respiratorio ocurre por encima del punto de inflexión superior de la curva de presión volumen (PV)? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p39-2doP-2023.PNG' alt=''>",
+    "answer": [
+      "Aumento del trabajo respiratorio"
     ],
-    "discipline": "Farmaco",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "Aumento del trabajo respiratorio",
+      "Aumento de la complacencia pulmonar",
+      "Aumento de la resistencia de vía aérea",
+      "Aumento del punto de igual presión (PIP)"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El punto de inflexión superior en la curva P-V señala el límite a partir del cual el pulmón sufre sobredistensión alveolar. Por encima de este punto, la complacencia cae drásticamente y se requiere un incremento exponencial de presión para ganar poco volumen, disparando el trabajo respiratorio."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 40,
-    "question": "Indique cuál de los siguientes efectos adversos de los agonistas beta-2 adrenérgicos inhalatorios son de tipo A:",
-    "answer": ["Taquicardia."],
-    "options": [
-    "Taquicardia.",
-    "Hipertensión.",
-    "Hiperpotasemia.",
-    "Hipomagnesemia."
+    "question": "En un paciente con síndrome de distrés respiratorio agudo (SDRA). ¿Qué cambios espera encontrar en la mecánica pulmonar?",
+    "answer": [
+      "Descenso de la complacencia estática"
     ],
-    "discipline": "Farmaco",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "Menor tensión superficial",
+      "Descenso de la resistencia de vía aérea",
+      "Aumento de la capacidad pulmonar total",
+      "Descenso de la complacencia estática"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El SDRA provoca edema alveolar rico en proteínas e inactivación del surfactante, reduciendo drásticamente el parénquima pulmonar ventilable ('baby lung'). Esto genera una marcada caída de la complacencia o distensibilidad estática pulmonar."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 41,
-    "question": "¿Cuál de los siguientes antiepilépticos produce como efecto adverso hiponatremia?",
-    "answer": ["Carbamazepina."],
-    "options": [
-    "Fenitoína.",
-    "Topiramato.",
-    "Pregabalina.",
-    "Carbamazepina."
+    "question": "En un paciente con un shock hipovolémico, ¿cómo esperaría encontrar los parámetros del metabolismo del oxígeno?",
+    "answer": [
+      "Contenido arterial de oxígeno disminuido"
     ],
-    "discipline": "Farmaco",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "Extracción de oxígeno disminuida",
+      "Disponibilidad de oxígeno aumentada",
+      "Contenido venoso de oxígeno aumentado",
+      "Contenido arterial de oxígeno disminuido"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En el shock hipovolémico hemorrágico agudo, la pérdida de masa eritrocitaria reduce la concentración de hemoglobina (Hb), lo que disminuye directamente el contenido arterial de oxígeno (CaO2 = [Hb x 1.34 x SaO2] + [0.003 x PaO2]). Nota: Por descarte clínico, si la hipovolemia se debe a hemorragia masiva, el CaO2 disminuye."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 42,
-    "question": "Señale cuál de los siguientes antiepilépticos presenta un estrecho margen terapéutico:",
-    "answer": ["Ácido valproico."],
+    "question": "Con respecto a la curva de disociación de la hemoglobina: ¿qué situaciones aumentan la afinidad de la hemoglobina por el O2 (desplazamiento de la curva a la izquierda)?",
+    "answer": [
+      "Aumento del pH"
+    ],
     "options": [
-    "Topiramato.",
-    "Escitalopram.",
-    "Levetiracetam.",
-    "Ácido valproico."
+      "Aumento del pH",
+      "Aumento de la PaCO2",
+      "Aumento del 2,3 DPG",
+      "Aumento de la temperatura"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El aumento del pH (alcalosis), la disminución de PaCO2, el descenso de la temperatura y la baja de 2,3-DPG aumentan la afinidad de la hemoglobina por el oxígeno, desviando la curva de disociación hacia la izquierda (Efecto Bohr)."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 43,
+    "question": "Ante una caída de la disponibilidad sistémica de oxígeno (DO2) por debajo del punto crítico:",
+    "answer": [
+      "La concentración de lactato plasmático aumenta"
+    ],
+    "options": [
+      "Se mantiene un metabolismo aeróbico",
+      "La extracción de oxígeno no se modifica",
+      "El consumo tisular de oxígeno no se modifica",
+      "La concentración de lactato plasmático aumenta"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Al caer la disponibilidad de O2 (DO2) por debajo del DO2 crítico, el consumo tisular de O2 (VO2) se vuelve dependiente del aporte y cae. La célula entra en anaerobiosis para producir ATP, lo que eleva la producción y concentración de lactato plasmático."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 44,
+    "question": "Paciente de sexo masculino, 25 años, sin antecedentes patológicos, sufre herida penetrante en muslo con abundante sangrado arterial. Presenta inestabilidad hemodinámica severa. ¿Cuál es el principal determinante de este shock?",
+    "answer": [
+      "Reducción de la precarga"
+    ],
+    "options": [
+      "Aumento de la poscarga",
+      "Alteración del inotropismo",
+      "Reducción de la precarga",
+      "Aumento de la capacitancia vascular"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La hemorragia aguda profusa causa un shock hipovolémico por disminución drástica de la volemia intravascular. Esto ocasiona una rápida caída del retorno venoso y de la precarga ventricular, reduciendo el volumen sistólico y el gasto cardíaco."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 45,
+    "question": "¿En cuál de las siguientes situaciones esperaría encontrar una disminución de las resistencias vasculares periféricas?",
+    "answer": [
+      "Shock anafiláctico por picadura de insectos"
+    ],
+    "options": [
+      "Shock hemorrágico por rotura esplénica",
+      "Shock obstructivo por taponamiento cardíaco",
+      "Shock anafiláctico por picadura de insectos",
+      "Shock cardiogénico por infarto agudo de miocardio"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El shock anafiláctico es un tipo de shock distributivo. La liberación masiva de mediadores inflamatorios (como la histamina) genera vasodilatación arteriolar sistémica masiva y colapso de las resistencias vasculares periféricas (RVP)."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 46,
+    "question": "La causa de lesión celular que tiene un papel más importante en la intoxicación por monóxido de carbono (CO) es:",
+    "answer": [
+      "La hipoxia"
+    ],
+    "options": [
+      "La hipoxia",
+      "La lesión por agente físico",
+      "La lesión por agente químico",
+      "La reacción inmunológica frente al CO"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El CO se une a la hemoglobina con una afinidad 200 veces mayor que el O2 formando carboxihemoglobina, lo que desplaza al O2 e inhibe su transporte. Además frena la cadena respiratoria celular, siendo la hipoxia tisular severa el mecanismo lesivo predominante."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 47,
+    "question": "Señale la afirmación correcta respecto a las reacciones adversas a medicamentos tipo B:",
+    "answer": [
+      "Dentro de este grupo se encuentran las reacciones de hipersensibilidad."
+    ],
+    "options": [
+      "Su intensidad y gravedad son dosis dependientes.",
+      "Dentro de este grupo se encuentran los efectos teratógenos.",
+      "Se vinculan directamente con el mecanismo de acción del fármaco.",
+      "Son las reacciones adversas más frecuentes, llegando al 70% de todas.",
+      "Dentro de este grupo se encuentran las reacciones de hipersensibilidad."
     ],
     "discipline": "Farmaco",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
-    "numb": 43,
-    "question": "Al comienzo de los procesos de inflamación aguda, ¿cuál es la principal célula involucrada?",
-    "answer": ["Neutrófilo"],
-    "options": [
-    "Linfocito",
-    "Neutrófilo",
-    "Macrófago",
-    "Plasmocito"
-    ],
-    "discipline": "AnatoP",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
-    "numb": 44,
-    "question": "¿Cuál de los siguientes procesos de adaptación celular ocurre fisiológicamente en el epitelio de la glándula mamaria durante el embarazo?",
-    "answer": ["Hiperplasia"],
-    "options": [
-    "Atrofia",
-    "Hipertrofia",
-    "Metaplasia",
-    "Hiperplasia"
-    ],
-    "discipline": "AnatoP",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
-    "numb": 45,
-    "question": "¿Cuál de las siguientes opciones indica una característica de la necrosis caseosa?",
-    "answer": ["Tiene aspecto blanquecino y friable y es característica de los granulomas tuberculoides."],
-    "options": [
-    "Tiene aspecto blanquecino y friable y es característica de los granulomas tuberculoides.",
-    "Son áreas focales de destrucción de la grasa, con adipocitos necróticos que en su interior presentan depósitos de calcio basófilo.",
-    "Tiene aspecto de masa viscosa con material necrótico que suele ser amarillento cremoso por la presencia de leucocitos muertos.",
-    ],
-    "discipline": "AnatoP",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
-    "numb": 46,
-    "question": "¿Cuál de las siguientes lesiones tisulares se caracteriza por presentar necrosis licuefactiva?",
-    "answer": ["isquemia en el sistema nervioso central"],
-    "options": [
-    "tuberculosis pulmonar",
-    "isquemia en el tejido cardíaco",
-    "isquemia en el sistema nervioso central",
-    "lesión tuberculosa en el sistema nervioso central"
-    ],
-    "discipline": "AnatoP",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
-    "numb": 47,
-    "question": "El granuloma de cuerpo extraño característicamente presenta:",
-    "answer": ["Células gigantes multinucleadas que engloban el material extraño"],
-    "options": [
-    "Células gigantes multinucleadas que engloban el material extraño",
-    "Células epitelioides con una corona linfocitaria rodeando el mterial extraño",
-    "Células epitelioides que delimitan una zona de necrosis licuefactiva que contiene el cuerpo extraño",
-    ],
-    "discipline": "AnatoP",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "comment": "Las RAM tipo B (Bizarre) son bizzarras, impredecibles, no ligadas al mecanismo farmacológico principal, no dosis-dependientes y relativamente poco frecuentes. A este grupo corresponden las reacciones inmunológicas de hipersensibilidad y la idiosincrasia."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 48,
-    "question": "¿Cuál de los siguientes cambios en la morfología celular es característico del proceso de apoptosis?",
-    "answer": ["El tamaño de la célula se reduce y el citoplasma es denso y eosinófilo"],
-    "options": [
-    "Ocurre un proceso de tumefacción celular",
-    "El tamaño de la célula se reduce y el citoplasma es denso y eosinófilo",
-    "El tamaño de la célula aumenta y se observa un núcleo con picnosis y ruptura de la membrana celular",
-    "Se observa la formación de vacuolas citoplasmáticas y la liberación del contenido celular al espacio extracelular"
+    "question": "Señale la afirmación correcta sobre características farmacodinámicas de los agonistas y antagonistas:",
+    "answer": [
+      "El agonista parcial tiene menor actividad intrínseca que el agonista puro."
     ],
-    "discipline": "AnatoP",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "Un antagonista competitivo tiene mayor actividad intrínseca que el agonista.",
+      "El agonista parcial tiene menor actividad intrínseca que el agonista puro.",
+      "El antagonista competitivo generalmente se une en forma irreversible al receptor.",
+      "El agonista puro generalmente posee escasa capacidad de modificar los receptores."
+    ],
+    "discipline": "Farmaco",
+    "comment": "Un agonista puro posee afinidad y una actividad intrínseca máxima (α = 1). El agonista parcial posee afinidad pero su actividad intrínseca es intermedia (0 < α < 1), desencadenando una respuesta biológica submáxima aun ocupando la totalidad de los receptores."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 49,
-    "question": "El exudado es un líquido:",
-    "answer": ["Con alto contenido en proteínas y presencia de células sanguíneas."],
-    "options": [
-    "Con apariencia clara y LDH bajo.",
-    "Con apariencia clara y un pH> 7,2.",
-    "Con bajo contenido en proteínas y pobre en células sanguíneas.",
-    "Con alto contenido en proteínas y presencia de células sanguíneas."
+    "question": "¿Cuál de las siguientes es una acción farmacológica de los agentes anticolinérgicos como homatropina?",
+    "answer": [
+      "Estreñimiento, por disminución del tono peristáltico intestinal."
     ],
-    "discipline": "AnatoP",
-    "comment": "",
-    },
-    {
-    "info_quest": "3er Parcial 2024",
+    "options": [
+      "Bradicardia, por efecto cronotrópico negativo.",
+      "Sialorrea, por estimulación de secreción salival.",
+      "Incontinencia urinaria, por disminución del tono esfinteriano uretral.",
+      "Estreñimiento, por disminución del tono peristáltico intestinal."
+    ],
+    "discipline": "Farmaco",
+    "comment": "Los fármacos anticolinérgicos antagonizan los receptores muscarínicos M3 en el tracto digestivo. Esto reduce la motilidad y el peristaltismo intestinal, prolonga el tránsito gastrointestinal y conduce característicamente a estreñimiento."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
     "numb": 50,
-    "question": "En la esteatosis ¿Qué sustancias se acumulan en el interior de las células parenquimatosas?",
-    "answer": ["triglicéridos"],
+    "question": "¿Cuál es el mecanismo de acción de atropina?",
+    "answer": [
+      "Es un antagonista muscarínico competitivo no selectivo."
+    ],
     "options": [
-    "proteínas",
-    "glucógeno",
-    "lipofuccina",
-    "triglicéridos"
+      "Es un potente antagonista alfa1 adrenérgico.",
+      "Es un agonista muscarínico puro, selectivo M2 y M3.",
+      "Es un antagonista muscarínico competitivo no selectivo.",
+      "Es un agonista nicotínico parcial a nivel de sistema nervioso central."
+    ],
+    "discipline": "Farmaco",
+    "comment": "La atropina es un alcaloide que actúa como antagonista competitivo reversible de todos los subtipos de receptores muscarínicos (M1 a M5), sin mostrar selectividad por ninguno en particular."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 51,
+    "question": "Señale la afirmación correcta sobre la biodisponibilidad oral de los fármacos:",
+    "answer": [
+      "Es un parámetro que mide fracción absorbida y velocidad de absorción."
+    ],
+    "options": [
+      "Es directamente proporcional al volumen de distribución.",
+      "Es inversamente proporcional a la liposolubilidad del fármaco.",
+      "Permite inferir cómo se distribuye el fármaco en el organismo.",
+      "Es un parámetro que mide fracción absorbida y velocidad de absorción."
+    ],
+    "discipline": "Farmaco",
+    "comment": "La biodisponibilidad es la magnitud farmacocinética que cuantifica tanto la fracción de la dosis administrada que alcanza inalterada la circulación sistémica (F) como la velocidad con la que ocurre dicho proceso."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 52,
+    "question": "¿En cuál de las siguientes situaciones fisiológicas puede existir disminución del volumen de distribución de fármacos hidrosolubles?",
+    "answer": [
+      "Adulto mayor de 65 años."
+    ],
+    "options": [
+      "Recién nacido sano",
+      "Adulto mayor de 65 años.",
+      "Tercer trimestre del embarazo."
+    ],
+    "discipline": "Farmaco",
+    "comment": "En los adultos mayores de 65 años se produce fisiológicamente una disminución del agua corporal total e incremento de la grasa corporal. Al reducirse el agua del organismo, disminuye el volumen de distribución (Vd) de los fármacos hidrosolubles."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 53,
+    "question": "¿Qué es la vida media plasmática de un fármaco?",
+    "answer": [
+      "El tiempo en que la concentración plasmática se reduce a la mitad."
+    ],
+    "options": [
+      "El tiempo hasta el pico de concentración máxima.",
+      "El intervalo de tiempo entre dosis consecutivas de un fármaco.",
+      "El tiempo en que la concentración plasmática se reduce a la mitad.",
+      "El Intervalo de tiempo en el que se metaboliza la mitad de la dosis administrada."
+    ],
+    "discipline": "Farmaco",
+    "comment": "La vida media plasmática de eliminación (t1/2) se define formalmente como el tiempo requerido para que la concentración plasmática de un fármaco disminuya al 50% de su valor original."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 54,
+    "question": "¿Cuál de los siguientes fármacos puede ser definido como un agonista puro?",
+    "answer": [
+      "Formoterol."
+    ],
+    "options": [
+      "Atenolol.",
+      "Bisoprolol.",
+      "Metoprolol.",
+      "Formoterol."
+    ],
+    "discipline": "Farmaco",
+    "comment": "El formoterol es un agonista puro (pleno) selectivo de los receptores beta-2 adrenérgicos con una alta actividad intrínseca. Atenolol, bisoprolol y metoprolol son antagonistas beta-1 (beta-bloqueantes)."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 55,
+    "question": "¿Cuál de los siguientes fármacos puede definirse como antagonista competitivo de receptores muscarínicos?",
+    "answer": [
+      "Isopropamida."
+    ],
+    "options": [
+      "Dopamina.",
+      "Pregabalina.",
+      "Neostigmina.",
+      "Isopropamida."
+    ],
+    "discipline": "Farmaco",
+    "comment": "La isopropamida es un agente anticolinérgico amonio cuaternario que actúa como antagonista competitivo de los receptores muscarínicos de acetilcolina, reduciendo las secreciones y la hipermotilidad digestiva."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 56,
+    "question": "¿Cuál de los siguientes mecanismos de acción da lugar a efectos farmacológicos simpaticomiméticos?",
+    "answer": [
+      "Bloqueo de la recaptación presináptica de noradrenalina.",
+      "Bloqueo de receptores alfa2 adrenérgicos presinápticos a nivel central."
+    ],
+    "options": [
+      "Bloqueo de la enzima tirosina hidroxilasa neuronal.",
+      "Bloqueo de receptores alfa1 adrenérgicos postsinápticos.",
+      "Bloqueo de la recaptación presináptica de noradrenalina.",
+      "Bloqueo de receptores alfa2 adrenérgicos presinápticos a nivel central."
+    ],
+    "discipline": "Farmaco",
+    "comment": "Ambos mecanismos aumentan la disponibilidad de noradrenalina en la hendidura sináptica: inhibir su reabsorción celular (NET) mantiene el neurotransmisor activo, y bloquear el autorreceptor presináptico alfa-2 inhibe el feedback negativo, liberando más noradrenalina."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 57,
+    "question": "¿Cuál de las siguientes es una reacción adversa tipo A que puede observarse luego de administrar salbutamol a dosis habituales por vía inhalatoria a un niño con crisis de asma?",
+    "answer": [
+      "Temblor distal."
+    ],
+    "options": [
+      "Bradicardia.",
+      "Temblor distal.",
+      "Edemas de miembros inferiores.",
+      "Frialdad distal de los cuatro miembros."
+    ],
+    "discipline": "Farmaco",
+    "comment": "El temblor fino de manos es la reacción adversa tipo A (predecible y ligada al mecanismo de acción) más común del salbutamol, debida a la estimulación directa de los receptores beta-2 adrenérgicos en el músculo esquelético."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 58,
+    "question": "¿Cuál de los siguientes parámetros farmacocinéticos cambia si utilizamos un medicamento vía oral en comprimidos de liberación programada?",
+    "answer": [
+      "La velocidad de absorción."
+    ],
+    "options": [
+      "La velocidad de absorción.",
+      "La velocidad del metabolismo hepático.",
+      "El aclaramiento renal por filtración glomerular.",
+      "La vida media de eliminación del fármaco."
+    ],
+    "discipline": "Farmaco",
+    "comment": "Las formulaciones de liberación modificada o programada están diseñadas galénicamente para ralentizar la tasa/velocidad de liberación y absorción del fármaco (Ka), aplanando la curva de concentración y manteniendo niveles terapéuticos más estables."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 59,
+    "question": "¿Cuál de los siguientes es el parámetro más relevante para medir el proceso de eliminación de los fármacos por vía renal?",
+    "answer": [
+      "Clearance plasmático."
+    ],
+    "options": [
+      "Vida media plasmática.",
+      "Clearance plasmático.",
+      "Constante de eliminación.",
+      "Volumen urinario por minuto."
+    ],
+    "discipline": "Farmaco",
+    "comment": "El aclaramiento o clearance (Cl) es el parámetro farmacocinético fundamental que mide la capacidad de eliminación global o de un órgano (ej. clearance renal) expresado como el volumen de plasma depurado del fármaco por unidad de tiempo."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 60,
+    "question": "¿Cuál de las siguientes opciones indica una característica de la radiación ionizante de naturaleza corpuscular?",
+    "answer": [
+      "la energía que transmite es cinética e interactúa a través de colisiones"
+    ],
+    "options": [
+      "se describe por los parámetros de longitud de onda y frecuencia de onda",
+      "se emite desde la periferia del átomo en forma de radiación característica",
+      "la interacción con los átomos del medio es a través del efecto fotoeléctrico",
+      "la energía que transmite es cinética e interactúa a través de colisiones"
+    ],
+    "discipline": "Biofisica",
+    "comment": "La radiación corpuscular (partículas alfa, beta, protones, neutrones) posee masa y transmite energía en forma de energía cinética, interactuando con la materia mediante colisiones elásticas e inelásticas."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 61,
+    "question": "Debido al efecto fotoeléctrico en las radiografías simples ...",
+    "answer": [
+      "se aumenta el contraste entre tejidos más densos y menos densos"
+    ],
+    "options": [
+      "se disminuye el contraste entre tejidos más densos y menos densos",
+      "se aumenta el contraste entre tejidos más densos y menos densos",
+      "se usa radiación corpuscular acompañada de una sustancia de contraste",
+      "se usa radiación corpuscular para diferenciar tejidos densos de menos densos"
+    ],
+    "discipline": "Biofisica",
+    "comment": "La probabilidad de ocurrencia del efecto fotoeléctrico varía proporcionalmente con el cubo del número atómico (Z^3). Esto acentúa la atenuación entre tejidos con distinto Z (como hueso vs. tejido blando), optimizando el contraste radiográfico."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 62,
+    "question": "¿Cuál es la definición de actividad en relación a las radiaciones ionizantes?",
+    "answer": [
+      "es el número de desintegraciones de material radiactivo por unidad de tiempo"
+    ],
+    "options": [
+      "es la energía absorbida por el material por unidad de tiempo",
+      "es la energía impartida por unidad de masa del volumen irradiado",
+      "es el valor absoluto de la carga total liberada por unidad de masa de aire",
+      "es el número de desintegraciones de material radiactivo por unidad de tiempo"
+    ],
+    "discipline": "Biofisica",
+    "comment": "La Actividad (A) de una muestra radiactiva mide la velocidad de desintegración nuclear y se define formalmente como la cantidad de desintegraciones nucleares espontáneas por unidad de tiempo. Su unidad en el SI es el Becquerel (1 Bq = 1 desintegración/segundo)."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 63,
+    "question": "¿Cuál es la lesión producida por las radiaciones ionizantes que se relaciona con una mayor probabilidad de generación de aberraciones cromosómicas?",
+    "answer": [
+      "roturas de doble cadena"
+    ],
+    "options": [
+      "pérdida de bases",
+      "sustitución de bases",
+      "rotura simple de cadena",
+      "roturas de doble cadena",
+      "unión de proteínas al ADN"
+    ],
+    "discipline": "Biofisica",
+    "comment": "Las roturas de doble cadena en la molécula de ADN (DSB) son las lesiones más complejas de reparar. Si se procesan erróneamente o quedan sin reparar, generan translocaciones, fragmentación y aberraciones cromosómicas estructurales."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 64,
+    "question": "¿Cuál es una característica de la reparación recombinacional homóloga en el procesamiento de dobles roturas de ADN?",
+    "answer": [
+      "ocurre solo luego de que el ADN haya sido replicado"
+    ],
+    "options": [
+      "es necesario la generación de sitios apurínicos",
+      "la lesión se reconoce a través de la proteína XPA",
+      "el daño se procesa por un complejo proteico KU",
+      "se procesa la lesión a través de escisión y resíntesis",
+      "ocurre solo luego de que el ADN haya sido replicado"
+    ],
+    "discipline": "Biofisica",
+    "comment": "La reparación por Recombinación Homóloga (HR) es un mecanismo libre de errores que requiere obligatoriamente una cromátida hermana idéntica como molde, por lo que opera exclusivamente en fases S y G2 del ciclo celular (tras la replicación del ADN)."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 65,
+    "question": "¿Cuál de los siguientes factores actúa como un radiosensibilizante celular?",
+    "answer": [
+      "Alta concentración de oxígeno"
+    ],
+    "options": [
+      "Baja tasa de dosis",
+      "Fraccionamiento de la dosis",
+      "Alta concentración de oxígeno",
+      "Alta concentración de glutatión",
+      "Baja transferencia lineal de energía"
+    ],
+    "discipline": "Biofisica",
+    "comment": "El oxígeno molecular funciona como un potente radiosensibilizante (Efecto Oxígeno): reacciona fijando los radicales libres generados en el ADN por la radiación, tornando el daño celular irreversible y más letal."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 66,
+    "question": "¿Como se denomina a los efectos de las radiaciones ionizantes que se vinculan con la muerte celular a partir de una dosis umbral?",
+    "answer": [
+      "determinísticos"
+    ],
+    "options": [
+      "estocásticos",
+      "hereditarios",
+      "probabilísticos",
+      "determinísticos"
+    ],
+    "discipline": "Biofisica",
+    "comment": "Los efectos determinísticos (o de reacción hística) resultan del daño tisular por muerte celular masiva. Se caracterizan por presentar una dosis umbral clara por debajo de la cual no ocurren, y su severidad aumenta conforme se incrementa la dosis recibida."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 67,
+    "question": "¿Cuál de las siguientes opciones es correcta en relación a las curvas de sobrevida celular que se construyen en función de la dosis?",
+    "answer": [
+      "La dosis letal media (Do) es la dosis que corresponde a una probabilidad de sobrevida igual a 0.37 (37%)"
+    ],
+    "options": [
+      "La dosis cuasiumbral (Dq) es el valor N de la ordenada asociado a la pendiente de la curva a altas dosis",
+      "La dosis cuasiumbral (Dq) es el valor N de la ordenada que representa la pendiente de la curva a bajas dosis",
+      "La dosis letal media (Do) es la dosis que corresponde a una probabilidad de sobrevida igual a 0.37 (37%)",
+      "La dosis letal media (Do) es la dosis que corresponde a una probabilidad de sobrevida igual a 0.5 (50%)"
+    ],
+    "discipline": "Biofisica",
+    "comment": "En el modelo multiobjetivo de sobrevida celular, D0 (dosis letal media) es la dosis requerida para reducir la fracción de células supervivientes al 37% (1/e) en la región exponencial lineal de la curva."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 68,
+    "question": "¿Cuál es el efecto más importante de la exposición prenatal a radiaciones ionizantes en la etapa de pre-implantación?",
+    "answer": [
+      "efecto de todo o nada"
+    ],
+    "options": [
+      "microcefalia",
+      "efecto de todo o nada",
+      "anomalías esqueléticas",
+      "retardo en el crecimiento",
+      "aumento del riesgo de cáncer"
+    ],
+    "discipline": "Biofisica",
+    "comment": "Durante la fase de preimplantación embrionaria, la exposición a radiación obedece a la ley del 'todo o nada': la lesión de las pocas células totipotenciales causa la muerte embrionaria no detectada (aborto precoz) o, si el embrión sobrevive, este se repara por completo sin malformaciones."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 69,
+    "question": "¿Cuál de las siguientes opciones es de relevancia para la radioprotección del paciente a la hora de indicar un estudio con radiaciones ionizante?",
+    "answer": [
+      "justificación"
+    ],
+    "options": [
+      "ALARA",
+      "limitación",
+      "restricción",
+      "justificación",
+      "optimización"
+    ],
+    "discipline": "Biofisica",
+    "comment": "El principio de justificación establece que ninguna práctica médica con radiaciones ionizantes debe indicarse a menos que el beneficio diagnóstico/terapéutico esperado para el paciente sea mayor que el riesgo o detrimento de la exposición a la radiación."
+  },
+  {
+    "info_quest": "2do Parcial 2023",
+    "numb": 70,
+    "question": "¿En cuál de los siguientes escenarios de sobre-exposición se considera a los cromosomas dicéntricos como el marcador por excelencia para determinar dosis de radiación?",
+    "answer": [
+      "En individuos expuestos a una fuente de Cobalto 60 proveniente de un equipo en desuso"
+    ],
+    "options": [
+      "Luego de 30 años de ocurrido el accidente radiológico",
+      "En un caso de sobre-exposición que se estima por dosimetría física menor a 10 cGy",
+      "En individuos expuestos a una fuente de Cobalto 60 proveniente de un equipo en desuso"
+    ],
+    "discipline": "Biofisica",
+    "comment": "El ensayo de cromosomas dicéntricos en linfocitos T periféricos es el patrón de oro de la dosimetría biológica para accidentes radiológicos agudos e inflamatorios recientes (fuente de gamma como Co-60), permitiendo estimar la dosis absorbida en cuerpo entero."
+  },
+
+
+
+
+
+/////////////////////////////////////////////////////
+
+
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 1,
+    "question": "El virus de papiloma humano (HPV) se replica en las células del estrato basal del epitelio, presentando potencial oncogénico ¿Cuál de las siguientes características se relaciona con este potencial?",
+    "answer": [
+      "Presenta genoma ADN doble hebra que se puede integrar al genoma celular"
+    ],
+    "options": [
+      "Presenta genoma ADN doble hebra que se puede integrar al genoma celular",
+      "Presenta genoma ARN doble hebra que se puede integrar al genoma celular",
+      "Presenta genoma ADN hebra simple y se replica integramente en el citoplasma celular",
+      "Presenta genoma ARN hebra simple y se replica integramente en el citoplasma celular"
+    ],
+    "discipline": "Bacterio",
+    "comment": "El VPH posee un genoma de ADN bicatenario. Su potencial oncogénico (especialmente en genotipos de alto riesgo como 16 y 18) radica en la integración de su ADN al genoma celular de la célula huésped, lo que altera la regulación genética y sobreexpresa las oncoproteínas E6 y E7, inhibiendo a p53 y Rb respectivamente."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 2,
+    "question": "La prueba VDRL constituye una técnica serológica para complementar el diagnóstico de sífilis. ¿Qué evalúa esta prueba?",
+    "answer": [
+      "Anticuerpos circulantes dirigidos contra antígenos no treponémicos"
+    ],
+    "options": [
+      "Antígenos circulantes de Treponema pallidum",
+      "Anticuerpos circulantes dirigidos contra antígenos de T. pallidum",
+      "Anticuerpos circulantes dirigidos contra antígenos no treponémicos",
+      "Antígenos circulantes que se liberan debido al daño tisular generado por la infección"
+    ],
+    "discipline": "Bacterio",
+    "comment": "La VDRL es una prueba serológica no treponémica (reagínica) que detecta anticuerpos circulantes de tipo IgM e IgG dirigidos contra un complejo lipídico (cardiolipina-colesterol-lecitina), liberado producto del daño tisular y del propio microorganismo."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 3,
+    "question": "En la etapa inicial de la infección, Neisseria gonorrhoeae se adhiere a las células de la mucosa. En esta etapa ¿Qué estructuras intervienen en la fijación y penetración en las células del huésped?",
+    "answer": [
+      "Pili y proteínas Opa"
+    ],
+    "options": [
+      "Pili y proteínas Opa",
+      "Porinas PorA y PorB",
+      "Rmp y Proteasa de IgA1",
+      "Lipooligosacáridos y proteínas OMV"
+    ],
+    "discipline": "Bacterio",
+    "comment": "Neisseria gonorrhoeae utiliza incialmente sus pili (fimbrias) para la adhesión primaria a larga distancia en el epitelio mucoso. Posteriormente, las proteínas de opacidad (Opa) median una adhesión íntima a los receptores celulares (como CD66/CEACAM), promoviendo la entrada e invasión celular."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 4,
+    "question": "Un paciente de 40 años de edad, presenta un cuadro clínico sugestivo de hepatitis de etiología viral. Se determinan marcadores serológicos, cuyo resultado se presenta a continuación:<br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p4-2P-2024.PNG' alt=''> <br> ¿Cuál es la situación de este paciente en relación con el virus de hepatitis B?",
+    "answer": [
+      "Está cursando una infección aguda"
+    ],
+    "options": [
+      "Está vacunado",
+      "Está cursando una infección aguda",
+      "Está cursando una infección crónica",
+      "Tuvo previamente una infección que ya se resolvió"
+    ],
+    "discipline": "Bacterio",
+    "comment": "La presencia en el perfil serológico del antígeno de superficie (HBsAg) junto con anticuerpos IgM contra el antígeno del core (anti-HBc IgM) positivos es la combinación patognomónica de una infección aguda por el virus de la hepatitis B (VHB)."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 5,
+    "question": "¿Cuál es el principal mecanismo de variabilidad genética en el Virus de Hepatitis C responsable de la existencia de múltiples sub-genotipos circulantes?",
+    "answer": [
+      "Mutaciones por errores de la ARN polimerasa y recombinación intra e inter genotipos"
+    ],
+    "options": [
+      "Acumulación de mutaciones por errores de la ADN polimerasa",
+      "Reordenamiento de segmentos genómicos intra e inter genotipos",
+      "Mutaciones por errores de la ARN polimerasa y recombinación intra e inter genotipos",
+      "Mutaciones por errores de la ARN polimerasa y reordenamiento de segmentos genómicos"
+    ],
+    "discipline": "Bacterio",
+    "comment": "El VHC es un virus ARN cuya ARN polimerasa ARN-dependiente (NS5B) carece de función autocorrectora (proofreading), generando una tasa muy alta de mutaciones puntuales durante la replicación, la cual sumada a eventos de recombinación genética da lugar a la gran diversidad de sub-genotipos y cuasiespecies."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 6,
+    "question": "En cuanto a la inmunoprofilaxis de las infecciones por Virus de hepatitis A en Uruguay:",
+    "answer": [
+      "Hay una vacuna incluida en el CEV a virus inactivados"
+    ],
+    "options": [
+      "No hay vacunas disponibles",
+      "Hay una vacuna incluida en el CEV a virus atenuados",
+      "Hay una vacuna incluida en el CEV a virus inactivados",
+      "Hay una vacuna recombinante disponible que no se encuentra incluida en el CEV"
+    ],
+    "discipline": "Bacterio",
+    "comment": "En Uruguay, el Certificado Esquema de Vacunación (CEV) incluye de forma obligatoria y gratuita la vacuna contra la Hepatitis A a los 15 meses de edad, la cual está formulada a base de viriones enteros inactivados."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 7,
+    "question": "En un paciente con diagnóstico de celulitis abscedada se decide tomar una muestra para estudio microbiológico. ¿Cuál de los siguientes métodos elegiría para tomar esta muestra?",
+    "answer": [
+      "Aspiración del material purulento con jeringa"
+    ],
+    "options": [
+      "Hisopado del borde de la lesión",
+      "Punción y aspiración del borde de la lesión",
+      "Aspiración del material purulento con jeringa",
+      "Recolección del material purulento con bajalenguas  "
+    ],
+    "discipline": "Bacterio",
+    "comment": "Para el diagnóstico bacteriológico de lesiones purulentas profundas o abscesos, el método de elección es la aspiración percutánea del pus mediante jeringa y aguja estéril. Este procedimiento minimiza la contaminación con la microbiota cutánea superficial y mantiene condiciones viables para bacterias anaerobias y aerobias."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 8,
+    "question": "De esta muestra se realiza un frotis con tinción de Gram. Considerando la frecuencia ¿Cuáles son los elementos celulares que espera encontrar en la observación microscópica?",
+    "answer": [
+      "Cocos Gram positivos y leucocitos polimorfonucleares"
+    ],
+    "options": [
+      "Cocos Gram positivos y leucocitos mononucleares",
+      "Bacilos Gram negativos y leucocitos mononucleares",
+      "Cocos Gram positivos y leucocitos polimorfonucleares",
+      "Bacilos Gram negativos y leucocitos polimorfonucleares"
+    ],
+    "discipline": "Bacterio",
+    "comment": "Las infecciones cutáneas abscedadas son causadas predominantemente por bacterias piógenas Gram positivas como Staphylococcus aureus o Streptococcus pyogenes. En el frotis directo se observa la respuesta inflamatoria aguda con abundantes polimorfonucleares (neutrófilos) y cocos Gram positivos."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 9,
+    "question": "Un aislamiento de Staphylococcus aureus recuperado de una celulitis abscedada, muestra ser resistente a cefoxitin y sensible al resto de los antibióticos evaluados en el antibiograma. En base a este resultado ¿Qué antibiótico podría utilizarse para el tratamiento de este paciente?",
+    "answer": [
+      "Trimetoprim sulfametoxazol"
+    ],
+    "options": [
+      "Cefradina",
+      "Ceftriaxona",
+      "Amoxicilina clavulánico",
+      "Trimetoprim sulfametoxazol"
+    ],
+    "discipline": "Bacterio",
+    "comment": "La resistencia a cefoxitina identifica a una cepa de Staphylococcus aureus resistente a la meticilina (SAMR), lo cual confiere resistencia cruzada a todos los betalactámicos (penicilinas, cefalosporinas e inhibidores). Por ende, se debe seleccionar una opción no betalactámica eficaz como trimetoprim-sulfametoxazol."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 10,
+    "question": "La siguiente tabla presenta los resultados obtenidos de susceptibilidad a antibióticos de una cepa de Staphylococcus aureus <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p10-2P-2024.PNG' alt=''> <br> ¿Cuál es el mecanismo que explica la resistencia observada?",
+    "answer": [
+      "Alteración del sitio blanco"
+    ],
+    "options": [
+      "Impermeabilidad",
+      "Bombas de eflujo",
+      "Inhibición enzimática",
+      "Alteración del sitio blanco"
+    ],
+    "discipline": "Bacterio",
+    "comment": "La resistencia a la meticilina/cefoxitina en S. aureus está mediada por la adquisición del gen mecA (o mecC), que codifica la proteína PBP2a. Esta enzima modificada tiene muy baja afinidad por los antibióticos betalactámicos, constituyendo un mecanismo de modificación o alteración del sitio blanco."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 11,
+    "question": "Un medio de cultivo muy utilizado en microbiología es el Agar MacConkey Lactosa ¿Cómo se clasifica este medio?",
+    "answer": [
+      "selectivo y diferencial"
+    ],
+    "options": [
+      "selectivo y rico",
+      "rico y cromogénico",
+      "selectivo y diferencial",
+      "cromogénico y diferencial"
+    ],
+    "discipline": "Bacterio",
+    "comment": "El Agar MacConkey es un medio selectivo porque contiene sales biliares y cristal violeta que inhiben a las bacterias Gram positivas, y es diferencial porque contiene lactosa y un indicador de pH (rojo neutro) que permite diferenciar las bacterias fermentadoras de lactosa (colonias rosadas) de las no fermentadoras (incoloras)."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 12,
+    "question": "A partir de un coprocultivo sembrado en Agar Mac Conkey lactosa, se observan predominantemente colonias incoloras. ¿A cuál de los siguientes agentes de diarrea pueden corresponder estas colonias?",
+    "answer": [
+      "Salmonella enterica"
+    ],
+    "options": [
+      "Salmonella enterica",
+      "Campylobacter jejuni",
+      "E. coli enteropatógena",
+      "E. coli productora de toxina Shiga"
+    ],
+    "discipline": "Bacterio",
+    "comment": "Las colonias incoloras en agar MacConkey corresponden a bacilos Gram negativos que no fermentan la lactosa (lactosa negativos). Entre las opciones, Salmonella enterica es una enterobacteria característicamente lactosa negativa, mientras que las cepas de E. coli son típicamente lactosa positivas."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 13,
+    "question": "Para la identificación de una cepa bacteriana recuperada en Mac Conkey Lactosa partir de un coprocultivo, ¿cuáles de las siguientes pruebas bioquímicas sería útil realizar?",
+    "answer": [
+      "Oxidasa, pruebas de TSI, MIO, y citrato"
+    ],
+    "options": [
+      "Catalasa, coagulasa y DNAsa",
+      "Catalasa y sensibilidad a la optoquina",
+      "Oxidasa, pruebas de TSI, MIO, y citrato",
+      "Oxidasa y pruebas de oxidación de glucosa y maltosa"
+    ],
+    "discipline": "Bacterio",
+    "comment": "Para la identificación bioquímica de enterobacterias desarrolladas en MacConkey, se descarta primero Pseudomonas mediante la prueba de oxidasa (negativa en Enterobacteriaceae) y luego se emplea la batería entérica clásica: TSI (fermentación de azúcares y H2S), MIO (movilidad, indol, ornitina) y prueba del citrato."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 14,
+    "question": "En un paciente con sospecha clínica de infección urinaria, se realiza una tira reactiva de orina, que da un resultado positivo para nitritos. ¿Cuál de los siguientes agentes sugiere este resultado?",
+    "answer": [
+      "Proteus mirabilis"
+    ],
+    "options": [
+      "Proteus mirabilis",
+      "Streptococcus agalactiae",
+      "Pseudomonas aeruginosa",
+      "Staphylococcus saprophyticus"
+    ],
+    "discipline": "Bacterio",
+    "comment": "La prueba de nitritos detecta la presencia de la enzima nitrato reductasa bacteriana, propia de la mayoría de las enterobacterias como Proteus mirabilis o E. coli. En cambio, bacterias Gram positivas (S. agalactiae, S. saprophyticus) o bacilos no fermentadores como P. aeruginosa no reducen los nitratos."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 15,
+    "question": "Frente a una sospecha clínica de infección del tracto urinario en un niño de 10 meses ¿en cuál de las siguientes situaciones se considerará significativo un recuento de 100 UFC/mL asegurando la bacteriuria?",
+    "answer": [
+      "Si la orina fue obtenida por punción suprapúbica y el cultivo es mono o polimicrobiano"
+    ],
+    "options": [
+      "Si la orina fue obtenida de chorro medio y el cultivo es polimicrobiano",
+      "Si la orina fue obtenida de chorro medio y el cultivo es monomicrobiano",
+      "Si la orina fue obtenida por punción suprapúbica y el cultivo es mono o polimicrobiano",
+      "Si la orina fue obtenida por cateterización vesical y el cultivo es mono o polimicrobiano"
+    ],
+    "discipline": "Bacterio",
+    "comment": "La punción suprapúbica es la técnica de recolección de orina más estéril y precisa en lactantes. Al evitar el paso por la uretra y los genitales externos, cualquier desarrollo bacteriano (incluso recuentos de 100 UFC/mL o menores) se considera clínicamente significativo."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 16,
+    "question": "¿Cuál de las siguientes combinaciones de medios de cultivo resulta adecuada para la siembra de un urocultivo realizado para diagnosticar una infección urinaria baja en una mujer joven?",
+    "answer": [
+      "Agar sangre y agar Mac Conkey lactosa"
+    ],
+    "options": [
+      "Agar SS y agar TSA",
+      "Agar sangre y agar SS",
+      "Agar Mac Conkey lactosa y agar TSA",
+      "Agar sangre y agar Mac Conkey lactosa"
+    ],
+    "discipline": "Bacterio",
+    "comment": "El diagnóstico de ITU requiere cubrir tanto bacilos Gram negativos (que se aislarán en el agar selectivo MacConkey) como cocos Gram positivos frecuentes en mujeres jóvenes (como Staphylococcus saprophyticus o Enterococcus spp., detectados en el medio no selectivo Agar Sangre)."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 17,
+    "question": "En el diagnóstico etiológico de la neumonia aguda de etiología bacteriana, ¿cuáles son las características microscópicas que debe tener una muestra de expectoración para que sea validada?",
+    "answer": [
+      "Presentar predominancia de células inflamatorias y escasas células epiteliales"
+    ],
+    "options": [
+      "Presentar un único tipo de morfología y coloración bacteriana",
+      "Presentar abundancia de células representativas de epitelio respiratorio",
+      "Presentar abundancia de células inflamatorias y un único tipo bacteriano",
+      "Presentar predominancia de células bacterianas y escasas células epiteliales",
+      "Presentar predominancia de células inflamatorias y escasas células epiteliales"
+    ],
+    "discipline": "Bacterio",
+    "comment": "Según los criterios de idoneidad microscópica (criterios de Murray-Washington), una muestra de esputo es válida para cultivo si procede del tracto respiratorio inferior, lo cual se constata en la tinción de Gram por la presencia de abundantes leucocitos polimorfonucleares (>25 por campo) y escasas células epiteliales escamosas de la orofaringe (<10 por campo)."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 18,
+    "question": "¿Cuál de las siguientes características se corresponde con la identificación de una cepa de Streptococcus pneumoniae?",
+    "answer": [
+      "Cocos gram positivos, catalasa negativos, alfa hemolíticos"
+    ],
+    "options": [
+      "Cocos gram positivos, catalasa negativos, alfa hemolíticos",
+      "Cocos gram positivos, catalasa positivos, beta hemolíticos",
+      "Cocos gram negativos, catalasa positivos, alfa hemolíticos",
+      "Cocos gram negativos, catalasa negativos, beta hemolíticos"
+    ],
+    "discipline": "Bacterio",
+    "comment": "Streptococcus pneumoniae (neumococo) es microbiológicamente un coco Gram positivo que se agrupa típicamente en diplococos lancetados, carece de la enzima catalasa (catalasa negativo) y produce una hemólisis incompleta o verdosa (alfa-hemólisis) en placas de Agar Sangre."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 19,
+    "question": "¿Que buscan determinar las pruebas inmunocromatográficas utilizadas en el diagnóstico de las infecciones respiratorias virales?",
+    "answer": [
+      "Antígenos virales en secreciones respiratorias"
+    ],
+    "options": [
+      "Antígenos virales en suero",
+      "Antígenos virales en orina",
+      "Anticuerpos específicos en suero",
+      "Antígenos virales en secreciones respiratorias",
+      "Anticuerpos específicos en secreciones respiratorias"
+    ],
+    "discipline": "Bacterio",
+    "comment": "Las pruebas de diagnóstico rápido por inmunocromatografía dirigidas a infecciones respiratorias virales agudas (como Influenza o Virus Sincitial Respiratorio) están diseñadas para detectar directamente antígenos de las proteínas virales presentes en las secreciones del tracto respiratorio (como hisopados o aspirados nasofaríngeos)."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 20,
+    "question": "¿Que mecanismo de acción comparten los antibióticos ampicilina, vancomicina y fosfomicina?",
+    "answer": [
+      "Inhibición de la pared celular"
+    ],
+    "options": [
+      "Inhibición de la pared celular",
+      "Inhibición de la síntesis proteica",
+      "Inhibición del enrollamiento del ADN",
+      "Inhibición de la síntesis del ácido fólico"
+    ],
+    "discipline": "Bacterio",
+    "comment": "Los tres antimicrobianos intervienen inhibiendo la síntesis del peptidoglicano de la pared celular bacteriana en distintas etapas: la fosfomicina inhibe el paso inicial (enzima MurA), la vancomicina bloquea la polimerización al unirse al D-Ala-D-Ala, y la ampicilina inhibe la transpeptidación terminal bloqueando las PBPs."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 21,
+    "question": "¿A que antibiótico betalactámico es sensible una E. coli que tiene como único mecanismo de resistencia una metalo carbapenemasa?",
+    "answer": [
+      "Aztreonam"
+    ],
+    "options": [
+      "Cefradina",
+      "Imipenem",
+      "Aztreonam",
+      "Ceftriaxona"
+    ],
+    "discipline": "Bacterio",
+    "comment": "Las metalo-beta-lactamasas (carbapenemasas de clase B de Ambler, como NDM o IMP) hidrolizan eficazmente penicilinas, cefalosporinas y carbapenémicos, pero carecen de actividad hidrolítica sobre los monobactámicos, por lo que la bacteria permanece sensible al aztreonam."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 22,
+    "question": "¿Qué clase de carbapenemasas puedo detectar mediante el test de sinergia entre los discos de imipenem y meropenem con ácido borónico?",
+    "answer": [
+      "Las de clase A tipo KPC-2"
+    ],
+    "options": [
+      "Las de clase A tipo KPC-2",
+      "Las de clase B tipo NDM-1",
+      "Las de clase D tipo OXA-48",
+      "Las de clase C tipo CMY-2"
+    ],
+    "discipline": "Bacterio",
+    "comment": "El ácido fenilborónico actúa como un inhibidor específico de las carbapenemasas pertenecientes a la Clase A de Ambler (como las enzimas tipo KPC-2), por lo que el aumento del halo de inhibición por sinergia confirma este tipo de enzima."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 23,
+    "question": "¿Qué colocación estratégica de discos debo poner para detectar inequívocamente la presencia deuna beta lactamasa de espectro extendido (BLEE.)?",
+    "answer": [
+      "Ceftriaxona-Amoxicilina clavulánico-Ceftazidime"
+    ],
+    "options": [
+      "Cefepime-EDTA-Ceftazidime",
+      "Ceftazidime-Ácido borónico-Meropenem",
+      "Ceftriaxona-Ceftazidime avibactam-Cefepime",
+      "Ceftriaxona-Amoxicilina clavulánico-Ceftazidime"
+    ],
+    "discipline": "Bacterio",
+    "comment": "Para la detección fenotípica de BLEE por sinergia en disco (huevo de pascua), se coloca estratégicamente un disco con inhibidor de beta-lactamasas (como Amoxicilina-Clavulánico) en el centro y, a 20-30 mm de distancia, discos de cefalosporinas de tercera generación (como Ceftriaxona y Ceftazidime)."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 24,
+    "question": "Por sospecha clínica y radiológica de tuberculosis pulmonar, se toma una muestra de expectoración. ¿Cuál de las siguientes pruebas presenta mayor sensibilidad?",
+    "answer": [
+      "Cultivo en medio Lowenstein Jensen",
+      "PCR (Gene expert) para detección de genes de M. tuberculosis complex"
+    ],
+    "options": [
+      "Cultivo en medio Lowenstein Jensen",
+      "Baciloscopía con tinción de Zhiel Neelsen",
+      "Baciloscopía con tinción fluorescente de auramina-O y rodamina",
+      "PCR (Gene expert) para detección de genes de M. tuberculosis complex"
+    ],
+    "discipline": "Bacterio",
+    "comment": "Las pruebas diagnósticas basadas en cultivo (como Löwenstein-Jensen) y las de amplificación molecular rápida (GeneXpert MTB/RIF) poseen la mayor sensibilidad para Mycobacterium tuberculosis, superando ampliamente el límite de detección de las técnicas baciloscópicas directas."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 25,
+    "question": "¿Cuál de los siguientes casos puede corresponder a una infección tuberculosa latente?",
+    "answer": [
+      "Un paciente asintomático, con radiografía normal y PPD positiva"
+    ],
+    "options": [
+      "Un paciente asintomático, con radiografía normal y PPD negativa",
+      "Un paciente asintomático, con radiografía normal y PPD positiva",
+      "Un paciente que presenta tos, radiografía patológica y PPD positiva",
+      "Un paciente que presenta tos, radiografía normal y baciloscopía positiva",
+      "Un paciente asintomático, con radiografía patológica y baciloscopía positiva"
+    ],
+    "discipline": "Bacterio",
+    "comment": "La Infección Tuberculosa Latente (ITBL) se define como un estado de respuesta inmunitaria persistente frente a antígenos de M. tuberculosis (PPD/tuberculina positiva o IGRA reactivo) en un individuo clínicamente asintomático, con estudio radiológico de tórax normal y sin evidencia bacteriológica de enfermedad activa."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 26,
+    "question": "¿Qué moléculas son correceptores en los linfocitos T CD4 positivos para el reconocimiento de las glicoproteína gp120 y gp 40 del virus de la inmunodeficiencia humana?",
+    "answer": [
+      "Receptores de quimioquinas CCR5 y CXCR4"
+    ],
+    "options": [
+      "Receptores de tipo Toll TLR4 y TLR5",
+      "Receptores de quimioquinas CCR5 y CXCR4",
+      "Receptores del complejo mayor de histocompatibilidad MHC-II"
+    ],
+    "discipline": "Bacterio",
+    "comment": "Durante el proceso de fijación y fusión del VIH a la célula blanco, la interacción primaria de la gp120 con la molécula CD4 induce un cambio conformacional que permite su acoplamiento con los correceptores obligatorios de quimioquinas: CCR5 (en cepas R5/macrofagotrópicas) o CXCR4 (en cepas X4/linfotrópicas)."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 27,
+    "question": "¿Cómo interpreta la carga viral indetectable para VIH en sangre en un paciente en tratamiento antirretroviral con serología reactiva para este virus?",
+    "answer": [
+      "La infección de este paciente no es transmisible en este momento"
+    ],
+    "options": [
+      "La infección se ha erradicado en este paciente",
+      "La infección de este paciente no es transmisible en este momento",
+      "Se encuentra en fallo virológico ya que aún no se negativiza la serología",
+      "Es un resultado discordante por lo que se debería realizar un tercer método diagnóstico"
+    ],
+    "discipline": "Bacterio",
+    "comment": "El concepto científico de 'Indetectable = Intransmisible' (I=I) establece que una persona con VIH en tratamiento antirretroviral que mantiene la carga viral en niveles indetectables en sangre de forma continua no transmite el virus por vía sexual. La serología sigue siendo positiva por memoria inmunológica."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 28,
+    "question": "Un paciente se encuentra ventilando espontáneamente, recibiendo oxigenoterapia mediante cánula nasal (a nivel del mar). La gasometría arterial evidencia: PaO2 55 mmHg, PaCO2 28 mmHg. ¿Cuál es el diagnóstico de insuficiencia respiratoria (IR) para este paciente?",
+    "answer": [
+      "Presenta una IR tipo I"
+    ],
+    "options": [
+      "Presenta una IR tipo I",
+      "Presenta una IR tipo II",
+      "No se puede establecer el diagnóstico sin conocer la edad",
+      "No se puede establecer el diagnóstico sin conocer la fracción inspirada de O2 exacta"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La Insuficiencia Respiratoria Tipo I (hipoxémica o parcial) se caracteriza por una disminución de la PaO2 por debajo de 60 mmHg acompañada de una PaCO2 normal o baja (hipocapnia, como los 28 mmHg presentados por hiperventilación adaptativa). La tipo II requiere hipercapnia (PaCO2 > 45 mmHg)."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 29,
+    "question": "¿Cuál de los siguientes mecanismos es el principal responsable de la hipoxemia durante una crisis asmática?",
+    "answer": [
+      "Baja relación V/Q"
+    ],
+    "options": [
+      "Baja relación V/Q",
+      "Shunt intrapulmonar",
+      "Trastorno de la difusión",
+      "Hipoventilación alveolar"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Durante la crisis asmática, la broncoconstricción heterogénea, la inflamación de la vía aérea y los tapones de moco generan áreas bien perfundidas pero mal ventiladas, resultando en unidades pulmonares con baja relación ventilación/perfusión (baja V/Q) como el principal mecanismo de hipoxemia."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 30,
+    "question": "¿Cuál de los siguientes mecanismos es el principal responsable de la hipoxemia en el edema pulmonar cardiogénico?",
+    "answer": [
+      "Shunt intrapulmonar"
+    ],
+    "options": [
+      "Baja relación V/Q",
+      "Shunt intrapulmonar",
+      "Trastorno de la difusión",
+      "Hipoventilación alveolar"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En el edema agudo de pulmón cardiogénico, el aumento de la presión hidrostática capilar provoca la trasudación de líquido hacia el espacio alveolar, inundando por completo los alvéolos. Esto crea áreas perfundidas pero no ventiladas (V/Q = 0), determinando un efecto de Shunt (cortocircuito) intrapulmonar verdadero."
+  },
+    {
+    "info_quest": "2do Parcial 2024",
+    "numb": 31,
+    "question": "Un paciente de 62 años, tabaquista intenso desde la infancia, con diagnóstico de enfermedad pulmonar obstructiva crónica (EPOC.) y enfisema pulmonar concurre a control con resultados de estudios espirométrico. ¿Qué alteraciones espera encontrar?",
+    "answer": [
+      "Limitación al flujo espiratorio"
+    ],
+    "options": [
+      "Relación VEF1/CVF > 70%",
+      "Limitación al flujo espiratorio",
+      "Descenso de la capacidad residual funcional",
+      "Aumento de las resistencias de vía aérea con respuesta significativa a broncodilatadores"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El sello fisiopatológico de la EPOC es la limitación persistente al flujo aéreo espiratorio, secundaria al estrechamiento de las vías aéreas y a la pérdida de retroceso elástico por la destrucción enfisematosa del parénquima. En la espirometría se traduce clásicamente por una relación VEF1/CVF post-broncodilatador < 70%."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 32,
+    "question": "¿Cómo esperaría encontrar el bucle flujo - volumen en un paciente con una patología obstructiva de la vía aérea?",
+    "answer": [
+      "Descenso del flujo espiratorio final"
+    ],
+    "options": [
+      "Descenso del flujo espiratorio final",
+      "Aumento de flujo espiratorio máximo",
+      "Descenso del flujo inspiratorio máximo",
+      "Aumento del flujo espiratorio esfuerzo dependiente"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En los patrones obstructivos, el vaciamiento pulmonar diferido y el colapso prematuro de las vías aéreas pequeñas durante la espiración provocan un cóncavo hacia arriba en la curva flujo-volumen espiratoria, caracterizado por una marcada reducción de los flujos espiratorios a volúmenes pulmonares bajos (flujo espiratorio final, ej. FEF25-75%)."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 33,
+    "question": "Un estudio de los volúmenes pulmonares informa una capacidad pulmonar total de 128% con respecto al valor esperado para ese paciente. ¿A qué patrón corresponde?",
+    "answer": [
+      "Hiperinsuflación pulmonar leve"
+    ],
+    "options": [
+      "Restricción pulmonar leve",
+      "Restricción pulmonar severa",
+      "Hiperinsuflación pulmonar leve",
+      "Hiperinsuflación pulmonar severa"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La Capacidad Pulmonar Total (CPT o TLC) por encima del límite superior de la normalidad (típicamente > 120% del valor teórico predicho) define la presencia de hiperinsuflación pulmonar. Un valor de 128% se categoriza dentro del grado leve/moderado."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 34,
+    "question": "En la siguiente tabla se detallan los parámetros de la mecánica ventilatoria en un paciente en condiciones basales (A) y luego de una intervención (B) <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p34-2P-2024.PNG' alt=''> <br> ¿Qué cambios se observan en la mecánica respiratoria?",
+    "answer": [
+      "La complacencia estática del sistema respiratorio desciende con respecto a la situación basal"
+    ],
+    "options": [
+      "Las resistencias totales de vía aérea aumentan",
+      "Las complacencia estática y dinámica cambian en sentidos opuestos.",
+      "Los cambios observados pueden corresponder con una obstrucción de la vía aérea superior",
+      "La complacencia estática del sistema respiratorio desciende con respecto a la situación basal"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Analizando la tabla de parámetros, el incremento en la presión meseta (plateau) para un mismo volumen corriente determina un aumento en el gradiente de presión estático, reflejando una clara disminución o descenso de la distensibilidad/complacencia estática (Cest = Vt / [Pmeseta - PEEP]) del sistema respiratorio."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 35,
+    "question": "En un paciente con un sindrome de distrés respiratorio agudo, ¿qué alterations mecánicas espera encontrar?",
+    "answer": [
+      "Descenso de la complacencia pulmonar"
+    ],
+    "options": [
+      "Descenso de la elastancia pulmonar",
+      "Descenso de la presión trans pulmonar",
+      "Descenso de la complacencia pulmonar",
+      "Descenso de las resistencias pulmonares totales"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El SDRA cursa con edema alveolar difuso, colapso de unidades alveolares e inactivación del surfactante ('pulmón pequeño' o 'baby lung'). Esto genera un marcado aumento de la elastancia pulmonar y, por ende, una caída o descenso drástico de la complacencia (distensibilidad) del sistema respiratorio."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 36,
+    "question": "¿Qué consecuencias tiene la depleción del surfactante pulmonar sobre la mecánica respiratoria?",
+    "answer": [
+      "Distribución heterogénea de la ventilación alveolar"
+    ],
+    "options": [
+      "Descenso del trabajo respiratorio",
+      "Descenso de la tensión superficial alveolar",
+      "Aumento de la complacencia del sistema respiratorio",
+      "Distribución heterogénea de la ventilación alveolar"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El surfactante disminuye la tensión superficial impidiendo el colapso alveolar (ley de Laplace). Su depleción incrementa la tensión superficial de forma desigual entre los alvéolos, provocando colapso/atelectasias regionales y una marcada heterogeneidad en las constantes de tiempo y la distribución de la ventilación alveolar."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 37,
+    "question": "La manifestación clínica de la sensibilización periférica es:",
+    "answer": [
+      "la alodinia",
+      "la hiperalgesia"
+    ],
+    "options": [
+      "la alodinia",
+      "la hiperalgesia",
+      "el dolor persistente",
+      "la respuesta exaggerated a estímulos repetitivos"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La sensibilización periférica resulta de la disminución del umbral de activación de los nociceptores debido a mediadores inflamatorios. Esto desencadena clínicamente tanto hiperalgesia (respuesta dolorosa aumentada a estímulos nocivos) como alodinia (dolor ante estímulos normalmente inicuos) en el sitio primario de la lesión."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 38,
+    "question": "En la anemia asociada a los procesos inflamatorios (anemia inflamatoria) se observa:",
+    "answer": [
+      "Una inhibición de la reabsorción del hierro a nivel intestinal"
+    ],
+    "options": [
+      "Un aumento de la eritropoyesis medular",
+      "Una disminución de los niveles de hepcidina",
+      "Una inhibición de la reabsorción del hierro a nivel intestinal",
+      "Un aumento de la liberación del hierro desde sus lugares de almacenamiento al plasma"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Durante la inflamación crónica, las citoquinas proinflamatorias (especialmente IL-6) estimulan la síntesis hepática de hepcidina. La hepcidina degrada la ferroportina en los enterocitos y macrófagos, bloqueando tanto la absorción/reabsorción intestinal del hierro como su liberación desde las reservas macrofágicas."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 39,
+    "question": "El siguiente gráfico muestra la curva de autorregulación de la circulación coronaria en un sujeto sano. ¿A qué corresponde el punto marcado en la figura? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p39-2P-2024.PNG' alt=''>",
+    "answer": [
+      "Al punto máximo de vasodilatación"
+    ],
+    "options": [
+      "Al punto máximo de vasodilatación",
+      "Al punto máximo de resistencia vascular coronaria",
+      "Al punto mínimo del calibre de las arteriolas coronarias"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En la curva de autorregulación flujo/presión coronaria, el límite inferior del rango de autorregulación (punto señalado a presiones de perfusión bajas) marca el límite donde los vasos coronarios han alcanzado la máxima vasodilatación metabólica/miogénica para intentar mantener el flujo constante."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 40,
+    "question": "Un paciente de 55 años, diabético, ingresa con insuficiencia renal aguda severa en el contexto de pielonefritis aguda. Se realiza la siguiente gasometría arterial. ¿Cuál es su diagnóstico gasométrico? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p40-2P-2024.PNG' alt=''>",
+    "answer": [
+      "Acidosis metabólica con respuesta adaptativa adecuada"
+    ],
+    "options": [
+      "Acidosis respiratoria con respuesta adaptativa adecuada",
+      "Acidosis metabólica con respuesta adaptativa adecuada",
+      "Alcalosis metabólica con respuesta adaptativa inadecuada",
+      "Alcalosis respiratoria aguda con respuesta adaptativa adecuada"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Se observa un pH ácido (< 7,35) determinado por una marcada reducción del bicarbonato sérico ([HCO3-]), lo cual confirma una Acidosis Metabólica. La pCO2 desciende compensatoriamente en la proporción esperada según la fórmula de Winter (pCO2 esperada = 1.5 x [HCO3-] + 8 ± 2), lo que indica una respuesta adaptativa respiratoria adecuada."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 41,
+    "question": "¿Cuál de las siguientes situaciones puede determinar una acidosis metabólica con agujero aniónico aumentado?",
+    "answer": [
+      "Shock"
+    ],
+    "options": [
+      "Shock",
+      "Diarrea",
+      "Vómitos"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El shock produce hipoperfusión tisular generalizada e hipoxia celular, derivando el metabolismo de la glucosa hacia la vía anaeróbica con acumulación de ácido láctico (acidosis láctica). El lactato es un anión no medido que incrementa el anión GAP o agujero aniónico."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 42,
+    "question": "¿Qué repercusiones fisiopatológicas puede tener la corrección de más de 12 mEq por día en una hiponatremia crónica?",
+    "answer": [
+      "Mielinolisis osmótica"
+    ],
+    "options": [
+      "Edema cerebral",
+      "Hipoosmolaridad",
+      "Mielinolisis osmótica"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En la hiponatremia crónica, el cerebro se adapta perdiendo osmolitos orgánicos. Si el sodio plasmático se eleva demasiado rápido (>10-12 mEq/L en 24h), el medio extracelular se vuelve hiperatractivo osmóticamente respecto al intracelular neural, provocando deshidratación neuronal masiva y desmielinización (síndrome de desmielinización osmótica / mielinolisis pontina central)."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 43,
+    "question": "¿Cuál de los siguientes constituye un estímulo no osmótico para la liberación de arginina vasopresina?",
+    "answer": [
+      "Hipovolemia"
+    ],
+    "options": [
+      "Hipovolemia",
+      "Hipocloremia",
+      "Hipopotasemia"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La secreción de hormona antidiurética (AVP o ADH) por la neurohipófisis es regulada primordialmente por la osmolaridad plasmática. No obstante, situaciones de depleción de volumen arterial efectivo (hipovolemia) estimulan su liberación independientemente de la osmolaridad a través de barorreceptores arteriales y cardiopulmonares (estímulo hemodinámico/no osmótico)."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 44,
+    "question": "¿Cuál de los siguientes son factores de perpetuación de una alcalosis metabólica?",
+    "answer": [
+      "Hipocloremia e hipovolemia"
+    ],
+    "options": [
+      "Hipopotasemia e hipoxia",
+      "Hipocloremia e hipovolemia",
+      "Hipocloremia e hipoosmolaridad"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Para que se mantenga una alcalosis metabólica, el riñón debe verse impedido de excretar el exceso de HCO3-. La hipovolemia (que activa el SRAA aumentando la reabsorción de sodio y HCO3-) y la hipocloremia (que limita la secreción renal de bicarbonato al carecer del anión Cl- para el intercambiador Pendrina) son factores clave de mantenimiento o perpetuación."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 45,
+    "question": "¿Cuál de las siguientes situaciones determina un movimiento de potasio desde el compartimento extracelular al intracelular produciendo hipopotasemia?",
+    "answer": [
+      "Alcalosis metabólica"
+    ],
+    "options": [
+      "Hiperosmolaridad",
+      "Alcalosis metabólica",
+      "Uso de betabloqueantes"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En situaciones de alcalosis metabólica, la disminución del H+ extracelular genera una salida de H+ del medio intracelular hacia el extracelular para amortiguar el pH, contrarrestada fisiológicamente por la entrada de potasio (K+) a la célula mediante el intercambiador H+/K+, lo que determina hipopotasemia por translocación."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 46,
+    "question": "¿Cuál de las siguientes situaciones determina una disminución de la excreción de potasio produciendo hiperpotasemia?",
+    "answer": [
+      "Uso Inhibidores de la enzima conversora de angiotensina II"
+    ],
+    "options": [
+      "Uso Beta 2 adrenérgicos inhalados",
+      "Tratamiento con insulinas de larga duración",
+      "Tratamiento con diuréticos tiazídicos y de asa",
+      "Uso Inhibidores de la enzima conversora de angiotensina II"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Los IECA inhiben la síntesis de angiotensina II y, de forma secundaria, suprimen la secreción adrenal de aldosterona (hipoaldosteronismo secundario). La falta de aldosterona disminuye la expresión y actividad de las bombas Na+/K+ ATPasa y canales ENaC/ROMK en el túbulo colector, reduciendo la excreción renal de K+ e induciendo hiperpotasemia."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 47,
+    "question": "¿Cuáles de las siguientes características farmacocinéticas de las benzodiacepinas es correcta?",
+    "answer": [
+      "Lorazepam posee metabolismo hepático principalmente por conjugación."
+    ],
+    "options": [
+      "Diazepam presenta latencia intermedio y vida media prolongada.",
+      "Midazolam posee latencia intermedia con vida media prolongada.",
+      "Flunitrazepam se metaboliza primordialmente por glucuronidación.",
+      "Lorazepam posee metabolismo hepático principalmente por conjugación."
+    ],
+    "discipline": "Farmaco",
+    "comment": "El lorazepam pertenece al grupo de las benzodiacepinas que no sufren oxidación previa por citocromos hepáticos (fase I), sino que se metabolizan directamente por glucuronoconjugación (fase II), lo que las hace seguras en ancianos o pacientes con insuficiencia hepática."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 48,
+    "question": "¿Qué efecto adverso podría observarse con los antipsicóticos que presentan efecto antagonista sobre receptores muscarínicos?",
+    "answer": [
+      "Sequedad bucal"
+    ],
+    "options": [
+      "Somnolencia",
+      "Sequedad bucal",
+      "Vasoconstricción"
+    ],
+    "discipline": "Farmaco",
+    "comment": "El bloqueo de los receptores muscarínicos (anticolinérgico) por parte de ciertos antipsicóticos inhibe la secreción parasimpática glandular, manifestándose clínicamente con sequedad bucal (xerostomía), visión borrosa, estreñimiento y retención urinaria."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 49,
+    "question": "¿Cuál de los siguientes grupos farmacológicos actúa como modulador alostérico positivo?",
+    "answer": [
+      "Benzodiacepinas"
+    ],
+    "options": [
+      "Anticolinérgicos",
+      "Benzodiacepinas",
+      "Betabloqueantes",
+      "Antiinflamatorios no esteroideos"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Las benzodiacepinas se unen a un sitio alostérico específico en el receptor GABA_A (distinto al sitio de unión del GABA), aumentando la frecuencia de apertura del canal de cloro inducida por GABA, funcionando fisiológicamente como moduladores alostéricos positivos."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 50,
+    "question": "¿Cuál de las siguientes características determinan que se establezca la interacción de un fármaco con su receptor?",
+    "answer": [
+      "Afinidad."
+    ],
+    "options": [
+      "Afinidad.",
+      "Potencia.",
+      "Especificidad.",
+      "Actividad intrínseca."
+    ],
+    "discipline": "Farmaco",
+    "comment": "La afinidad es la capacidad fisicoquímica intrínseca que tiene un fármaco para unirse o fijarse a un receptor específico y formar el complejo fármaco-receptor. La actividad intrínseca, por el contrario, condiciona la capacidad de activarlo tras la unión."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 51,
+    "question": "¿Cual de las siguientes opciones es correcta en relación a la regulación receptorial?",
+    "answer": [
+      "La desensibilización es la pérdida de la respuesta frente a la acción de un agonista."
+    ],
+    "options": [
+      "La hipersensibilidad es la reducción de la afinidad de un receptor por su ligando.",
+      "Los cambios receptoriales generalmente se producen en condiciones fisiológicas.",
+      "La desensibilización es la pérdida de la respuesta frente a la acción de un agonista."
+    ],
+    "discipline": "Farmaco",
+    "comment": "La desensibilización receptorial (taquifilaxia o tolerancia aguda) es la disminución o pérdida progresiva de la respuesta biológica celular ante la presencia continua o reiterada de una misma concentración de un agonista."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 52,
+    "question": "¿Cuál de los siguientes efectos adversos se asocia al uso de morfina?",
+    "answer": [
+      "Hipertonía muscular."
+    ],
+    "options": [
+      "Diarrea.",
+      "Midriasis.",
+      "Hipertonía muscular.",
+      "Hipertensión arterial."
+    ],
+    "discipline": "Farmaco",
+    "comment": "Los opioides como la morfina provocan hipertonía del músculo liso gastrointestinal y esfínteres (causando estreñimiento), miosis pupilar, y a nivel neuromuscular central pueden inducir rigidez muscular / hipertonía muscular en administraciones a dosis elevadas."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 53,
+    "question": "¿Cuál de las siguientes es la principal diferencia entre morfina y tramadol?",
+    "answer": [
+      "El tipo de agonismo"
+    ],
+    "options": [
+      "La potencia",
+      "El tipo de agonismo",
+      "El grupo terapéutico",
+      "La vía de administración"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La morfina es un agonista puro potente de los receptores opioides mu (µ). El tramadol, además de presentar un agonismo mu débil, posee un mecanismo de acción dual único al inhibir la recaptación de monoaminas (noradrenalina y serotonina), difiriendo en su perfil y tipo de agonismo antinociceptivo."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 54,
+    "question": "¿Cuál de las siguientes propiedades farmacocinéticas respecto a morfina es correcta?",
+    "answer": [
+      "La principal vía de metabolización es por glucuronidación."
+    ],
+    "options": [
+      "La absorción por vía oral es mayor a 80%.",
+      "Los metabolitos de la morfina son inactivos.",
+      "La mayor fracción de morfina se excreta por las heces.",
+      "La principal vía de metabolización es por glucuronidación."
+    ],
+    "discipline": "Farmaco",
+    "comment": "El metabolismo de la morfina es predominantemente hepático por glucuronoconjugación (Fase II), generando principalmente morfina-3-glucurónido (M3G, inactivo/neurotóxico) y morfina-6-glucurónido (M6G, metabólicamente activo y analgésico)."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 55,
+    "question": "¿Cuál es el principal mecanismo por el que los fármacos atraviesan las membranas celulares?",
+    "answer": [
+      "Difusión pasiva"
+    ],
+    "options": [
+      "Acuaporinas",
+      "Difusión pasiva",
+      "Transporte activo",
+      "Difusión facilitada"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La difusión pasiva simple a través de la bicapa lipídica es el mecanismo cuantitativamente más frecuente e importante por el cual la gran mayoría de las moléculas farmacológicas liposolubles y no ionizadas atraviesan las membranas biológicas."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 56,
+    "question": "A partir del experimento mostrado en la figura, donde se comparan diferentes fármacos agonistas y el efecto que éstos presentan sobre el porcentaje de aumento del volumen eyectado ¿Cuál de los fármacos presenta mayor potencia? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p56y57-2P-2024.PNG' alt=''>",
+    "answer": [
+      "Fármaco A"
+    ],
+    "options": [
+      "Fármaco A",
+      "Fármaco B",
+      "Fármaco C"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La potencia farmacológica se evalúa según la concentración o dosis necesaria para alcanzar un determinado efecto (EC50). En las curvas dosis-respuesta, la curva del Fármaco A está desplazada más hacia la izquierda, lo que indica que requiere menores dosis para alcanzar el 50% de su efecto máximo."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 57,
+    "question": "Con relación al gráfico ¿Cuál de los fármacos agonistas presenta menor actividad intrínseca? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p56y57-2P-2024.PNG' alt=''>",
+    "answer": [
+      "Fármaco C"
+    ],
+    "options": [
+      "Fármaco A",
+      "Fármaco B",
+      "Fármaco C"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La actividad intrínseca (alfa) determina el efecto máximo (Emax) o la eficacia máxima que un agonista puede alcanzar. En el gráfico, el Fármaco C tiene la menor altura máxima en la curva de respuesta (menor Emax), comportándose como un agonista parcial con menor actividad intrínseca."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 58,
+    "question": "¿Cuál de las siguientes situaciones puede observarse cómo consecuencia de la inducción enzimática del metabolismo de un fármaco?",
+    "answer": [
+      "Si tiene metabolitos inactivos, disminuye la intensidad y/o la duración del efecto"
+    ],
+    "options": [
+      "La intensidad y/o duración del efecto se ven inalteradas en cualquier situación",
+      "Si se trata de un profármaco, disminuye la intensidad y/o la duración del efecto",
+      "Si tiene metabolitos inactivos, disminuye la intensidad y/o la duración del efecto",
+      "Si tiene metabolitos inactivos, la intensidad y/o la duración del efecto se ven incrementadas"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La inducción enzimática aumenta la velocidad de biotransformación del fármaco. Si el fármaco original es activo y se degrada a metabolitos inactivos, su aclaramiento (clearance) aumenta y su vida media disminuye, resultando en una reducción de la intensidad y/o duración de su efecto farmacológico."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 59,
+    "question": "Teniendo en cuenta bases farmacocinéticas de la dosis carga, la misma permite en la práctica clínica:",
+    "answer": [
+      "Alcanzar una concentración terapéutica rápidamente"
+    ],
+    "options": [
+      "Disminuir la dosis diaria total",
+      "Aumentar el intervalo interdosis",
+      "Alcanzar una concentración terapéutica rápidamente"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La dosis de carga (o choque) se administra para llenar rápidamente el volumen de distribución del fármaco y lograr de manera inmediata la concentración plasmática en estado de equilibrio dentro del rango terapéutico, evitando esperar de 4 a 5 vidas medias."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 60,
+    "question": "Luego de una interacción de la radiación electromagnética con la materia a través del efecto fotoeléctrico, el átomo queda desbalanceado energéticamente. ¿Cuál es la forma más probable de que el átomo vuelva a un estado energético más estable?",
+    "answer": [
+      "Por emisión de rayos X característicos"
+    ],
+    "options": [
+      "Por fusión con otro átomo",
+      "Por emisión de rayos X característicos",
+      "Por reacción con otros átomos del medio",
+      "Por expulsión de un electrón y un positrón del núcleo"
+    ],
+    "discipline": "Biofisica",
+    "comment": "Al eyectarse un electrón de una capa profunda durante el efecto fotoeléctrico, se genera una vacante. El salto de electrones de capas superiores para llenar este hueco libera el exceso de energía principalmente en forma de fotones de rayos X característicos (o mediante electrones Auger)."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 61,
+    "question": "Analizando el efecto biológico de radiaciones de diferente naturaleza, como radiación gamma y radiación alfa, con igual nivel de energía se observa un daño biológico diferente. ¿En que se basa esta diferencia en el daño biológico producido?",
+    "answer": [
+      "La radiación alfa tiene una mayor transferencia lineal de energía"
+    ],
+    "options": [
+      "La radiación alfa tiene menos poder de ionización en la distancia",
+      "La radiación alfa tiene una mayor transferencia lineal de energía",
+      "La radiación gamma distribuye la energía más densamente en la distancia",
+      "La radiación gamma tiene menor penetración con alta densidad de ionización"
+    ],
+    "discipline": "Biofisica",
+    "comment": "La Transferencia Lineal de Energía (LET) mide la energía depositada por unidad de longitud de trayectoria. Las partículas alfa son radiación de alta LET (densa ionización), lo que causa un daño biológico/celular mucho más severo y concentrado que la radiación gamma (baja LET)."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 62,
+    "question": "Frente a la curva de sobrevida mostrada en la figura, que describe una evolución de la fracción de sobrevida con la dosis de radiación de tipo lineal-cuadrático, ¿cuál de los siguientes parámetros representa la probabilidad por unidad de dosis y por célula de inducir rotura de doble cadena por el pasaje del mismo haz de radiación? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p62-2P-2024.PNG' alt=''>",
+    "answer": [
+      "Coeficiente alfa"
+    ],
+    "options": [
+      "Coeficiente alfa",
+      "Coeficiente beta",
+      "Dosis letal media",
+      "Relación alfa/beta",
+      "Número de extrapolación"
+    ],
+    "discipline": "Biofisica",
+    "comment": "En el modelo lineal-cuadrático de sobrevida celular S = exp(-alpha*D - beta*D^2), el coeficiente alfa representa la componente lineal (daño por un solo evento de radiación que causa roturas de doble cadena irreparables), mientras que beta representa el daño por acumulación de dos impactos independientes."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 63,
+    "question": "¿De qué depende el nivel de contraste entre diferentes tejidos en la formación de imágenes radiológicas (RX simple.)?",
+    "answer": [
+      "del número atómico en una relación Z3"
+    ],
+    "options": [
+      "del aumento de energía",
+      "del número atómico en una relación Z3",
+      "de la interacción con el campo eléctrico del núcleo",
+      "de la interacción con electrones pobremente ligados al núcleo"
+    ],
+    "discipline": "Biofisica",
+    "comment": "El contraste en radiología convencional se debe predominantemente a las diferencias en la absorción fotoeléctrica entre tejidos. La probabilidad del efecto fotoeléctrico varía proporcionalmente con el cubo del número atómico (Z^3) del material cruzado."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 64,
+    "question": "En la atenuación del ultrasonido (ecografía), la energía transportada dentro del cuerpo puede disminuir por:",
+    "answer": [
+      "La difracción, reflexión, absorción y refracción"
+    ],
+    "options": [
+      "La mayor velocidad de la onda",
+      "La distancia y frecuencia del transductor",
+      "La difracción, reflexión, absorción y refracción"
+    ],
+    "discipline": "Biofisica",
+    "comment": "La atenuación ecográfica es la pérdida progresiva de intensidad de la onda acústica a medida que se propaga por el tejido biológico, consecuencia combinada de la absorción (conversión en calor), reflexión, refracción, dispersión (scattering) y difracción."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 65,
+    "question": "Los efectos biológicos de las radiaciones ionizantes pueden clasificarse en estocásticos y determinísticos. ¿Cuál de las siguientes opciones describe correctamente las características del efecto estocástico?",
+    "answer": [
+      "no tiene umbral de dosis, la severidad no depende de la dosis y puede ocurrir con una sola exposición"
+    ],
+    "options": [
+      "genera muerte celular a largo plazo, tiene fase de latencia y genera síndrome hematopoyético",
+      "presenta relación clara entre dosis y efecto, la severidad aumenta con la dosis y tiene dosis umbral",
+      "se manifested a corto plazo, induce la muerte celular a corto plazo y necesita de varias exposiciones",
+      "no tiene umbral de dosis, la severidad no depende de la dosis y puede ocurrir con una sola exposición",
+      "la probabilidad de manifestación no varía con la dosis, no hay relación clara dosis efecto y genera muerte celular"
+    ],
+    "discipline": "Biofisica",
+    "comment": "Los efectos estocásticos (como el cáncer inducido por radiación) son probabilísticos: no poseen umbral de dosis (cualquier exposición comporta riesgo), la probabilidad de aparición aumenta con la dosis pero la severidad del daño es independiente de la dosis recibida."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 66,
+    "question": "¿Cuál de los siguientes es el efecto más común de la exposición a radiación ionizante durante el tercer trimestre del embarazo?",
+    "answer": [
+      "cáncer en la infancia"
+    ],
+    "options": [
+      "microcefalia",
+      "retraso mental",
+      "cáncer en la infancia",
+      "nacimiento prematuro",
+      "muerte fetal intrauterina"
+    ],
+    "discipline": "Biofisica",
+    "comment": "Durante el tercer trimestre del embarazo, la organogénesis ya está completa, por lo que el principal riesgo biológico de la exposición in útero a la radiación ionizante es de tipo estocástico: la inducción de malignidades o cánceres durante la infancia (leucemias e tumores sólidos)."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 67,
+    "question": "La radiación ionizante puede causar varios tipos de daños en el ADN. ¿Cuál de los siguientes mecanismos de reparación es más adecuado para reparar las roturas de doble cadena causadas por este tipo de radiación?",
+    "answer": [
+      "Unión de extremos no homólogos (NHEJ)"
+    ],
+    "options": [
+      "Reparación por escisión de bases (BER)",
+      "Unión de extremos no homólogos (NHEJ)",
+      "Reparación de bases mal apareadas (MMR)",
+      "Reparación por escisión de nucleótidos (NER)"
+    ],
+    "discipline": "Biofisica",
+    "comment": "Las roturas de doble cadena de ADN (DSB) son la lesión letal característica producida por la radiación ionizante. La vía de Unión de Extremos No Homólogos (NHEJ) es el principal y más rápido mecanismo celular para religar estas roturas en el genoma mamífero."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 68,
+    "question": "Usando ciertos tipos de blindajes se puede atenuar la intensidad de las radiaciones electromagnéticas ionizantes. En este contexto ¿que significado tiene la capa hemireductora?",
+    "answer": [
+      "es el espesor al cual se logra disminuir al 50% la intensidad de radiación"
+    ],
+    "options": [
+      "es el espesor al cual se logra disminuir al 10% la intensidad de radiación",
+      "es el espesor al cual se logra disminuir al 50% la intensidad de radiación",
+      "es el tiempo en el cual se logra disminuir al 10% la intensidad de radiación",
+      "es el tiempo en el cual se logra disminuir al 50% la intensidad de radiación"
+    ],
+    "discipline": "Biofisica",
+    "comment": "La Capa Hemireductora (CHR o HVL - Half-Value Layer) de un material absorbente se define como el grosor/espesor necesario de dicho material para reducir la intensidad de un haz de radiación incidente a la mitad (50%) de su valor inicial."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 69,
+    "question": "La biodosimetría permite estimar la dosis de radiación absorbida en personas expuestas a radiaciones ionizantes ya sea de manera accidental, ocupacional o terapéutica. ¿Qué técnica permite estimar exposiciones agudas a dosis elevadas 10 años atrás?",
+    "answer": [
+      "Técnica FISH"
+    ],
+    "options": [
+      "Ensayo G2",
+      "Técnica FISH",
+      "Análisis de doble roturas de ADN",
+      "Recuento de anillos de cromosomas"
+    ],
+    "discipline": "Biofisica",
+    "comment": "La hibridación in situ con fluorescencia (FISH) permite detectar aberraciones cromosómicas estables como las translocaciones recíprocas, las cuales se heredan a través de las divisiones celulares y persisten en la sangre periférica durante décadas, convirtiéndose en el método retrospectivo de elección a largo plazo."
+  },
+  {
+    "info_quest": "2do Parcial 2024",
+    "numb": 70,
+    "question": "¿Cuál es el objetivo principal de la optimización en radioprotección?",
+    "answer": [
+      "Mantener las dosis tan bajas como razonablemente sea posible"
+    ],
+    "options": [
+      "Utilizar barreras de protección",
+      "Reducir el tiempo de exposición",
+      "Aumentar la distancia de la fuente de radiación",
+      "Mantener las dosis tan bajas como razonablemente sea posible"
+    ],
+    "discipline": "Biofisica",
+    "comment": "El principio de optimización en protección radiológica se sintetiza bajo el criterio ALARA ('As Low As Reasonably Achievable'), el cual establece que todas las exposiciones a la radiación deben mantenerse tan bajas como sea razonablemente posible, considerando factores económicos y sociales."
+  },
+
+
+
+/////////////////////////////////////////////////////
+
+
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 1,
+    "question": "Cuál de los siguientes antibióticos es el que con mayor frecuencia puede producir enterocolitis por Clostridium difficile?",
+    "answer": [
+      "Clindamicina."
+    ],
+    "options": [
+      "Clindamicina.",
+      "Claritromicina.",
+      "Nitrofurantoina.",
+      "Trimetoprima sulfametoxazol."
+    ],
+    "discipline": "Farmaco",
+    "comment": "Aunque múltiples antibióticos de amplio espectro pueden causar esta complicación, la clindamicina es históricamente el antimicrobiano clásicamente asociado a un alto riesgo relativo de colitis pseudomembranosa por Clostridioides difficile debido a la alteración profunda de la flora intestinal."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 2,
+    "question": "Cuál de los siguientes grupos de antibióticos debe evitarse en población pediátrica por su potencial vínculo con inhibición del crecimiento cartilaginoso?",
+    "answer": [
+      "Fluoroquinolonas."
+    ],
+    "options": [
+      "Macrólidos.",
+      "Sulfonamidas.",
+      "Lincosamidas.",
+      "Fluoroquinolonas."
+    ],
+    "discipline": "Farmaco",
+    "comment": "Las fluoroquinolonas están contraindicadas de forma rutinaria en niños y adolescentes en desarrollo debido al riesgo demostrado en modelos animales de artropatía y toxicidad sobre el cartílago de crecimiento."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 3,
+    "question": "Cuál de los siguientes antibióticos actúa inhibiendo la síntesis proteica al actuar sobre los ribosomas bacterianos?",
+    "answer": [
+      "Clindamicina."
+    ],
+    "options": [
+      "Bacitracina.",
+      "Vancomicina.",
+      "Clindamicina.",
+      "Trimetoprim-sulfametoxazol."
+    ],
+    "discipline": "Farmaco",
+    "comment": "La clindamicina se une a la subunidad 50S del ribosoma bacteriano e inhibe la síntesis proteica (translocación). La bacitracina y vancomicina inhiben la pared celular, mientras que TMP-SMX interfiere en la síntesis de folatos."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 4,
+    "question": "a causa más frecuente de síndrome de Cushing es el uso por tiempo prolongado de glucocorticoides por vía sistémica. Un elemento clínico característico es la redistribución de grasa corporal, con aumento de la misma en algunos sectores del cuerpo, como por ejemplo:",
+    "answer": [
+      "Sector posterior del cuello (giba de búfalo)."
+    ],
+    "options": [
+      "Sector posterior del cuello (giba de búfalo).",
+      "Sector distal de los cuatro miembros (obesidad centrífuga).",
+      "Sector proximal de miembros superiores (piernas de gacela)."
+    ],
+    "discipline": "Farmaco",
+    "comment": "El hipercortisolismo genera una redistribución centrípeta de la grasa corporal, acumulándola típicamente en la región dorsocervical ('giba de búfalo'), la zona facial ('cara de luna llena') y las fosas supraclaviculares."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 5,
+    "question": "Cuál de los siguientes es el fármaco que se utiliza como referencia para comparar la potencia de acción antiinflamatoria de los diferentes glucocorticoides?",
+    "answer": [
+      "Hidrocortisona."
+    ],
+    "options": [
+      "Prednisona.",
+      "Fluticasona.",
+      "Hidrocortisona.",
+      "Fludrocortisona."
+    ],
+    "discipline": "Farmaco",
+    "comment": "La hidrocortisona (cortisol) es el estándar fisiológico con valor arbitrario asignado de 1, sirviendo como patrón de comparación para determinar la potencia antiinflamatoria relativa del resto de los corticoides."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 6,
+    "question": "Mebendazole es un benzimidazol útil para el tratamiento de parasitosis. Señale cuál:",
+    "answer": [
+      "Oxiurosis."
+    ],
+    "options": [
+      "Oxiurosis.",
+      "Giardiasis.",
+      "Hidatidosis.",
+      "Pediculosis."
+    ],
+    "discipline": "Farmaco",
+    "comment": "El mebendazol es un antihelmíntico indicado en infecciones intestinales por nematodos como la oxiurosis (Enterobius vermicularis), donde actúa inhibiendo la polimerización de tubulina en las células del parásito."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 7,
+    "question": "Cuál es el mecanismo de acción por el cual algunos antiinflamatorios no esteroideos producen efecto uricosúrico?",
+    "answer": [
+      "Inhibición del transporte desde la luz tubular"
+    ],
+    "options": [
+      "Inhibición de la enzima xantina oxidasa",
+      "Activación selectiva de la xantina oxidasa",
+      "Antagonismo de receptores de aldosterona",
+      "Inhibición del transporte desde la luz tubular"
+    ],
+    "discipline": "Farmaco",
+    "comment": "A dosis altas, determinados AINEs (como el ácido acetilsalicílico o la sulfinpirazona) bloquean los transportadores de aniones orgánicos en el túbulo proximal (ej. URAT1), impidiendo la reabsorción de urato desde la luz tubular y favoreciendo su excreción renal."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 8,
+    "question": "Marque la afirmación correcta respecto a las acciones farmacológicas de paracetamol:",
+    "answer": [
+      "Carece de efecto antiagregante plaquetario."
+    ],
+    "options": [
+      "Posee efecto analgésico tan potente como el de codeína.",
+      "Carece de efecto antiagregante plaquetario.",
+      "Tiene efecto antiséptico a dosis elevadas.",
+      "Carece de efectos a nivel renal."
+    ],
+    "discipline": "Farmaco",
+    "comment": "El paracetamol inhibe la COX principalmente en el SNC y en ambientes pobres en peróxidos; al no inhibir de forma eficaz la COX-1 plaquetaria periférica, carece de propiedades antiagregantes plaquetarias."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 9,
+    "question": "Cuál es el mecanismo de acción de los antihistamínicos sobre los receptores H1?",
+    "answer": [
+      "Son agonistas inversos."
+    ],
+    "options": [
+      "Son agonistas inversos.",
+      "Son agonistas parciales.",
+      "Son antagonistas puros.",
+      "Son antagonistas irreversibles."
+    ],
+    "discipline": "Farmaco",
+    "comment": "Farmacológicamente, los antihistamínicos H1 actúan como agonistas inversos: se unen al receptor H1 y estabilizan su conformación inactiva, reduciendo su actividad constitutiva basal."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 10,
+    "question": "¿Cuál es la tríada clínica clásica que permite sospechar una intoxicación por opioides en un varón de 25 años que es traído por amigos a la emergencia?",
+    "answer": [
+      "Estupor, miosis, depresión respiratoria."
+    ],
+    "options": [
+      "Miosis, taquipnea, diarrea.",
+      "Coma, taquicardia, midriasis.",
+      "Estupor, miosis, depresión respiratoria.",
+      "Constipación, midriasis, excitación psicomotriz."
+    ],
+    "discipline": "Farmaco",
+    "comment": "El toxíndrome opioide clásico está definido por la tríada de depresión del sistema nervioso central (estupor/coma), miosis pupilar puntiforme y depresión respiratoria (hipoventilación)."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 12,
+    "question": "¿Cómo se evidencia que una persona tiene dependencia física a analgésicos opioides?",
+    "answer": [
+      "Aparece síndrome de abstinencia si suspende el uso."
+    ],
+    "options": [
+      "Aparece síndrome de abstinencia si suspende el uso.",
+      "Porque tiene pupilas puntiformes y con reactividad lenta.",
+      "Requiere del uso de antagonistas para finalizar la acción.",
+      "Por la tolerancia a su efecto aumenta paulatinamente la dosis."
+    ],
+    "discipline": "Farmaco",
+    "comment": "La dependencia física es una adaptación neurobiológica manifestada de forma directa por el desarrollo de un síndrome de abstinencia característico ante la supresión brusca del fármaco o la administración de un antagonista."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 13,
+    "question": "¿Cuál de los siguientes analgésicos opioides es más potente?",
+    "answer": [
+      "Fentanilo."
+    ],
+    "options": [
+      "Morfina.",
+      "Codeína.",
+      "Tramadol.",
+      "Fentanilo."
+    ],
+    "discipline": "Farmaco",
+    "comment": "El fentanilo es un agonista sintético de receptores opioides mu con una potencia analgésica unas 80 a 100 veces superior a la de la morfina."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 14,
+    "question": "¿Cuál es el efecto farmacológico del ácido acetilsalicílico que aparece utilizando dosis tan bajas como 100 mg/día en adultos?",
+    "answer": [
+      "Antiagregante plaquetario."
+    ],
+    "options": [
+      "Analgésico.",
+      "Antipirético.",
+      "Antiinflamatorio.",
+      "Antiagregante plaquetario."
+    ],
+    "discipline": "Farmaco",
+    "comment": "A dosis bajas (75-100 mg/día), la aspirina inhibe de forma irreversible y selectiva la COX-1 plaquetaria, bloqueando la producción de tromboxano A2 (TXA2) de por vida de la plaqueta."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 15,
+    "question": "¿Cuál de los siguientes es el mecanismo de acción de las benzodiazepinas?",
+    "answer": [
+      "Modulación alostérica positiva de receptores GABAA"
+    ],
+    "options": [
+      "Agonista parcial de receptores GABAB",
+      "Antagonista de los receptores opioides mu",
+      "Modulación alostérica positiva de receptores GABAA",
+      "Modulación alostérica positiva de receptores B1 adrenérgicos"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Las benzodiazepinas se unen a un sitio alostérico específico en el receptor GABAA, facilitando la acción del GABA y aumentando la frecuencia de apertura de los canales de cloro."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 16,
+    "question": "¿Cuál de las siguientes benzodiazepinas se metaboliza por conjugación con ácido glucurónico sin previa oxidorreducción?",
+    "answer": [
+      "Lorazepam"
+    ],
+    "options": [
+      "Diazepam",
+      "Alprazolam",
+      "Lorazepam",
+      "Clonazepam"
+    ],
+    "discipline": "Farmaco",
+    "comment": "El lorazepam pertenece al grupo 'LOT' (Lorazepam, Oxazepam, Temazepam), las cuales se metabolizan directamente mediante glucuronidación hepática de fase II sin requerir oxidación previa por el citocromo P450."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 17,
+    "question": "Señale cuál es el mecanismo de acción de difenilhidantoína:",
+    "answer": [
+      "Actúa a través del bloqueo de canales de sodio."
+    ],
+    "options": [
+      "Inhibe la recaptación de noradrenalina.",
+      "Es un potente antagonista muscarínico.",
+      "Actúa a través del bloqueo de canales de sodio.",
+      "Genera modulación alostérica de canales de calcio."
+    ],
+    "discipline": "Farmaco",
+    "comment": "La difenilhidantoína (fenitoína) bloquea los canales de sodio dependientes de voltaje en su estado inactivo, reduciendo la descarga neuronal repetitiva sostenida."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 18,
+    "question": "¿Cuál de los siguientes fármacos anticonvulsivantes es útil por vía intravenosa para yugular crisis convulsivas?",
+    "answer": [
+      "Diazepam."
+    ],
+    "options": [
+      "Diazepam.",
+      "Topiramato.",
+      "Lamotrigina.",
+      "Carbamazepina."
+    ],
+    "discipline": "Farmaco",
+    "comment": "Las benzodiazepinas endovenosas como el diazepam son de primera elección para la terminación aguda de crisis convulsivas prolongadas y el estatus epiléptico."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 19,
+    "question": "La hiperplasia hepática compensadora tras una hepatectomía parcial, tiene como una de sus principales señales químicas a:",
+    "answer": [
+      "IL-6"
+    ],
+    "options": [
+      "IL-1",
+      "IL-6",
+      "IL-4",
+      "IL-12"
     ],
     "discipline": "AnatoP",
-    "comment": "",
+    "comment": "La interleucina 6 (IL-6), liberada por las células de Kupffer, junto con el TNF-alfa, es esencial en la fase inicial de 'sensibilización' para que los hepatocitos pasen del estado de reposo G0 a la fase G1 del ciclo celular."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 20,
+    "question": "La calcificación patológica se puede reconocer histológicamente como:",
+    "answer": [
+      "Estructuras redondeadas laminares basófilas"
+    ],
+    "options": [
+      "Estructuras redondeadas laminares basófilas",
+      "Vacuolas intracitoplasmáticas ópticamente claras",
+      "Depósito amorfo intracelular de coloración eosinófila",
+      "Gránulos parduzcos intracitoplasmáticos que rodean al núcleo"
+    ],
+    "discipline": "AnatoP",
+    "comment": "En los cortes teñidos con H&E, las sales de calcio se aprecian basófilas (azules/moradas), amorfas o con disposición concéntrica/laminar (cuerpos de psamoma)."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 21,
+    "question": "La metaplasia epitelial más frecuente es aquella en la que ocurre la sustitución de un epitelio de tipo:",
+    "answer": [
+      "cilíndrico por uno escamoso"
+    ],
+    "options": [
+      "escamoso por uno cilíndrico",
+      "cilíndrico por uno escamoso",
+      "cilíndrico por uno pseudo estratificado",
+      "pseudo estratificado por uno escamoso",
+      "pseudo estratificado por uno cilíndrico"
+    ],
+    "discipline": "AnatoP",
+    "comment": "La metaplasia escamosa (sustitución de epitelio cilíndrico o pseudoestratificado por plano estratificado) es el patrón adaptativo metaplásico más común, observado típicamente en el aparato respiratorio de fumadores."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 22,
+    "question": "¿Qué tipo de necrosis puede provocar el depósito de complejos antígenoanticuerpo?",
+    "answer": [
+      "Necrosis fibrinoide"
+    ],
+    "options": [
+      "Necrosis grasa",
+      "Necrosis caseosa",
+      "Necrosis fibrinoide",
+      "Necrosis licuefactiva",
+      "Necrosis coagulativa"
+    ],
+    "discipline": "AnatoP",
+    "comment": "La necrosis fibrinoide se produce clásicamente por reacciones inmunitarias que afectan a las paredes arteriales (vasculitis), donde la acumulación de complejos antígeno-anticuerpo y fibrina adopta un aspecto eosinófilo brillante ('fibrinoide')."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 23,
+    "question": "¿A que tipo corresponde la hiperplasia endometrial y cual es su mecanismo patogénico?",
+    "answer": [
+      "Es de tipo patológica y se debe a un aumento de los estrógenos"
+    ],
+    "options": [
+      "Es de tipo fisiológica y se debe a un aumento células inflamatorias",
+      "Es de tipo fisiológica y se debe a un aumento de los progestágenos",
+      "Es de tipo patológica y se debe a un aumento de los estrógenos",
+      "Es de tipo patológica y se debe a una infección viral, como la de HPV"
+    ],
+    "discipline": "AnatoP",
+    "comment": "La hiperplasia endometrial es un proceso patológico resultante de la estimulación estrogénica no compensada por progesterona, promoviendo la proliferación desmedida de las glándulas endometriales."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 24,
+    "question": "¿Cuál de las siguientes lesiones presenta una cicatrización en la que se observa abundante tejido de granulación?",
+    "answer": [
+      "Absceso encefálico",
+      "Lesión de pie diabético"
+    ],
+    "options": [
+      "Absceso encefálico",
+      "Lesión de pie diabético",
+      "Infarto agudo de miocardio",
+      "Lesión pulmonar por neumonia aguda"
+    ],
+    "discipline": "AnatoP",
+    "comment": "Pregunta con respuesta doble/ambigua en pauta oficial. Las úlceras tisulares profundas (como en el pie diabético) cicatrizan por segunda intención mediante un lecho prominente de tejido de granulación; del mismo modo, los abscesos parenquimatosos (como el encefálico) desarrollan una pared circundante de tejido de granulación vascularizado antes del proceso gliótico."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 25,
+    "question": "En la inflamación crónica, además de macrófagos y linfocitos, ¿Qué otro tipo celular resulta fundmental?",
+    "answer": [
+      "Plasmocitos"
+    ],
+    "options": [
+      "Plaquetas",
+      "Eosinófilos",
+      "Neutrófilos",
+      "Plasmocitos"
+    ],
+    "discipline": "AnatoP",
+    "comment": "El infiltrado mononuclear de la inflamación crónica está característicamente constituido por macrófagos, linfocitos y células plasmáticas (plasmocitos) productoras de anticuerpos."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 26,
+    "question": "¿Cuál de las siguientes enfermedades infecciosas presenta característicamente inflamación crónica?",
+    "answer": [
+      "Tuberculosis"
+    ],
+    "options": [
+      "Tuberculosis",
+      "Infección urinaria alta",
+      "Endocarditis bacteriana",
+      "Neumonia neumococcica"
+    ],
+    "discipline": "AnatoP",
+    "comment": "La tuberculosis es la patología modelo de inflamación crónica de patrón granulomatoso, inducida por la persistencia tisular de Mycobacterium tuberculosis."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 27,
+    "question": "¿Cuál es la principal característica histológica de los granulomas?",
+    "answer": [
+      "Presentar macrófagos activados con una corona de linfocitos en la periferia"
+    ],
+    "options": [
+      "Presentar un centro necrótico",
+      "Presentar un centro colagénico eosinófilo",
+      "Presentar macrófagos activados con una corona de linfocitos en la periferia",
+      "Presentar endotelio de tipo reactivo con una abundante red de estructuras vasculares"
+    ],
+    "discipline": "AnatoP",
+    "comment": "Un granuloma es una agregación microscópica de macrófagos activados (células epitelioides) rodeados por un collar de linfocitos mononucleares y células plasmáticas."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 28,
+    "question": "Un paciente con trauma grave de cráneo se encuentra sedado, en coma y con monitoreo invasivo de la presión intracraneana (PIC). Se registra un aumento de los valores de PIC de 18 a 30mmHg. Asumiendo que el paciente presenta autorregulación conservada y la presión arterial media se mantiene constante en 100mmHg ¿Qué espera que ocurra en la hemodinamia intracraneana?",
+    "answer": [
+      "Aumento de la vasodilatación arterial cerebral"
+    ],
+    "options": [
+      "Aumento de la presión de perfusión cerebral",
+      "Aumento del volumen de líquido cefalorraquídeo",
+      "Aumento de la vasodilatación arterial cerebral",
+      "Aumento de la velocidad de flujo sanguíneo cerebral"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La Presión de Perfusión Cerebral es PPC = PAM - PIC. Al elevarse la PIC de 18 a 30 mmHg con PAM fija en 100 mmHg, la PPC disminuye de 82 a 70 mmHg. Para preservar el flujo sanguíneo cerebral constante, los mecanismos de autorregulación provocan una vasodiltación arterial reflexiva."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 29,
+    "question": "Luego de un ataque cerebro vascular de causa isquémica, ¿qué cambios espera que ocurran en la zona de penumbra isquémica?",
+    "answer": [
+      "Descenso del flujo sanguíneo regional"
+    ],
+    "options": [
+      "Aumento del consumo de oxígeno",
+      "Descenso de la extracción de oxígeno",
+      "Descenso del flujo sanguíneo regional",
+      "Aumento de la actividad eléctrica neuronal"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La zona de penumbra isquémica presenta una disminución metabólica crítica del flujo sanguíneo regional, cayendo por debajo del umbral funcional pero permaneciendo por encima del umbral de necrosis metabólica irreversible."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 30,
+    "question": "¿Cuál de las siguientes medidas puede aplicarse para tratar la hipertensión endocraneana?",
+    "answer": [
+      "Vasoconstricción arterial cerebral"
+    ],
+    "options": [
+      "Aporte de agua libre parenteral",
+      "Vasoconstricción arterial cerebral",
+      "Descenso de la cabecera de la cama del paciente",
+      "Aumento de la temperatura corporal (hipertermia)"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Inducir vasoconstricción cerebral (por ejemplo mediante hiperventilación aguda que disminuye la PaCO2) reduce el volumen sanguíneo cerebral intracraneal, ayudando a controlar picos agudos de hipertensión endocraneana."
+  },
+    {
+    "info_quest": "3er Parcial 2023",
+    "numb": 31,
+    "question": "Señale cuál de los siguientes mecanismos está involucrado en la hipertensión pulmonar tromboembólica crónica:",
+    "answer": [
+      "Microangiopatía vascular por hiperflujo y postobstructiva"
+    ],
+    "options": [
+      "Hipoxia",
+      "Disminución de la apoptosis",
+      "Microangiopatía vascular por hiperflujo y postobstructiva"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La HPTEC no solo se debe a la obstrucción mecánica de grandes vasos por trombos organizados, sino también al desarrollo de una microangiopatía secundaria en los lechos no obstruidos (sometidos a hiperflujo y altas presiones) y en las zonas postobstructivas."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 32,
+    "question": "En un paciente con alta probabilidad por ecocardiografía de hipertensión pulmonar se obtienen los siguientes valores del cateterismo cardíaco derecho en reposo: PAPm 55 mmHg, IC 2.0 L/min/m2, PAOP 9 mmHg, superficie corporal de 1.7 m2. Luego de realizada una prueba de vasoreactividad aguda, se obtiene una PAPm de 44 mmHg y un IC 2.0. En función de estos resultados, la hipertensión que presenta este paciente se trata de una:",
+    "answer": [
+      "hipertensión arterial pulmonar",
+      "hipertensión pulmonar precapilar con test de vasorreactividad negativo"
+    ],
+    "options": [
+      "hipertensión arterial pulmonar",
+      "hipertensión pulmonar postcapilar combinada",
+      "hipertensión pulmonar precapilar con test de vasorreactividad negativo"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Pregunta ambigua con dos opciones correctas. Con una PAPm > 20 mmHg y una PAOP ≤ 15 mmHg se define el patrón precapilar (HAP / Grupo 1). La prueba de vasorreactividad es negativa porque la PAPm descendió 11 mmHg pero no alcanzó el valor absoluto ≤ 40 mmHg requerido por definición para considerarse positiva."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 33,
+    "question": "¿Cuál es el perfil hemodinámico más frecuente en la insuficiencia cardíaca aguda (ICA)?",
+    "answer": [
+      "Caliente y húmedo"
+    ],
+    "options": [
+      "Frío y seco",
+      "Frío y húmedo",
+      "Caliente y seco",
+      "Caliente y húmedo"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Según la clasificación clínica de Nohria-Stevenson, el perfil 'caliente y húmedo' (perfusión conservada pero con signos de congestión pulmonar y/o sistémica) representa más del 70-80% de las presentaciones de insuficiencia cardíaca aguda."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 34,
+    "question": "Cuál de las siguientes es una consecuencia de la congestión pulmonar y sistémica asociada a la insuficiencia cardíaca aguda?",
+    "answer": [
+      "Ileo intestinal",
+      "Aumento de la bilirubina directa"
+    ],
+    "options": [
+      "Ileo intestinal",
+      "Aumento de la bilirubina directa",
+      "Disminución del espacio muerto fisiológico pulmonar",
+      "Disminución de la diferencia alvéolo-capilar de oxígeno"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Pregunta ambigua con dos opciones válidas. La congestión pasiva sistémica produce edema de la pared intestinal favoreciendo el íleo paralítico/hipomotilidad, y la congestión venosa hepática (hígado de estasis) condiciona colestasis pasiva con elevación predominantemente de la bilirrubina directa."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 35,
+    "question": "En el síndrome cardiohepático asociado a la ICA ¿cuál es un biomarcador de función hepática?",
+    "answer": [
+      "La concentración plasmática de albúmina"
+    ],
+    "options": [
+      "La proteína C reactiva",
+      "La concentración plasmática de albúmina",
+      "La concentración plasmática de la alanino aminotransferasa",
+      "La concentración plasmática de la gama-glutamil transferasa"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La concentración de albúmina refleja la capacidad biosintética (función) del parénquima hepático, a diferencia de transaminasas (ALT) o enzimas de colestasis (GGT) que evalúan injuria celular o daño estructural."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 36,
+    "question": "¿Cuál de los siguientes estados fisiopatológicos se presentan en la isquemia músculo cardíaco?",
+    "answer": [
+      "El hibernamiento miocárdico determinado por la disminución crónica del flujo sanguíneo coronario en reposo."
+    ],
+    "options": [
+      "El postacondicionamiento isquémico que determina un aumento del área de necrosis.",
+      "El hibernamiento miocárdico determinado por la disminución crónica del flujo sanguíneo coronario en reposo.",
+      "El preacondicionamiento isquémico que genera mayor producción de especies reactivas del oxígeno y daño miocárdico en situaciones de isquemia ulterior."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El miocardio hibernado es un estado de disfunción contráctil crónica autorregulada que adopta el cardiomiocito para adaptarse a una reducción sostenida del flujo coronario en reposo, siendo reversible tras la revascularización."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 37,
+    "question": "¿Cuál de las siguientes situaciones puede determinar un descenso en la reserva de flujo sanguíneo coronario?",
+    "answer": [
+      "Disfunción microvascular coronaria."
+    ],
+    "options": [
+      "Menor masa ventricular total.",
+      "Disfunción microvascular coronaria.",
+      "Menor flujo sanguíneo basal en reposo.",
+      "Aumento de los niveles de hemoglobina."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La reserva de flujo coronario mide la capacidad del lecho coronario para aumentar el flujo ante un estímulo vasodilatador máximo. La disfunción estructural o funcional de la microcirculación limita esta capacidad de vasodilatación arteriolar."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 38,
+    "question": "¿Cuál de los siguientes cambios fisiopatológicos corresponden a la insuficiencia cardíaca crónica (ICC)?",
+    "answer": [
+      "El descenso en la complacencia pulmonar por congestión pulmonar."
+    ],
+    "options": [
+      "El descenso en la complacencia pulmonar por congestión pulmonar.",
+      "La presencia de insuficiencia mitral funcional que reduce la dilatación ventricular izquierda.",
+      "La disnea de esfuerzo que se produce únicamente en pacientes con ICC con FEVI reducida."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La congestión venocapilar pasiva crónica y el edema en el intersticio pulmonar rigidizan el parénquima alveolar, disminuyendo la complacencia (distensibilidad) pulmonar y aumentando el trabajo respiratorio."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 39,
+    "question": "¿Cuál de los siguientes cambios celulares pueden ocurrir en el desarrollo de la ICC?",
+    "answer": [
+      "El miocito insuficiente aumenta su rigidez por oxidación de la titina producto del aumento de las especies reactivas del oxígeno."
+    ],
+    "options": [
+      "El miocito insuficiente utiliza con mayor eficiencia los ácidos grasos como fuente de energía.",
+      "La apoptosis como mecanismo de muerte celular no es un fenómeno de importancia en la progresión de la ICC.",
+      "El miocito insuficiente aumenta su rigidez por oxidación de la titina producto del aumento de las especies reactivas del oxígeno.",
+      "La liberación espontánea de Ca2+ por los receptores de rianodina (RyR) del retículo sarcoplásmico en diástole se encuentra disminuida en la ICC."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En la ICC, el estrés oxidativo aumentado induce modificaciones postraduccionales e hiperoxidación de la titina (proteína gigante del sarcómero), aumentando la tensión pasiva y la rigidez miocárdica diastólica."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 40,
+    "question": "¿Cuál de los siguientes cambios neuro humorales participa en la progresión del remodelado ventricular en la ICC?",
+    "answer": [
+      "El aumento de las citoquinas proinflamatorias."
+    ],
+    "options": [
+      "Aumento de los péptidos natriureticos",
+      "El aumento de las citoquinas proinflamatorias.",
+      "El descenso de los niveles de hormona anti diurética.",
+      "El antagonismo de los receptores de mineralocorticoides (espironolactona/eplerenona) que potencian el efecto profibrótico de la aldosterona."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Las citoquinas proinflamatorias (como TNF-alfa, IL-1 e IL-6) están crónicamente elevadas en la ICC e inducen fibrosis intersticial, hipertrofia anómala, disfunción contráctil y apoptosis de cardiomiocitos, favoreciendo el remodelado."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 41,
+    "question": "¿Qué factor puede modificar el punto de corte de presión arterial para el diagnóstico de hipertensión arterial (HTA)?",
+    "answer": [
+      "La presencia de comorbilidades",
+      "El cambio en el método de medición"
+    ],
+    "options": [
+      "El sedentarismo",
+      "La presencia de comorbilidades",
+      "El cambio en el método de medición",
+      "El descenso del índice de masa corporal del paciente"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Pregunta ambigua con dos opciones correctas. Los puntos de corte cambian según la técnica empleada (ej. tomados en consultorio ≥140/90 mmHg vs AMPA/MAPA ≥130/80 mmHg) y según el riesgo vascular/comorbilidades de las guías clínicas (ej. presencia de diabetes o enfermedad renal)."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 42,
+    "question": "¿Cuál de los siguientes es un mecanismo de daño renal determinado por la HTA?",
+    "answer": [
+      "Hipoperfusión renal por engrosamiento de la arteriola aferente."
+    ],
+    "options": [
+      "Aumento de la reabsorción de agua libre a nivel renal.",
+      "Hipoperfusión renal por engrosamiento de la arteriola aferente.",
+      "Descenso de la proteinuria por aumento de la permeabilidad vascular.",
+      "Fibrosis glomerular por descenso mantenido de la presión intra glomerular."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La HTA persistente provoca arteriolosclerosis hialina e hiperplásica con engrosamiento parietal y reducción del lumen en la arteriola aferente, derivando en isquemia renal crónica y nefroangiosclerosis."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 43,
+    "question": "¿Qué cambios del endotelio vascular pueden favorecer el desarrollo de HTA?",
+    "answer": [
+      "Reducción en la síntesis de óxido nítrico determinando un efecto proliferativo de las células musculares lisas."
+    ],
+    "options": [
+      "Menor inactivación de óxido nítrico determinando un efecto vasoconstrictor.",
+      "Aumento de la sensibilidad del músculo liso vascular al efecto del óxido nítrico.",
+      "Reducción en la síntesis de óxido nítrico determinando un efecto proliferativo de las células musculares lisas."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El óxido nítrico es un potente vasodilatador e inhibidor fisiológico del crecimiento muscular liso. Su reducción no solo favorece el vasospasmo, sino también la proliferación vascular y el remodelado de la pared de las arteriolas."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 44,
+    "question": "¿Cuál de los siguientes trastornos del equilibrio ácido -base es más frecuente observar en la insuficiencia renal severa?",
+    "answer": [
+      "Acidosis metabólica"
+    ],
+    "options": [
+      "Acidosis metabólica",
+      "Alcalosis metabólica",
+      "Acidosis respiratoria",
+      "Alcalosis respiratoria"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La pérdida de masa nefronal avanzada deteriora la excreción de protones (H+), la síntesis de amonio y la reabsorción de bicarbonato, derivando típicamente en una acidosis metabólica."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 45,
+    "question": "¿Cuál es el nivel de filtrado glomerular aproximado en el cuál comienza a ascender la creatinina plasmática por encima de los valores considerados como normales?",
+    "answer": [
+      "50%"
+    ],
+    "options": [
+      "80%",
+      "70%",
+      "50%",
+      "30%"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Debido a la relación exponencial (curva hiperbólica) entre la tasa de filtrado glomerular (TFG) y la creatinina sérica, esta última suele mantenerse en el rango de normalidad hasta que la TFG disminuye aproximadamente un 50%."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 46,
+    "question": "¿Cuál de los siguientes efectos hemodinámicos puede precipitar una injuria renal aguda en situaciones de hipovolemia con los fármacos que inhiben la acción de la angiotensina II (inhibidores de la enzima conversora de angiotensina)?",
+    "answer": [
+      "Vasodilatación de la arteriola eferente"
+    ],
+    "options": [
+      "Vasodilatación de la arteriola aferente",
+      "Vasodilatación de la arteriola eferente",
+      "Vasoconstricción de la arteriola aferente",
+      "Vasoconstricción de la arteriola eferente"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Ante la hipovolemia, la TFG se sostiene mediante la vasoconstricción compensadora de la arteriola eferente mediada por angiotensina II. Bloquear esta vía con IECA/ARA-II induce vasodilatación eferente, desplomando la presión intraglomerular de filtración."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 47,
+    "question": " ¿Cuál de los siguientes factores determina un aumento de la presión intraglomerular?",
+    "answer": [
+      "Dieta hiperproteica"
+    ],
+    "options": [
+      "Hipotensión arterial",
+      "Alcalosis metabólica",
+      "Dieta hiperproteica"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Las dietas ricas en proteínas inducen vasodilatación de la arteriola aferente renal mediada por la carga de aminoácidos y la retroalimentación tubuloglomerular, lo cual incrementa el flujo capilar y la presión intraglomerular (hiperfiltración)."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 48,
+    "question": "¿Cuál de los siguientes factores en la enfermedad renal crónica estimula la secreción de hormona partiroidea produciendo hiperparatiroidismo secundario?",
+    "answer": [
+      "Hipocalcemia"
+    ],
+    "options": [
+      "Hipoglicemia",
+      "Hipocalcemia",
+      "Hipofosforemia",
+      "Hipopotasemia"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La retención de fosfato y el déficit de 1,25-(OH)2-vitamina D3 en la ERC disminuyen el calcio sérico; esta hipocalcemia estimula de forma directa los receptores sensibles a calcio (CaSR) paratiroideos, gatillando el hiperparatiroidismo secundario."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 49,
+    "question": "¿Cuál es el efecto sistémico del indoxil sultato en le enfermedad renal crónica?",
+    "answer": [
+      "Aumento del riesgo cardiovascular"
+    ],
+    "options": [
+      "Aumento de la hormona antidiurética",
+      "Aumento del riesgo cardiovascular",
+      "Aumento de compromiso digestivo con diarrea",
+      "Actúa como antioxidante como efecto que contrarresta la inflamación"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El indoxil sulfato es una toxina urémica ligada a proteínas que promueve disfunción endotelial, estrés oxidativo, remodelación vascular y calcificación vascular, incrementando significativamente la morbimortalidad cardiovascular."
+  },
+  {
+    "info_quest": "3er Parcial 2023",
+    "numb": 50,
+    "question": "En el paciente cirrótico, una ascitis se considera complicada cuando se acompaña de:",
+    "answer": [
+      "una peritonitis bacteriana espontánea."
+    ],
+    "options": [
+      "una hipernatremia.",
+      "una hipogammaglobulinemia.",
+      "un síndrome hepatopulmonar.",
+      "una peritonitis bacteriana espontánea."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La ascitis complicada abarca aquellas situaciones clínicas donde el líquido asfíctico se infecta (Peritonitis Bacteriana Espontánea) o cuando la ascitis resulta refractaria al tratamiento médico estándar o se asocia a síndrome hepatorrenal."
+  },
+
+
+/////////////////////////////////////////////////////
+
+
+   {
+        "info_quest": "3er Parcial 2024",
+        "numb": 1,
+        "question": "Un hombre de 72 años con antecedentes de cardiopatía isquémica es ingresado por insuficiencia cardíaca aguda con edema periférico, disnea y ortopnea. <br> De la paraclínica inicial Creatinina sérica: 2.8 mg/dL (previa conocida: 1.2 mg/dL). <br> Se inicia tratamiento con diuréticos intravenosos y soporte inotrópico, y la creatinina a los 3 días del ingreso es de 1.3 mg/dl. <br> ¿Qué tipo de injuria renal aguda presentó el paciente?",
+        "answer": ["Pre-renal"],
+        "options": [
+            "Pre-renal",
+            "Post-renal",
+            "Rarenquimatosa de etiología isquémica"
+        ],
+        "discipline": "Fisiopato",
+        "comment": "La rápida reversibilidad de la falla renal (normalización de la creatinina a sus valores basales en pocos días) al optimizar el gasto cardíaco y la perfusión renal con diuréticos e inotrópicos confirma un origen funcional/prerrenal (síndrome cardiorrenal tipo 1), sin daño parenquimatoso establecido."
     },
     {
-    "info_quest": "3er Parcial 2024",
-    "numb": 51,
-    "question": "En las primeras horas tras una injuria sobre un tejido, el tejido de granulación:",
-    "answer": ["sufre una proliferación endotelial marcada"],
-    "options": [
-    "no sufre modificaciones",
-    "sufre una proliferación endotelial marcada",
-    "se compone principalmente de tejido fibroso y no muestra actividad vascular",
-    ],
-    "discipline": "AnatoP",
-    "comment": "",
+        "info_quest": "3er Parcial 2024",
+        "numb": 2,
+        "question": "¿Cuál de los siguientes fármacos puede agravar la injuria renal aguda isquémica por hipovolemia?",
+        "answer": ["Inhibidores de la enzima convertidora de angiotensina"],
+        "options": [
+            "Antagonistas de los canales de calcio",
+            "Antagonistas de los receptores beta-adrenérgicos",
+            "Inhibidores de la enzima convertidora de angiotensina"
+        ],
+        "discipline": "Fisiopato",
+        "comment": "Los IECA bloquean la síntesis de angiotensina II, aboliendo la vasoconstricción compensatoria de la arteriola eferente (mecanismo clave para mantener la presión intraglomerular en hipoperfusión), lo que precipita un descenso severo de la tasa de filtrado glomerular en estados de hipovolemia."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 3,
+        "question": "¿Cuánto tiempo suele demorar en mejorar la función renal en un paciente con necrosis tubular aguda isquémica, una vez resuelta la causa subyacente?",
+        "answer": ["7 a 21 días"],
+        "options": [
+            "24 a 48 horas",
+            "7 a 21 días",
+            "4 a 6 semanas",
+            "Más de 3 meses"
+        ],
+        "discipline": "Fisiopato",
+        "comment": "A diferencia de la injuria prerrenal, la Necrosis Tubular Aguda (NTA) implica daño estructural del epitelio tubular. El proceso de reparación, de-diferenciación y proliferación celular para restaurar la arquitectura tubular requiere típicamente entre 1 y 3 semanas (7 a 21 días)."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 4,
+        "question": "¿Cuánto debe disminuir el filtrado glomerular (FG) para que los niveles de creatinina sérica superen los valores normales?",
+        "answer": ["50% del FG normal"],
+        "options": [
+            "10% del FG normal",
+            "50% del FG normal",
+            "75% del FG normal",
+            "90% del FG normal"
+        ],
+        "discipline": "Fisiopato",
+        "comment": "Debido a la relación hiperbólica entre la creatinina sérica y el filtrado glomerular (FG), la concentración de creatinina se mantiene dentro de los límites de referencia normales hasta que se pierde aproximadamente el 50% de la función renal."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 5,
+        "question": "¿Cuál de los siguientes factores puede contribuir a la hiperfiltración glomerular y a la progresión de la enfermedad renal crónica?",
+        "answer": ["Obesidad"],
+        "options": [
+            "Obesidad",
+            "Dieta hipoproteica",
+            "Restricción calórica estricta",
+            "Uso de inhibidores de la enzima convertidora de angiotensina (IECA)"
+        ],
+        "discipline": "Fisiopato",
+        "comment": "La obesidad induce vasodilitación de la arteriola aferente e incremento del flujo sanguíneo renal y de la presión intraglomerular, provocando hiperfiltración glomerular compensatoria que, mantenida en el tiempo, desencadena glomeruloesclerosis y progresión del daño renal."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 6,
+        "question": "¿Qué ocurre con los podocitos durante la progresión de la enfermedad renal crónica?",
+        "answer": ["Disminuyen en número por apoptosis y desprendimiento."],
+        "options": [
+            "Se regeneran a partir de células madre",
+            "Aumentan en número para compensar el daño.",
+            "Aumentan el espesor para resistir el estrés mecánico",
+            "Disminuyen en número por apoptosis y desprendimiento."
+        ],
+        "discipline": "Fisiopato",
+        "comment": "Los podocitos son células terminalmente diferenciadas con capacidad mitótica casi nula. Ante el estrés mecánico (hiperfiltración) o la agresión metabólica sostenida en la ERC, sufren apoptosis y se desprenden hacia el espacio de Bowman, comprometiendo la barrera de filtración."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 7,
+        "question": "Indique cuál de los siguientes trastornos del medio interno es uno de los principales mecanismos de daño neurológico secundario en la práctica clínica:",
+        "answer": ["Hiponatremia"],
+        "options": [
+            "Hiponatremia",
+            "Hipocalcemia",
+            "Hipopotasemia",
+            "Hipomagnesemia"
+        ],
+        "discipline": "Fisiopato",
+        "comment": "La hiponatremia reduce la osmolaridad del espacio extracelular, favoreciendo el paso de agua al interior de las células cerebrales por gradiente osmótico. Esto acentúa el edema cerebral citotóxico e incrementa la presión intracraneana, configurando un factor clave de injuria secundaria."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 8,
+        "question": "En un sector de parénquima cerebral injuriado con autorregulación abolida, ¿cuál de los siguientes fenómenos puede dar lugar a hipertensión endocraneana por hiperflujo cerebral?",
+        "answer": ["Hipertensión arterial"],
+        "options": [
+            "Hipotermia",
+            "Hipocapnia",
+            "Hipotensión arterial",
+            "Hipertensión arterial"
+        ],
+        "discipline": "Fisiopato",
+        "comment": "Al abolirse la autorregulación vascular cerebral, el flujo sanguíneo pasa a ser dependiente de forma pasiva y lineal de la presión arterial sistémica. Así, la hipertensión arterial eleva abruptamente el volumen sanguíneo cerebral, causando hiperflujo e hipertensión endocraneana."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 9,
+        "question": "La hiperventilación es una medida efectiva para reducir la hipertensión endocraneana, ¿sobre qué parámetro actúa para ejercer este efecto?",
+        "answer": ["La presión parcial de CO2 arterial"],
+        "options": [
+            "El metabolismo cerebral",
+            "La temperatura sistémica",
+            "La presión arterial sistémica",
+            "La presión parcial de CO2 arterial"
+        ],
+        "discipline": "Fisiopato",
+        "comment": "La hiperventilación disminuye la PaCO2 (hipocapnia), lo cual provoca una rápida vasoconstricción de las arteriolas cerebrales sensibles al CO2. Esto reduce el volumen sanguíneo cerebral y genera una pronta caída de la presión intracraneana."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 10,
+        "question": "En la insuficiencia cardíaca crónica, ¿cómo se encuentran típicamente los niveles de endotelina?",
+        "answer": ["Aumentados, contribuyendo a la progresión de la enfermedad."],
+        "options": [
+            "Disminuidos, debido a la vasodilatación compensatoria.",
+            "Normales, ya que no se altera su regulación en esta condición.",
+            "Aumentados, contribuyendo a la progresión de la enfermedad."
+        ],
+        "discipline": "Fisiopato",
+        "comment": "En la insuficiencia cardíaca crónica, la activación neurohormonal estimula la síntesis de endotelina-1 (un potente vasoconstrictor y factor pro-remodelativo), lo que incrementa la poscarga vascular y favorece la hipertrofia y fibrosis miocárdica."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 11,
+        "question": "En la insuficiencia cardíaca con fracción de eyección del ventrículo izquierdo (FEVI) preservada, ¿cómo se encuentra la presión diastólica final del ventrículo izquierdo?",
+        "answer": ["Aumentada, debido a la disfunción diastólica del ventrículo izquierdo."],
+        "options": [
+            "Disminuida, debido a una relajación ventricular adecuada.",
+            "Normal, debido a la ausencia de alteraciones diastólicas.",
+            "Aumentada, debido a la disfunción diastólica del ventrículo izquierdo."
+        ],
+        "discipline": "Fisiopato",
+        "comment": "En la ICFE preservada, la alteración en la relajación miocárdica y el aumento de la rigidez ventricular (menor distensibilidad) elevan de forma marcada las presiones de llenado y la presión diastólica final del VI a pesar de mantener un volumen sistólico conservado."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 12,
+        "question": "¿Cómo se encuentra el contenido de calcio en el retículo sarcoplásmico de los miocitos en la insuficiencia cardíaca?",
+        "answer": ["Disminuido, por alteraciones en la recaptación de calcio"],
+        "options": [
+            "Disminuido, por alteraciones en la recaptación de calcio",
+            "Normal, ya que no se altera la función del retículo sarcoplásmico",
+            "Aumentado, debido a una hiperactividad de la SERCA2a"
+        ],
+        "discipline": "Fisiopato",
+        "comment": "En los miocitos con falla cardíaca existe una menor expresión y actividad de la bomba SERCA2a junto a un escape de calcio a través de los receptores de rianodina (RyR2), lo que reduce la reserva intracelular de Ca2+ en el retículo sarcoplásmico y deprime la contractilidad sistólica."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 13,
+        "question": "¿Cómo influye un aumento en la frecuencia cardíaca sobre el consumo de oxígeno del miocardio?",
+        "answer": ["Aumenta el consumo de oxígeno debido al incremento en el trabajo cardíaco"],
+        "options": [
+            "Disminuye el consumo de oxígeno al reducir la duración de la sístole.",
+            "Aumenta el consumo de oxígeno debido al incremento en el trabajo cardíaco",
+            "No afecta el consumo de oxígeno, ya que la frecuencia cardíaca no influye en el metabolismo miocárdico"
+        ],
+        "discipline": "Fisiopato",
+        "comment": "La frecuencia cardíaca es un determinante primario del consumo miocárdico de oxígeno (MVO2). Su elevación incrementa el número de ciclos contráctiles por minuto y el gasto energético total, aumentando la demanda de oxígeno."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 14,
+        "question": "¿Cómo se encuentra la reserva de flujo sanguíneo coronario en pacientes con hipertrofia ventricular patológica severa?",
+        "answer": ["Disminuida"],
+        "options": [
+            "Disminuida",
+            "Normal",
+            "Aumentada"
+        ],
+        "discipline": "Fisiopato",
+        "comment": "La hipertrofia patológica reduce la reserva coronaria debido a la remodelación vascular, la compresión extravascular ejercida por el miocardio engrosado sobre las arterias intramurales y la rarefacción capilar (crecimiento capilar insuficiente para la masa muscular ganada)."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 15,
+        "question": "¿Qué es el hibernamiento cardíaco?",
+        "answer": ["Una respuesta fisiológica del miocardio ante la disminución crónica del flujo sanguíneo coronario"],
+        "options": [
+            "Una respuesta fisiológica ante episodios de isquemia aguda",
+            "Una respuesta fisiológica del miocardio ante la disminución crónica del flujo sanguíneo coronario",
+            "Una respuesta patológica en la que el miocardio aumenta su actividad metabólica debido a la insuficiencia cardiaca"
+        ],
+        "discipline": "Fisiopato",
+        "comment": "El miocardio hibernado es un estado adaptativo de disfunción contráctil persistente provocado por una reducción crónica de la perfusión coronaria, en el cual las células miocárdicas reducen su metabolismo y función contráctil para evitar la necrosis."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 16,
+        "question": "A un paciente con sospecha de hipertensión pulmonar se le realiza un cateterismo cardíaco derecho y se obtienen los siguientes datos: PAPm = 47 mmHg, PAOP = 11 mmHg, RVP = 6 uW <br> ¿Cuál de las siguientes afirmaciones es correcta con respecto al perfil hemodinámico?",
+        "answer": ["Se trata de una hipertensión pulmonar precapilar"],
+        "options": [
+            "El gradiente transpulmonar es 7",
+            "Se trata de una hipertensión pulmonar precapilar",
+            "Se trata de una hipertensión pulmonar combinada",
+            "Se trata de una hipertensión pulmonar poscapilar aislada"
+        ],
+        "discipline": "Fisiopato",
+        "comment": "Criterios hemodinámicos de Hipertensión Pulmonar Precapilar: Presión Arterial Pulmonar media (PAPm) > 20 mmHg, Presión de Oclusión de Arteria Pulmonar (PAOP) ≤ 15 mmHg y Resistencia Vascular Pulmonar (RVP) > 2 Unidades Wood. Los datos proporcionados cumplen con esta definición."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 17,
+        "question": "Durante un cateterismo cardíaco derecho con un catéter de Swan-Ganz, se mide la presión de oclusión pulmonar (PAOP). ¿Qué presión se está estimando de manera indirecta con esta medición?",
+        "answer": ["La presión auricular izquierda"],
+        "options": [
+            "La presión aórtica media",
+            "La presión auricular derecha",
+            "La presión auricular izquierda",
+            "La presión diastólica final del ventrículo derecho"
+        ],
+        "discipline": "Fisiopato",
+        "comment": "Al inflar el balón del catéter de Swan-Ganz en una rama de la arteria pulmonar se ocluye el flujo anterógrado, creando una columna hidráulica continua sin flujo que transmite de forma retrógrada la presión existente en la aurícula izquierda."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 18,
+        "question": "¿Cómo es el flujo sanguíneo coronario a través del sistema coronario derecho en condiciones normales?",
+        "answer": ["Es sisto-diastólico"],
+        "options": [
+            "Es sistólico",
+            "Es diastólico.",
+            "Es sisto-diastólico"
+        ],
+        "discipline": "Fisiopato",
+        "comment": "Dado que el ventrículo derecho maneja presiones intramiocárdicas significativamente más bajas que el ventrículo izquierdo, la compresión de los vasos coronarios durante la sístole es menor, permitiendo una perfusión continua en ambas fases del ciclo cardíaco (sisto-diastólico)."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 19,
+        "question": "¿Cómo se encuentran los niveles de péptidos natriuréticos biológicamente activos, en un paciente con insuficiencia cardíaca severa? ",
+        "answer": ["Disminuidos"],
+        "options": [
+            "Disminuidos",
+            "Normales",
+            "Aumentados"
+        ],
+        "discipline": "Fisiopato",
+        "comment": "A pesar de que los precursores inactivos (como el NT-proBNP) están muy elevados por el estiramiento de las cavidades, en la IC avanzada existe un déficit funcional de las moléculas biológicamente activas debido a fallas en el procesamiento enzimático y resistencia a nivel de receptor."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 20,
+        "question": "La hipertensión arterial crónica, se asocia con hipertrofia miocárdica, que en etapas iniciales suele ser:",
+        "answer": ["Concéntrica"],
+        "options": [
+            "Mixta",
+            "Excéntrica",
+            "Concéntrica"
+        ],
+        "discipline": "Fisiopato",
+        "comment": "La hipertensión arterial impone una sobrecarga de presión (aumento de poscarga). La respuesta adaptativa inicial del miocardio es la adición de sarcomeras en paralelo, resultando en un aumento del grosor de la pared sin dilatación de la cavidad (hipertrofia concéntrica)."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 21,
+        "question": "Con respecto a los determinantes de la presión arterial, las resistencias vasculares sistémicas dependen de:",
+        "answer": ["Las propiedades de las arteriolas precapilares"],
+        "options": [
+            "El shear stress",
+            "El gasto cardíaco",
+            "Las propiedades de las arteriolas precapilares",
+            "Las propiedades de los grandes vasos de capacitancia"
+        ],
+        "discipline": "Fisiopato",
+        "comment": "Las arteriolas precapilares representan el sitio principal de resistencia al flujo en la circulación sistémica debido a su tónica capa muscular lisa y a que su radio es el factor preponderante en la determinación de la Resistencia Vascular Sistémica (Ley de Poiseuille)."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 22,
+        "question": "¿Qué determina las ondas reflejadas que alcanzan la aorta ascendente durante la diástole precoz posterior a la incisura dícrota?",
+        "answer": ["Aumento de la onda de presión"],
+        "options": [
+            "Aumento de la onda de presión",
+            "Disminución de la onda de presión",
+            "Eliminación completa de la onda de presión"
+        ],
+        "discipline": "Fisiopato",
+        "comment": "El retorno fisiológico de la onda reflejada durante la diástole precoz genera un refuerzo (aumento) de la presión aórtica diastólica, lo cual beneficia directamente la perfusión del árbol coronario."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 23,
+        "question": "¿Cuál de las siguientes es una alteración característica de la insuficiencia hepatocítica?",
+        "answer": ["Disminución en la producción de factores de la coagulación"],
+        "options": [
+            "Aumento de la síntesis plasmática de proteínas",
+            "Disminución en la producción de la bilirrubina",
+            "Aumento en la eliminación de amoníaco por los riñones",
+            "Disminución en la producción de factores de la coagulación"
+        ],
+        "discipline": "Fisiopato",
+        "comment": "El hígado es el responsable de sintetizar la gran mayoría de las proteínas de la cascada de coagulación. La falla en la función hepatocítica conduce a un déficit en su producción, prolongando el tiempo de protrombina."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 24,
+        "question": "¿Cuál es una de las consecuencias fisiopatológicas involucradas en la insuficiencia hepatocítica?",
+        "answer": ["Reducción en la capacidad de eliminación de toxinas"],
+        "options": [
+            "Reducción del tono GABA",
+            "Aumento en la producción de bilis",
+            "Aumento en la síntesis de glucógeno hepático",
+            "Reducción en la capacidad de eliminación de toxinas"
+        ],
+        "discipline": "Fisiopato",
+        "comment": "La insuficiencia hepatocítica deteriora los procesos de biotransformación y aclaramiento hepático, reduciendo la depuración de sustancias neurotóxicas como el amoníaco, lo que constituye la base fisiopatológica de la encefalopatía hepática."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 25,
+        "question": "¿Cuál de las siguientes opciones sobre la excreción de ceftriaxona es correcta?",
+        "answer": ["Biliar próxima al 40%"],
+        "options": [
+            "Biliar próxima al 40%",
+            "Secreción tubular en un 80%",
+            "Pulmonar en un 50% y renal un 20%",
+            "Hidrólisis por peptidasas plasmáticas"
+        ],
+        "discipline": "Farmaco",
+        "comment": "La ceftriaxona posee una eliminación mixta: aproximadamente un 60% se elimina por filtración glomerular renal y un 40% por vía biliar hacia las heces, característica que evita el ajuste de dosis en insuficiencia renal moderada."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 26,
+        "question": "¿Cuál de los siguientes antirretrovirales es un inhibidor de la transcriptasa inversa no nucleosídico?",
+        "answer": ["Efavirenz"],
+        "options": [
+            "Efavirenz",
+            "Darunavir",
+            "Dolutegravir"
+        ],
+        "discipline": "Farmaco",
+        "comment": "Efavirenz pertenece a la clase de los inhibidores no nucleosídicos de la transcriptasa inversa (ITRNN), los cuales bloquean la síntesis de ADN proviral al unirse a un sitio alostérico cercano al centro activo de la enzima transcriptasa inversa del VIH-1."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 27,
+        "question": "¿Cuál de las siguientes propiedades farmacocinéticas de fluconazol es correcta?",
+        "answer": ["Alcanza niveles terapéuticos en líquido cefalorraquídeo."],
+        "options": [
+            "Presenta absorción oral cercana al 10%.",
+            "Su eliminación es predominantemente hepática.",
+            "Es inductor de diversas isoenzimas del citocromo P450.",
+            "Alcanza niveles terapéuticos en líquido cefalorraquídeo."
+        ],
+        "discipline": "Farmaco",
+        "comment": "Gracias a su alta hidrosolubilidad y baja unión a proteínas plasmáticas (11-12%), el fluconazol cruza fácilmente la barrera hematoencefálica, alcanzando concentraciones en el LCR del 70-80% de los niveles plasmáticos correspondientes."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 28,
+        "question": "¿Cuál de las siguientes vacunas disponible en el carné esquema de vacunación contiene bacterias vivas atenuadas?",
+        "answer": ["BCG"],
+        "options": [
+            "BCG",
+            "Pentavalente",
+            "Triple bacteriana (DPT)",
+            "Triple bacteriana acelular (dpaT)"
+        ],
+        "discipline": "Farmaco",
+        "comment": "La vacuna BCG (Bacilo de Calmette-Guérin) está elaborada con cepas atenuadas de *Mycobacterium bovis*. Por el contrario, las vacunas DPT/dpaT y Pentavalente utilizan componentes inactivados, acelulares o toxoides bacterianos."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 29,
+        "question": "¿Cuál de los siguientes grupos farmacológicos pueden alterar la recirculación enterohepática de los estrógenos y disminuir su efecto anticonceptivo?",
+        "answer": ["Antibióticos"],
+        "options": [
+            "Antiácidos",
+            "Analgésicos",
+            "Antibióticos",
+            "Antiepilépticos"
+        ],
+        "discipline": "Farmaco",
+        "comment": "Los antibióticos de amplio espectro modifican la flora bacteriana intestinal encargada de desconjugar los estrógenos eliminados por la bilis. Al reducir la forma libre reabsorbible, disminuyen la recirculación enterohepática y los niveles plasmáticos del anticonceptivo."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 30,
+        "question": "¿Cuál de las siguientes opciones es una contraindicación de anticonceptivos orales combinados?",
+        "answer": ["Migraña con aura"],
+        "options": [
+            "Dislipemia",
+            "Hipotiroidismo",
+            "Migraña con aura",
+            "Tumores ováricos benignos"
+        ],
+        "discipline": "Farmaco",
+        "comment": "La migraña con aura constituye una contraindicación absoluta (categoría 4 de la OMS) para el inicio o continuación de anticonceptivos orales combinados, debido al notable incremento sinérgico del riesgo de accidente cerebrovascular isquémico."
+    },
+
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 31,
+        "question": "¿Cuál de las siguientes opciones indica una conveniencia terapéutica de los anticonceptivos de progesterona inyectables?",
+        "answer": ["Pueden ser usados durante la lactancia"],
+        "options": [
+            "Se administra a nivel subcutáneo",
+            "Pueden ser usados durante la lactancia",
+            "Es seguro en el sangrado uterino anormal",
+            "Mayor adherencia por su aplicación mensual"
+        ],
+        "discipline": "Farmaco",
+        "comment": "Los anticonceptivos de progestágeno solo no contienen estrógenos (los cuales pueden inhibir la producción de leche y pasar a la leche materna), por lo que son seguros de utilizar durante el período de lactancia sin afectar la composición ni el volumen lácteo."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 32,
+        "question": "¿Cuál de los siguientes efectos adversos de los progestágenos puede explicarse por su efecto androgénico?",
+        "answer": ["Aumento del acné facial"],
+        "options": [
+            "Descenso de peso",
+            "Aumento del acné facial",
+            "Irregularidad menstrual",
+            "Insomnio de conciliación"
+        ],
+        "discipline": "Farmaco",
+        "comment": "Ciertos progestágenos (especialmente los derivados de la 19-nortestosterona de primeras generaciones) poseen actividad androgénica residual al unirse a receptores de andrógenos, lo que estimula las glándulas sebáceas e incrementa la producción de sebo y el acné."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 33,
+        "question": "¿Cuál es una característica del mecanismo de acción genómico de los glucocorticoides?",
+        "answer": ["Presenta similar afinidad por los receptores mineralocorticoideos"],
+        "options": [
+            "Aumenta la transcripción del gen de la COX-2",
+            "Requiere administrar dosis altas para objetivar sus efectos",
+            "Los receptores se encuentran ubicados en la membrana celular",
+            "Presenta similar afinidad por los receptores mineralocorticoideos"
+        ],
+        "discipline": "Farmaco",
+        "comment": "Los glucocorticoides endógenos (como el cortisol) y diversos análogos tienen una afinidad similar por los receptores mineralocorticoideos (MR) que por los glucocorticoides (GR). En tejidos como el riñón, la enzima 11β-HSD2 convierte el cortisol en cortisona inactiva para evitar la estimulación involuntaria del MR."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 34,
+        "question": "¿Cuál es el efecto adverso de los glucocorticoides de uso sistémico cuando se retiran de forma abrupta luego de un período de al menos 15 días de uso?",
+        "answer": ["Insuficiencia suprarrenal aguda"],
+        "options": [
+            "Osteoporosis",
+            "Hiperglucemia",
+            "Insuficiencia suprarrenal aguda",
+            "Disminución de crecimiento y desarrollo"
+        ],
+        "discipline": "Farmaco",
+        "comment": "El tratamiento con glucocorticoides sistémicos durante más de 2 semanas suprime el eje hipotálamo-hipófisis-suprarrenal (HHS). La suspensión brusca deja a la corteza suprarrenal atrófica e incapaz de sintetizar cortisol endógeno, desencadenando una crisis de insuficiencia suprarrenal aguda."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 35,
+        "question": "¿Cuál de los siguientes mecanismos podría explicar el efecto broncodilatador de las metilxantinas?",
+        "answer": ["Inhibición de la fosfodiesterasa"],
+        "options": [
+            "Inhibición de la fosfodiesterasa",
+            "Liberación de la interleucina-10",
+            "Apoptosis de eosinófilos y neutrófilos",
+            "Agonismo de receptores de adenosina"
+        ],
+        "discipline": "Farmaco",
+        "comment": "Las metilxantinas (como la teofilina) inhiben no selectivamente las enzimas fosfodiesterasas (PDE), previniendo la degradación del AMPc y GMPc intracelular. El aumento de AMPc en el músculo liso bronquial induce relajación y broncodilatación."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 37,
+        "question": "¿Cuál de los siguientes constituye un efectos adversos de los antihistamínicos H1?",
+        "answer": ["Clorfeniramina puede provocar ansiedad en pacientes pediátricos"],
+        "options": [
+            "Levocetirizina puede causar sedación",
+            "Difenhidramina puede provocar bradicardia",
+            "Clorfeniramina puede provocar ansiedad en pacientes pediátricos",
+            "Loratadina puede provocar manifestaciones anticolinérgicas severas "
+        ],
+        "discipline": "Farmaco",
+        "comment": "Los antihistamínicos H1 de primera generación (lipofílicos) atraviesan la barrera hematoencefálica y, aunque habitualmente causan sedación en adultos, en niños pueden generar una reacción paradójica de excitación del SNC caracterizada por inquietud, irritabilidad y ansiedad."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 38,
+        "question": "Con relación a las propiedades farmacocinéticas de los macrólidos. Marque la opción correcta.",
+        "answer": ["Amplio volumen de distribución"],
+        "options": [
+            "Eliminación pulmonar",
+            "Amplio volumen de distribución",
+            "Baja unión a proteínas plasmáticas",
+            "Metabolismo enzimático plasmático"
+        ],
+        "discipline": "Farmaco",
+        "comment": "Los macrólidos (como la azitromicina y la claritromicina) son moléculas altamente lipofílicas que penetran y se concentran profusamente en los tejidos periféricos y dentro de los fagocitos, lo que les confiere un elevado volumen de distribución (Vd)."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 39,
+        "question": "Respecto a los benzimidazoles, ¿cuál de las siguientes opciones sobre el mecanismo de acción de mebendazol es correcta?",
+        "answer": ["Inhibición de la polimerización de microtúbulos al unirse a la tubulina β."],
+        "options": [
+            "Inmovilización de los organismos por polimerización de la tubulina α.",
+            "Generación de radicales libres que dañan a los microtúbulos del verme.",
+            "Inhibición de la polimerización de microtúbulos al unirse a la tubulina β."
+        ],
+        "discipline": "Farmaco",
+        "comment": "El mebendazol se une selectivamente a la monómero de β-tubulina de los helmintos, impidiendo su polimerización a microtúbulos. Esto altera el transporte intracelular y la captación de glucosa en el parásito, provocando su muerte."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 40,
+        "question": "Indique cuál de los siguientes efectos adversos de los agonistas beta-2 adrenérgicos inhalatorios son de tipo A:",
+        "answer": ["Taquicardia."],
+        "options": [
+            "Taquicardia.",
+            "Hipertensión.",
+            "Hiperpotasemia.",
+            "Hipomagnesemia."
+        ],
+        "discipline": "Farmaco",
+        "comment": "Los efectos adversos tipo A son predecibles y dosis-dependientes por extensión de la acción farmacológica. La taquicardia ocurre por estimulación de receptores β1/β2 cardíacos y taquicardia refleja tras vasodilitación periférica al absorberse sistémicamente el fármaco."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 41,
+        "question": "¿Cuál de los siguientes antiepilépticos produce como efecto adverso hiponatremia?",
+        "answer": ["Carbamazepina."],
+        "options": [
+            "Fenitoína.",
+            "Topiramato.",
+            "Pregabalina.",
+            "Carbamazepina."
+        ],
+        "discipline": "Farmaco",
+        "comment": "La carbamazepina estimula la liberación de la hormona antidiurética (ADH) y sensibiliza los túbulos renales a su efecto, pudiendo desencadenar un cuadro similar al SIADH e hiponatremia dilucional."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 42,
+        "question": "Señale cuál de los siguientes antiepilépticos presenta un estrecho margen terapéutico:",
+        "answer": ["Ácido valproico."],
+        "options": [
+            "Topiramato.",
+            "Escitalopram.",
+            "Levetiracetam.",
+            "Ácido valproico."
+        ],
+        "discipline": "Farmaco",
+        "comment": "El ácido valproico requiere monitorización plasmatica (rango terapéutico habitual 50-100 µg/mL), ya que pequeñas variaciones en la dosis o concentración sanguínea pueden oscilar entre el fallo terapéutico y la toxicidad (hepática, neurológica u hematológica)."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 43,
+        "question": "Al comienzo de los procesos de inflamación aguda, ¿cuál es la principal célula involucrada?",
+        "answer": ["Neutrófilo"],
+        "options": [
+            "Linfocito",
+            "Neutrófilo",
+            "Macrófago",
+            "Plasmocito"
+        ],
+        "discipline": "AnatoP",
+        "comment": "Los neutrófilos son las primeras células reclutadas en el sitio de la lesión durante la inflamación aguda (predominan ampliamente en las primeras 6 a 24 horas) para fagocitar microbios y detritos tisulares."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 44,
+        "question": "¿Cuál de los siguientes procesos de adaptación celular ocurre fisiológicamente en el epitelio de la glándula mamaria durante el embarazo?",
+        "answer": ["Hiperplasia"],
+        "options": [
+            "Atrofia",
+            "Hipertrofia",
+            "Metaplasia",
+            "Hiperplasia"
+        ],
+        "discipline": "AnatoP",
+        "comment": "Durante la gestación, el estímulo hormonal de estrógenos, progesterona y prolactina induce una hiperplasia fisiológica (aumento en el número de células epiteliales glandulares) para la preparación de la lactancia."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 45,
+        "question": "¿Cuál de las siguientes opciones indica una característica de la necrosis caseosa?",
+        "answer": ["Tiene aspecto blanquecino y friable y es característica de los granulomas tuberculoides."],
+        "options": [
+            "Tiene aspecto blanquecino y friable y es característica de los granulomas tuberculoides.",
+            "Son áreas focales de destrucción de la grasa, con adipocitos necróticos que en su interior presentan depósitos de calcio basófilo.",
+            "Tiene aspecto de masa viscosa con material necrótico que suele ser amarillento cremoso por la presencia de leucocitos muertos."
+        ],
+        "discipline": "AnatoP",
+        "comment": "Macroscópicamente, la necrosis caseosa se presenta como un material blanquecino y desmenuzable parecido al queso («caseoso»). Histológicamente se compone de un centro amorfo eosinófilo rodeado por una reacción granulomatosa, típico de la tuberculosis."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 46,
+        "question": "¿Cuál de las siguientes lesiones tisulares se caracteriza por presentar necrosis licuefactiva?",
+        "answer": ["isquemia en el sistema nervioso central"],
+        "options": [
+            "tuberculosis pulmonar",
+            "isquemia en el tejido cardíaco",
+            "isquemia en el sistema nervioso central",
+            "lesión tuberculosa en el sistema nervioso central"
+        ],
+        "discipline": "AnatoP",
+        "comment": "A diferencia de la mayoría de los órganos donde la isquemia produce necrosis de coagulación, la hipoxia en el parénquima cerebral provoca necrosis licuefactiva por la rápida digestión enzimática de las células lípido-ricas por parte de las enzimas lisosómicas."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 47,
+        "question": "El granuloma de cuerpo extraño característicamente presenta:",
+        "answer": ["Células gigantes multinucleadas que engloban el material extraño"],
+        "options": [
+            "Células gigantes multinucleadas que engloban el material extraño",
+            "Células epitelioides con una corona linfocitaria rodeando el mterial extraño",
+            "Células epitelioides que delimitan una zona de necrosis licuefactiva que contiene el cuerpo extraño"
+        ],
+        "discipline": "AnatoP",
+        "comment": "Los granulomas por cuerpo extraño se forman en respuesta a sustancias inertes no inmunógenas (hilos de sutura, talco, etc.). Se caracterizan morfológicamente por la presencia de células gigantes multinucleadas tipo cuerpo extraño que adosan o engloban el material inerte."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 48,
+        "question": "¿Cuál de los siguientes cambios en la morfología celular es característico del proceso de apoptosis?",
+        "answer": ["El tamaño de la célula se reduce y el citoplasma es denso y eosinófilo"],
+        "options": [
+            "Ocurre un proceso de tumefacción celular",
+            "El tamaño de la célula se reduce y el citoplasma es denso y eosinófilo",
+            "El tamaño de la célula aumenta y se observa un núcleo con picnosis y ruptura de la membrana celular",
+            "Se observa la formación de vacuolas citoplasmáticas y la liberación del contenido celular al espacio extracelular"
+        ],
+        "discipline": "AnatoP",
+        "comment": "La apoptosis cursa morfológicamente con encogimiento celular (retracción), condensación de la cromatina y aumento de la eosinofilia citoplasmática, conservando la integridad de la membrana para formar cuerpos apoptóticos sin generar respuesta inflamatoria."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 49,
+        "question": "El exudado es un líquido:",
+        "answer": ["Con alto contenido en proteínas y presencia de células sanguíneas."],
+        "options": [
+            "Con apariencia clara y LDH bajo.",
+            "Con apariencia clara y un pH> 7,2.",
+            "Con bajo contenido en proteínas y pobre en células sanguíneas.",
+            "Con alto contenido en proteínas y presencia de células sanguíneas."
+        ],
+        "discipline": "AnatoP",
+        "comment": "El exudado es un líquido extravascular de origen inflamatorio que resulta del aumento de la permeabilidad vascular, caracterizado por una elevada concentración de proteínas (>3 g/dL) y abundante presencia de células y restos celulares."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 50,
+        "question": "En la esteatosis ¿Qué sustancias se acumulan en el interior de las células parenquimatosas?",
+        "answer": ["triglicéridos"],
+        "options": [
+            "proteínas",
+            "glucógeno",
+            "lipofuccina",
+            "triglicéridos"
+        ],
+        "discipline": "AnatoP",
+        "comment": "La esteatosis o cambio graso representa la acumulación anormal de triglicéridos en el interior de células parenquimatosas (observada más frecuentemente en el hígado)."
+    },
+    {
+        "info_quest": "3er Parcial 2024",
+        "numb": 51,
+        "question": "En las primeras horas tras una injuria sobre un tejido, el tejido de granulación:",
+        "answer": ["sufre una proliferación endotelial marcada"],
+        "options": [
+            "no sufre modificaciones",
+            "sufre una proliferación endotelial marcada",
+            "se compone principalmente de tejido fibroso y no muestra actividad vascular"
+        ],
+        "discipline": "AnatoP",
+        "comment": "Durante las fases iniciales de la reparación tisular, el tejido de granulación destaca por una intensa angiogénesis promovida por factores como el VEGF, caracterizada por una alta proliferación de células endoteliales para formar nuevos capilares."
     },
 
 
 
 
 /////////////////////////////////////////////////////
-  {
+  
+
+{
     "info_quest": "2do Parcial 2022",
     "numb": 1,
     "question": "¿Cuál es el fundamento para colocar a 2,5 cm de distancia los discos de eritromicina y clindamicina cuando realizamos el estudio de la susceptibilidad antibiótica en Staphylococcus aureus en la disco difusión?",
-    "answer": ["La pesquisa de la resistencia inducible a eritromicina"],
+    "answer": [
+      "La pesquisa de la resistencia inducible a clindamicina"
+    ],
     "options": [
-    "La pesquisa de la resistencia inducible a eritromicina",
-    "La pesquisa de la resistencia inducible a clindamicina",
-    "La pesquisa de la resistencia constitutiva a eritromicina",
-    "La pesquisa de la resistencia constitutiva a clindamicina"
+      "La pesquisa de la resistencia inducible a eritromicina",
+      "La pesquisa de la resistencia inducible a clindamicina",
+      "La pesquisa de la resistencia constitutiva a eritromicina",
+      "La pesquisa de la resistencia constitutiva a clindamicina"
     ],
     "discipline": "Bacterio",
-    "comment": "",
-    },
-    {
+    "comment": "Esta prueba (D-Test) evalúa la presencia del gen erm, donde la eritromicina induce la metilación del ARN ribosomal provocando resistencia cruzada e inducible a clindamicina, lo que se evidencia como un aplanamiento del halo de clindamicina formando una 'D'."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 2,
     "question": "¿Cuál de los siguientes betalactámicos puede ser utilizado en las cepas de Staphylococcus aureus meticilino resistente?",
-    "answer": ["Ceftaroline"],
+    "answer": [
+      "Ceftaroline"
+    ],
     "options": [
-    "Cefepime",
-    "Ceftriaxona",
-    "Ceftaroline",
-    "Piperacilina tazobactam",
-    "Amoxicilina ácido clavulánico"
+      "Cefepime",
+      "Ceftriaxona",
+      "Ceftaroline",
+      "Piperacilina tazobactam",
+      "Amoxicilina ácido clavulánico"
     ],
     "discipline": "Bacterio",
-    "comment": "",
-    },
-    {
+    "comment": "Ceftarolina es una cefalosporina de 5.ª generación diseñada para unirse con alta afinidad a la PBP2a, la proteína mutada responsable de la resistencia a meticilina en SAMR."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 3,
     "question": "¿A cuáles de los siguientes antibióticos confiere resistencia una betalactamasa de clase C?",
-    "answer": ["Piperacilina Tazobactam"],
+    "answer": [
+      "Piperacilina Tazobactam"
+    ],
     "options": [
-    "Cefepime",
-    "Gentamicina",
-    "Meropenem",
-    "Piperacilina Tazobactam"
+      "Cefepime",
+      "Gentamicina",
+      "Meropenem",
+      "Piperacilina Tazobactam"
     ],
     "discipline": "Bacterio",
-    "comment": "",
-    },
-    {
+    "comment": "Las AmpC (clase C de Ambler) son cefalosporinasas cromosómicas o plasmídicas que hidrolizan penicilinas, cefalosporinas de 1.ª-3.ª generación y combinaciones con inhibidores clásicos como el tazobactam, manteniendo sensibilidad a cefepime y carbapenémicos."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 4,
     "question": "Desde el laboratorio le informan que el aislamiento de Klebsiella pneumoniae que se encuentra en estudio presenta una resistencia a meropenem que puede inhibirse con ácido borónico. En base a esa información usted supone que el microorganismo es portador de uno de los siguientes mecanismos de resistencia:",
-    "answer": ["Una carbapenemasa de tipo KPC-2"],
+    "answer": [
+      "Una carbapenemasa de tipo KPC-2"
+    ],
     "options": [
-    "Una carbapenemasa de tipo KPC-2",
-    "Una carbapenemasa de tipo NDM-1",
-    "Una carbapenemasa de tipo OXA-48",
-    "Una betalactamasa de espectro ampliado (BLEA)",
-    "Una betalactamasa de espectro extendido (BLEE)"
+      "Una carbapenemasa de tipo KPC-2",
+      "Una carbapenemasa de tipo NDM-1",
+      "Una carbapenemasa de tipo OXA-48",
+      "Una betalactamasa de espectro ampliado (BLEA)",
+      "Una betalactamasa de espectro extendido (BLEE)"
     ],
     "discipline": "Bacterio",
-    "comment": "",
-    },
-    {
+    "comment": "Las carbapenemasas de clase A de Ambler (como KPC) son serino-betalactamasas que se inhiben específicamente in vitro por el ácido fenílico borónico."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 5,
     "question": "Las bacterias del género de las micobacterias son resistentes a la decoloración con alcohol ácido. ¿Cuál de las siguientes características explica dicha resistencia?",
-    "answer": ["El alto contenido de ácidos micólicos y otros lípidos de la pared bacteriana"],
+    "answer": [
+      "El alto contenido de ácidos micólicos y otros lípidos de la pared bacteriana"
+    ],
     "options": [
-    "La presencia de una gruesa cápsula polisacarídica",
-    "La presencia de una gruesa membrana externa lipídica",
-    "El alto contenido de ácidos micólicos y otros lípidos de la pared bacteriana",
-    "El alto contenido de ácidos teicoicos y peptidoglicano en la pared bacteriana"
+      "La presencia de una gruesa cápsula polisacarídica",
+      "La presencia de una gruesa membrana externa lipídica",
+      "El alto contenido de ácidos micólicos y otros lípidos de la pared bacteriana",
+      "El alto contenido de ácidos teicoicos y peptidoglicano en la pared bacteriana"
     ],
     "discipline": "Bacterio",
-    "comment": "",
-    },
-    {
+    "comment": "La envoltura celular rica en lípidos complejas (principalmente ácidos micólicos) crea una barrera cérea e hidrófoba que retiene los colorantes primarios (como fucsina) evitando la decoloración por alcohol-ácido en la tinción de Ziehl-Neelsen."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 6,
     "question": "La vacuna antituberculosa BCG está formulada en base a:",
-    "answer": ["microorganismos atenuados"],
+    "answer": [
+      "microorganismos atenuados"
+    ],
     "options": [
-    "ARN mensajero",
-    "proteínas recombinantes",
-    "microorganismos muertos",
-    "microorganismos atenuados",
-    "polisacáridos conjugados a proteínas"
+      "ARN mensajero",
+      "proteínas recombinantes",
+      "microorganismos muertos",
+      "microorganismos atenuados",
+      "polisacáridos conjugados a proteínas"
     ],
     "discipline": "Bacterio",
-    "comment": "",
-    },
-    {
+    "comment": "La BCG (Bacilo de Calmette-Guérin) se obtiene a partir de cepas atenuadas de Mycobacterium bovis que perdieron su virulencia tras repases sucesivos en laboratorio, estimulando una respuesta inmune celular."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 7,
     "question": "El estudio citoquímico y directo con tinción de Gram del líquido cefalorraquídeo de un paciente con sospecha de meningitis presenta: disminución de la glucosa, aumento de leucocitos polimorfonucleares y presencia de diplococos Gram negativos. ¿Cuál puede ser el agente causal?",
-    "answer": ["Neisseria meningitidis"],
+    "answer": [
+      "Neisseria meningitidis"
+    ],
     "options": [
-    "Streptococcus pneumoniae",
-    "Neisseria meningitidis",
-    "Haemophilus influenzae",
-    "Listeria monocytogenes",
-    "Escherichia coli"
+      "Streptococcus pneumoniae",
+      "Neisseria meningitidis",
+      "Haemophilus influenzae",
+      "Listeria monocytogenes",
+      "Escherichia coli"
     ],
     "discipline": "Bacterio",
-    "comment": "",
-    },
-    {
+    "comment": "La presencia en LCR de diplococos Gram negativos intra y extracelulares es la característica morfológica típica de Neisseria meningitidis (meningococo)."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 8,
     "question": "La principal vía de transmisión de los enterovirus causantes de meningitis es:",
-    "answer": ["Vía fecal oral"],
+    "answer": [
+      "Vía fecal oral"
+    ],
     "options": [
-    "Vía fecal oral",
-    "Vía respiratoria",
-    "Contacto con sangre contaminada",
-    "Contacto directo con lesiones cutáneas"
+      "Vía fecal oral",
+      "Vía respiratoria",
+      "Contacto con sangre contaminada",
+      "Contacto directo con lesiones cutáneas"
     ],
     "discipline": "Bacterio",
-    "comment": "",
-    },
-    {
+    "comment": "Los enterovirus se replican en el tracto gastrointestinal y se eliminan en heces, siendo la vía fecal-oral el mecanismo epidemiológico de transmisión más frecuente."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 9,
     "question": "¿Cuál de los siguientes fluidos biológicos transmite el VIH?",
-    "answer": ["Leche materna"],
+    "answer": [
+      "Leche materna"
+    ],
     "options": [
-    "Saliva",
-    "Sudor",
-    "Leche materna",
-    "Secreciones respiratorias"
+      "Saliva",
+      "Sudor",
+      "Leche materna",
+      "Secreciones respiratorias"
     ],
     "discipline": "Bacterio",
-    "comment": "",
-    },
-    {
+    "comment": "La leche materna contiene virus libre y linfocitos infectados, constituyendo una vía reconocida de transmisión vertical postparto del VIH."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 10,
     "question": "Para el ingreso del VIH a la célula eucariota es necesaria la interacción de:",
-    "answer": ["gp 120 y gp 41 con el receptor CD4 y CXCR4, respectivamente"],
+    "answer": [
+      "gp 120 y gp 41 con el receptor CD4 y CXCR4, respectivamente"
+    ],
     "options": [
-    "gp 120 y gp 41 con el receptor CD4 y CXCR4, respectivamente",
-    "gp 41 y p 24 con el receptor CD8 y CXCR4, respectivamente",
-    "integrasa y p 24 con el receptor CD4 y CXCR4, respectivamente",
-    "integrasa y gp 120 con el receptor CD8 y CXCR4, respectivamente"
+      "gp 120 y gp 41 con el receptor CD4 y CXCR4, respectivamente",
+      "gp 41 y p 24 con el receptor CD8 y CXCR4, respectivamente",
+      "integrasa y p 24 con el receptor CD4 y CXCR4, respectivamente",
+      "integrasa y gp 120 con el receptor CD8 y CXCR4, respectivamente"
     ],
     "discipline": "Bacterio",
-    "comment": "",
-    },
-    {
+    "comment": "La glucoproteína gp120 se une al receptor CD4 (y co-receptores como CXCR4/CCR5), desencadenando un cambio conformacional en gp41 que media la fusión de la envoltura viral con la membrana celular."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 11,
     "question": "En un paciente con sospecha de hepatitis de etiología viral se obtienen los siguientes resultados para virus de hepatitis B: <br> Anticuerpos IgG anti-antígeno del core (Ac-anti-HBcAg): reactivo <br> Anticuerpos IgM anti-antígeno del core (Ac-anti-HBcAg): no reactivo <br> Antígeno de superficie (HBsAg): reactivo <br> Antígeno e (HBeAg): reactivo <br> Con estos marcadores ¿a cuál de las siguientes situaciones corresponde?",
-    "answer": ["Es una infección crónica causada por el virus de la hepatitis B con replicación viral activa"],
+    "answer": [
+      "Es una infección crónica causada por el virus de la hepatitis B con replicación viral activa"
+    ],
     "options": [
-    "Es una infección aguda causada por el virus de la hepatitis B",
-    "Cursó una infección aguda por el virus de la hepatitis B y se encuentra curado",
-    "Es una infección crónica causada por el virus de la hepatitis B con replicación viral activa",
-    "Es una infección crónica causada por el virus de la hepatitis B sin replicación viral activa"
+      "Es una infección aguda causada por el virus de la hepatitis B",
+      "Cursó una infección aguda por el virus de la hepatitis B y se encuentra curado",
+      "Es una infección crónica causada por el virus de la hepatitis B con replicación viral activa",
+      "Es una infección crónica causada por el virus de la hepatitis B sin replicación viral activa"
     ],
     "discipline": "Bacterio",
-    "comment": "",
-    },
-    {
+    "comment": "La persistencia de HBsAg con IgG anti-HBc positivo indica cronicidad; la presencia del HBeAg señala una alta tasa de replicación viral y alta infectividad."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 12,
     "question": "¿Cuál de los siguientes anticuerpos espera encontrar en un paciente vacunado contra el virus de la hepatitis B?",
-    "answer": ["Anticuerpo anti antígeno de superficie (Ac-anti-HBsAg)"],
+    "answer": [
+      "Anticuerpo anti antígeno de superficie (Ac-anti-HBsAg)"
+    ],
     "options": [
-    "Anticuerpo anti ADN polimerasa",
-    "Anticuerpo anti antígeno de superficie (Ac-anti-HBsAg)",
-    "Anticuerpo anti antígeno del core (Ac-anti-HBcAg)",
-    "Anticuerpo anti antígeno e (Ac-anti-HBeAg)"
+      "Anticuerpo anti ADN polimerasa",
+      "Anticuerpo anti antígeno de superficie (Ac-anti-HBsAg)",
+      "Anticuerpo anti antígeno del core (Ac-anti-HBcAg)",
+      "Anticuerpo anti antígeno e (Ac-anti-HBeAg)"
     ],
     "discipline": "Bacterio",
-    "comment": "",
-    },
-    {
+    "comment": "La vacuna recombinante contiene únicamente el antígeno de superficie (HBsAg), por lo que el individuo inmunizado desarrollará de manera aislada anticuerpos anti-HBsAg."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 13,
     "question": "¿Cuál es la principal manifestación clínica o paraclínica de la estrongiloidiasis?",
-    "answer": ["Eosinofilia"],
+    "answer": [
+      "Eosinofilia"
+    ],
     "options": [
-    "Eosinofilia",
-    "Plaquetopenia",
-    "Confusión mental",
-    "Abscesos en la mucosa colónica"
+      "Eosinofilia",
+      "Plaquetopenia",
+      "Confusión mental",
+      "Abscesos en la mucosa colónica"
     ],
     "discipline": "Parasito",
-    "comment": "",
-    },
-    {
+    "comment": "Como ocurre en muchas helmintiasis por parásitos hísticos o migratorios, Strongyloides stercoralis estimula una fuerte respuesta inmune tipo Th2 que se manifiesta con eosinofilia en sangre periférica."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 14,
     "question": "¿Cuál de los siguientes es un factor predisponente para una aspergilosis pulmonar?",
-    "answer": ["Enfermedad Pulmonar Obstructiva Crónica"],
+    "answer": [
+      "Enfermedad Pulmonar Obstructiva Crónica"
+    ],
     "options": [
-    "Laringitis aguda",
-    "Hipertensión Arterial",
-    "Antecedentes de atopia cutánea",
-    "Enfermedad Pulmonar Obstructiva Crónica"
+      "Laringitis aguda",
+      "Hipertensión Arterial",
+      "Antecedentes de atopia cutánea",
+      "Enfermedad Pulmonar Obstructiva Crónica"
     ],
     "discipline": "Parasito",
-    "comment": "",
-    },
-    {
+    "comment": "La EPOC causa daño estructural, alteración del aclaramiento mucociliar y frecuentemente requiere uso de corticoides, predisponiendo a la colonización o infección invasiva por Aspergillus."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 15,
     "question": "¿Cuál es la principal vía de transmisión para Cryptococcus sp?",
-    "answer": ["Inhalatoria"],
+    "answer": [
+      "Inhalatoria"
+    ],
     "options": [
-    "Vertical",
-    "Inhalatoria",
-    "Implantación",
-    "Transfusional"
+      "Vertical",
+      "Inhalatoria",
+      "Implantación",
+      "Transfusional"
     ],
     "discipline": "Parasito",
-    "comment": "",
-    },
-    {
+    "comment": "Las basidiosporas o levaduras deshidratadas presentes en el ambiente (asociadas al excremento de aves o materia orgánica) ingresan al organismo por inhalación hacia las vías respiratorias inferiores."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 16,
     "question": "¿Cuál de los siguientes estudios es el más adecuado para diagnosticar una micosis con manifestación pulmonar?",
-    "answer": ["Estudio micológico de Lavado Bronco-Alveolar"],
+    "answer": [
+      "Estudio micológico de Lavado Bronco-Alveolar"
+    ],
     "options": [
-    "Estudio micológico de Lavado Bronco-Alveolar",
-    "Cultivo en agar sangre de Lavado Bronco-Alveolar",
-    "Tinción de Gram en una muestra de expectoración",
-    "Examen directo en fresco en una muestra de expectoración"
+      "Estudio micológico de Lavado Bronco-Alveolar",
+      "Cultivo en agar sangre de Lavado Bronco-Alveolar",
+      "Tinción de Gram en una muestra de expectoración",
+      "Examen directo en fresco en una muestra de expectoración"
     ],
     "discipline": "Parasito",
-    "comment": "",
-    },
-    {
+    "comment": "El lavado broncoalveolar obtiene muestras representativas del parénquima pulmonar profundo con menor contaminación de la orofaringe, procesándose mediante técnicas orientadas al aislamiento micológico."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 17,
     "question": "¿Cuál de las siguientes parasitosis es considerada una enfermedad parasitaria de transmisión alimentaria ?",
-    "answer": ["Fasciolasis"],
+    "answer": [
+      "Fasciolasis"
+    ],
     "options": [
-    "Malaria",
-    "Oxiurosis",
-    "Fasciolasis",
-    "Leishmaniasis"
+      "Malaria",
+      "Oxiurosis",
+      "Fasciolasis",
+      "Leishmaniasis"
     ],
     "discipline": "Parasito",
-    "comment": "",
-    },
-    {
+    "comment": "Fasciola hepatica se transmite por la ingestión de plantas acuáticas silvestres (como berros) o agua contaminada con metacercarias enquistadas."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 18,
     "question": "¿Qué es una micotoxicosis?",
-    "answer": ["Un cuadro provocado por la ingesta de toxinas sintetizadas por el hongo al crecer sobre algunos alimentos"],
+    "answer": [
+      "Un cuadro provocado por la ingesta de toxinas sintetizadas por el hongo al crecer sobre algunos alimentos"
+    ],
     "options": [
-    "Una enfermedad causada por hongos macro y micromicetos",
-    "Una intoxicación alimentaria por sustancias químicas constituyentes de las setas",
-    "Un cuadro provocado por la ingesta de toxinas sintetizadas por el hongo al crecer sobre algunos alimentos"
+      "Una enfermedad causada por hongos macro y micromicetos",
+      "Una intoxicación alimentaria por sustancias químicas constituyentes de las setas",
+      "Un cuadro provocado por la ingesta de toxinas sintetizadas por el hongo al crecer sobre algunos alimentos"
     ],
     "discipline": "Parasito",
-    "comment": "",
-    },
-    {
+    "comment": "A diferencia del micetismo (intoxicación por setas venenosas), las micotoxicosis resultan de ingerir metabolitos secundarios tóxicos (micotoxinas) producidos por hongos microscópicos en granos o alimentos contaminados."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 19,
     "question": "¿Qué características presenta más frecuentemente, el flujo vaginal en mujeres con vaginitis por Trichomonas vaginalis?",
-    "answer": ["amarillento, seroso o espumoso, maloliente"],
+    "answer": [
+      "amarillento, seroso o espumoso, maloliente"
+    ],
     "options": [
-    "grisáceo, homogéneo, poco espeso",
-    "claro o blanco, homogéneo, inodoro",
-    "blanco, grumoso, no homogéneo, inodoro",
-    "amarillento, seroso o espumoso, maloliente"
+      "grisáceo, homogéneo, poco espeso",
+      "claro o blanco, homogéneo, inodoro",
+      "blanco, grumoso, no homogéneo, inodoro",
+      "amarillento, seroso o espumoso, maloliente"
     ],
     "discipline": "Parasito",
-    "comment": "",
-    },
-    {
+    "comment": "La inflamación producida por Trichomonas vaginalis produce una leucorrea clásica caracterizada por ser abundante, amarillo-verdosa, fluida, con burbujas aireadas (espumosa) y de olor fetido."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 20,
     "question": "De confirmarse el diagnóstico de enfermedad de Chagas en una mujer durante la gestación ¿en qué momento está indicado realizar el tratamiento específico?",
-    "answer": ["Luego del parto y la lactancia"],
+    "answer": [
+      "Luego del parto y la lactancia"
+    ],
     "options": [
-    "No se realiza tratamiento",
-    "Luego del parto y la lactancia",
-    "En la primera mitad del embarazo",
-    "En la segunda mitad del embarazo"
+      "No se realiza tratamiento",
+      "Luego del parto y la lactancia",
+      "En la primera mitad del embarazo",
+      "En la segunda mitad del embarazo"
     ],
     "discipline": "Parasito",
-    "comment": "",
-    },
+    "comment": "Los tripanocidas como benznidazol o nifurtimox están contraindicados durante la gestación por el riesgo de teratogenicidad y efectos adversos, difiriéndose el tratamiento materno hasta finalizar la lactancia."
+  },
     {
     "info_quest": "2do Parcial 2022",
     "numb": 21,
     "question": "¿Cuál es el principal vínculo epidemiológico de la mayoría de los casos de paracoccidioidomicosis en nuestro país?",
-    "answer": ["Actividad forestal"],
+    "answer": [
+      "Actividad forestal"
+    ],
     "options": [
-    "Actividad forestal",
-    "Brotes hospitalarios",
-    "Tareas en frigorífico",
-    "Carencia de saneamiento"
+      "Actividad forestal",
+      "Brotes hospitalarios",
+      "Tareas en frigorífico",
+      "Carencia de saneamiento"
     ],
     "discipline": "Parasito",
-    "comment": "",
-    },
-    {
+    "comment": "La paracoccidioidomicosis está fuertemente vinculada al trabajo rural y forestal, debido a la inhalación de propagulos miceliales presentes en suelos húmedos y vegetación durante la manipulación de tierra o madera."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 22,
     "question": "¿Cuál es el test serológico que se utiliza para el diagnóstico de la histoplasmosis en nuestro medio?",
-    "answer": ["Doble difusión simple"],
+    "answer": [
+      "Doble difusión simple"
+    ],
     "options": [
-    "Doble difusión simple",
-    "Inmunoelectrotransferencia",
-    "Hemoaglutinación indirecta",
-    "Inmunofluorescencia directa"
+      "Doble difusión simple",
+      "Inmunoelectrotransferencia",
+      "Hemoaglutinación indirecta",
+      "Inmunofluorescencia directa"
     ],
     "discipline": "Parasito",
-    "comment": "",
-    },
-    {
+    "comment": "La inmunodifusión doble en gel de agar (doble difusión simple) es la técnica serológica estándar utilizada de rutina para detectar anticuerpos específicos (bandas H y M) contra Histoplasma capsulatum."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 23,
     "question": "El paludismo es una parasitosis producida por protozoos del género Plasmodium. Esta es una de las causas a considerar en un paciente con antecedente de viaje reciente desde una zona tropical, sin embargo, hay pacientes que pueden presentar recaídas o recidivas transcurrido un tiempo mayor, ¿a qué pueden deberse estas recaídas o recidivas?",
-    "answer": ["a una infección por Plasmodium vivax, que tiene una fase pre eritrocítica en la que se generan formas intracelulares en el hepatocito denominadas hipnozoitos"],
+    "answer": [
+      "a una infección por Plasmodium vivax, que tiene una fase pre eritrocítica en la que se generan formas intracelulares en el hepatocito denominadas hipnozoitos"
+    ],
     "options": [
-    "a una infección por Plasmodium falciparum, que en su fase eritrocítica produce formas intracelulares denominadas merozoitos y estos pueden reactivarse",
-    "a una infección por Plasmodium ovale, que tiene una fase pre eritrocítica o hepática que produce formas intracelulares quiescentes denominadas amastigotes",
-    "a una infección por Plasmodium vivax, que tiene una fase pre eritrocítica en la que se generan formas intracelulares en el hepatocito denominadas hipnozoitos",
-    "a una infección por Plasmodium malariae, que en su fase pre eritrocítica produce formas intracelulares quiescentes denominadas bradizoítos que pueden reactivarse"
+      "a una infección por Plasmodium falciparum, que en su fase eritrocítica produce formas intracelulares denominadas merozoitos y estos pueden reactivarse",
+      "a una infección por Plasmodium ovale, que tiene una fase pre eritrocítica o hepática que produce formas intracelulares quiescentes denominadas amastigotes",
+      "a una infección por Plasmodium vivax, que tiene una fase pre eritrocítica en la que se generan formas intracelulares en el hepatocito denominadas hipnozoitos",
+      "a una infección por Plasmodium malariae, que en su fase pre eritrocítica produce formas intracelulares quiescentes denominadas bradizoítos que pueden reactivarse"
     ],
     "discipline": "Parasito",
-    "comment": "",
-    },
-    {
+    "comment": "Plasmodium vivax (y P. ovale) forman hipnozoítos latentes en los hepatocitos durante la etapa hepática, los cuales pueden reactivarse meses o años después desencadenando recaídas eritrocíticas."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 24,
     "question": "¿Cuál es la manifestación clínica más frecuente en la toxocariasis ocular?",
-    "answer": ["disminución de la agudeza visual unilateral"],
+    "answer": [
+      "disminución de la agudeza visual unilateral"
+    ],
     "options": [
-    "prurito palpebral y lagrimeo",
-    "ojo rojo y sensación de cuerpo extraño",
-    "disminución de la agudeza visual unilateral",
-    "ardor y edema conjuntival con secreción acuosa o purulenta"
+      "prurito palpebral y lagrimeo",
+      "ojo rojo y sensación de cuerpo extraño",
+      "disminución de la agudeza visual unilateral",
+      "ardor y edema conjuntival con secreción acuosa o purulenta"
     ],
     "discipline": "Parasito",
-    "comment": "",
-    },
-    {
+    "comment": "El granuloma polo posterior o periférico provocado por la larva migrans ocular de Toxocara canis se presenta típicamente como una pérdida indolora y unilateral de la agudeza visual."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 25,
     "question": "Las helmintiasis transmitidas por el suelo son enfermedades desatendidas. ¿Qué acciones se deben realizar para su control?",
-    "answer": ["Control de contaminación fecal humana ambiental"],
+    "answer": [
+      "Control de contaminación fecal humana ambiental"
+    ],
     "options": [
-    "Control de vectores, ratas y ratones",
-    "Control de la potabilidad del agua de bebida",
-    "Control de contaminación fecal humana ambiental",
-    "Control de transmisión intradomiciliaria y en escuelas"
+      "Control de vectores, ratas y ratones",
+      "Control de la potabilidad del agua de bebida",
+      "Control de contaminación fecal humana ambiental",
+      "Control de transmisión intradomiciliaria y en escuelas"
     ],
     "discipline": "Parasito",
-    "comment": "",
-    },
-    {
+    "comment": "Las helmintiasis transmitidas por contacto con el suelo (geohelmintiasis) requieren que los huevos o larvas se eliminen en heces humanas para madurar en la tierra; por ello, el saneamiento ambiental y el control de la defecación al aire libre son pilares fundamentales."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 26,
     "question": "¿A partir de la reactivación de qué estructuras parasitarias localizadas a nivel encefálico ocurre la neurotoxoplasmosis en el inmunodeprimido?",
-    "answer": ["Quistes de bradizoitos"],
+    "answer": [
+      "Quistes de bradizoitos"
+    ],
     "options": [
-    "Quistes de bradizoitos",
-    "Quistes de taquizoítos",
-    "Ooquistes de merozoítos",
-    "Ooquistes de amastigotas"
+      "Quistes de bradizoitos",
+      "Quistes de taquizoítos",
+      "Ooquistes de merozoítos",
+      "Ooquistes de amastigotas"
     ],
     "discipline": "Parasito",
-    "comment": "",
-    },
-    {
+    "comment": "En la fase de latencia, Toxoplasma gondii se mantiene intracelular en forma de bradizoítos contenidos dentro de quistes tisulares. Ante una inmunodeficiencia grave, estos quistes se rompen liberando taquizoítos que destruyen el tejido cerebral."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 27,
     "question": "Un paciente acude a la emergencia por confusión mental y se constata insuficiencia renal severa, se realiza gasometría arterial que muestra lo siguiente: <br> pH 7.1, HCO3 12 mEq/L, PaCO2 38 mmHg <br> ¿Cuál es su diagnóstico gasométrico?",
-    "answer": ["Acidosis metabólica con respuesta adaptativa inadecuada"],
+    "answer": [
+      "Acidosis metabólica con respuesta adaptativa inadecuada"
+    ],
     "options": [
-    "Acidosis metabólica con respuesta adaptativa adecuada",
-    "Acidosis metabólica con respuesta adaptativa inadecuada",
-    "Alcalosis metabólica con respuesta adaptativa adecuada",
-    "Alcalosis metabólica con respuesta adaptativa inadecuada"
+      "Acidosis metabólica con respuesta adaptativa adecuada",
+      "Acidosis metabólica con respuesta adaptativa inadecuada",
+      "Alcalosis metabólica con respuesta adaptativa adecuada",
+      "Alcalosis metabólica con respuesta adaptativa inadecuada"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
+    "comment": "Según la fórmula de Winter $[1.5 \\times \\text{HCO}_3^- + 8 \\pm 2]$, para un $\\text{HCO}_3^-$ de 12 mEq/L la $\\text{PaCO}_2$ esperada es de $26 \\pm 2$ mmHg. Al presentar 38 mmHg de $\\text{PaCO}_2$, la hiperventilación compensatoria es insuficiente, indicando un trastorno mixto o respuesta adaptativa inadecuada."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 28,
     "question": "¿Cuál de los siguientes factores perpetúa una alcalosis metabólica?",
-    "answer": ["Hipopotasemia"],
+    "answer": [
+      "Hipopotasemia"
+    ],
     "options": [
-    "Hipopotasemia",
-    "Hiperpotasemia",
-    "Hipoosmolaridad",
-    "Hiperosmolaridad"
+      "Hipopotasemia",
+      "Hiperpotasemia",
+      "Hipoosmolaridad",
+      "Hiperosmolaridad"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
+    "comment": "La hipopotasiemia perpetúa la alcalosis metabólica al estimular la reabsorción de $K^+$ en las células intercaladas del túbulo renal a cambio de la secreción de $H^+$, además de desplazar protones al interior celular."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 29,
     "question": "¿Cuál es el tiempo de evolución de una hiponatremia que la define como crónica?",
-    "answer": ["48 horas"],
+    "answer": [
+      "48 horas"
+    ],
     "options": [
-    "48 horas",
-    "72 horas",
-    "14 días",
-    "21 días"
+      "48 horas",
+      "72 horas",
+      "14 días",
+      "21 días"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
+    "comment": "Clínicamente se define como hiponatremia crónica a aquella con un tiempo demostrado o estimado de evolución superior a las 48 horas, ventana en la cual el cerebro ya ha activado sus mecanismos de adaptación osmótica."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 30,
     "question": "¿Cuál de las siguientes situaciones determina hiperpotasemia por pasaje de potasio del intracelular al extracelular?",
-    "answer": ["acidosis metabólica"],
+    "answer": [
+      "acidosis metabólica"
+    ],
     "options": [
-    "beta 2 agonistas",
-    "hipoosmolaridad",
-    "acidosis metabólica",
-    "alcalosis metabólica"
+      "beta 2 agonistas",
+      "hipoosmolaridad",
+      "acidosis metabólica",
+      "alcalosis metabólica"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
+    "comment": "En la acidosis metabólica inorgánica, el exceso de protones del LEC entra a la célula para ser amortiguado, desplazando el potasio hacia el exterior para mantener la electroneutralidad."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 31,
     "question": "¿Qué procesos periféricos son característicos de los tipos de dolor nociceptivo y neuropático?",
-    "answer": ["Las fibras nerviosas nociceptivas reducen el umbral de excitación para un estímulo mecánico y/o térmico durante la sensibilización."],
+    "answer": [
+      "Las fibras nerviosas nociceptivas reducen el umbral de excitación para un estímulo mecánico y/o térmico durante la sensibilización."
+    ],
     "options": [
-    "La sensibilización periférica se observa en la piel, articulaciones y músculo pero no en las vísceras.",
-    "El cebado hiperalgésico se produce en respuesta a diferentes estímulos desencadenando la misma duración de sensibilización.",
-    "Las fibras nerviosas nociceptivas reducen el umbral de excitación para un estímulo mecánico y/o térmico durante la sensibilización."
+      "La sensibilización periférica se observa en la piel, articulaciones y músculo pero no en las vísceras.",
+      "El cebado hiperalgésico se produce en respuesta a diferentes estímulos desencadenando la misma duración de sensibilización.",
+      "Las fibras nerviosas nociceptivas reducen el umbral de excitación para un estímulo mecánico y/o térmico durante la sensibilización."
     ],
     "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
+    "comment": "La sensibilización periférica implica la liberación de mediadores inflamatorios que fosforilan canales en los nociceptores, disminuyendo su umbral de activación y produciendo hiperalgesia."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 32,
     "question": "Uno de los procesos que provocan lesión y muerte celular en la denominada lesión por isquemia/reperfusión es:",
-    "answer": ["El ingreso de mayores cantidades de Ca++ a mitocondrias ya dañadas."],
+    "answer": [
+      "El ingreso de mayores cantidades de Ca++ a mitocondrias ya dañadas."
+    ],
     "options": [
-    "La llegada de K+ al sitio de lesión.",
-    "El ingreso de mayores cantidades de Ca++ a mitocondrias ya dañadas.",
-    "la liberación desde las células de mitocondrias intactas disfuncionales.",
-    "El reclutamiento de citoquinas inhibitorias de la inflamación al sitio de lesión."
+      "La llegada de K+ al sitio de lesión.",
+      "El ingreso de mayores cantidades de Ca++ a mitocondrias ya dañadas.",
+      "la liberación desde las células de mitocondrias intactas disfuncionales.",
+      "El reclutamiento de citoquinas inhibitorias de la inflamación al sitio de lesión."
     ],
     "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
+    "comment": "Durante la reperfusión, el restablecimiento del flujo reintroduce altas concentraciones de $Ca^{2+}$ que sobrecargan la mitocondria alterada, desencadenando la apertura del poro de transición de permeabilidad mitocondrial (mPTP) y la muerte celular."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 33,
     "question": "¿Qué es lo que caracteriza a la anemia inflamatoria en la mayoría de los casos?",
-    "answer": ["Ser leve a moderada."],
+    "answer": [
+      "Ser leve a moderada."
+    ],
     "options": [
-    "Ser leve a moderada.",
-    "Ser severa y de rápida instalación.",
-    "Presentar reticulocitosis (regenerativa).",
-    "Estar asociada a un aumento del hierro sérico."
+      "Ser leve a moderada.",
+      "Ser severa y de rápida instalación.",
+      "Presentar reticulocitosis (regenerativa).",
+      "Estar asociada a un aumento del hierro sérico."
     ],
     "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
+    "comment": "La anemia de los trastornos crónicos u inflamatoria suele ser de grado leve a moderado (hemoglobina típicamente entre 8 y 11 g/dL), normocítica-normocrómica e hiporregenerativa."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 34,
     "question": "En etapas finales del proceso apoptótico se generan los denominados cuerpos apoptóticos, los que son:",
-    "answer": ["Fagocitados por macrófagos y células epiteliales en cuestión de minutos."],
+    "answer": [
+      "Fagocitados por macrófagos y células epiteliales en cuestión de minutos."
+    ],
     "options": [
-    "Fagocitados por macrófagos y células epiteliales en cuestión de minutos.",
-    "Eliminados a nivel renal, encontrándose en la orina de pacientes con injuria tisular.",
-    "Vertidos al torrente sanguíneo, siendo fagocitados promedialmente a las 24 horas.",
-    "Retenidos a nivel hepático para ser utilizados en la “señalización metabólica de peligro”"
+      "Fagocitados por macrófagos y células epiteliales en cuestión de minutos.",
+      "Eliminados a nivel renal, encontrándose en la orina de pacientes con injuria tisular.",
+      "Vertidos al torrente sanguíneo, siendo fagocitados promedialmente a las 24 horas.",
+      "Retenidos a nivel hepático para ser utilizados en la “señalización metabólica de peligro”"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
+    "comment": "Los cuerpos apoptóticos exponen señales de 'comeme' (como fosfatidilserina en su superficie externa) que reclutan fagocitos para eliminarlos rápidamente sin desencadenar una respuesta inflamatoria."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 35,
     "question": "Un paciente en ventilación mecánica con FiO2=0.21 presenta la siguiente gasometría arterial: pH 7.11, PaO2 60, PaCO2 70, HCO3- 26. ¿Qué mecanismo de insuficiencia respiratoria presenta?",
-    "answer": ["Hipoventilación alveolar"],
+    "answer": [
+      "Hipoventilación alveolar"
+    ],
     "options": [
-    "Espacio muerto",
-    "Shunt intrapulmonar",
-    "Alteración de la difusión",
-    "Hipoventilación alveolar",
-    "Descenso de la relación ventilación/perfusión"
+      "Espacio muerto",
+      "Shunt intrapulmonar",
+      "Alteración de la difusión",
+      "Hipoventilación alveolar",
+      "Descenso de la relación ventilación/perfusión"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
+    "comment": "La presencia de hipercapnia primaria ( $\\text{PaCO}_2 > 45$ mmHg) asociada a hipoxemia refleja directamente un fallo en la bomba ventilatoria que conduce a la hipoventilación alveolar."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 36,
     "question": "Un paciente con distrés respiratorio, en ventilación mecánica con FiO2=1 presenta la siguiente gasometría arterial: pH 7.40, PaO2 190, PaCO2 40, HCO3- 24. ¿Qué diagnóstico realiza?",
-    "answer": ["Insuficiencia respiratoria moderada"],
+    "answer": [
+      "Insuficiencia respiratoria moderada"
+    ],
     "options": [
-    "Hipoxemia absoluta",
-    "Hipoventilación alveolar",
-    "Insuficiencia respiratoria moderada",
-    "Adecuado intercambio pulmonar de gases"
+      "Hipoxemia absoluta",
+      "Hipoventilación alveolar",
+      "Insuficiencia respiratoria moderada",
+      "Adecuado intercambio pulmonar de gases"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
+    "comment": "Al calcular el índice Kirby $(\\text{PaO}_2 / \\text{FiO}_2 = 190 / 1.0 = 190)$, el valor se encuentra en el rango de $100 < \\text{PaO}_2 / \\text{FiO}_2 \\le 200$, correspondiendo al criterio de SDRA / Insuficiencia respiratoria moderada."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 37,
     "question": "¿Cuál de las siguientes opciones de la mecánica respiratoria corresponde a una patología pulmonar obstructiva?",
-    "answer": ["Limitación al flujo espiratorio con descenso de la capacidad vital forzada."],
+    "answer": [
+      "Limitación al flujo espiratorio con descenso de la capacidad vital forzada."
+    ],
     "options": [
-    "Relación VEF1/CVF aumentada (>70%).",
-    "Descenso de flujo de aire en la fase inspiratoria del ciclo.",
-    "Limitación al flujo espiratorio con descenso de la capacidad vital forzada.",
-    "Aumento del volumen corriente, con un descenso de la capacidad residual funcional."
+      "Relación VEF1/CVF aumentada (>70%).",
+      "Descenso de flujo de aire en la fase inspiratoria del ciclo.",
+      "Limitación al flujo espiratorio con descenso de la capacidad vital forzada.",
+      "Aumento del volumen corriente, con un descenso de la capacidad residual funcional."
     ],
     "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
+    "comment": "Las patologías obstructivas se definen por una disminución en la velocidad de flujo durante la espiración (atrapamiento aéreo), reduciendo la $\\text{VEF}_1$ y potencialmente la Capacidad Vital Forzada (CVF)."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 38,
     "question": "Un paciente de 62 años, tabaquista intenso de larga data con diagnóstico de enfermedad pulmonar obstructiva crónica (EPOC) y enfisema pulmonar se realiza una espirometría forzada ¿Qué alteraciones espera encontrar?",
-    "answer": ["Colapso dinámico de la pequeña vía aérea"],
+    "answer": [
+      "Colapso dinámico de la pequeña vía aérea"
+    ],
     "options": [
-    "Relación VEF1/CVF > 70%",
-    "Descenso del volumen residual",
-    "Colapso dinámico de la pequeña vía aérea",
-    "Respuesta significativa a los broncodilatadores",
-    "Limitación al flujo principalmente en inspiración"
+      "Relación VEF1/CVF > 70%",
+      "Descenso del volumen residual",
+      "Colapso dinámico de la pequeña vía aérea",
+      "Respuesta significativa a los broncodilatadores",
+      "Limitación al flujo principalmente en inspiración"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
+    "comment": "La destrucción del parénquima en el enfisema disminuye la tracción radial que mantiene abiertas las vías aéreas pequeñas, provocando su colapso dinámico durante la espiración forzada."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 39,
     "question": "Un paciente que requiere una diferencia de presión (∆P) de 15 cmH2O para mover 400 ml de volumen corriente, luego de un tratamiento requiere 12 cmH2O ∆P de para mover el mismo volumen corriente . ¿Qué cambio ocurrió en la mecánica ventilatoria?",
-    "answer": ["Aumento de la complacencia pulmonar"],
+    "answer": [
+      "Aumento de la complacencia pulmonar"
+    ],
     "options": [
-    "Aumento del trabajo respiratorio",
-    "Aumento de la fuerza diafragmática",
-    "Aumento de la resistencia de vía aérea",
-    "Aumento de la complacencia pulmonar",
-    "Aumento de la presión inspiratoria máxima (PIM)"
+      "Aumento del trabajo respiratorio",
+      "Aumento de la fuerza diafragmática",
+      "Aumento de la resistencia de vía aérea",
+      "Aumento de la complacencia pulmonar",
+      "Aumento de la presión inspiratoria máxima (PIM)"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
+    "comment": "La complacencia se calcula como $\\text{Distensibilidad} = \\Delta V / \\Delta P$. Al reducirse el cambio de presión necesario de 15 a 12 $\\text{cmH}_2\\text{O}$ para un mismo volumen, el sistema se ha vuelto más distensible (aumentó la complacencia)."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 40,
     "question": "Para un paciente cuyo ciclo respiratorio ocurre por encima del punto de inflexión superior de la curva PV, ¿qué cambios en la mecánica respiratoria espera encontrar?",
-    "answer": ["Aumento del trabajo respiratorio"],
+    "answer": [
+      "Aumento del trabajo respiratorio"
+    ],
     "options": [
-    "Aumento del trabajo respiratorio",
-    "Aumento de la resistencia de vía aérea",
-    "Aumento de la complacencia pulmonar",
-    "Aumento de la fuerza muscular inspiratoria"
+      "Aumento del trabajo respiratorio",
+      "Aumento de la resistencia de vía aérea",
+      "Aumento de la complacencia pulmonar",
+      "Aumento de la fuerza muscular inspiratoria"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
+    "comment": "Por encima del punto de inflexión superior, los alvéolos entran en zona de sobredistensión, donde la complacencia cae drásticamente y se requiere un esfuerzo/trabajo respiratorio mucho mayor para generar cambios de volumen."
+  },
+{
     "info_quest": "2do Parcial 2022",
     "numb": 41,
     "question": "¿Cuál de las siguientes alteraciones está involucrada en la disminución de las resistencias vasculares sistémicas en el shock séptico?",
     "answer": ["Déficit de vasopresina"],
     "options": [
-    "Déficit de vasopresina",
-    "Hiperreactividad a la endotelina-1",
-    "Aumento del tono vascular esplácnico",
-    "Disminución de la respuesta al óxido nítrico"
+      "Déficit de vasopresina",
+      "Hiperreactividad a la endotelina-1",
+      "Aumento del tono vascular esplácnico",
+      "Disminución de la respuesta al óxido nítrico"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
+    "comment": "En el shock séptico se produce una vasodilatación profunda y refractaria. Entre los mecanismos determinantes se encuentra un déficit relativo de vasopresina (ADH) debido al agotamiento de sus depósitos neurohipofisarios, sumado a la hiporreactividad vascular a vasoconstrictores endógenos y la producción masiva de óxido nítrico."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 42,
     "question": "Un paciente ingresa a la emergencia con hipotensión arterial y relleno capilar lento. Sin dolor torácico ni fiebre . Electrocardiograma sin elementos de isquemia miocárdica. Ecocardiograma evidencia derrame pericárdico severo, sin otras alteraciones. ¿Cuál considera que sea el trastorno primario que da origen al shock?",
     "answer": ["Disminución de la precarga"],
     "options": [
-    "Aumento de la poscarga",
-    "Disminución de la precarga",
-    "Disminución del inotropismo",
-    "Disminución del volumen circulante eficaz"
+      "Aumento de la poscarga",
+      "Disminución de la precarga",
+      "Disminución del inotropismo",
+      "Disminución del volumen circulante eficaz"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
+    "comment": "El derrame pericárdico severo genera compresión extrínseca sobre las cavidades cardíacas (taponamiento), aumentando la presión intrapericárdica e impidiendo un adecuado llenado diastólico. Esto produce una restricción mecánica severa al retorno venoso, cayendo drásticamente el volumen de fin de diástole (precarga ventricular) y el gasto cardíaco."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 43,
     "question": "Analizando la curva de disociación de la hemoglobina, ¿Cuál de las siguientes situaciones disminuye la afinidad de la hemoglobina por el O2?",
     "answer": ["Aumento de la PaCO2"],
     "options": [
-    "Aumento del pH",
-    "Aumento de la PaCO2",
-    "Disminución de la temperatura"
+      "Aumento del pH",
+      "Aumento de la PaCO2",
+      "Disminución de la temperatura"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
-    },
-    {
+    "comment": "El aumento de la PaCO2 (al igual que la disminución del pH, el aumento de la temperatura y el aumento del 2,3-DPG) desplaza la curva de disociación de la hemoglobina hacia la derecha (Efecto Bohr). Este desplazamiento disminuye la afinidad de la hemoglobina por el O2, facilitando su liberación hacia los tejidos."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 44,
     "question": "¿Cuál de las siguientes opciones es un mecanismo adaptativo frente a descenso del contenido arterial de O2 (CaO2)?",
     "answer": ["Aumento del índice cardíaco"],
     "options": [
-    "Aumento del índice cardíaco",
-    "Aumento del consumo sistémico de O2 (VO2)",
-    "Descenso de la disponibilidad sistémica de O2 (DO2)",
-    "Aumento de la extracción periférica de O2 (EO2) en los grandes vasos (macrocirculación)"
+      "Aumento del índice cardíaco",
+      "Aumento del consumo sistémico de O2 (VO2)",
+      "Descenso de la disponibilidad sistémica de O2 (DO2)",
+      "Aumento de la extracción periférica de O2 (EO2) en los grandes vasos (macrocirculación)"
     ],
     "discipline": "Fisiopato",
-    "comment": "",
-    },
-
-    {
+    "comment": "La disponibilidad sistémica de O2 (DO2) depende del contenido arterial de O2 (CaO2) y del gasto/índice cardíaco (IC) según la fórmula DO2 = CaO2 x IC. Frente a la caída del CaO2 (p. ej., por anemia o hipoxemia), la principal respuesta fisiológica compensatoria para sostener el aporte de oxígeno a los tejidos es el aumento del gasto/índice cardíaco."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 45,
     "question": "En un experimento sobre efectos farmacológicos utilizando un modelo de órgano aislado se adiciona un agonista en un baño que contiene un antagonista competitivo. Al graficar en una curva dosis respuesta esta interacción, ¿qué modificaciones puede presentar la curva dosis-respuesta del agonista?",
     "answer": ["Requiere mayores dosis para lograr efectos similares."],
     "options": [
-    "La dosis eficaz 50 no se ve modificada.",
-    "No alcanza la respuesta máxima del ligando.",
-    "El gráfico se mueve a la izquierda sobre el eje X.",
-    "Requiere mayores dosis para lograr efectos similares."
+      "La dosis eficaz 50 no se ve modificada.",
+      "No alcanza la respuesta máxima del ligando.",
+      "El gráfico se mueve a la izquierda sobre el eje X.",
+      "Requiere mayores dosis para lograr efectos similares."
     ],
     "discipline": "Farmaco",
-    "comment": "",
-    },
-
-    {
+    "comment": "El antagonismo competitivo es reversible y desplaza la curva dosis-respuesta del agonista paralelamente hacia la derecha. Esto incrementa la EC50 (requiriendo mayores dosis o concentraciones del agonista para alcanzar el mismo efecto) sin alterar la respuesta máxima (Emax), la cual puede ser restituida si se aumenta suficientemente la concentración del agonista."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 46,
-    "question": "En la siguiente gráfica de una curva dosis-respuesta, ¿cuál de las siguientes opciones corresponde a un fármaco capaz de producir la curva D? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p46-2doP-2022.PNG'>",
+    "question": "En la siguiente gráfica de una curva dosis-respuesta, ¿cuál de las siguientes opciones corresponde a un fármaco capaz de producir la curva D? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p46-2doP-2022.PNG'>",
     "answer": ["Un antagonista no competitivo."],
     "options": [
-    "Un agonista inverso.",
-    "Un agonista completo.",
-    "Un antagonista competitivo.",
-    "Un antagonista no competitivo."
+      "Un agonista inverso.",
+      "Un agonista completo.",
+      "Un antagonista competitivo.",
+      "Un antagonista no competitivo."
     ],
     "discipline": "Farmaco",
-    "comment": "",
-    },
-
-    {
+    "comment": "La curva D evidencia una reducción progresiva e insuperable del efecto máximo (Emax) del agonista. Este comportamiento caracteriza a los antagonistas no competitivos o irreversibles, los cuales actúan reduciendo el número de receptores funcionales disponibles o uniéndose a sitios alostéricos, impidiendo alcanzar el efecto máximo incluso si se eleva la concentración del agonista."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 47,
-    "question": "¿Qué característica diferencia a los fármacos agonistas A y B? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p47-2doP-2022.PNG'>",
+    "question": "¿Qué característica diferencia a los fármacos agonistas A y B? <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p47-2doP-2022.PNG'>",
     "answer": ["Potencia."],
     "options": [
-    "Eficacia.",
-    "Potencia.",
-    "Selectividad.",
-    "Actividad intrínseca."
+      "Eficacia.",
+      "Potencia.",
+      "Selectividad.",
+      "Actividad intrínseca."
     ],
     "discipline": "Farmaco",
-    "comment": "",
-    },
-
-    {
+    "comment": "Ambos agonistas alcanzan la misma respuesta máxima (misma eficacia), pero la curva A se sitúa a la izquierda de la curva B. Esto indica que el fármaco A requiere una menor concentración para alcanzar el 50% del efecto máximo (menor EC50), reflejando una mayor potencia farmacológica en comparación con el fármaco B."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 48,
     "question": "¿Cuál de los siguientes parámetros se utiliza para cuantificar el proceso de absorción?",
     "answer": ["Biodisponibilidad"],
     "options": [
-    "Aclaramiento",
-    "Biodisponibilidad",
-    "Volumen de distribución",
-    "Constante de disposición"
+      "Aclaramiento",
+      "Biodisponibilidad",
+      "Volumen de distribución",
+      "Constante de disposición"
     ],
     "discipline": "Farmaco",
-    "comment": "",
-    },
-
-    {
+    "comment": "La biodisponibilidad (F) cuantifica la fracción de la dosis administrada que alcanza de forma inalterada la circulación sistémica y la velocidad a la que ocurre dicho proceso, siendo el parámetro esencial para medir la magnitud y eficacia de la absorción."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 49,
     "question": "¿Cuál de las siguientes opciones constituye una interacción farmacocinética cuando se administran simultáneamente dos fármacos?",
     "answer": ["Ser inductores, inhibidores o sustratos de la misma vía metabólica"],
     "options": [
-    "Ser similares en cuanto al perfil de toxicidad",
-    "Compartir mecanismo de acción y sistema receptorial",
-    "Ser inductores, inhibidores o sustratos de la misma vía metabólica",
-    "Producir el mismo efecto farmacológico, sea terapéutico o adverso"
+      "Ser similares en cuanto al perfil de toxicidad",
+      "Compartir mecanismo de acción y sistema receptorial",
+      "Ser inductores, inhibidores o sustratos de la misma vía metabólica",
+      "Producir el mismo efecto farmacológico, sea terapéutico o adverso"
     ],
     "discipline": "Farmaco",
-    "comment": "",
-    },
-
-    {
+    "comment": "Las interacciones farmacocinéticas involucran alteraciones en los procesos de Absorción, Distribución, Metabolismo o Excreción (ADME). La interacción en enzimas metabólicas (como el complejo citocromo P450) modifica las concentraciones plasmáticas del fármaco sustrato mediante inhibición o inducción enzimática."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 50,
     "question": "La definición de volumen de distribución de un medicamento relaciona:",
     "answer": ["La cantidad total del fármaco en el organismo con la concentración plasmática"],
     "options": [
-    "La cantidad total del fármaco en el organismo con la concentración plasmática",
-    "La concentración total del fármaco en el organismo con la concentración tisular",
-    "La cantidad total del fármaco unido a proteínas con la concentración de fármaco libre",
-    "La concentración del fármaco en un modelo monocompartimental con el bicompartimental"
+      "La cantidad total del fármaco en el organismo con la concentración plasmática",
+      "La concentración total del fármaco en el organismo con la concentración tisular",
+      "La cantidad total del fármaco unido a proteínas con la concentración de fármaco libre",
+      "La concentración del fármaco en un modelo monocompartimental con el bicompartimental"
     ],
     "discipline": "Farmaco",
-    "comment": "",
-    },
-
-    {
+    "comment": "El volumen aparente de distribución (Vd) es la constante de proporcionalidad que relaciona la cantidad total de fármaco presente en el organismo en un momento determinado con la concentración plasmática del mismo (Vd = Cantidad total / Concentración plasmática)."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 51,
     "question": "¿Cuál de los siguientes factores limita el pasaje de un fármaco a través de la barrera hemato-encefálica?",
     "answer": ["Alto grado de ionización"],
     "options": [
-    "Reducida polaridad",
-    "Lipofilicidad elevada",
-    "Alto grado de ionización",
-    "Tamaño molecular pequeño"
+      "Reducida polaridad",
+      "Lipofilicidad elevada",
+      "Alto grado de ionización",
+      "Tamaño molecular pequeño"
     ],
     "discipline": "Farmaco",
-    "comment": "",
-    },
-
-    {
+    "comment": "La barrera hematoencefálica (BHE) está compuesta por endotelio continuo con uniones estrechas (tight junctions). Las moléculas altamente ionizadas (polares/hidrofílicas) no pueden difundir libremente a través de las membranas lipídicas endógenas, limitando severamente su penetración al sistema nervioso central."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 52,
     "question": "¿Cuál de las siguientes opciones es correcta sobre los cambios farmacocinéticos en el embarazo?",
     "answer": ["El filtrado glomerular puede aumentar hasta 50% en el primer trimestre"],
     "options": [
-    "La absorción está aumentada en todos los trimestres",
-    "La vida media de eliminación es constante a lo largo de los trimestres",
-    "El filtrado glomerular puede aumentar hasta 50% en el primer trimestre",
-    "El volumen de distribución puede aumentar hasta un 60% en el segundo trimestre"
+      "La absorción está aumentada en todos los trimestres",
+      "La vida media de eliminación es constante a lo largo de los trimestres",
+      "El filtrado glomerular puede aumentar hasta 50% en el primer trimestre",
+      "El volumen de distribución puede aumentar hasta un 60% en el segundo trimestre"
     ],
     "discipline": "Farmaco",
-    "comment": "",
-    },
-
-    {
+    "comment": "Durante la gestación ocurren adaptaciones hemodinámicas importantes, destacándose un incremento precoz en el flujo plasmático renal y en la tasa de filtrado glomerular (TFG) de hasta un 50% desde el primer trimestre, lo que acelera la depuración renal de fármacos eliminados por esta vía."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 53,
     "question": "¿En cuál de las siguientes situaciones corresponde monitorizar la concentración plasmática de un medicamento?",
     "answer": ["Estrecho margen terapéutico"],
     "options": [
-    "Uso en pacientes críticos",
-    "Uso en la edad pediátrica",
-    "Estrecho margen terapéutico",
-    "Combinación de 2 o más medicamentos"
+      "Uso en pacientes críticos",
+      "Uso en la edad pediátrica",
+      "Estrecho margen terapéutico",
+      "Combinación de 2 o más medicamentos"
     ],
     "discipline": "Farmaco",
-    "comment": "",
-    },
-
-    {
+    "comment": "La monitorización de concentraciones plasmáticas (TDM) está indicada principalmente en fármacos con estrecho rango o índice terapéutico, donde pequeñas variaciones en la concentración pueden conducir a ineficacia terapéutica o toxicidad grave (ej. digoxina, litio, aminoglucósidos, teofilina)."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 54,
     "question": "Adrenalina actúa sobre los receptores adrenérgicos como un:",
     "answer": ["Agonista puro de los receptores alfa y beta"],
     "options": [
-    "Agonista parcial de los receptores alfa",
-    "Agonista inverso de los receptores beta",
-    "Agonista puro de los receptores alfa y beta",
-    "Agonista parcial de los receptores alfa 1 y alfa 2"
-
+      "Agonista parcial de los receptores alfa",
+      "Agonista inverso de los receptores beta",
+      "Agonista puro de los receptores alfa y beta",
+      "Agonista parcial de los receptores alfa 1 y alfa 2"
     ],
     "discipline": "Farmaco",
-    "comment": "",
-    },
-    {
+    "comment": "La adrenalina (epinefrina) es una catecolamina endógena que actúa como un agonista completo (puro) y no selectivo sobre todos los subtipos de receptores adrenérgicos (alfa-1, alfa-2, beta-1, beta-2 y beta-3)."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 55,
     "question": "¿Cuál de las siguientes características permite una menor absorción de algunos fármacos anticolinérgicos?",
     "answer": ["Ser derivado de amonio cuaternario."],
     "options": [
-    "Tener elevada liposolubilidad.",
-    "Presentar bajo peso molecular.",
-    "Presentar alta unión a proteínas.",
-    "Ser derivado de amonio cuaternario."
+      "Tener elevada liposolubilidad.",
+      "Presentar bajo peso molecular.",
+      "Presentar alta unión a proteínas.",
+      "Ser derivado de amonio cuaternario."
     ],
     "discipline": "Farmaco",
-    "comment": "",
-    },
-
-    {
+    "comment": "Los anticolinérgicos con estructura de amonio cuaternario (como el bromuro de ipratropio o tiotropio) poseen una carga positiva permanente que les otorga muy baja liposolubilidad. Esto limita significativamente su absorción sistémica y su paso a través de barreras biológicas como la BHE."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 56,
     "question": "¿Cuál de las siguientes es una reacción adversa característica de los antihistamínicos antiH1 vinculada a su acción antimuscarínica?",
     "answer": ["Sequedad de boca."],
     "options": [
-    "Diarrea.",
-    "Sequedad de boca.",
-    "Bradicardia sinusal.",
-    "Incontinencia urinaria."
+      "Diarrea.",
+      "Sequedad de boca.",
+      "Bradicardia sinusal.",
+      "Incontinencia urinaria."
     ],
     "discipline": "Farmaco",
-    "comment": "",
-    },
-
-    {
+    "comment": "Los antihistamínicos H1 de primera generación carecen de alta selectividad y bloquean receptores muscarínicos periféricos y centrales. Esto genera efectos adversos anticolinérgicos clásicos como la sequedad bucal (xerostomía), retención urinaria, estreñimiento y visión borrosa."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 57,
     "question": "¿Cuál afirmación es correcta acerca de los efectos adversos de los antiinflamatorios no esteroideos (AINE)?",
     "answer": ["Los efectos cardiovasculares presentan asociación a la mayor inhibición de la ciclooxigenasa-2 (COX-2)."],
     "options": [
-    "Los efectos cardiovasculares son de tipo B, dosis independientes.",
-    "Los efectos gastrointestinales pueden evitarse administrando el fármaco por vía intravenosa.",
-    "Los efectos cardiovasculares presentan asociación a la mayor inhibición de la ciclooxigenasa-2 (COX-2).",
-    "Los efectos gastrointestinales son más frecuentes con los AINE inhibidores selectivos de la ciclooxigenasa-2 (COX-2)."
+      "Los efectos cardiovasculares son de tipo B, dosis independientes.",
+      "Los efectos gastrointestinales pueden evitarse administrando el fármaco por vía intravenosa.",
+      "Los efectos cardiovasculares presentan asociación a la mayor inhibición de la ciclooxigenasa-2 (COX-2).",
+      "Los efectos gastrointestinales son más frecuentes con los AINE inhibidores selectivos de la ciclooxigenasa-2 (COX-2)."
     ],
     "discipline": "Farmaco",
-    "comment": "",
-    },
-
-    {
+    "comment": "La inhibición selectiva o preferencial de la COX-2 disminuye la síntesis endotelial de prostaciclina (PGI2, vasodilatadora y antiagregante) sin afectar la producción de tromboxano A2 (TXA2, proagregante) mediada por COX-1 en las plaquetas. Esta alteración del equilibrio prostaciclina/tromboxano incrementa el riesgo de eventos trombóticos cardiovasculares."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 58,
     "question": "¿Cuál de los siguientes grupos farmacológicos utilizados en el tratamiento del asma posee un estrecho margen terapéutico?",
     "answer": ["Metilxantinas"],
     "options": [
-    "Cromonas",
-    "Metilxantinas",
-    "Antileucotrienos",
-    "Antagonistas muscarínicos"
+      "Cromonas",
+      "Metilxantinas",
+      "Antileucotrienos",
+      "Antagonistas muscarínicos"
     ],
     "discipline": "Farmaco",
-    "comment": "",
-    },
-
-    {
+    "comment": "Las metilxantinas (ej. teofilina) poseen un estrecho margen terapéutico (niveles plasmáticos eficaces entre 10 y 20 µg/mL). Concentraciones levemente superiores a este rango pueden desencadenar efectos tóxicos graves como arritmias cardíacas y convulsiones."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 59,
     "question": "¿Cuál de los siguientes es un efecto adverso frecuente de los glucocorticoides inhalados?",
     "answer": ["candidiasis orofaríngea"],
     "options": [
-    "hipoglicemia",
-    "osteoporosis",
-    "candidiasis orofaríngea",
-    "restricción del crecimiento"
+      "hipoglicemia",
+      "osteoporosis",
+      "candidiasis orofaríngea",
+      "restricción del crecimiento"
     ],
     "discipline": "Farmaco",
-    "comment": "",
-    },
-
-    {
+    "comment": "La deposición local de glucocorticoides en la mucosa orofaríngea causa inmunosupresión local, favoreciendo el sobrecrecimiento de hongos oportunistas y produciendo candidiasis orofaríngea (muguet) y disfonía. Este efecto se reduce mediante el uso de cámaras de inhalación y el enjuague bucal posterior."
+  },
+  {
     "info_quest": "2do Parcial 2022",
     "numb": 60,
     "question": "¿Cuál es la latencia de acción de bromuro de ipratropio?",
     "answer": ["30 minutos"],
     "options": [
-    "5 minutos",
-    "30 minutos",
-    "6 horas",
-    "12 horas"
+      "5 minutos",
+      "30 minutos",
+      "6 horas",
+      "12 horas"
     ],
     "discipline": "Farmaco",
-    "comment": "",
-    },
+    "comment": "El bromuro de ipratropio es un anticolinérgico inhalado de corta acción. Su inicio de acción (período de latencia) se sitúa entre los 15 y 30 minutos tras la administración, alcanzando su pico de efecto broncodilatador entre 1 y 2 horas."
+  },
 
       /////////////////////////////////////////////////////
-      {
-        "info_quest": "3er Parcial 2022",
-        "numb": 1,
-        "question": "El siguiente gráfico muestra la curva de autorregulación de la circulación coronaria en un sujeto sano. En el esquema hay un punto marcado con una flecha. ¿A que corresponde? <br> <img scr = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p1-3erP-2022.PNG' alt = ''",
-        "answer": ["Vasodilatación máxima."],
-        "options": [
-        "Vasodilatación máxima.",
-        "Resistencia vascular coronaria máxima.",
-        "Calibre mínimo de las arteriolas coronarias."
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 2,
-        "question": "Señale cuál de los siguientes mecanismos NO está involucrado en el infarto agudo de miocardio debido a enfermedad coronaria no obstructiva ('MINOCA'):",
-        "answer": ["Estenosis coronaria"],
-        "options": [
-        "Embolia coronaria",
-        "Estenosis coronaria",
-        "Espasmo coronario",
-        "Disección coronaria",
-    
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 3,
-        "question": "¿Qué efecto tiene una dieta baja en potasio sobre la hipertensión arterial?",
-        "answer": ["Aumenta las cifras de presión arterial"],
-        "options": [
-        "Aumenta las cifras de presión arterial",
-        "Puede mejorar la eficacia del tratamiento anti-hipertensivo",
-        "Disminuye la reabsorción de sodio a nivel del túbulo contorneado distal",
-        "Determina hipotensión por descenso del volumen del líquido extracelular",
-    
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 4,
-        "question": "¿Cuál de los siguientes es un mecanismo en la patogénesis de la hipertensión arterial esencial?",
-        "answer": ["Disminución del flujo sanguíneo medular que favorece la reabsorción de sodio a nivel tubular renal"],
-        "options": [
-        "Mutación monogénica",
-        "Disminución del número de nefronas a partir de los 20 años",
-        "Incremento de la reabsorción de sodio a nivel tubular renal por aumento de óxido nítrico",
-        "Disminución del flujo sanguíneo medular que favorece la reabsorción de sodio a nivel tubular renal",
-    
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 5,
-        "question": "¿Cuál de las siguientes es una característica del componente pulsátil de la poscarga?",
-        "answer": ["Depende de las características biomecánicas de grandes y medianas arterias"],
-        "options": [
-        "No es posible cuantificarlo de manera no invasiva",
-        "Es inversamente proporcional al volumen de eyección sistólico",
-        "Depende de las características biomecánicas de grandes y medianas arterias"
-    
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 6,
-        "question": "¿Qué repercusión determina el aumento de la rigidez aórtica?",
-        "answer": ["Desarrollo de enfermedad cerebral de pequeño vaso (infartos subcorticales y áreas de micro-sangrado)"],
-        "options": [
-        "Alteración profunda de la microcirculación de las meninges",
-        "Protección de la micro-vasculatura cerebral por un elevado tono de arteriolas precapilares",
-        "Activación del sistema renina-angiotensina-aldosterona (evitando la afectación renal secundaria)",
-        "Desarrollo de enfermedad cerebral de pequeño vaso (infartos subcorticales y áreas de micro-sangrado)",
-    
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 7,
-        "question": "¿Qué alteración es característica de la Hipertensión Pulmonar?",
-        "answer": ["Aumento de la resistencia vascular pulmonar y/o la presión auricular izquierda"],
-        "options": [
-        "Aumento de la resistencia vascular sistémica",
-        "Aumento de la resistencia vascular pulmonar proporcional al gasto cardíaco",
-        "Aumento de la resistencia vascular pulmonar y/o la presión auricular izquierda",
-        "Aumento del cociente VS/PAPp (Volumen sistólico/presión arterial pulmonar de pulso)",
-    
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 8,
-        "question": "¿Cuál de los siguientes mecanismos está involucrado en la remodelación vascular asociada a la hipertensión arterial pulmonar?",
-        "answer": ["Microtrombosis"],
-        "options": [
-        "Microtrombosis",
-        "Aumento de la apoptosis",
-        "Aumento de la actividad de la guanilato-ciclasa soluble",
-        "Disminución del factor de crecimiento derivado de las plaquetas y fibroblastos",
-    
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 9,
-        "question": "Dado los siguientes valores del cateterismo cardíaco derecho en reposo de un paciente con sospecha de Hipertensión pulmonar (HP): PAPm 26 mmHg, IC 1.8 L/min/m2 , PAOP 16 mmHg, superficie corporal de 1.6 m2  <br> ¿cuál es la alteración que presenta el paciente?",
-        "answer": ["Se trata de una HP asociada a cardiopatía izquierda combinada"],
-        "options": [
-        "Se trata de una HP postcapilar aislada",
-        "La función sistólica del ventrículo derecho está preservada",
-        "Se trata de una HP asociada a cardiopatía izquierda combinada",
-        "La resistencia vascular pulmonar es de aproximadamente 2.5 unidades wood.",
-    
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 10,
-        "question": "¿Cuál de las siguientes es una característica de la insuficiencia cardíaca aguda (ICA)?",
-        "answer": ["La presencia de infección como factor precipitante aumenta el riesgo de mortalidad"],
-        "options": [
-        "La función ventricular derecha está preservada",
-        "El perfil hemodinámico caliente y seco es el más frecuente",
-        "El perfil hemodinámico frío y seco tiene el peor pronóstico",
-        "La presencia de infección como factor precipitante aumenta el riesgo de mortalidad",
-    
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 11,
-        "question": "¿Cuál de los siguientes factores es un mecanismo fisiopatológico de la insuficiencia cardíaca aguda (ICA)?",
-        "answer": ["La activación neurohumoral"],
-        "options": [
-        "La activación neurohumoral",
-        "El descenso del estrés oxidativo",
-        "La depleción del volumen del líquido extracelular",
-        "La disminución de la presión de oclusión de la arteria pulmonar",
-    
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 12,
-        "question": "En el sindrome cardiorenal asociado a la ICA, la injuria renal aguda se define como:",
-        "answer": ["Un aumento de la creatininemia de 1,5 veces el valor basal"],
-        "options": [
-        "Un aumento de la creatininemia < 20%",
-        "Un descenso de la creatininemia de 20 mg/dL",
-        "Un aumento de la azoemia de 3 veces el valor basal",
-        "Un aumento de la creatininemia de 1,5 veces el valor basal",
-    
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 13,
-        "question": "¿Cuál de las siguientes es una característica de la insuficiencia cardíaca crónica con FEVI preservada (ICFEVIp)?",
-        "answer": ["Ocurre una disfunción endocárdica/endotelial secundaria a inflamación sistémica"],
-        "options": [
-        "No se desarrolla sindrome cardiorenal",
-        "Existe una importante activación neurohumoral",
-        "Ocurre una disfunción endocárdica/endotelial secundaria a inflamación sistémica",
-        "En la mayoría de los casos se presenta con deterioro de la FEVI en su trayectoria dinámica",
-    
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 14,
-        "question": "En la insuficiencia cardíaca (IC) con FEVI preservada, ¿cuál es una alteración mecánica característica?",
-        "answer": ["La deformación longitudinal disminuída"],
-        "options": [
-        "La deformación longitudinal disminuída",
-        "La deformación radial conservada que permite preservar la FEVI",
-        "La remodelación miocárdica concéntrica en más de un 50% de los casos"
-    
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 15,
-        "question": "¿Cuál de estos factores se asocia a remodelación cardíaca en la progresión de la IC crónica?",
-        "answer": ["Insuficiencia en la recaptación de calcio intracelular"],
-        "options": [
-        "Estenosis mitral funcional",
-        "Bloqueo incompleto de rama derecha",
-        "Insuficiencia funcional de la válvula tricuspídea",
-        "Insuficiencia en la recaptación de calcio intracelular",
-    
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 16,
-        "question": "En un paciente con autorregulación cerebral abolida, ¿qué respuesta espera ncontrar frente a un aumento de la presión de perfusión cerebral?",
-        "answer": ["Aumento del volumen sanguíneo cerebral"],
-        "options": [
-        "Reducción del flujo sanguíneo cerebral",
-        "Disminución de la presión intracraneana",
-        "Aumento del volumen sanguíneo cerebral",
-        "Incremento de las resistencias vasculares cerebrales",
-    
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 17,
-        "question": "¿Cuáles son los determinantes directos de la presión de perfusión cerebral?",
-        "answer": ["Presión intracraneana y presión arterial media"],
-        "options": [
-        "Presión intracraneana y presión arterial media",
-        "Flujo sanguíneo cerebral y presión intracraneana",
-        "Presión arterial media y flujo sanguíneo cerebral",
-        "Resistencia vascular cerebral y presión arterial media",
-    
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 18,
-        "question": "Frente a un evento de hipertensión endocraneana, indique cuál de los siguientes tratamientos puede reducirla por disminución del volumen sanguíneo cerebral:",
-        "answer": ["Hiperventilación"],
-        "options": [
-        "Drenaje lumbar",
-        "Hiperventilación",
-        "Craniectomía decompresiva",
-        "Administración de soluciones hipertónicas",
-    
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 19,
-        "question": "El exceso de bilirrubina puede teñir los fluidos corporales con un tono amarillento debido a su:",
-        "answer": ["afinidad por las proteínas"],
-        "options": [
-        "afinidad por los lípidos",
-        "afinidad por las proteínas",
-        "capacidad de atravesar la barrera hemato-encefálica"
-    
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 20,
-        "question": "La colestasis se caracteriza por:",
-        "answer": ["asociarse a una hiperbilirrubinemia a predominio de la bilirrubina directa"],
-        "options": [
-        "la insuficiente llegada de bilis al hígado",
-        "estar siempre asociada a una causa intrahepática",
-        "asociarse a una hiperbilirrubinemia a predominio de la bilirrubina directa",
-        "asociarse a una hiperbilirrubinemia a predominio de la bilirrubina indirecta",
-    
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 21,
-        "question": "¿Cuál de las siguientes alteraciones enzimáticas espera encontrar en la falla hepática?",
-        "answer": ["los niveles de fosfatasa alcalina aumentan en la colestasis"],
-        "options": [
-        "los niveles de fosfatasa alcalina aumentan en la colestasis",
-        "los niveles de fosfatasa alcalina disminuyen en la colestasis",
-        "el cociente TGO/TGP menor a 1 orienta a la cronicidad de la hepatopatía",
-        "la elevación en la TGO es más específica del hígado que la elevación de la TGP",
-    
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 22,
-        "question": "El uso de antiinflamatorios no esteroideos (AINEs) puede determinar episodios de insuficiencia renal aguda en un paciente con enfermedad renal previa ¿Cuál es el principal mecanismo implicado?",
-        "answer": ["Vasoconstricción de la arteriola aferente con disminución de la presión capilar glomerular"],
-        "options": [
-        "Vasodilatación de la arteriola aferente con disminución de la presión capilar glomerular",
-        "Vasoconstricción de la arteriola aferente con disminución de la presión capilar glomerular",
-        "Vasodilatación de la arteriola eferente con disminución de la presión capilar glomerular",
-        "Vasoconstricción de la arteriola eferente con disminución de la presión capilar glomerular",
-    
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 23,
-        "question": "En la injuria renal aguda isquémica ¿Cuánto tiempo en promedio demora en alcanzarse la fase de recuperación renal una vez que cesa el insulto isquémico?",
-        "answer": ["De 14 a 21 días"],
-        "options": [
-        "Menos de 7 días",
-        "De 14 a 21 días",
-        "Más de 1 mes"
-    
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 24,
-        "question": "Paciente de 70 años ingresa a la emergencia con diarrea acuosa. Al examen físico deshidratado con PA 70/40 mmHg. Se comienza reposición hidroelectrolítica. Se muestran los valores de función renal previo y post reposición. ¿Qué diagnóstico realiza de la funcionalidad renal más probable? <br> <img scr = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p24-3erP-2022.PNG' alt = ''>",
-        "answer": ["Insuficiencia renal aguda pre-renal"],
-        "options": [
-        "Enfermedad renal crónica",
-        "Insuficiencia renal aguda pre-renal",
-        "Insuficiencia renal aguda post-renal",
-        "Insuficiencia renal aguda parenquimatosa",
-    
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 25,
-        "question": "¿Cuál de las siguientes situaciones produce hipertensión capilar glomerular acelerando la progresión de la enfermedad renal crónica?",
-        "answer": ["Dieta alta en proteínas"],
-        "options": [
-        "PA 90/60 mmHg",
-        "Dieta alta en proteínas",
-        "Uso de inhibidores del trasportador Glut-2 (glifozinas)",
-        "Uso de inhibidrores de la enzima conversora de angiotensina",
-    
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 26,
-        "question": "La creatinina sérica y el filtrado glomerular tienen una relación no lineal, ¿Cuánto debe caer aproximadamente el filtrado glomerular para que la creatinina sérica supere los valores considerados normales?",
-        "answer": ["Más de 25 ml/min/1.73 m2"],
-        "options": [
-        "5 ml/min/1.73 m2",
-        "5 a 10 ml/min/1.73 m2",
-        "15 a 20 ml/min/1.73 m2",
-        "Más de 25 ml/min/1.73 m2",
-    
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 27,
-        "question": "Trimetoprim-sulfametoxazol actúa a través de la inhibición de la:",
-        "answer": ["Síntesis de ácido fólico."],
-        "options": [
-        "Síntesis de ácido fólico.",
-        "Síntesis de la pared bacteriana.",
-        "Síntesis proteica en la subunidad 50S.",
-        "Síntesis proteica en la subunidad 30S.",
-    
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 28,
-        "question": "¿Cuál de los siguientes es un mecanismo de resistencia a fosfomicina?",
-        "answer": ["Pérdida de afinidad por la enzima MurA"],
-        "options": [
-        "Alteración de las PBP bacterianas",
-        "Pérdida de afinidad por la enzima MurA",
-        "Alteración del sitio de acción en el ribosoma",
-        "Inactivación de las nitroreductasas bacterianas",
-    
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 29,
-        "question": "El mecanismo de acción de las fluoroquinolonas se explica por la inhibición de la:",
-        "answer": ["Síntesis de ADN"],
-        "options": [
-        "Síntesis de ADN",
-        "Síntesis proteica",
-        "Síntesis de ácido fólico",
-        "Síntesis de la pared bacteriana",
-    
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 30,
-        "question": "¿Cuál de los siguientes es un efecto adverso grave característico de las fluoroquinolonas?",
-        "answer": ["Rotura tendinosa"],
-        "options": [
-        "Hipertensión",
-        "Hiperglicemia",
-        "Rotura tendinosa",
-        "Acortamiento del intervalo QT",
-    
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 31,
-        "question": "¿Cuál de las siguientes corresponde a una característica farmacocinética de ciprofloxacina?",
-        "answer": ["Alta concentración intracelular"],
-        "options": [
-        "Inducción de la CYP3A4",
-        "Baja biodisponibilidad vía oral",
-        "Alta concentración intracelular",
-        "Excreción principalmente biliar",
-    
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 32,
-        "question": "¿Cuál de los siguientes es un efecto adverso frecuente con la administración de amoxicilina?",
-        "answer": ["Exantema"],
-        "options": [
-        "Exantema",
-        "Hipertensión",
-        "Hiponatremia",
-        "Prolongación de QT",
-    
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 33,
-        "question": "Sobre la farmacocinética de los macrólidos: ¿cuál de las siguientes es una característica de su distribución?",
-        "answer": ["Presentan alta concentración intracelular"],
-        "options": [
-        "Su concentración plasmática es elevada",
-        "Presentan alta concentración intracelular",
-        "Su concentración en leche materna es escasa",
-        "Posee alta concentración en líquido cefalorraquídeo",
-    
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 34,
-        "question": "¿Qué característica farmacocinética de los macrólidos aumenta su riesgo de interacciones medicamentosas?",
-        "answer": ["Inhibición de citocromo P450"],
-        "options": [
-        "Inhibición de citocromo P450",
-        "Inducción de enzimas hepáticas",
-        "Aumento en la eliminación renal",
-        "Inhibición de la glucuronidación",
-    
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 35,
-        "question": "¿Cuál de los siguientes antibióticos inhibe de forma irreversible la transpeptidación?",
-        "answer": ["cefradina"],
-        "options": [
-        "cefradina",
-        "amicacina",
-        "azitromicina",
-        "moxifloxacina",
-    
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 36,
-        "question": "¿Cuál de las siguientes es una característica farmacocinética de clindamicina?",
-        "answer": ["Buena distribución en tejido óseo y articulaciones"],
-        "options": [
-        "Alta concentración en SNC",
-        "Escasa absorción por vía oral",
-        "Eliminación principalmente renal",
-        "Buena distribución en tejido óseo y articulaciones",
-    
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 37,
-        "question": "¿Cuál de las siguientes es una característica farmacocinética de metronidazol?",
-        "answer": ["Importante metabolización hepática"],
-        "options": [
-        "Importante eliminación renal",
-        "Baja biodisponibilidad vía oral",
-        "Ausencia de metabolitos activos",
-        "Importante metabolización hepática",
-    
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 38,
-        "question": "¿Cuál es una reacción adversa esperable en caso de ingesta de alcohol etílico durante el tratamiento con metronidazol?",
-        "answer": ["Reacción tipo antabus o disulfirámica"],
-        "options": [
-        "Hipersensibilidad aguda",
-        "Insuficiencia renal aguda",
-        "Reacción tipo antabus o disulfirámica",
-        "Sedación y coma por depresión del SNC",
-    
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 39,
-        "question": "¿Cuál de las siguientes es una característica de mebendazol que lo diferencia de albendazol?",
-        "answer": ["Presenta menor absorción sistémica."],
-        "options": [
-        "Requiere menor dosis.",
-        "Tiene mayor eficacia antiparasitaria.",
-        "Presenta menor absorción sistémica.",
-        "Tiene eliminación principalmente renal.",
-    
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-        },
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 40,
-        "question": "¿Cuál de las siguientes alteraciones electrocardiográficas se puede ver con los antimicóticos del grupo de los azoles?",
-        "answer": ["Prolongación del intervalo QT"],
-        "options": [
-        "Ausencia de ondas p",
-        "Bloqueo auriculoventricular",
-        "Prolongación del intervalo QT",
-        "Sobreelevación del segmento ST",
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-        },
-    
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 41,
-        "question": "¿Cuál de los siguientes grupos farmacológicos pueden alterar la recirculación enterohepática de los estrógenos?",
-        "answer": ["Antibióticos"],
-        "options": [
-        "Analgésicos",
-        "Antibióticos",
-        "Antiepilépticos",
-        "Antihipertensivos",
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-        },
-    
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 42,
-        "question": "¿Cuál de los siguientes efectos de levonorgestrel se debe a su acción androgénica?",
-        "answer": ["Irregularidad menstrual", "Aumento del acné facial"],
-        "options": [
-        "Descenso de peso",
-        "Irregularidad menstrual",
-        "Aumento del acné facial",
-        "Insomnio de conciliación",
-        ],
-        "discipline": "Farmaco",
-        "comment": "Esta es ambigua. B y C",
-        },
-    
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 43,
-        "question": "El efecto fotoeléctrico se caracteriza porque el fotón incidente:",
-        "answer": ["deposita toda su energía para eyectar un electrón de una capa cercana al núcleo"],
-        "options": [
-        "dispersa parte de su energía y parte se transfiere a un electrón del medio",
-        "deposita toda su energía para eyectar un electrón de una capa cercana al núcleo",
-        "interactúa con el campo eléctrico del núcleo atómico y deposita toda su energía",
-        "transfiere su energía a un electrón de la capa de valencia formando un radical libre",
-        ],
-        "discipline": "Biofisica",
-        "comment": "",
-        },
-    
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 44,
-        "question": "¿Cuál de las siguientes radiaciones presenta mayor índice de ponderación (Wr) en cuanto a su capacidad de ionización?",
-        "answer": ["partícula alfa"],
-        "options": [
-        "rayos X",
-        "electrones",
-        "rayos gamma",
-        "partícula alfa",
-        ],
-        "discipline": "Biofisica",
-        "comment": "",
-        },
-    
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 45,
-        "question": "¿Cuál de las siguientes opciones indica un efecto estocástico de las radiaciones?",
-        "answer": ["mutagénesis"],
-        "options": [
-        "cataratas",
-        "mutagénesis",
-        "displasia celular",
-        "esterilidad reversible",
-        "descamado de la piel",
-        ],
-        "discipline": "Biofisica",
-        "comment": "",
-        },
-    
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 46,
-        "question": "¿Cuál es el efecto característico de la exposición a radiaciones ionizantes durante el embarazo en la etapa de pre-implantación?",
-        "answer": ["Efecto de todo o nada"],
-        "options": [
-        "Efecto de todo o nada",
-        "Retardo mental severo",
-        "Anomalías esqueléticas",
-        "Aumento del riesgo de la inducción de cáncer",
-        ],
-        "discipline": "Biofisica",
-        "comment": "",
-        },
-    
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 47,
-        "question": "¿Cuál de los siguientes factores implica una mayor radiosensibilidad celular?",
-        "answer": ["Presencia de oxígeno en el medio"],
-        "options": [
-        "Células muy diferenciadas",
-        "Fraccionamiento de la dosis",
-        "Presencia de oxígeno en el medio",
-        "Presencia de glutatión en el medio",
-        ],
-        "discipline": "Biofisica",
-        "comment": "",
-        },
-    
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 48,
-        "question": "¿Cuál de las siguientes opciones indica una característica del depósito de energía en el material biológico?",
-        "answer": ["tiene una interacción al azar"],
-        "options": [
-        "es un proceso lento",
-        "tiene una interacción al azar",
-        "existe selectividad molecular",
-        "presenta especificidad de lesiones",
-        ],
-        "discipline": "Biofisica",
-        "comment": "",
-        },
-    
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 49,
-        "question": "¿Cuál de las siguientes opciones indica una lesión crítica que si es mal reparada o no reparada puede conducir a la formación de aberraciones cromosómicas?",
-        "answer": ["Doble roturas de cadena"],
-        "options": [
-        "Pérdida de bases",
-        "Doble roturas de cadena",
-        "Unión de proteínas al ADN",
-        "Roturas simples de cadena",
-        "Roturas de puentes de hidrógeno",
-        ],
-        "discipline": "Biofisica",
-        "comment": "",
-        },
-    
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 50,
-        "question": "¿Qué indica el parámetro dosis letal media (D0) en una curva de sobrevida?",
-        "answer": ["La dosis a la cual la probabilidad de sobrevida es del 37%"],
-        "options": [
-        "La capacidad de reparación genómica",
-        "La pendiente de la curva en la zona a bajas dosis",
-        "El punto de corte de la curva en el eje de ordenadas",
-        "La dosis a la cual la probabilidad de sobrevida es del 37%",
-        ],
-        "discipline": "Biofisica",
-        "comment": "",
-        },
-    
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 51,
-        "question": "En cuanto a la indicación de una tomografía computada en pacientes embarazadas:",
-        "answer": ["está justificada frente a un traumatismo de cráneo con pérdida de conocimiento"],
-        "options": [
-        "no corresponde considerar el criterio de optimización",
-        "está justificada frente a un traumatismo de cráneo con pérdida de conocimiento",
-        "debe realizarse con un protocolo de alta dosis, dada la valoración riesgo beneficio",
-        "es el primer estudio a solicitar frente a un planteo clínico de cólico nefrítico por su alta resolución",
-        ],
-        "discipline": "Biofisica",
-        "comment": "",
-        },
-    
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 52,
-        "question": "La ecografía es un método imagenológico que:",
-        "answer": ["para el diagnóstico se utiliza en un rango de frecuencia entre 2 y 20 MHz"],
-        "options": [
-        "está contraindicado en algunos casos por utilizar rayos X",
-        "se basa en el efecto fotoeléctrico dependiente del voltaje aplicado",
-        "se basa en ultrasonido, una propiedad de las radiaciones ionizantes",
-        "para el diagnóstico se utiliza en un rango de frecuencia entre 2 y 20 MHz",
-        "consiste en estimular el tejido con energía electromagnética aprovechando la interacción con la materia (ecos)",
-        ],
-        "discipline": "Biofisica",
-        "comment": "",
-        },
-    
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 53,
-        "question": "Un paciente de 50 años consulta en emergencia por un infarto agudo de miocardio. Dos semanas después el miocardio necrótico ha sido reemplazado en gran parte por capilares, fibroblastos y colágeno; también presenta una variedad de células inflamatorias. <br> ¿Cuál de los siguientes tipos de células inflamatorias tiene un rol importante en el proceso de reparación de dicha lesión?",
-        "answer": ["Macrófagos"],
-        "options": [
-        "Eosinófilos",
-        "Plasmocitos",
-        "Macrófagos",
-        "Células epitelioides",
-        ],
-        "discipline": "AnatoP",
-        "comment": "",
-        },
-    
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 54,
-        "question": "Un hombre de 47 años tabaquista intenso consulta por tos crónica. La radiografía de tórax evidencia nódulo pulmonar en lóbulo superior derecho que posteriormente se biopsia. El estudio histológico describe una mucosa bronquial con metaplasia escamosa sin otros elementos a destacar.  <br> Si el paciente dejara de fumar ¿Qué sucedería con la metaplasia escamosa a nivel de la mucosa bronquial?",
-        "answer": ["Revierte a la normalidad"],
-        "options": [
-        "Necrosis y cicatrización",
-        "Transformación maligna",
-        "Revierte a la normalidad",
-        "Persistencia a lo largo de la vida",
-        ],
-        "discipline": "AnatoP",
-        "comment": "",
-        },
-    
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 55,
-        "question": "Una mujer de 36 años con neumonía neumocóccica desarrolla un derrame pleural derecho. El estudio citológico del líquido pleural muestra un gran número de leucocitos polimorfonucleares. <br> ¿Cuál de las siguientes caracteriza mejor este derrame pleural?",
-        "answer": ["Exudado purulento"],
-        "options": [
-        "Transudado",
-        "Exudado seroso",
-        "Exudado fibrinoso",
-        "Exudado purulento",
-        ],
-        "discipline": "AnatoP",
-        "comment": "",
-        },
-        
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 56,
-        "question": "¿A partir de la fusión de qué tipo celular se originan las células multinucleadas de Langhans?",
-        "answer": ["Macrófagos"],
-        "options": [
-        "Mastocitos",
-        "Neutrófilos",
-        "Plasmocitos",
-        "Macrófagos",
-        ],
-        "discipline": "AnatoP",
-        "comment": "",
-        },
-    
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 57,
-        "question": "La metaplasia surge a partir de la reprogramación de:",
-        "answer": ["Células madre"],
-        "options": [
-        "Células madre",
-        "Células epiteliales",
-        "Células estromales",
-        "Células inflamatorias",
-        ],
-        "discipline": "AnatoP",
-        "comment": "",
-        },
-    
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 58,
-        "question": "Un hombre de 53 años consulta por tos, malestar general y sudoración nocturna. La radiografía de tórax muestra numerosas densidades apicales bilaterales. El estudio microbiológico del esputo identifica M. tuberculosis. ¿Cuál de las siguientes características histopatológicas espera encontrar en la lesión pulmonar?",
-        "answer": ["Inflamación crónica granulomatosa necrotizante"],
-        "options": [
-        "Inflamación aguda supurativa",
-        "Inflamación crónica con necrosis grasa",
-        "Inflamación crónica granulomatosa necrotizante",
-        "Inflamación crónica granulomatosa no necrotizante",
-        ],
-        "discipline": "AnatoP",
-        "comment": "",
-        },
-    
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 59,
-        "question": "¿Cuál de las siguientes afirmaciones sobre la necrosis celular es verdadera?",
-        "answer": ["Cariorexis significa fragmentación del núcleo encogido."],
-        "options": [
-        "La membrana celular (plasmática) se mantiene intacta",
-        "Cariorexis significa fragmentación del núcleo encogido.",
-        "Las células necróticas muestran aumento de la basofilia citoplasmática.",
-        "Cariolisis del núcleo significa aumento de la basofilia y contracción del núcleo.",
-        ],
-        "discipline": "AnatoP",
-        "comment": "",
-        },
-    
-        {
-        "info_quest": "3er Parcial 2022",
-        "numb": 60,
-        "question": "¿En cuál de los siguientes órganos ocurre la hiperplasia hormonal?",
-        "answer": ["Mama"],
-        "options": [
-        "Riñón",
-        "Mama",
-        "Hígado",
-        "Corazón",
-        ],
-        "discipline": "AnatoP",
-        "comment": "",
-        },
+      
+
+       {
+    "info_quest": "3er Parcial 2022",
+    "numb": 1,
+    "question": "El siguiente gráfico muestra la curva de autorregulación de la circulación coronaria en un sujeto sano. En el esquema hay un punto marcado con una flecha. ¿A que corresponde? ",
+    "answer": ["Vasodilatación máxima."],
+    "options": [
+      "Vasodilatación máxima.",
+      "Resistencia vascular coronaria máxima.",
+      "Calibre mínimo de las arteriolas coronarias."
+    ],
+    "image": "https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p1-3P-2022.PNG",
+    "discipline": "Fisiopato",
+    "comment": "El límite inferior del rango de autorregulación coronaria marca el punto donde los vasos precapilares alcanzan su vasodilatación máxima. Por debajo de este nivel de presión de perfusión, el flujo coronario cae de forma lineal al depender pasivamente de la presión."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 2,
+    "question": "Señale cuál de los siguientes mecanismos NO está involucrado en el infarto agudo de miocardio debido a enfermedad coronaria no obstructiva ('MINOCA'):",
+    "answer": ["Estenosis coronaria"],
+    "options": [
+      "Embolia coronaria",
+      "Estenosis coronaria",
+      "Espasmo coronario",
+      "Disección coronaria"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El síndrome MINOCA se define clínicamente por la presencia de infarto agudo de miocardio sin estenosis coronaria obstructiva angiográfica significativa (menos del 50%). Se debe a causas como espasmo vascular, disección, embolia o disfunción microvascular."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 3,
+    "question": "¿Qué efecto tiene una dieta baja en potasio sobre la hipertensión arterial?",
+    "answer": ["Aumenta las cifras de presión arterial"],
+    "options": [
+      "Aumenta las cifras de presión arterial",
+      "Puede mejorar la eficacia del tratamiento anti-hipertensivo",
+      "Disminuye la reabsorción de sodio a nivel del túbulo contorneado distal",
+      "Determina hipotensión por descenso del volumen del líquido extracelular"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La deficiencia o baja ingesta de potasio estimula la reabsorción renal de sodio (mediante la activación del cotransportador NCC en el túbulo distal) e incrementa la reactividad vascular, elevando los valores de presión arterial."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 4,
+    "question": "¿Cuál de los siguientes es un mecanismo en la patogénesis de la hipertensión arterial esencial?",
+    "answer": ["Disminución del flujo sanguíneo medular que favorece la reabsorción de sodio a nivel tubular renal"],
+    "options": [
+      "Mutación monogénica",
+      "Disminución del número de nefronas a partir de los 20 años",
+      "Incremento de la reabsorción de sodio a nivel tubular renal por aumento de óxido nítrico",
+      "Disminución del flujo sanguíneo medular que favorece la reabsorción de sodio a nivel tubular renal"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La reducción del flujo sanguíneo medular renal altera el mecanismo de natriuresis por presión, lo que promueve la retención tubular de sodio y agua, contribuyendo de forma determinante al desarrollo de hipertensión esencial."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 5,
+    "question": "¿Cuál de las siguientes es una característica del componente pulsátil de la poscarga?",
+    "answer": ["Depende de las características biomecánicas de grandes y medianas arterias"],
+    "options": [
+      "No es posible cuantificarlo de manera no invasiva",
+      "Es inversamente proporcional al volumen de eyección sistólico",
+      "Depende de las características biomecánicas de grandes y medianas arterias"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La poscarga ventricular tiene un componente estático/resistivo (dado por las arteriolas) y un componente pulsátil/dinámico, determinado por las propiedades elásticas, compliance y rigidez de las grandes y medianas arterias de conducción."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 6,
+    "question": "¿Qué repercusión determina el aumento de la rigidez aórtica?",
+    "answer": ["Desarrollo de enfermedad cerebral de pequeño vaso (infartos subcorticales y áreas de micro-sangrado)"],
+    "options": [
+      "Alteración profunda de la microcirculación de las meninges",
+      "Protección de la micro-vasculatura cerebral por un elevado tono de arteriolas precapilares",
+      "Activación del sistema renina-angiotensina-aldosterona (evitando la afectación renal secundaria)",
+      "Desarrollo de enfermedad cerebral de pequeño vaso (infartos subcorticales y áreas de micro-sangrado)"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Al perderse la función amortiguadora de la aorta por rigidez, la onda de pulso de alta energía se transmite directamente a lechos vasculares de baja resistencia como el cerebral, provocando remodelación, microinfartos subcorticales y microsangrados."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 7,
+    "question": "¿Qué alteración es característica de la Hipertensión Pulmonar?",
+    "answer": ["Aumento de la resistencia vascular pulmonar y/o la presión auricular izquierda"],
+    "options": [
+      "Aumento de la resistencia vascular sistémica",
+      "Aumento de la resistencia vascular pulmonar proporcional al gasto cardíaco",
+      "Aumento de la resistencia vascular pulmonar y/o la presión auricular izquierda",
+      "Aumento del cociente VS/PAPp (Volumen sistólico/presión arterial pulmonar de pulso)"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La hipertensión pulmonar se define hemodinámicamente por la elevación de la presión arterial pulmonar media, producida por remodelación/aumento de la Resistencia Vascular Pulmonar (origen precapilar) y/o por elevación de presiones izquierdas como la presión auricular izquierda (origen postcapilar)."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 8,
+    "question": "¿Cuál de los siguientes mecanismos está involucrado en la remodelación vascular asociada a la hipertensión arterial pulmonar?",
+    "answer": ["Microtrombosis"],
+    "options": [
+      "Microtrombosis",
+      "Aumento de la apoptosis",
+      "Aumento de la actividad de la guanilato-ciclasa soluble",
+      "Disminución del factor de crecimiento derivado de las plaquetas y fibroblastos"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La fisiopatología de la hipertensión arterial pulmonar involucra un estado protrombótico in situ, disfunción endotelial, vasoconstricción y proliferación celular que conducen al desarrollo de microtrombosis y lesiones plexiformes en la vasculatura pulmonar."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 9,
+    "question": "Dado los siguientes valores del cateterismo cardíaco derecho en reposo de un paciente con sospecha de Hipertensión pulmonar (HP): PAPm 26 mmHg, IC 1.8 L/min/m2 , PAOP 16 mmHg, superficie corporal de 1.6 m2  <br> ¿cuál es la alteración que presenta el paciente?",
+    "answer": ["Se trata de una HP asociada a cardiopatía izquierda combinada"],
+    "options": [
+      "Se trata de una HP postcapilar aislada",
+      "La función sistólica del ventrículo derecho está preservada",
+      "Se trata de una HP asociada a cardiopatía izquierda combinada",
+      "La resistencia vascular pulmonar es de aproximadamente 2.5 unidades wood."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Una PAOP > 15 mmHg indica componente postcapilar (cardiopatía izquierda). Al calcular el gasto cardíaco (GC = IC × SC = 1.8 × 1.6 = 2.88 L/min) y la RVP = (PAPm - PAOP) / GC = (26 - 16) / 2.88 ≈ 3.47 Unidades Wood (> 2-3 UW), confirma un componente precapilar superpuesto, clasificándolo como HP combinada pre y postcapilar."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 10,
+    "question": "¿Cuál de las siguientes es una característica de la insuficiencia cardíaca aguda (ICA)?",
+    "answer": ["La presencia de infección como factor precipitante aumenta el riesgo de mortalidad"],
+    "options": [
+      "La función ventricular derecha está preservada",
+      "El perfil hemodinámico caliente y seco es el más frecuente",
+      "El perfil hemodinámico frío y seco tiene el peor pronóstico",
+      "La presencia de infección como factor precipitante aumenta el riesgo de mortalidad"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Los factores desencadenantes como los procesos infecciosos (ej. respiratorios) aumentan el consumo de oxígeno y el estrés metabólico, relacionándose clínicamente con una mayor mortalidad hospitalaria y a corto plazo en ICA."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 11,
+    "question": "¿Cuál de los siguientes factores es un mecanismo fisiopatológico de la insuficiencia cardíaca aguda (ICA)?",
+    "answer": ["La activación neurohumoral"],
+    "options": [
+      "La activación neurohumoral",
+      "El descenso del estrés oxidativo",
+      "La depleción del volumen del líquido extracelular",
+      "La disminución de la presión de oclusión de la arteria pulmonar"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La hiperactivación del sistema nervioso simpático y del sistema renina-angiotensina-aldosterona desencadena vasoconstricción periférica, retención de sodio y agua y elevación de presiones de llenado, siendo el pilar fisiopatológico clave de la descompensación aguda."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 12,
+    "question": "En el sindrome cardiorenal asociado a la ICA, la injuria renal aguda se define como:",
+    "answer": ["Un aumento de la creatininemia de 1,5 veces el valor basal"],
+    "options": [
+      "Un aumento de la creatininemia < 20%",
+      "Un descenso de la creatininemia de 20 mg/dL",
+      "Un aumento de la azoemia de 3 veces el valor basal",
+      "Un aumento de la creatininemia de 1,5 veces el valor basal"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "De acuerdo con los criterios internacionales consensuados (KDIGO/AKIN), la injuria renal aguda se establece por un aumento ≥ 50% (1,5 veces) en la creatinina sérica con respecto al valor basal del paciente dentro de los 7 días."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 13,
+    "question": "¿Cuál de las siguientes es una característica de la insuficiencia cardíaca crónica con FEVI preservada (ICFEVIp)?",
+    "answer": ["Ocurre una disfunción endocárdica/endotelial secundaria a inflamación sistémica"],
+    "options": [
+      "No se desarrolla sindrome cardiorenal",
+      "Existe una importante activación neurohumoral",
+      "Ocurre una disfunción endocárdica/endotelial secundaria a inflamación sistémica",
+      "En la mayoría de los casos se presenta con deterioro de la FEVI en su trayectoria dinámica"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El paradigma fisiopatológico actual de la ICFEVIp establece que las comorbilidades sistémicas inducen un estado inflamatorio crónico que altera el endotelio microvascular coronario, disminuyendo el NO/GMPc y aumentando la rigidez miocárdica."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 14,
+    "question": "En la insuficiencia cardíaca (IC) con FEVI preservada, ¿cuál es una alteración mecánica característica?",
+    "answer": ["La deformación longitudinal disminuída"],
+    "options": [
+      "La deformación longitudinal disminuída",
+      "La deformación radial conservada que permite preservar la FEVI",
+      "La remodelación miocárdica concéntrica en más de un 50% de los casos"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En la ICFEVIp, aunque la fracción de eyección se mantenga dentro del rango normal debido al componente radial compensatorio, el strain longitudinal (deformación de las fibras subendocárdicas) se encuentra precozmente deteriorado."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 15,
+    "question": "¿Cuál de estos factores se asocia a remodelación cardíaca en la progresión de la IC crónica?",
+    "answer": ["Insuficiencia en la recaptación de calcio intracelular"],
+    "options": [
+      "Estenosis mitral funcional",
+      "Bloqueo incompleto de rama derecha",
+      "Insuficiencia funcional de la válvula tricuspídea",
+      "Insuficiencia en la recaptación de calcio intracelular"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El manejo anómalo de calcio (como la menor actividad de la bomba SERCA2a para recaptarlo hacia el retículo sarcoplásmico) altera la relajación, genera sobrecarga citosólica de Ca2+ y activa vías de señalización hipertróficas y apoptóticas que promueven el remodelado."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 16,
+    "question": "En un paciente con autorregulación cerebral abolida, ¿qué respuesta espera ncontrar frente a un aumento de la presión de perfusión cerebral?",
+    "answer": ["Aumento del volumen sanguíneo cerebral"],
+    "options": [
+      "Reducción del flujo sanguíneo cerebral",
+      "Disminución de la presión intracraneana",
+      "Aumento del volumen sanguíneo cerebral",
+      "Incremento de las resistencias vasculares cerebrales"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Si la autorregulación hemodinámica cerebral se pierde, la vasculatura cerebral actúa como un sistema pasivo. Un aumento en la presión de perfusión distiende pasivamente los vasos, incrementando el flujo y el volumen sanguíneo cerebral."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 17,
+    "question": "¿Cuáles son los determinantes directos de la presión de perfusión cerebral?",
+    "answer": ["Presión intracraneana y presión arterial media"],
+    "options": [
+      "Presión intracraneana y presión arterial media",
+      "Flujo sanguíneo cerebral y presión intracraneana",
+      "Presión arterial media y flujo sanguíneo cerebral",
+      "Resistencia vascular cerebral y presión arterial media"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La Presión de Perfusión Cerebral (PPC) representa el gradiente neto que impulsa el flujo de sangre al encéfalo y se calcula matemáticamente como PPC = PAM - PIC (donde PAM es la Presión Arterial Media y PIC es la Presión Intracraneana)."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 18,
+    "question": "Frente a un evento de hipertensión endocraneana, indique cuál de los siguientes tratamientos puede reducirla por disminución del volumen sanguíneo cerebral:",
+    "answer": ["Hiperventilación"],
+    "options": [
+      "Drenaje lumbar",
+      "Hiperventilación",
+      "Craniectomía decompresiva",
+      "Administración de soluciones hipertónicas"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La hiperventilación disminuye la presión parcial de CO2 sanguíneo (hipocapnia), lo que causa una rápida vasoconstricción en la microcirculación cerebral, reduciendo el volumen sanguíneo cerebral y la presión intracraneana."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 19,
+    "question": "El exceso de bilirrubina puede teñir los fluidos corporales con un tono amarillento debido a su:",
+    "answer": ["afinidad por las proteínas"],
+    "options": [
+      "afinidad por los lípidos",
+      "afinidad por las proteínas",
+      "capacidad de atravesar la barrera hemato-encefálica"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La bilirrubina tiene una alta afinidad por fijarse a las proteínas tisulares, especialmente a las fibras elásticas y de colágeno presentes en la piel, esclera y líquidos corporales."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 20,
+    "question": "La colestasis se caracteriza por:",
+    "answer": ["asociarse a una hiperbilirrubinemia a predominio de la bilirrubina directa"],
+    "options": [
+      "la insuficiente llegada de bilis al hígado",
+      "estar siempre asociada a una causa intrahepática",
+      "asociarse a una hiperbilirrubinemia a predominio de la bilirrubina directa",
+      "asociarse a una hiperbilirrubinemia a predominio de la bilirrubina indirecta"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La colestasis refleja la alteración o detención de la secreción/flujo biliar. Al estar la bilirrubina previamente conjugada por el hepatocito, su reflujo a la circulación genera hiperbilirrubinemia a predominio directo (conjugada)."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 21,
+    "question": "¿Cuál de las siguientes alterations enzimáticas espera encontrar en la falla hepática?",
+    "answer": ["los niveles de fosfatasa alcalina aumentan en la colestasis"],
+    "options": [
+      "los niveles de fosfatasa alcalina aumentan en la colestasis",
+      "los niveles de fosfatasa alcalina disminuyen en la colestasis",
+      "el cociente TGO/TGP menor a 1 orienta a la cronicidad de la hepatopatía",
+      "la elevación en la TGO es más específica del hígado que la elevación de la TGP"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La fosfatasa alcalina es una enzima presente en la membrana canalicular biliar. Ante la colestasis o estasis de sales biliares, se induce la síntesis y liberación de esta enzima a la sangre."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 22,
+    "question": "El uso de antiinflamatorios no esteroideos (AINEs) puede determinar episodios de insuficiencia renal aguda en un paciente con enfermedad renal previa ¿Cuál es el principal mecanismo implicado?",
+    "answer": ["Vasoconstricción de la arteriola aferente con disminución de la presión capilar glomerular"],
+    "options": [
+      "Vasodilatación de la arteriola aferente con disminución de la presión capilar glomerular",
+      "Vasoconstricción de la arteriola aferente con disminución de la presión capilar glomerular",
+      "Vasodilatación de la arteriola eferente con disminución de la presión capilar glomerular",
+      "Vasoconstricción de la arteriola eferente con disminución de la presión capilar glomerular"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Los AINEs inhiben la síntesis de prostaglandinas renales (PGE2/PGI2), las cuales mantienen vasodilatada la arteriola aferente. Su bloqueo genera vasoconstricción aferente, cayendo la presión hidrostática glomerular y la tasa de filtrado."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 23,
+    "question": "En la injuria renal aguda isquémica ¿Cuánto tiempo en promedio demora en alcanzarse la fase de recuperación renal una vez que cesa el insulto isquémico?",
+    "answer": ["De 14 a 21 días"],
+    "options": [
+      "Menos de 7 días",
+      "De 14 a 21 días",
+      "Más de 1 mes"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Tras un episodio de necrosis tubular aguda isquémica, el epitelio tubular requiere un período medio de 2 a 3 semanas (14 a 21 días) para reparar, regenerar y diferenciar sus células restableciendo la función renal."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 24,
+    "question": "Paciente de 70 años ingresa a la emergencia con diarrea acuosa. Al examen físico deshidratado con PA 70/40 mmHg. Se comienza reposición hidroelectrolítica. Se muestran los valores de función renal previo y post reposición. ¿Qué diagnóstico realiza de la funcionalidad renal más probable?",
+    "answer": ["Insuficiencia renal aguda pre-renal"],
+    "options": [
+      "Enfermedad renal crónica",
+      "Insuficiencia renal aguda pre-renal",
+      "Insuficiencia renal aguda post-renal",
+      "Insuficiencia renal aguda parenquimatosa"
+    ],
+    "image": "https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p24-3P-2022.PNG",
+    "discipline": "Farmaco",
+    "comment": "El cuadro clínico de deshidratación con hipotensión causa una hipoperfusión renal funcional. La rápida reversión de los azoados tras la reposición hídrica confirma el diagnóstico de injuria renal aguda pre-renal."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 25,
+    "question": "¿Cuál de las siguientes situaciones produce hipertensión capilar glomerular acelerando la progresión de la enfermedad renal crónica?",
+    "answer": ["Dieta alta en proteínas"],
+    "options": [
+      "PA 90/60 mmHg",
+      "Dieta alta en proteínas",
+      "Uso de inhibidores del trasportador Glut-2 (glifozinas)",
+      "Uso de inhibidrores de la enzima conversora de angiotensina"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La ingesta elevada de proteínas aumenta la carga de aminoácidos a nivel renal, induciendo vasodilatación de la arteriola aferente. Esto incrementa el flujo y la presión hidrostática intraglomerular (hiperfiltración hemodinámica dañina)."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 26,
+    "question": "La creatinina sérica y el filtrado glomerular tienen una relación no lineal, ¿Cuánto debe caer aproximadamente el filtrado glomerular para que la creatinina sérica supere los valores considerados normales?",
+    "answer": ["Más de 25 ml/min/1.73 m2"],
+    "options": [
+      "5 ml/min/1.73 m2",
+      "5 a 10 ml/min/1.73 m2",
+      "15 a 20 ml/min/1.73 m2",
+      "Más de 25 ml/min/1.73 m2"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Debido a la curva hiperbólica que relaciona el filtrado glomerular con la creatininemia, se requiere una reducción importante de la función renal (perder más de 25-30 mL/min/1,73m² o aproximadamente el 50% de la función) para que la creatinina rebase los límites normales."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 27,
+    "question": "Trimetoprim-sulfametoxazol actúa a través de la inhibición de la:",
+    "answer": ["Síntesis de ácido fólico."],
+    "options": [
+      "Síntesis de ácido fólico.",
+      "Síntesis de la pared bacteriana.",
+      "Síntesis proteica en la subunidad 50S.",
+      "Síntesis proteica en la subunidad 30S."
+    ],
+    "discipline": "Farmaco",
+    "comment": "Esta combinación produce un bloqueo secuencial en la vía metabólica del folato bacteriano: el sulfametoxazol inhibe la dihidropteroato sintasa y el trimetoprim bloquea la dihidrofolato reductasa."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 28,
+    "question": "¿Cuál de los siguientes es un mecanismo de resistencia a fosfomicina?",
+    "answer": ["Pérdida de afinidad por la enzima MurA"],
+    "options": [
+      "Alteración de las PBP bacterianas",
+      "Pérdida de afinidad por la enzima MurA",
+      "Alteración del sitio de acción en el ribosoma",
+      "Inactivación de las nitroreductasas bacterianas"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La fosfomicina inhibe el primer paso de la síntesis del peptidoglicano uniéndose a la enzima MurA. Mutaciones en el gen murA disminuyen la afinidad de la enzima por el fármaco, confiriendo resistencia."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 29,
+    "question": "El mecanismo de acción de las fluoroquinolonas se explica por la inhibición de la:",
+    "answer": ["Síntesis de ADN"],
+    "options": [
+      "Síntesis de ADN",
+      "Síntesis proteica",
+      "Síntesis de ácido fólico",
+      "Síntesis de la pared bacteriana"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Las fluoroquinolonas actúan inhibiendo las enzimas ADN girasa (topoisomerasa II) y topoisomerasa IV, impidiendo la replicación, transcripción y reparación del ADN bacteriano."
+  },
+
+    {
+    "info_quest": "3er Parcial 2022",
+    "numb": 30,
+    "question": "¿Cuál de los siguientes es un efecto adverso grave característico de las fluoroquinolonas?",
+    "answer": [
+      "Rotura tendinosa"
+    ],
+    "options": [
+      "Hipertensión",
+      "Hiperglicemia",
+      "Rotura tendinosa",
+      "Acortamiento del intervalo QT"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Las fluoroquinolonas pueden provocar tendinopatías y rotura tendinosa (frecuentemente del tendón de Aquiles) debido a la toxicidad directa sobre los tenocitos y la degradación de la matriz de colágeno."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 31,
+    "question": "¿Cuál de las siguientes corresponde a una característica farmacocinética de ciprofloxacina?",
+    "answer": [
+      "Alta concentración intracelular"
+    ],
+    "options": [
+      "Inducción de la CYP3A4",
+      "Baja biodisponibilidad vía oral",
+      "Alta concentración intracelular",
+      "Excreción principalmente biliar"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La ciprofloxacina posee una elevada lipofilicidad y penetración tisular, acumulándose de forma efectiva en el interior celular (incluyendo fagocitos y macrófagos)."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 32,
+    "question": "¿Cuál de los siguientes es un efecto adverso frecuente con la administración de amoxicilina?",
+    "answer": [
+      "Exantema"
+    ],
+    "options": [
+      "Exantema",
+      "Hipertensión",
+      "Hiponatremia",
+      "Prolongación de QT"
+    ],
+    "discipline": "Farmaco",
+    "comment": "El exantema cutáneo maculopapular es una de las reacciones adversas de hipersensibilidad o toxicidad no alérgica más comunes asociadas al uso de aminopenicilinas."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 33,
+    "question": "Sobre la farmacocinética de los macrólidos: ¿cuál de las siguientes es una característica de su distribución?",
+    "answer": [
+      "Presentan alta concentración intracelular"
+    ],
+    "options": [
+      "Su concentración plasmática es elevada",
+      "Presentan alta concentración intracelular",
+      "Su concentración en leche materna es escasa",
+      "Posee alta concentración en líquido cefalorraquídeo"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Los macrólidos se caracterizan por un elevado volumen de distribución y por concentrarse ampliamente en los tejidos y en el compartimento intracelular (especialmente en leucocitos)."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 34,
+    "question": "¿Qué característica farmacocinética de los macrólidos aumenta su riesgo de interacciones medicamentosas?",
+    "answer": [
+      "Inhibición de citocromo P450"
+    ],
+    "options": [
+      "Inhibición de citocromo P450",
+      "Inducción de enzimas hepáticas",
+      "Aumento en la eliminación renal",
+      "Inhibición de la glucuronidación"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Fármacos como la eritromicina y claritromicina son potentes inhibidores de la isoenzima CYP3A4 del citocromo P450, incrementando los niveles plasmáticos y el riesgo de toxicidad de múltiples cofármacos."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 35,
+    "question": "¿Cuál de los siguientes antibióticos inhibe de forma irreversible la transpeptidación?",
+    "answer": [
+      "cefradina"
+    ],
+    "options": [
+      "cefradina",
+      "amicacina",
+      "azitromicina",
+      "moxifloxacina"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La cefradina es un betalactámico (cefalosporina de 1ª generación) que se une acilando e inactivando irreversiblemente a las PBP (proteínas fijadoras de penicilina), bloqueando el paso de transpeptidación en la síntesis del peptidoglicano."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 36,
+    "question": "¿Cuál de las siguientes es una característica farmacocinética de clindamicina?",
+    "answer": [
+      "Buena distribución en tejido óseo y articulaciones"
+    ],
+    "options": [
+      "Alta concentración en SNC",
+      "Escasa absorción por vía oral",
+      "Eliminación principalmente renal",
+      "Buena distribución en tejido óseo y articulaciones"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La clindamicina se distingue por alcanzar concentraciones muy elevadas en el tejido óseo (hueso) y articular, siendo un fármaco de referencia para infecciones como la osteomielitis."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 37,
+    "question": "¿Cuál de las siguientes es una característica farmacocinética de metronidazol?",
+    "answer": [
+      "Importante metabolización hepática"
+    ],
+    "options": [
+      "Importante eliminación renal",
+      "Baja biodisponibilidad vía oral",
+      "Ausencia de metabolitos activos",
+      "Importante metabolización hepática"
+    ],
+    "discipline": "Farmaco",
+    "comment": "El metronidazol sufre una extensa biotransformación hepática (oxidación y glucuronidación), produciendo metabolitos como el hidroximetronidazol."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 38,
+    "question": "¿Cuál es una reacción adversa esperable en caso de ingesta de alcohol etílico durante el tratamiento con metronidazol?",
+    "answer": [
+      "Reacción tipo antabus o disulfirámica"
+    ],
+    "options": [
+      "Hipersensibilidad aguda",
+      "Insuficiencia renal aguda",
+      "Reacción tipo antabus o disulfirámica",
+      "Sedación y coma por depresión del SNC"
+    ],
+    "discipline": "Farmaco",
+    "comment": "El metronidazol inhibe la enzima aldehído deshidrogenasa, provocando la acumulación de acetaldehído tras el consumo de etanol, manifestado por rubor, náuseas, vómitos, taquicardia e hipotensión (efecto disulfiram)."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 39,
+    "question": "¿Cuál de las siguientes es una característica de mebendazol que lo diferencia de albendazol?",
+    "answer": [
+      "Presenta menor absorción sistémica."
+    ],
+    "options": [
+      "Requiere menor dosis.",
+      "Tiene mayor eficacia antiparasitaria.",
+      "Presenta menor absorción sistémica.",
+      "Tiene eliminación principalmente renal."
+    ],
+    "discipline": "Farmaco",
+    "comment": "A diferencia del albendazol (cuya absorción sistémica es mayor, sobre todo con alimentos grasos), el mebendazol prácticamente no se absorbe en el tracto digestivo, actuando a nivel intraluminal."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 40,
+    "question": "¿Cuál de las siguientes alteraciones electrocardiográficas se puede ver con los antimicóticos del grupo de los azoles?",
+    "answer": [
+      "Prolongación del intervalo QT"
+    ],
+    "options": [
+      "Ausencia de ondas p",
+      "Bloqueo auriculoventricular",
+      "Prolongación del intervalo QT",
+      "Sobreelevación del segmento ST"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Los antifúngicos azólicos bloquean los canales de potasio iKr del miocardio, lo que retarda la repolarización ventricular y se traduce en una prolongación del intervalo QT con riesgo de arritmias ventriculares."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 41,
+    "question": "¿Cuál de los siguientes grupos farmacológicos pueden alterar la recirculación enterohepática de los estrógenos?",
+    "answer": [
+      "Antibióticos"
+    ],
+    "options": [
+      "Analgésicos",
+      "Antibióticos",
+      "Antiepilépticos",
+      "Antihipertensivos"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Los antibióticos alteran la microflora intestinal encargada de hidrolizar (desconjugar) los estrógenos eliminados por la bilis, impidiendo su reabsorción e interrumpiendo la circulación enterohepática."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 42,
+    "question": "¿Cuál de los siguientes efectos de levonorgestrel se debe a su acción androgénica?",
+    "answer": [
+      "Irregularidad menstrual",
+      "Aumento del acné facial"
+    ],
+    "options": [
+      "Descenso de peso",
+      "Irregularidad menstrual",
+      "Aumento del acné facial",
+      "Insomnio de conciliación"
+    ],
+    "discipline": "Farmaco",
+    "comment": "El levonorgestrel es un progestágeno de 19-nortestosterona con actividad androgénica intrínseca que estimula la unidad pilosebácea (causando acné e hirsutismo); además, la supresión del eje gonadotrópico asociada a su perfil hormonal causa alteraciones en el patrón de sangrado menstrual."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 43,
+    "question": "El efecto fotoeléctrico se caracteriza porque el fotón incidente:",
+    "answer": [
+      "deposita toda su energía para eyectar un electrón de una capa cercana al núcleo"
+    ],
+    "options": [
+      "dispersa parte de su energía y parte se transfiere a un electrón del medio",
+      "deposita toda su energía para eyectar un electrón de una capa cercana al núcleo",
+      "interactúa con el campo eléctrico del núcleo atómico y deposita toda su energía",
+      "transfiere su energía a un electrón de la capa de valencia formando un radical libre"
+    ],
+    "discipline": "Biofisica",
+    "comment": "En el efecto fotoeléctrico, el fotón incidente transfiere la totalidad de su energía a un electrón fuertemente ligado a una capa interna (K o L), venciendo su energía de enlace y eyectándolo como fotoelectrón."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 44,
+    "question": "¿Cuál de las siguientes radiaciones presenta mayor índice de ponderación (Wr) en cuanto a su capacidad de ionización?",
+    "answer": [
+      "partícula alfa"
+    ],
+    "options": [
+      "rayos X",
+      "electrones",
+      "rayos gamma",
+      "partícula alfa"
+    ],
+    "discipline": "Biofisica",
+    "comment": "Las partículas alfa poseen una alta Transferencia Lineal de Energía (LET) y alta densidad ionizante, asignándoseles un factor de ponderación de la radiación (Wr) de 20, frente al valor de 1 para rayos X, gamma o electrones."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 45,
+    "question": "¿Cuál de las siguientes opciones indica un efecto estocástico de las radiaciones?",
+    "answer": [
+      "mutagénesis"
+    ],
+    "options": [
+      "cataratas",
+      "mutagénesis",
+      "displasia celular",
+      "esterilidad reversible",
+      "descamado de la piel"
+    ],
+    "discipline": "Biofisica",
+    "comment": "Los efectos estocásticos son aleatorios, no presentan dosis umbral y su probabilidad de ocurrencia (no la gravedad) aumenta con la dosis recibida; ejemplos típicos son la carcinogénesis y la mutagénesis."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 46,
+    "question": "¿Cuál es el efecto característico de la exposición a radiaciones ionizantes durante el embarazo en la etapa de pre-implantación?",
+    "answer": [
+      "Efecto de todo o nada"
+    ],
+    "options": [
+      "Efecto de todo o nada",
+      "Retardo mental severo",
+      "Anomalías esqueléticas",
+      "Aumento del riesgo de la inducción de cáncer"
+    ],
+    "discipline": "Biofisica",
+    "comment": "Durante la fase de preimplantación embrionaria rige la ley del 'todo o nada': la radiación destruye el embrión provocando aborto precoz o las células pluripotenciales sanas logran reparar/compensar el daño sin dejar malformaciones estructurales."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 47,
+    "question": "¿Cuál de los siguientes factores implica una mayor radiosensibilidad celular?",
+    "answer": [
+      "Presencia de oxígeno en el medio"
+    ],
+    "options": [
+      "Células muy diferenciadas",
+      "Fraccionamiento de la dosis",
+      "Presencia de oxígeno en el medio",
+      "Presencia de glutatión en el medio"
+    ],
+    "discipline": "Biofisica",
+    "comment": "El oxígeno actúa como un potente radiosensibilizador (efecto oxígeno) al reaccionar con los radicales libres inducidos por la radiación, 'fijando' las lesiones sobre el ADN e impidiendo su reparación enzimática."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 48,
+    "question": "¿Cuál de las siguientes opciones indica una característica del depósito de energía en el material biológico?",
+    "answer": [
+      "tiene una interacción al azar"
+    ],
+    "options": [
+      "es un proceso lento",
+      "tiene una interacción al azar",
+      "existe selectividad molecular",
+      "presenta especificidad de lesiones"
+    ],
+    "discipline": "Biofisica",
+    "comment": "La transferencia de energía de la radiación ionizante ocurre de forma estocástica e indiscriminada (al azar) a nivel atómico/molecular, sin especificidad por un blanco biológico predeterminado."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 49,
+    "question": "¿Cuál de las siguientes opciones indica una lesión crítica que si es mal reparada o no reparada puede conducir a la formación de aberraciones cromosómicas?",
+    "answer": [
+      "Doble roturas de cadena"
+    ],
+    "options": [
+      "Pérdida de bases",
+      "Doble roturas de cadena",
+      "Unión de proteínas al ADN",
+      "Roturas simples de cadena",
+      "Roturas de puentes de hidrógeno"
+    ],
+    "discipline": "Biofisica",
+    "comment": "Las rupturas de doble cadena de ADN (DSB) constituyen el daño genómico más letal y complejo de reparar; su reparación defectuosa induce aberraciones cromosómicas estructurales, mutaciones o muerte celular."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 50,
+    "question": "¿Qué indica el parámetro dosis letal media (D0) en una curva de sobrevida?",
+    "answer": [
+      "La dosis a la cual la probabilidad de sobrevida es del 37%"
+    ],
+    "options": [
+      "La capacidad de reparación genómica",
+      "La pendiente de la curva en la zona a bajas dosis",
+      "El punto de corte de la curva en el eje de ordenadas",
+      "La dosis a la cual la probabilidad de sobrevida es del 37%"
+    ],
+    "discipline": "Biofisica",
+    "comment": "En los modelos biológicos de sobrevida celular frente a radiación, el parámetro D0 representa la dosis requerida para reducir la fracción de células sobrevivientes al 37% (1/e) en el tramo exponencial."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 51,
+    "question": "En cuanto a la indicación de una tomografía computada en pacientes embarazadas:",
+    "answer": [
+      "está justificada frente a un traumatismo de cráneo con pérdida de conocimiento"
+    ],
+    "options": [
+      "no corresponde considerar el criterio de optimización",
+      "está justificada frente a un traumatismo de cráneo con pérdida de conocimiento",
+      "debe realizarse con un protocolo de alta dosis, dada la valoración riesgo beneficio",
+      "es el primer estudio a solicitar frente a un planteo clínico de cólico nefrítico por su alta resolución"
+    ],
+    "discipline": "Biofisica",
+    "comment": "Según el principio de justificación en protección radiológica, el beneficio clínico directo para la supervivencia o salud de la madre ante una emergencia médica grave (como un TEC) supera ampliamente el riesgo teórico de radiación para el feto."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 52,
+    "question": "La ecografía es un método imagenológico que:",
+    "answer": [
+      "para el diagnóstico se utiliza en un rango de frecuencia entre 2 y 20 MHz"
+    ],
+    "options": [
+      "está contraindicado en algunos casos por utilizar rayos X",
+      "se basa en el efecto fotoeléctrico dependiente del voltaje aplicado",
+      "se basa en ultrasonido, una propiedad de las radiaciones ionizantes",
+      "para el diagnóstico se utiliza en un rango de frecuencia entre 2 y 20 MHz",
+      "consiste en estimular el tejido con energía electromagnética aprovechando la interacción con la materia (ecos)"
+    ],
+    "discipline": "Biofisica",
+    "comment": "La ecografía diagnóstica emplea ondas sonoras de alta frecuencia (ultrasonido, radiación no ionizante) típicamente dentro del rango de 2 a 20 MHz."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 53,
+    "question": "Un paciente de 50 años consulta en emergencia por un infarto agudo de miocardio. Dos semanas después el miocardio necrótico ha sido reemplazado en gran parte por capilares, fibroblastos y colágeno; también presenta una variedad de células inflamatorias. <br> ¿Cuál de los siguientes tipos de células inflamatorias tiene un rol importante en el proceso de reparación de dicha lesión?",
+    "answer": [
+      "Macrófagos"
+    ],
+    "options": [
+      "Eosinófilos",
+      "Plasmocitos",
+      "Macrófagos",
+      "Células epitelioides"
+    ],
+    "discipline": "AnatoP",
+    "comment": "Los macrófagos son fundamentales en la fase de resolución tisular: fagocitan los restos necróticos y liberan citocinas pro-reparadoras (TGF-beta, VEGF) que promueven la angiogénesis y la fibrogénesis."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 54,
+    "question": "Un hombre de 47 años tabaquista intenso consulta por tos crónica. La radiografía de tórax evidencia nódulo pulmonar en lóbulo superior derecho que posteriormente se biopsia. El estudio histológico describe una mucosa bronquial con metaplasia escamosa sin otros elementos a destacar.  <br> Si el paciente dejara de fumar ¿Qué sucedería con la metaplasia escamosa a nivel de la mucosa bronquial?",
+    "answer": [
+      "Revierte a la normalidad"
+    ],
+    "options": [
+      "Necrosis y cicatrización",
+      "Transformación maligna",
+      "Revierte a la normalidad",
+      "Persistencia a lo largo de la vida"
+    ],
+    "discipline": "AnatoP",
+    "comment": "La metaplasia es un cambio adaptativo totalmente reversible. Al cesar el estímulo irritativo causante (el humo del cigarrillo), las células madre del epitelio recuperan el fenotipo respiratorio ciliado normal."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 55,
+    "question": "Una mujer de 36 años con neumonía neumocóccica desarrolla un derrame pleural derecho. El estudio citológico del líquido pleural muestra un gran número de leucocitos polimorfonucleares. <br> ¿Cuál de las siguientes caracteriza mejor este derrame pleural?",
+    "answer": [
+      "Exudado purulento"
+    ],
+    "options": [
+      "Transudado",
+      "Exudado seroso",
+      "Exudado fibrinoso",
+      "Exudado purulento"
+    ],
+    "discipline": "AnatoP",
+    "comment": "Un líquido pleural inflamatorio rico en proteínas y infiltrado abundantemente por polimorfonucleares neutrófilos se define como un exudado purulento (o empiema)."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 56,
+    "question": "¿A partir de la fusión de qué tipo celular se originan las células multinucleadas de Langhans?",
+    "answer": [
+      "Macrófagos"
+    ],
+    "options": [
+      "Mastocitos",
+      "Neutrófilos",
+      "Plasmocitos",
+      "Macrófagos"
+    ],
+    "discipline": "AnatoP",
+    "comment": "Las células gigantes multinucleadas tipo Langhans características de los granulomas se forman mediante el sincitio o fusión celular de macrófagos modificados (células epitelioides)."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 57,
+    "question": "La metaplasia surge a partir de la reprogramación de:",
+    "answer": [
+      "Células madre"
+    ],
+    "options": [
+      "Células madre",
+      "Células epiteliales",
+      "Células estromales",
+      "Células inflamatorias"
+    ],
+    "discipline": "AnatoP",
+    "comment": "La metaplasia no se origina por la transformación directa de una célula adulta diferenciada, sino por la reprogramación genética de las células madre tisulares o progenitoras no diferenciadas."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 58,
+    "question": "Un hombre de 53 años consulta por tos, malestar general y sudoración nocturna. La radiografía de tórax muestra numerosas densidades apicales bilaterales. El estudio microbiológico del esputo identifica M. tuberculosis. ¿Cuál de las siguientes características histopatológicas espera encontrar en la lesión pulmonar?",
+    "answer": [
+      "Inflamación crónica granulomatosa necrotizante"
+    ],
+    "options": [
+      "Inflamación aguda supurativa",
+      "Inflamación crónica con necrosis grasa",
+      "Inflamación crónica granulomatosa necrotizante",
+      "Inflamación crónica granulomatosa no necrotizante"
+    ],
+    "discipline": "AnatoP",
+    "comment": "La tuberculosis pulmonar causa una respuesta inmune celular mediada por T T-helper 1 que deriva en inflamación granulomatosa típica con necrosis caseosa central ('necrotizante')."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 59,
+    "question": "¿Cuál de las siguientes afirmaciones sobre la necrosis celular es verdadera?",
+    "answer": [
+      "Cariorexis significa fragmentación del núcleo encogido."
+    ],
+    "options": [
+      "La membrana celular (plasmática) se mantiene intacta",
+      "Cariorexis significa fragmentación del núcleo encogido.",
+      "Las células necróticas muestran aumento de la basofilia citoplasmática.",
+      "Cariolisis del núcleo significa aumento de la basofilia y contracción del núcleo."
+    ],
+    "discipline": "AnatoP",
+    "comment": "En la secuencia de cambios nucleares de la necrosis: la picnosis es la condensación/encogimiento del núcleo, la cariorrexis es su fragmentación y la cariolisis es su disolución."
+  },
+  {
+    "info_quest": "3er Parcial 2022",
+    "numb": 60,
+    "question": "¿En cuál de los siguientes órganos ocurre la hiperplasia hormonal?",
+    "answer": [
+      "Mama"
+    ],
+    "options": [
+      "Riñón",
+      "Mama",
+      "Hígado",
+      "Corazón"
+    ],
+    "discipline": "AnatoP",
+    "comment": "La proliferación del epitelio glandular de la mama femenina en la pubertad, embarazo o lactancia es el ejemplo fisiológico clásico de hiperplasia inducida por estimulación hormonal (estrógenos y progesterona)."
+  },
+
+
+
   //////////////////////////////////////////////////
 {
     "info_quest": "1er Parcial 2021",
@@ -17944,1789 +18343,3750 @@ let questions = [
         "comment": "",
         "discipline": "Parasito",
         },
-      ////////////////////////////////////////////////
-      {
-        "info_quest": "2do Parcial 2021",
+
+        //////////////////////////////////////////////////////
+
+
+
+        {
+    "info_quest": "2do Parcial 2020",
+    "numb": 1,
+    "question": "¿Cuál es el agente etiológico de la sarna?",
+    "answer": "a) Sarcoptes scabiei var hominis",
+    "options": [
+      "a) Sarcoptes scabiei var hominis",
+      "b) Pediculus humanus var corporis",
+      "c) Phthrius pubis"
+    ],
+    "discipline": "Parasito",
+    "comment": "Sarcoptes scabiei var. hominis es un ácaro parásito obligado de la piel humana que excava túneles en el estrato córneo, siendo el agente causal de la escabiosis o sarna. Pediculus humanus y Phthirus pubis son piojos (insectos) causantes de pediculosis y ptiriasis respectivamente."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 2,
+    "question": "¿Qué permite identificar una larva de Cochliomyia hominivorax?",
+    "answer": ["a) Los espiráculos respiratorios posteriores."],
+    "options": [
+      "a) Los espiráculos respiratorios posteriores.",
+      "b) El número de espinas quitinosas.",
+      "c) El color del aparato bucal.",
+      "d) El tamaño."
+    ],
+    "discipline": "Parasito",
+    "comment": "Las larvas de Cochliomyia hominivorax (causante de miasis cutánea obligada o gusano barrenador) se identifican específicamente por la morfología de sus espiráculos respiratorios posteriores y por presentar los troncos traqueales fuertemente pigmentados/oscurecidos en su tercio posterior."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 3,
+    "question": "Señale qué elementos microscópicos permiten identificar Sporothrix spp. en cultivos a 28ºC:",
+    "answer": ["c) Filamentos hialinos, finos, con microconidios agrupados en su extremo distal (en margarita)."],
+    "options": [
+      "a) Levaduras redondeadas con blastosporos y pseudofilamentos.",
+      "b) Filamentos hialinos, gruesos, con abundantes microconidios y clamidosporos intercalares.",
+      "c) Filamentos hialinos, finos, con microconidios agrupados en su extremo distal (en margarita)."
+    ],
+    "discipline": "Parasito",
+    "comment": "Sporothrix spp. es un hongo dimórfico. En su fase micelial (cultivo a 25-28 °C), desarrolla hifas hialinas finas y tabicadas de las que emergen conidióforos con microconidios ovoides o piriformes dispuestos en racimo o en forma de 'margarita' en su extremo distal."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 4,
+    "question": "En la patogenia de la pneumocistosis se observa lo siguiente:",
+    "answer": ["a) Disminuye la producción del surfactante"],
+    "options": [
+      "a) Disminuye la producción del surfactante",
+      "b) Existe una disminución de neumocitos tipo 2.",
+      "c) Los neumocitos tipo 1 no participan en la infección.",
+      "d) Se produce un aumento de la compliance pulmonar."
+    ],
+    "discipline": "Parasito",
+    "comment": "Pneumocystis jirovecii se adhiere firmemente a los neumocitos tipo 1 e induce daño celular y respuesta inflamatoria, lo que altera la función y producción del surfactante pulmonar por los neumocitos tipo 2. Esto genera colapso alveolar, alteración del intercambio gaseoso y disminución de la compliance (complacencia) pulmonar."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 5,
+    "question": "¿Cuál de las siguientes opciones corresponde a un hospedero habitual de los nemátodos causantes del Síndrome de Larva Migrans Cutánea?",
+    "answer": ["b) Perro"],
+    "options": [
+      "a) Ratón",
+      "b) Perro",
+      "c) Conejo",
+      "d) Humano"
+    ],
+    "discipline": "Parasito",
+    "comment": "El síndrome de larva migrans cutánea es causado principalmente por Ancylostoma braziliense y Ancylostoma caninum, helmintos cuyos hospederos definitivos habituales son cánidos (perros) y félidos (gatos). El ser humano actúa como hospedero accidental en el cual las larvas penetran la piel pero no pueden completar su ciclo evolutivo."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 6,
+    "question": "Respecto a la etiopatogenia de la sarna producida por Sarcoptes scabiei:",
+    "answer": ["a) Por su forma y sus cerdas, las hembras sólo pueden ir hacia adelant"],
+    "options": [
+      "a) Por su forma y sus cerdas, las hembras sólo pueden ir hacia adelant",
+      "b) Tanto adultos como ninfas son hematófagas.",
+      "c) Un 50% de los huevos llegan a adultos."
+    ],
+    "discipline": "Parasito",
+    "comment": "Las hembras fecundadas de Sarcoptes scabiei poseen un cuerpo ovoide cubierto de espinas y cerdas orientadas hacia atrás, lo que técnicamente les impide retroceder, forzándolas a excavar y avanzar siempre hacia adelante en el túnel epidérmico mientras depositan sus huevos y heces."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 7,
+    "question": "¿Cuál de las siguientes especies de Malassezia descritas hasta la fecha no afecta a humanos?",
+    "answer": ["a) Malassezia pachydermatis"],
+    "options": [
+      "a) Malassezia pachydermatis",
+      "b) Malassezia globosa",
+      "c) Malassezia furfur"
+    ],
+    "discipline": "Parasito",
+    "comment": "Malassezia pachydermatis es una levadura no lipodependiente que forma parte de la microbiota habitual de la piel de cánidos y animales domésticos. A diferencia de M. globosa o M. furfur, es excepcionalmente rara en humanos (pudiendo asociarse solo a brotes nosocomiales en neonatos por contacto con mascotas de personal de salud)."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 8,
+    "question": "En relación con la Esporotricosis, señale la vía de entrada más frecuente del agente:",
+    "answer": ["c) Cutánea, por inoculación traumátic"],
+    "options": [
+      "a) Respiratoria, por inhalación de fragmentos de filamentos.",
+      "b) Respiratoria, por inhalación de microconidios.",
+      "c) Cutánea, por inoculación traumátic"
+    ],
+    "discipline": "Parasito",
+    "comment": "El complejo Sporothrix schenckii es saprófito del suelo, plantas y materia orgánica en descomposición. La principal vía de infección es la inoculación traumática en la piel mediante espinas, astillas o arañazos de animales (forma cutáneo-linfática y cutánea fija)."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 9,
+    "question": "¿Cuál de las siguientes características morfobiológicas corresponde a la de los ofidios ponzoñosos?",
+    "answer": ["c) Cabeza triangular"],
+    "options": [
+      "a) Hábitos diurnos",
+      "b) Pupila circular",
+      "c) Cabeza triangular"
+    ],
+    "discipline": "Parasito",
+    "comment": "Los ofidios ponzoñosos de la familia Viperidae (como las víboras del género Bothrops y Crotalus en la región) se caracterizan por presentar cabeza triangular bien diferenciada del cuello, pupilas verticales elípticas, foseta loreal (órgano termorreceptor) y hábitos preferentemente crepusculares o nocturnos."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 10,
+    "question": "Con respecto al diagnóstico de Aspergilosis mediante Doble Difusión Simple en Agar:",
+    "answer": ["c) Es una técnica que se usa sólo en inmunodeprimidos."],
+    "options": [
+      "a) Es una técnica inmunológica altamente sensible para el género Aspergillus.",
+      "b) Es una técnica inmunológica con alta especificidad para el género Aspergillus.",
+      "c) Es una técnica que se usa sólo en inmunodeprimidos."
+    ],
+    "discipline": "Parasito",
+    "comment": "La inmunodifusión doble (técnica serológica para detectar anticuerpos IgG precipitantes/precipitinas) es útil en formas con buena respuesta inmune humoral como el aspergiloma o la aspergilosis broncopulmonar alérgica. En pacientes con inmunodepresión severa, la producción de anticuerpos suele estar abolida o disminuida, limitando su utilidad."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 11,
+    "question": "Con respecto a la biología de Histoplasma capsulatum:",
+    "answer": ["b) Produce micosis sistémic"],
+    "options": [
+      "a) Produce micosis superficial.",
+      "b) Produce micosis sistémic",
+      "c) Produce micosis profunda localizad"
+    ],
+    "discipline": "Parasito",
+    "comment": "Histoplasma capsulatum es un hongo dimórfico primario que produce una micosis endémica sistémica. Tras la inhalación de sus microconidios, la infección primaria se establece a nivel pulmonar con capacidad de diseminarse por el sistema reticuloendotelial a otros órganos."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 12,
+    "question": "¿Qué muestras biológicas utilizaría para identificar Trichomonas vaginalis entre los microorganismos causantes de vulvovagnitis?",
+    "answer": ["a) Secreción vaginal"],
+    "options": [
+      "a) Secreción vaginal",
+      "b) Secreción de la glándula de Bartolino",
+      "c) Células cervicovaginales"
+    ],
+    "discipline": "Parasito",
+    "comment": "Trichomonas vaginalis habita principalmente en el epitelio y los fondos de saco vaginales. El examen al fresco de la secreción vaginal es la muestra diagnóstica de elección para observar los trofozoítos móviles flagelados."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 13,
+    "question": "La Hidatidosis por Echinococcus granulosus es considerada una enfermedad parasitaria transmitida por alimentos. ¿Cuál de los siguientes es el alimento fuente?",
+    "answer": ["c) Fruta o verdura fresca"],
+    "options": [
+      "a) Leche",
+      "b) Carne vacuna",
+      "c) Fruta o verdura fresca",
+      "d) Carne de cerdo"
+    ],
+    "discipline": "Parasito",
+    "comment": "El ser humano contrae la hidatidosis al ingerir accidentalmente huevos de Echinococcus granulosus eliminados en las heces de perros (hospedero definitivo), generalmente mediante el consumo de agua o hortalizas/frutas frescas contaminadas y no lavadas correctamente."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 14,
+    "question": "Con respecto al diagnóstico micológico de Pneumocistosis:",
+    "answer": ["b) El esputo inducido presenta sensibilidad reducida (50-60%)."],
+    "options": [
+      "a) Las secreciones traqueales presentan una sensibilidad menor al 50%",
+      "b) El esputo inducido presenta sensibilidad reducida (50-60%).",
+      "c) El lavado bronquioalveolar presenta una baja sensibilidad (menor al 60%)"
+    ],
+    "discipline": "Parasito",
+    "comment": "El lavado bronquioalveolar (BAL) es el procedimiento con mayor rendimiento diagnóstico (sensibilidad >90%), mientras que el esputo inducido presenta una sensibilidad menor/moderada (50-60%), requiriendo frecuentemente escalar a BAL en caso de ser negativo si la sospecha clínica persiste."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 15,
+    "question": "En el estudio micológico directo de una onicomicosis: ¿qué elementos se observan característicos del parasitismo por dermatofitos?",
+    "answer": ["b) Filamentos hialinos, finos, ramificados y artrosporados."],
+    "options": [
+      "a) Levaduras ovaladas con pseudofilamentos.",
+      "b) Filamentos hialinos, finos, ramificados y artrosporados.",
+      "c) Filamentos hialinos con macroconidios y microconidios."
+    ],
+    "discipline": "Parasito",
+    "comment": "El examen directo con KOH de escamas de uñas infectadas por dermatofitos revela hifas/filamentos hialinos (hialofomicosis), finos, septados y ramificados, que habitualmente se fragmentan en artroconidios (artrosporados), característicos del parasitismo tisular."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 16,
+    "question": "Indique cuál de los siguientes hallazgos permite hacer diagnóstico de insuficiencia respiratoria:",
+    "answer": ["c) Relación PaO2/FiO2 menor 150"],
+    "options": [
+      "a) Oximetría de pulso menor a 92%",
+      "b) Tirajes respiratorios",
+      "c) Relación PaO2/FiO2 menor 150",
+      "d) Cianosis periférica"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La insuficiencia respiratoria se define objetivamente mediante gasometría arterial por la presencia de hipoxemia (PaO₂ < 60 mmHg al aire ambiente o un índice PaO₂/FiO₂ significativamente reducido, siendo <150 indicativo de compromiso severo del intercambio gaseoso)."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 17,
+    "question": "¿Cuál de los siguientes factores es considerado un antioxidante?",
+    "answer": ["b) Bilirrubina"],
+    "options": [
+      "a) Óxido Nitrico",
+      "b) Bilirrubina",
+      "c) Fosfolipidos"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La bilirrubina fisiológica actúa como un potente antioxidante lipofílico endógeno capaz de neutralizar radicales peroxilo y proteger las membranas celulares del estrés oxidativo e hiperoxidación lipídica."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 18,
+    "question": "En un modelo animal se registra la mecánica ventilatoria antes y después de una intervención experimental. Los valores se muestran en la tabla adjunta <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/2Parcial2020/Media/p18-2P2020.PNG' > <br> ¿Qué cambios se observan en la mecánica respiratoria luego de la intervención experimental?",
+    "answer": ["d) Se observa un descenso de la complacencia del sistema respiratorio, tanto en condiciones estáticas como dinámicas"],
+    "options": [
+      "a) Las resistencias totales de la vía aérea disminuyen",
+      "b) Los cambios observados podrían corresponder a un modelo de enfermedad pulmonar obstructiva crónica",
+      "c) La complacencia estática del sistema respiratorio aumenta",
+      "d) Se observa un descenso de la complacencia del sistema respiratorio, tanto en condiciones estáticas como dinámicas"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Al analizar los datos de presión y volumen del modelo, un aumento de la presión meseta (plateau) y pico para un mismo volumen corriente refleja una rigidez aumentada del parénquima y de la vía aérea, traducida en una reducción significativa de la complacencia (distensibilidad) tanto estática como dinámica."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 19,
+    "question": "Un paciente de 62 años, tabaquista intenso desde la infancia, con diagnóstico de enfermedad pulmonar obstructiva crónica (EPOC) y enfisema pulmonar concurre a control con resultados de una espirometría y estudio de volúmenes pulmonares. ¿Qué alteraciones espera encontrar?",
+    "answer": ["c) Relación VEF1/CVF < 70%"],
+    "options": [
+      "a) Obstrucción de la vía aérea superior",
+      "b) Respuesta significativa a los broncodilatadores",
+      "c) Relación VEF1/CVF < 70%",
+      "d) Descenso de la capacidad pulmonar total"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El patrón espirométrico característico y criterio diagnóstico de la EPOC es la limitación al flujo aéreo no completamente reversible, definida funcionalmente por una relación VEF1/CVF post-broncodilatador menor al 70% (0.70)."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 20,
+    "question": "¿Cuál de los siguientes es el principal mecanismo de hipoxemia en la neumonía y en el distrés respiratorio?",
+    "answer": ["b) Shunt intrapulmonar"],
+    "options": [
+      "a) Desequilibrio ventilación/perfusión",
+      "b) Shunt intrapulmonar",
+      "c) Hipoventilación alveolar",
+      "d) Trastorno de la difusión"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Tanto en la neumonía como en el SDRA, los alvéolos se encuentran ocupados por exudado inflamatorio o colapsados por alteración del surfactante. La sangre perfunde unidades alveolares no ventiladas (V/Q = 0), constituyendo un efecto Shunt o cortocircuito intrapulmonar verdadero que no corrige con O₂ suplementario al 100%."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 21,
+    "question": "Paciente 80 años en postoperatorio de cirugía abdominal, con sonda nasogástric Se llama a médico por desorientación se constata paciente muy deshidratado, Gasometría arterial pH 7.47 HCO3 32 mmHg, PaCO2 30 mmHg. ¿ Cuáles de las siguientes alteraciones corregiría para mejorar el trastorno ácido base?",
+    "answer": ["a) hipopotasemia"],
+    "options": [
+      "a) hipopotasemia",
+      "b) hipocalcemia",
+      "c) hipomagnesemia"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Las pérdidas digestivas de HCl por SNG generan alcalosis metabólica clororresponsable con contracción de volumen e hipopotasemia. La hipopotasemia estimula la reabsorción renal de HCO3- y la secreción de H+ (aciduria paradójica), por lo que reponer potasio y volumen es indispensable para corregir el trastorno."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 22,
+    "question": "¿Cuál de los siguientes constituye un mecanismo de lesión celular?",
+    "answer": ["b) Depleción del ATP"],
+    "options": [
+      "a) Aumento del ATP",
+      "b) Depleción del ATP",
+      "c) Alteraciones del magnesio"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La depleción de ATP es un mecanismo bioquímico central de lesión celular (frecuente en isquemia y daño tóxico), que compromete la bomba Na+/K+-ATPasa, altera la homeostasis de calcio, causa edema celular y falla la síntesis proteica."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 23,
+    "question": "En una insuficiencia renal severa ¿Qué valor de agujero aniónico es más probable?",
+    "answer": ["b) 19"],
+    "options": [
+      "a) 10",
+      "b) 19",
+      "c) 13"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La insuficiencia renal severa ocasiona una acidosis metabólica con brecha aniónica o Anion Gap elevado (valor normal: 8-12 mEq/L) debido a la retención de aniones orgánicos e inorgánicos no medidos (fosfatos, sulfatos, uratos) que no pueden excretarse adecuadamente por el riñón fallido, siendo 19 mEq/L la opción esperable."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 24,
+    "question": "En una acidosis respiratoria aguda, ¿cuánto demoran los mecanismos adaptativos en alcanzar su adaptación completa?",
+    "answer": ["b) 10 minutos"],
+    "options": [
+      "a) 10 horas",
+      "b) 10 minutos",
+      "c) 1 hora"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Frente a un aumento agudo de PaCO2, la amortiguación química tisular e intracelular casi inmediata alcanza su equilibrio en pocos minutos (~10-15 min). La respuesta adaptativa renal secundaria tarda días (24-72 horas) en desarrollarse por completo."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 25,
+    "question": "¿Cuál de los siguientes es un producto de los radicales libres?",
+    "answer": ["a) Carbonilación de proteínas"],
+    "options": [
+      "a) Carbonilación de proteínas",
+      "b) Fosforilación de proteínas",
+      "c) Ubiquitinación de proteínas"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Las especies reactivas del oxígeno (ROS) provocan daño oxidativo directo sobre las cadenas laterales de los aminoácidos en las proteínas, introduciendo grupos carbonilo (carbonilación proteica), marcador biológico clásico de estrés oxidativo."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 26,
+    "question": "20 años asmática, ingresa por tos y expectoración y disne Se realiza diagnóstico de crisis asmática y se solicita gasometría arterial ventilando al aire que muestra <br> PaO2 (mmHg) 74 <br> PaCO2 (mmHg) 29 <br> pH 7,45 <br> HCO3 (mEq/L) 22 <br> SatO2 (%) 93 <br> ¿Cuál es el diagnóstico gasométrico del trastorno del equilibrio ácido-base actual?",
+    "answer": ["a) Alcalosis respiratoria aguda respuesta adaptativa adecuada"],
+    "options": [
+      "a) Alcalosis respiratoria aguda respuesta adaptativa adecuada",
+      "b) Acidosis respiratoria aguda respuesta adaptativa adecuada",
+      "c) Alcalosis respiratoria aguda respuesta adaptativa inadecuada",
+      "d) Acidosis respiratoria aguda respuesta adaptativa inadecuada"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Presenta pH 7.45 (alcalemia leve) y PaCO2 disminuida (29 mmHg) por hiperventilación compensatoria ante la crisis asmática, configurando una alcalosis respiratoria aguda. El HCO3- de 22 mEq/L se encuentra dentro del rango esperado para la amortiguación aguda inmediata (por cada 10 mmHg que baja la PaCO2, el HCO3 baja ~2 mEq/L)."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 27,
+    "question": "Indique cuál de los siguientes perfiles hemodinámicos es el más característico en el shock séptico hiperdinámico:",
+    "answer": ["c) Gasto cardíaco normal o elevado, resistencias periféricas bajas"],
+    "options": [
+      "a) Gasto cardíaco normal o elevado, resistencias periféricas aumentadas",
+      "b) Gasto cardíaco bajo, resistencias periféricas aumentadas",
+      "c) Gasto cardíaco normal o elevado, resistencias periféricas bajas",
+      "d) Gasto cardíaco bajo, resistencias periféricas normales"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El shock séptico es la forma prototípica de shock distributivo. En su fase hiperdinámica precoz o reanimada, cursa con vasoplejía marcada (resistencias vasculares sistémicas muy reducidas) y una respuesta compensadora de gasto cardíaco elevado o mantenido."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 28,
+    "question": "¿Cuál de los siguientes parámetros es un determinante directo del contenido arterial de oxígeno?",
+    "answer": ["b) Presión parcial arterial de O2"],
+    "options": [
+      "a) Frecuencia cardíaca",
+      "b) Presión parcial arterial de O2",
+      "c) Presión parcial arterial de CO2",
+      "d) Índice cardíaco"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El contenido arterial de O2 (CaO2) viene determinado por la suma del O2 unido a la hemoglobina y el O2 disuelto en plasma: CaO2 = (Hb × 1.34 × SaO2) + (0.0031 × PaO2). Por lo tanto, la PaO2 es una variable directa de la fórmula."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 29,
+    "question": "¿Cuál de los siguientes mediadores es considerado un pirógeno?",
+    "answer": ["c) Interleuquina 1"],
+    "options": [
+      "a) Interleuquina 18",
+      "b) Interleuquina 2",
+      "c) Interleuquina 1"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La Interleuquina-1 (IL-1), junto con el TNF-α e IL-6, es una de las citoquinas proinflamatorias y pirógenos endógenos primarios más importantes que estimula al endotelio del centro termorregulador hipotalámico para sintetizar PGE2."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 30,
+    "question": "Frente a un paciente con inestabilidad hemodinámica causada por una miocardiopatía dilatada, indique cuál es el tipo de shock más probable:",
+    "answer": ["a) Cardiogénico"],
+    "options": [
+      "a) Cardiogénico",
+      "b) Obstructivo",
+      "c) Distributivo",
+      "d) Hipovolémico"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La miocardiopatía dilatada genera una falla sistólica primaria en la función de bomba del ventrículo izquierdo, lo que reduce drásticamente el volumen sistólico y el gasto cardíaco, originando un shock de tipo cardiogénico."
+  },
+
+    {
+    "info_quest": "2do Parcial 2020",
+    "numb": 31,
+    "question": "¿Qué es un trastorno mixto del equilibrio ácido base?",
+    "answer": [
+      "a) La coexistencia de dos trastornos primarios, pudiendo ser ambos metabólicos, o uno respiratorio y otro metabólico"
+    ],
+    "options": [
+      "a) La coexistencia de dos trastornos primarios, pudiendo ser ambos metabólicos, o uno respiratorio y otro metabólico",
+      "b) La existencia de un trastorno primario, pero con anión gap aumentado",
+      "c) La coexistencia de dos trastornos primarios, siempre que uno de ellos sea respiratorio y el otro metabólico",
+      "d) La coexistencia de un trastorno primario (respiratorio o metabólico) y una alteración del estado de hidratación del paciente"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Un trastorno mixto del equilibrio ácido-base se define por la presencia simultánea de dos o más trastornos primarios. Estos pueden ser la combinación de un trastorno respiratorio con uno metabólico (ej. acidosis respiratoria + acidosis metabólica) o de dos trastornos metabólicos independientes (ej. acidosis metabólica con anión gap aumentado + alcalosis metabólica). Cabe destacar que nunca pueden coexistir dos trastornos respiratorios primarios (acidosis y alcalosis respiratoria) al mismo tiempo en un mismo paciente."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 32,
+    "question": "¿Cuál de las siguientes es una característica de los betabloqueantes de tercera generación?",
+    "answer": [
+      "a) Asocian efecto vasodilatador a su acción antagonista betaadrenérgico."
+    ],
+    "options": [
+      "a) Asocian efecto vasodilatador a su acción antagonista betaadrenérgico.",
+      "b) Poseen menos efectos adversos que los de segunda generación.",
+      "c) Tienen importante afinidad por receptores muscarínicos a nivel endotelial.",
+      "d) Carecen de afinidad por receptores alfa1 adrenérgicos vasculares."
+    ],
+    "discipline": "Farmaco",
+    "comment": "Los betabloqueantes de tercera generación (como carvedilol, labetalol y nebivolol) se caracterizan por presentar un efecto vasodilatador adicional a su bloqueo beta. Este efecto vasodilatador lo logran mediante diferentes mecanismos: antagonismo de receptores alfa-1 adrenérgicos (carvedilol, labetalol) o estimulación de la producción de óxido nítrico por el endotelio (nebivolol)."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 33,
+    "question": "Tomando en cuenta el mecanismo de acción de propranolol, ¿cuál de las siguientes es una de sus acciones farmacológicas a nivel cardiovascular?",
+    "answer": [
+      "d) Disminuye la presión arterial sistólica por efectos inotrópico y cronotrópico negativos porque es un betabloqueante."
+    ],
+    "options": [
+      "a) Disminuye la resistencia vascular periférica por vasodilatación arterial sistémica debido a su acción antagonista alfa1.",
+      "b) Aumenta levemente el gasto cardíaco por efecto inotrópico positivo debido a su actividad agonista parcial beta2 adrenérgico.",
+      "c) Produce taquicardia de origen reflejo, por efecto inotrópico positivo indirecto.",
+      "d) Disminuye la presión arterial sistólica por efectos inotrópico y cronotrópico negativos porque es un betabloqueante."
+    ],
+    "discipline": "Farmaco",
+    "comment": "El propranolol es un antagonista beta-adrenérgico no selectivo (bloquea beta-1 y beta-2) sin actividad simpaticomimética intrínseca. A nivel cardiovascular, reduce la frecuencia cardíaca (efecto cronotrópico negativo) y la contractilidad miocárdica (efecto inotrópico negativo) mediante el bloqueo de receptores beta-1, lo que disminuye el gasto cardíaco y consecuentemente la presión arterial sistólica."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 34,
+    "question": "¿Cuál de las siguientes opciones es una característica de los fármacos agonistas?",
+    "answer": [
+      "b) Tienen afinidad y actividad intrínseca."
+    ],
+    "options": [
+      "a) Producen el efecto contrario del ligando endógeno.",
+      "b) Tienen afinidad y actividad intrínseca.",
+      "c) Se unen a su receptor de forma covalente."
+    ],
+    "discipline": "Farmaco",
+    "comment": "Por definición farmacológica, un fármaco agonista posee tanto afinidad (capacidad de unirse de forma específica al receptor) como actividad intrínseca o eficacia (capacidad de activar el receptor y desencadenar una respuesta biológica). Los antagonistas, en cambio, tienen afinidad pero carecen de actividad intrínseca."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 35,
+    "question": "¿Cuál de los siguientes es un efecto farmacológico de metilbromuro de homatropina?",
+    "answer": [
+      "d) Sequedad de boca por disminución de la secreción salival."
+    ],
+    "options": [
+      "a) Miosis por contracción del esfínter circular del iris.",
+      "b) Obstrucción bronquial por hipersecreción mucosa y broncoespasmo.",
+      "c) Incontinencia de orina por relajación del esfínter vesical.",
+      "d) Sequedad de boca por disminución de la secreción salival."
+    ],
+    "discipline": "Farmaco",
+    "comment": "El metilbromuro de homatropina es un fármaco anticolinérgico (antagonista competitivo de los receptores muscarínicos). Al bloquear los receptores muscarínicos M3 en las glándulas salivales, reduce la producción de saliva, lo que clínicamente se manifiesta como xerostomía o sequedad de boca."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 36,
+    "question": "¿Cuál de los siguientes es un betabloqueante de segunda generación?",
+    "answer": [
+      "d) Atenolol"
+    ],
+    "options": [
+      "a) Fenoterol.",
+      "b) Timolol.",
+      "c) Labetalol.",
+      "d) Atenolol"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Los betabloqueantes de segunda generación son aquellos cardioselectivos, es decir, que tienen mayor afinidad por los receptores beta-1 adrenérgicos a dosis terapéuticas. El atenolol (junto con el metoprolol y bisoprolol) pertenece a esta categoría. En comparación, el timolol es de primera generación (no selectivo) y el labetalol de tercera generación."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 37,
+    "question": "Señale cuál de los siguientes es un ejemplo de reacción adversa tipo A vinculable al uso de atenolol 50 mg/día:",
+    "answer": [
+      "d) Bradicardia por disminución de la frecuencia del nodo sinusal debido a su acción antagonista beta1 adrenérgico."
+    ],
+    "options": [
+      "a) Rubor facial por vasodilatación arterial debido a su acción antagonista beta2 adrenérgico.",
+      "b) Shock anafiláctico por mecanismos inmunoalérgicos independientes de su mecanismo de acción.",
+      "c) Insuficiencia renal aguda por vasodilatación excessive debido a su efecto antagonista alfa1 adrenérgico.",
+      "d) Bradicardia por disminución de la frecuencia del nodo sinusal debido a su acción antagonista beta1 adrenérgico.",
+      "e) Aumento de la presión arterial sistólica por acción agonista parcial beta1 adrenérgico."
+    ],
+    "discipline": "Farmaco",
+    "comment": "Las reacciones adversas tipo A (Augmented) son predecibles, dosis-dependientes y constituyen una exageración del efecto farmacológico conocido del medicamento. Dado que el atenolol es un antagonista de receptores beta-1, la bradicardia sinusal provocada por la supresión del automatismo del nodo SA es una manifestación directa y predecible de su mecanismo de acción."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 38,
+    "question": "Indique la opción correcta interpretando visualmente las siguientes curvas dosis-respuesta: <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/2Parcial2020/Media/p38-2P2020.PNG' >",
+    "answer": [
+      "d) La curva número 1 corresponde a un agonista puro."
+    ],
+    "options": [
+      "a) La curva número 2 presenta mayor eficacia que la curva número 1.",
+      "b) La curva número 1 corresponde al efecto de un antagonista no competitivo.",
+      "c) La curva número 3 presenta mayor afinidad que la curva número 1.",
+      "d) La curva número 1 corresponde a un agonista puro."
+    ],
+    "discipline": "Farmaco",
+    "comment": "En las gráficas dosis-respuesta, el agonista puro (curva 1) alcanza la respuesta máxima (100% del efecto, Emáx) que el sistema permite. Las curvas desplazadas hacia la derecha o con menor Emáx representan agonistas parciales o efectos producidos en presencia de antagonistas."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 39,
+    "question": "Señale la afirmación correcta sobre la curva concentración plasmática en función del tiempo de un fármaco administrado por vía oral:",
+    "answer": [
+      "a) A través de la curva se puede saber si el fármaco tiene cinética de eliminación de primer orden o de orden cero."
+    ],
+    "options": [
+      "a) A través de la curva se puede saber si el fármaco tiene cinética de eliminación de primer orden o de orden cero.",
+      "b) La biodisponibilidad absoluta se calcula comparando el volumen de distribución de esta curva con la obtenida por vía intravenosa.",
+      "c) Si el medicamento es de liberación prolongada su volumen de distribución será mayor y su eliminación será más lenta.",
+      "d) Es una herramienta útil para medir parámetros de interacción fármaco-receptor como la afinidad y la actividad intrínseca."
+    ],
+    "discipline": "Farmaco",
+    "comment": "Analizando la fase de eliminación de la curva concentración plasmática vs. tiempo (especialmente al graficarla en escala semilogarítmica), es posible distinguir el orden de eliminación: si la pendiente varía proporcionalmente con la concentración es de primer orden (vida media constante), mientras que si la caída es lineal fija a tasa constante es de orden cero o saturable."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 40,
+    "question": "La neurotransmisión adrenérgica modula varios componentes de la “respuesta de huida” ante el stress. ¿Cuál de los siguientes efectos se explica por acción de la noradrenalina sobre receptores adrenérgicos?",
+    "answer": [
+      "c) Aumento de la secreción de renina por acción beta-1 adrenérgica"
+    ],
+    "options": [
+      "a) Vasodilatación arterial y venosa por acción alfa-1 adrenérgica",
+      "b) Contracción del músculo liso bronquial por acción beta-2 adrenérgica",
+      "c) Aumento de la secreción de renina por acción beta-1 adrenérgica",
+      "d) Aumento de la secreción de insulina por acción alfa-2 adrenérgica"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Las células yuxtaglomerulares renales expresan receptores beta-1 adrenérgicos. La estimulación del sistema simpático o la noradrenalina activa estos receptores, promoviendo la liberación de renina para activar el sistema renina-angiotensina-aldosterona y elevar/mantener la presión arterial durante la respuesta al estrés."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 41,
+    "question": "¿Cuál de los siguientes es un elemento del cuadro clínico de intoxicación por pesticidas organofosforados que puede ser revertido administrando atropina intravenosa?",
+    "answer": [
+      "b) Dolores cólicos abdominales."
+    ],
+    "options": [
+      "a) Parálisis de músculos repsiratorios.",
+      "b) Dolores cólicos abdominales.",
+      "c) Taquicardia sinusal.",
+      "d) Hipervolemia."
+    ],
+    "discipline": "Farmaco",
+    "comment": "Los organofosforados inhiben la acetilcolinesterasa, generando hiperestimulación colinérgica masiva. La atropina antagoniza específicamente los receptores muscarínicos, revirtiendo el síndrome muscarínico (cólicos abdominales, hipersecreción bronquial, broncoespasmo, bradicardia, miosis). No revierte los síntomas nicotínicos como las fasciculaciones o la parálisis muscular respiratoria (los cuales responden a las oximas)."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 42,
+    "question": "¿Cuál de los siguientes mecanismos de acción de modulación de la neurotransmisión colinérgica corresponde al fármaco referido en cada frase?",
+    "answer": [
+      "a) Tiotropio es un antagonista muscarínico."
+    ],
+    "options": [
+      "a) Tiotropio es un antagonista muscarínico.",
+      "b) Homatropina es un antagonista nicotínico.",
+      "c) Escopolamina es un inhibidor reversible de la colinesterasa."
+    ],
+    "discipline": "Farmaco",
+    "comment": "El bromuro de tiotropio es un anticolinérgico/antagonista competitivo de acción prolongada con alta selectividad por los receptores muscarínicos (M1 y M3), ampliamente utilizado como broncodilatador en el tratamiento de la EPOC y el asma."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 43,
+    "question": "En la siguiente gráfica se representan superpuestas las curvas de concentración plasmática en función de tiempo de una dosis de 10 mg de un fármaco Z administrado por diferentes vías: oral, intravenosa, intramuscular y subcutáne  <br> Señale la opción que intepreta correctamente las curvas: <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/2Parcial2020/Media/p43-2P2020.PNG' >",
+    "answer": [
+      "c) Si la curva d es la vía oral, la curva b puede ser la vía intramuscular"
+    ],
+    "options": [
+      "a) La curva b es la vía subcutánea y la curva d es la vía intravenosa",
+      "b) Si la curva b es la vía oral, la curva d puede ser la vía subcutánea",
+      "c) Si la curva d es la vía oral, la curva b puede ser la vía intramuscular"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La vía intramuscular presenta una vascularización significativamente mayor que la vía oral o la subcutánea, lo que le otorga una absorción más rápida y una concentración máxima (Cmáx) más alta alcanzada en menor tiempo (Tmáx). Por tanto, la curva 'b' (absorción más rápida y pico más alto) es plenamente compatible con la vía intramuscular si 'd' (absorción más lenta) representa la vía oral."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 44,
+    "question": "Señale la afirmación correcta sobre el concepto de biodisponibilidad de los fármacos:",
+    "answer": [
+      "d) Depende de la vía de administración, de la forma farmacéutica utilizada y de las características fisicoquímicas del fármaco."
+    ],
+    "options": [
+      "a) El efecto de primer paso conlleva aumento de la biodisponibilidad de algunos fármacos, por eliminación biliar y recirculación enterohepática.",
+      "b) Para un fármaco determinado la vía de administración con menor biodisponibilidad es la subcutánea.",
+      "c) Es el parámetro más importante para medir la distribución de un fármaco desde el sitio de aplicación al sitio de acción.",
+      "d) Depende de la vía de administración, de la forma farmacéutica utilizada y de las características fisicoquímicas del fármaco."
+    ],
+    "discipline": "Farmaco",
+    "comment": "La biodisponibilidad es la fracción de fármaco inalterado que llega a la circulación sistémica y la velocidad a la que esto ocurre. Varía según la vía de administración (la IV es 100%), las formulaciones/formas farmacéuticas (ej. comprimido vs jarabe) y las propiedades fisicoquímicas de la droga (liposolubilidad, pKa, peso molecular)."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 45,
+    "question": "¿Cuál de los siguientes efectos farmacológicos es producido por la acetilcolina?",
+    "answer": [
+      "b) Broncoconstricción"
+    ],
+    "options": [
+      "a) Midriasis (aumento del diámetro de la pupila)",
+      "b) Broncoconstricción",
+      "c) Disminución del peristaltismo intestinal",
+      "d) Aumento de la frecuencia cardíaca"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La acetilcolina, como neurotransmisor del sistema parasimpático, actúa sobre los receptores muscarínicos M3 del músculo liso bronquial estimulando la contracción (broncoconstricción) y aumentando las secreciones mucosas en la vía aérea."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 46,
+    "question": "¿Cuáles de las especies reactivas provocadas por las radiaciones ionizantes son las mayormente involucradas en el proceso de daño?",
+    "answer": [
+      "c) Especies reactivas del oxígeno y el nitrógeno"
+    ],
+    "options": [
+      "a) Especies reactivas del nitrógeno y el radio",
+      "b) Especies reactivas del calcio y el oxígeno",
+      "c) Especies reactivas del oxígeno y el nitrógeno",
+      "d) Especies reactivas del oxígeno y el azufre"
+    ],
+    "discipline": "Biofisica",
+    "comment": "La acción indirecta de las radiaciones ionizantes sobre la materia viva procede mediante la radiólisis del agua celular, originando Especies Reactivas del Oxígeno (ROS, como el radical hidroxilo •OH, H2O2 y anión superóxido) y Especies Reactivas del Nitrógeno (RNS), que provocan el mayor porcentaje del daño oxidativo a las biomoléculas (ADN, lípidos, proteínas)."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 47,
+    "question": "El período del ciclo celular con menor radiosensibilidad es:",
+    "answer": [
+      "e) S intermedio y S tardío."
+    ],
+    "options": [
+      "a) G2-M",
+      "b) G1",
+      "c) Durante todo el ciclo la radiosensibiidad no varía",
+      "d) Final de G1 e inicio de S",
+      "e) S intermedio y S tardío."
+    ],
+    "discipline": "Biofisica",
+    "comment": "Según las leyes de la radiobiología (Law of Tesch and Bergonié y curva de radiosensibilidad del ciclo celular), las células son más resistentes a la radiación en la fase de síntesis (fase S tardía), debido a la mayor presencia de mecanismos de reparación homóloga del ADN. En contraste, las fases de máxima radiosensibilidad son la fase M (mitosis) y G2."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 48,
+    "question": "Cuando se construyen las curvas de sobrevida ¿Cuál es el modelo que mejor se ajusta o aproxima a su comportamiento:",
+    "answer": [
+      "a) El modelo lineal-cuadrático"
+    ],
+    "options": [
+      "a) El modelo lineal-cuadrático",
+      "b) El modelo exponencial",
+      "c) El modelo de proporcionalidad directa"
+    ],
+    "discipline": "Biofisica",
+    "comment": "El modelo lineal-cuadrático S(D) = exp(-αD - βD²) es el modelo radiobiológico estándar utilizado para describir la curva de supervivencia celular tras la exposición a radiaciones ionizantes, representando los componentes de muerte por lesión irreparable de un solo impacto (término alfa α) y acumulativa por dos impactos (término beta β)."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 49,
+    "question": "¿Cuál es el límite de dosis para exposición ocupacional a radiaciones ionizantes en una mujer embarazada?",
+    "answer": [
+      "c) 2mSv en superficie de abdomen y de 1mSv en feto"
+    ],
+    "options": [
+      "a) 200mSv en superficie de abdomen y de 100mSv en feto",
+      "b) 20mSv en superficie de abdomen y de 10mSv en feto",
+      "c) 2mSv en superficie de abdomen y de 1mSv en feto",
+      "d) 20Sv en superficie de abdomen y de 10Sv en feto",
+      "e) 2Sv en superficie de abdomen y de 1Sv en feto"
+    ],
+    "discipline": "Biofisica",
+    "comment": "Las normas internacionales de radioprotección (ICRP) establecen que desde la declaración del embarazo, la dosis en la superficie del abdomen de la trabajadora no debe superar los 2 mSv y la dosis equivalente estimada recibida por el feto/embrión durante el resto de la gestación no debe exceder de 1 mSv."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 50,
+    "question": "¿De qué depende la velocidad del sonido en los tejidos blandos?",
+    "answer": [
+      "b) De la elasticidad y la densidad del material"
+    ],
+    "options": [
+      "a) De la elasticidad y la reflexión",
+      "b) De la elasticidad y la densidad del material",
+      "c) De la elasticidad y la atenuación"
+    ],
+    "discipline": "Biofisica",
+    "comment": "La velocidad de propagación de una onda acústica u ultrasónica en un medio mecánico depende directamente de las propiedades físicas de este, concretamente de su rigidez/elasticidad (módulo de elasticidad K) y de su densidad (ρ), según la ecuación c = √(K/ρ)."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 51,
+    "question": "En cuanto a los métodos físicos de radioprotección, el coeficiente de atenuación lineal (µ) depende:",
+    "answer": [
+      "b) De la energía de los fotones y del número atómico del material a atravesar"
+    ],
+    "options": [
+      "a) De la energía de los fotones pero no del número atómico del material a atravesar",
+      "b) De la energía de los fotones y del número atómico del material a atravesar",
+      "c) Del número atómico del material a atravesar pero no de la energía de los fotones"
+    ],
+    "discipline": "Biofisica",
+    "comment": "El coeficiente de atenuación lineal (µ) de un medio cuantifica la fracción de fotones atenuados por unidad de espesor. Su valor depende fundamentalmente de la energía del haz de radiación incidente (a mayor energía, menor atenuación) y del número atómico (Z) y densidad del material blindante que atraviesa."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 52,
+    "question": "Respecto de la distribución de dosis en tejidos:",
+    "answer": [
+      "a) La dosis equivalente es la dosis absorbida ponderada por el tipo de radiación."
+    ],
+    "options": [
+      "a) La dosis equivalente es la dosis absorbida ponderada por el tipo de radiación.",
+      "b) La trayectoria que describe la energía dentro de un tejido siempre es lineal",
+      "c) La transferencia lineal de energía es igual para todas las radiaciones."
+    ],
+    "discipline": "Biofisica",
+    "comment": "La Dosis Equivalente (H, medida en Sieverts) se calcula multiplicando la Dosis Absorbida (D, medida en Grays) por un factor de ponderación de la radiación (wR), el cual refleja la eficacia biológica relativa de cada tipo de radiación (ej. fotones wR=1, partículas alfa wR=20)."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 53,
+    "question": "La generación de la imagen de rayos X diagnósticos:",
+    "answer": [
+      "b) Depende de Z del material absorbente"
+    ],
+    "options": [
+      "a) A mayor Z del material absorbente se verá menos opaco (Ej. Hueso)",
+      "b) Depende de Z del material absorbente",
+      "c) No depende de Z"
+    ],
+    "discipline": "Biofisica",
+    "comment": "El contraste en una radiografía diagnóstica se debe a la atenuación diferencial por efecto fotoeléctrico, cuya probabilidad de interacción es proporcional a Z³ (el cubo del número atómico de los tejidos). A mayor Z (como el calcio en el hueso, Z=20), mayor absorción, viéndose más radiopaco (blanco)."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 54,
+    "question": "La evaluación de la exposición laboral a Radiaciones Ionizantes considera:",
+    "answer": [
+      "b) La dosimetría personal y elementos de protección"
+    ],
+    "options": [
+      "a) La dosimetría personal no aplica la utilización de protección",
+      "b) La dosimetría personal y elementos de protección",
+      "c) La utilización de protección no aplica la dosimetría personal"
+    ],
+    "discipline": "Biofisica",
+    "comment": "En la vigilancia de la protección radiológica ocupacional es obligatoria la combinación de la monitorización individual (uso de dosímetros personales) junto con la implementación de elementos de protección radiológica (blindajes de plomo, chalecos, antiparras) para verificar que las dosis absorbidas se mantengan por debajo de los límites legales."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 55,
+    "question": "La base física de la resonancia magnética se basa en:",
+    "answer": [
+      "b) La utilización de un campo magnético que alinea los spines nucleares"
+    ],
+    "options": [
+      "a) La utilización de radiación ultravioleta que alinea los spines nucleares",
+      "b) La utilización de un campo magnético que alinea los spines nucleares",
+      "c) La utilización de radiación ionizante que alinea los spines nucleares"
+    ],
+    "discipline": "Biofisica",
+    "comment": "La Resonancia Magnética (RM) se fundamenta en colocar al paciente en un campo magnético principal intenso (B0) que alinea el momento magnético (spin) de los núcleos atómicos del cuerpo (principalmente el protón de Hidrógeno, H1), para luego perturbarlos con pulsos de radiofrecuencia no ionizante."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 56,
+    "question": "Considerando la exposición a radiaciones ionizantes ¿En qué unidades se expresa la magnitud exposición?",
+    "answer": [
+      "b) Coulomb/Kg"
+    ],
+    "options": [
+      "a) Roentgen x tiempo",
+      "b) Coulomb/Kg",
+      "c) Gray/área",
+      "d) Sievert x tiempo",
+      "e) Becquerel/tiempo"
+    ],
+    "discipline": "Biofisica",
+    "comment": "La Exposición (X) es una magnitud que mide la capacidad de la radiación fotónica (rayos X y gamma) para ionizar una masa dada de aire seco. En el Sistema Internacional de Unidades (SI), la unidad oficial es el Coulomb por kilogramo (C/kg). Su unidad antigua era el Roentgen (R)."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 57,
+    "question": "En relación a radioprotección en block quirúrgico:",
+    "answer": [
+      "a) Es posible que la exposición sea mayor que en un servicio de radiodiagnóstico"
+    ],
+    "options": [
+      "a) Es posible que la exposición sea mayor que en un servicio de radiodiagnóstico",
+      "b) El block quirúrgico debe ser permanentemente clasificado como área controlada",
+      "c) Todo el personal que trabaja en block se considera ocupacionalmente expuesto"
+    ],
+    "discipline": "Biofisica",
+    "comment": "En el bloque quirúrgico, durante procedimientos guiados por fluoroscopia o intensificadores de imagen (como en traumatología, hemodinamia o urología), el personal médico y de enfermería debe estar al lado del paciente mientras el tubo está emitiendo, lo que a menudo resulta en dosis recibidas mayores por radiación dispersa que las de los técnicos resguardados tras mamparas en radiología convencional."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 58,
+    "question": "¿Cuál de las siguientes es una característica de los efectos estocásticos de las radiaciones ionizantes?",
+    "answer": [
+      "d) Pueden manifestarse por una sola exposición"
+    ],
+    "options": [
+      "a) Se manifiestan como fibrosis invasiva con dosis bajas de exposición",
+      "b) La probabilidad de generar efectos hereditarios es nula",
+      "c) Manifestarse como síndrome de irradiación aguda",
+      "d) Pueden manifestarse por una sola exposición"
+    ],
+    "discipline": "Biofisica",
+    "comment": "Los efectos estocásticos o probabilísticos (como la carcinogénesis radioinducida y las mutaciones genéticas) no poseen un umbral de dosis determinado. Una sola exposición o mutación no reparada en una célula viable puede, de forma probabilística, dar lugar tardíamente a la manifestación del efecto."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 59,
+    "question": "¿Cuál de las siguientes es una característica de las radiaciones corpusculares?",
+    "answer": [
+      "c) Son generadas por la naturaleza o artificialmente"
+    ],
+    "options": [
+      "a) Están formadas por campos eléctricos y magnéticos",
+      "b) Son caracterizadas por no generar daños a nivel molecular",
+      "c) Son generadas por la naturaleza o artificialmente",
+      "d) No generan eyección de electrones desde átomos"
+    ],
+    "discipline": "Biofisica",
+    "comment": "Las radiaciones corpusculares consisten en partículas subatómicas en movimiento dotadas de masa (partículas alfa, beta, neutrones, protones). Pueden ser de origen natural (desintegración radiactiva de isótopos naturales, rayos cósmicos) o artificial (producidas en aceleradores de partículas o reactores nucleares)."
+  },
+  {
+    "info_quest": "2do Parcial 2020",
+    "numb": 60,
+    "question": "¿Cuál de las siguientes afirmaciones caracteriza a los rayos X de 10 a 150 KeV de energía usados en imagenología?",
+    "answer": [
+      "e) Existe una proporcionalidad directa con el numero atómico elevado al cubo que determina la formación de la imagen radiológica"
+    ],
+    "options": [
+      "a) Luego de la interacción con un átomo, éste se estabiliza con la eyección de un proton.",
+      "b) Presentan interacciones de tipo colisional con las biomoléculas",
+      "c) Provoca la eyección de un electrón en la capa de valencia del átomo",
+      "d) La absorción de energía es máxima cuando el tipo de interacción es efecto Compton",
+      "e) Existe una proporcionalidad directa con el numero atómico elevado al cubo que determina la formación de la imagen radiológica"
+    ],
+    "discipline": "Biofisica",
+    "comment": "En el rango energético de 10 a 150 keV predomina la interacción por efecto fotoeléctrico. La probabilidad de absorción fotoeléctrica por unidad de masa es directamente proporcional al cubo del número atómico del tejido absorbente (Z³), lo cual fundamenta el contraste y diferenciación tisular en la imagenología diagnóstica."
+  },
+
+
+///////////////////////////////////////////////////////////
+
+{
+    "info_quest": "3erParcial2020",
         "numb": 1,
-        "question": "Si se quisiera descartar la transmisión materno-fetal del virus de inmunodeficiencia humana (VIH), ¿qué tipo de test elegiría?",
-        "answer": ["a) Test de tamizaje altamente sensible como ELISA","d) Test genético como Reacción en Cadena de la Polimerasa"],
-        "options": [
-        "a) Test de tamizaje altamente sensible como ELISA",
-        "b) Test rápido como inmunocromatografía para VIH",
-        "c) Test confirmatorio de alta especificidad como Western Blot",
-        "d) Test genético como Reacción en Cadena de la Polimerasa"
-        ],
-        "discipline": "Bacterio",
-        "comment": "AMBIGUA. A y D",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 2,
-        "question": "Durante la infección por VIH está indicado el tratamiento con fármacos antiretrovirales. Estos fármacos se caracterizan por:",
-        "answer": ["a) Interferir con alguna etapa del ciclo de replicación viral"],
-        "options": [
-        "a) Interferir con alguna etapa del ciclo de replicación viral",
-        "b) Presentar actividad enzimática que destruye las partículas virales libres en sangre",
-        "c) Inducir la lisis osmótica de la partícula viral debilitando la integridad de la envoltura",
-        "d) Estimular bombas de eflujo en las células susceptibles induciendo la expulsión activa de viriones"
-        ],
-        "discipline": "Bacterio",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 3,
-        "question": "Un paciente con síntomas de infección del sistema nervioso central, presenta en el estudio del líquido cefalorraquídeo las siguientes características en el estudio citoquímico: <br> Pleocitosis (500 leucocitos; 90% polimorfonucleares), con hiperproteinorraquia (0,95 g/L) e hipoglucorraquia. <br>  En base a estos hallazgos, ¿cuál de los siguientes microorganismos es el más probable agente causal de este cuadro?",
-        "answer": ["c) Neisseria meningitidis"],
-        "options": [
-        "a) Enterovirus",
-        "b) Herpes simple tipo 1",
-        "c) Neisseria meningitidis",
-        "d) Mycobacterium tuberculosis"
-        ],
-        "discipline": "Bacterio",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 4,
-        "question": "En los cuadros de encefalitis herpéticos causados por Herpes simple tipo 1 ¿cómo alcanza este agente el encéfalo?",
-        "answer": ["c) A través de los nervios olfatorios"],
-        "options": [
-        "a) A través del VIII par craneano",
-        "b) A través de los plexos coroideos",
-        "c) A través de los nervios olfatorios",
-        "d) A través de las papilas gustativas"
-        ],
-        "discipline": "Bacterio",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 5,
-        "question": "¿Cuál de las siguientes opciones indica resistencia heterogénea a vancomicina (hVISA) en un aislamiento de Staphylococcus aureus?",
-        "answer": ["d) Un conjunto de bacterias con concentración inhibitoria mínima en el rango de susceptibilidad y subpoblaciones con susceptibilidad intermedia"],
-        "options": [
-        "a) Un conjunto de bacterias a las que no se logra determinar la concentración inhibitoria mínima a vancomicina",
-        "b) Cepas que presentan los genes de resistencia a vancomicina (van) y que los expresan solo en presencia de un inductor",
-        "c) Cepas que presentan resistencia intermedia a glucopéptidos como teicoplanina y un comportamiento variable frente a vancomicina",
-        "d) Un conjunto de bacterias con concentración inhibitoria mínima en el rango de susceptibilidad y subpoblaciones con susceptibilidad intermedia"
-        ],
-        "discipline": "Bacterio",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 6,
-        "question": "En la patogénesis de la endocarditis infecciosa, se pueden observar comunidades bacterianas asociadas a la superficie de la válvula cardíaca, rodeadas por una matriz polisacarídica de origen bacteriano. <br> Estas estructuras bacterianas se denominan:",
-        "answer": ["a) Biofilms"],
-        "options": [
-        "a) Biofilms",
-        "b) Absceso valvular",
-        "c) Comunidades bacterianas intracelulares",
-        "d) Unidades formadoras de colonias bacterianas"
-        ],
-        "discipline": "Bacterio",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 7,
-        "question": "¿Qué tipo de betalactamasas se busca detectar cuando se realiza un test de sinergia colocando discos de Meropenem o Imipenem próximos a un disco de EDTA?",
-        "answer": ["b) Metalo carbapenemasas (tipo NDM-1)"],
-        "options": [
-        "a) Cefalosporinasas de clase C (ampC)",
-        "b) Metalo carbapenemasas (tipo NDM-1)",
-        "c) Carbapenemasas de clase A (tipo KPC)",
-        "d) Betalactamasas de espectro extendido (BLEE)"
-        ],
-        "discipline": "Bacterio",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 8,
-        "question": "En un antibiograma realizado a un aislamiento de Klebsiella pneumoniae ¿Cuál de los siguientes resultados puede explicarse por la producción de una betalactamasa de espectro extendido (BLEE) sabiendo que esa cepa no presenta otro mecanismo de resistencia a betalactámicos?",
-        "answer": ["b) Cefotaxime>32 µg/ml (resistente)"],
-        "options": [
-        "a) Meropenem 8 µg/ml (resistente)",
-        "b) Cefotaxime>32 µg/ml (resistente)",
-        "c) Ampicilina Sulbactam >32µg/ml (resistente)",
-        "d) Piperacilina Tazobactam>64 µg/ml (resistente)"
-        ],
-        "discipline": "Bacterio",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 9,
-        "question": "¿Cuál de las siguientes estructuras de Mycobacterium tuberculosis es responsable de la ácido-alcohol resistencia?",
-        "answer": ["c) Ácidos micólicos"],
-        "options": [
-        "a) Cápsula",
-        "b) Peptidoglicano",
-        "c) Ácidos micólicos",
-        "d) Arabinogalactano"
-        ],
-        "discipline": "Bacterio",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 10,
-        "question": "¿Cuáles de los siguientes métodos de estudio son aplicables para el diagnóstico de tuberculosis?",
-        "answer": ["c) Tinción de Ziehl Neelsen, PCR y cultivo en medios selectivos como Löwenstein Jensen"],
-        "options": [
-        "a) Tinción de Gram, PCR, cultivo en medios líquidos como caldo TSB y tioglicolato",
-        "b) Tinción de Gram, cultivo en medios selectivos como agar Thayer Martin o agar Skirrow",
-        "c) Tinción de Ziehl Neelsen, PCR y cultivo en medios selectivos como Löwenstein Jensen",
-        "d) Tinción con azul de metileno, cultivo en medios ricos y muy ricos como agar sangre y chocolate"
-        ],
-        "discipline": "Bacterio",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 11,
-        "question": "¿Cuál de las siguientes vías de transmisión es la más frecuente para el virus de la hepatitis C?",
-        "answer": ["c) Parenteral"],
-        "options": [
-        "a) Sexual",
-        "b) Vertical",
-        "c) Parenteral",
-        "d) Fecal-oral"
-        ],
-        "discipline": "Bacterio",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 12,
-        "question": "¿Qué tipo de evolución clínica es la más frecuente en las infecciones producidas por el virus de la hepatitis C?",
-        "answer": ["b) Agudo que con frecuencia evoluciona a la cronicidad"],
-        "options": [
-        "a) Agudo y fulminante",
-        "b) Agudo que con frecuencia evoluciona a la cronicidad",
-        "c) Agudo que excepcionalmente evoluciona a la cronicidad"
-        ],
-        "discipline": "Bacterio",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 13,
-        "question": "¿Qué observa en el estudio micológico frente a la sospecha de Histoplasmosis?",
-        "answer": ["d) Filamentos con clamidosporos verrucosos y microconidios"],
-        "options": [
-        "a) Levaduras con pseudofilamentos",
-        "b) Fase micelial en los medios de cultivo a 35 °C",
-        "c) Levaduras multibrotantes con cápsulas mucopolisacarídicas",
-        "d) Filamentos con clamidosporos verrucosos y microconidios"
-        ],
-        "discipline": "Parasito",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 14,
-        "question": "¿Cuál es la vía de infección en las formas cutáneas de Histoplasmosis?",
-        "answer": ["c) Inhalatoria", "d) Transcutánea"],
-        "options": [
-        "a) Sexual",
-        "b) Digestiva",
-        "c) Inhalatoria",
-        "d) Transcutánea"
-        ],
-        "discipline": "Parasito",
-        "comment": "AMBIGUA. C y D",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 15,
-        "question": "Mujer de 25 años, cursando primer trimestre de gestación. Serología para toxoplasmosis: <br> ELISA IgG reactivo; IgM no reactivo. ¿Cómo interpreta estos resultados?",
-        "answer": ["b) Se trata de una infección pasada. Se explica a la paciente que no hay riesgo de transmisión fetal"],
-        "options": [
-        "a) Se trata de una infección en curso. Será necesario repetir la serología en los próximos trimestres",
-        "b) Se trata de una infección pasada. Se explica a la paciente que no hay riesgo de transmisión fetal",
-        "c) Se trata de una paciente no inmunizada. Se explican las medidas preventivas para no adquirir una infección primaria",
-        "d) Se trata de una infección reciente. Se explica que el riesgo de transmisión fetal es elevado por lo que deberá iniciar tratamiento precozmente"
-        ],
-        "discipline": "Parasito",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 16,
-        "question": "Mujer de 32 años, cursando primer trimestre de gestación. Serología para Chagas: ELISA Reactivo. ¿Cuál sería la conducta frente a esta situación?",
-        "answer": ["d) Confirmar la infección mediante inmuno fluorescencia indirecta"],
-        "options": [
-        "a) Realizar xenodiagnóstico a la madre",
-        "b) Iniciar inmediatamente el tratamiento etiológico",
-        "c) Confirmar el diagnóstico mediante la técnica de gota gruesa",
-        "d) Confirmar la infección mediante inmuno fluorescencia indirecta"
-        ],
-        "discipline": "Parasito",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 17,
-        "question": "Lactante de 3 meses, hijo de madre chagásica, remitido por pediatra tratante a la policlínica de Parasitología y Micología del Instituto de Higiene, para estudio de Enfermedad de Chagas. ¿Cuál es la conducta a seguir?",
-        "answer": ["a) Indicar xenodiagnóstico"],
-        "options": [
-        "a) Indicar xenodiagnóstico",
-        "b) Solicitar estudio serológico",
-        "c) Conducta expectante hasta los 9 meses",
-        "d) Iniciar tratamiento empírico con Nifurtimox"
-        ],
-        "discipline": "Parasito",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 18,
-        "question": "¿Qué tinción se utiliza para identificar a Cryptosporidium spp?",
-        "answer": ["d) Ziehl Neelsen modificado"],
-        "options": [
-        "a) Gomori-Grocott",
-        "b) Gram-cromotrope",
-        "c) May Grunwald-Giemsa",
-        "d) Ziehl Neelsen modificado"
-        ],
-        "discipline": "Parasito",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 19,
-        "question": "¿Qué araña presenta ponzoña con acción neurotóxica?",
-        "answer": ["c) Latrodectus spp."],
-        "options": [
-        "a) Loxosceles laeta.",
-        "b) Lycosa spp.",
-        "c) Latrodectus spp."
-        ],
-        "discipline": "Parasito",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 20,
-        "question": "¿Cuál de las siguientes especies de ofidios ponzoñosos del Uruguay presenta anillos de color amarillo, rojo y negro?",
-        "answer": ["a) Micrurus altirostris"],
-        "options": [
-        "a) Micrurus altirostris",
-        "b) Bothrops alternatus",
-        "c) Bothrops pubescens",
-        "d) Crotalus durissus terrificus"
-        ],
-        "discipline": "Parasito",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 21,
-        "question": "¿Qué tipo de dentición presenta Micrurus altirostris?",
-        "answer": ["d) Proteroglifa"],
-        "options": [
-        "a) Aglifa",
-        "b) Opistoglifa",
-        "c) Solenoglifa",
-        "d) Proteroglifa"
-        ],
-        "discipline": "Parasito",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 22,
-        "question": "¿Cuál es la forma de presentación clínica más frecuente en la neumocistosis?",
-        "answer": ["b) Neumonitis intersticial que lleva rápidamente a la insuficiencia respiratoria aguda"],
-        "options": [
-        "a) Nódulos pulmonares con preponderancia en lóbulos superiores",
-        "b) Neumonitis intersticial que lleva rápidamente a la insuficiencia respiratoria aguda",
-        "c) Afectación de piel y partes blandas a punto de partida de su implantación traumática",
-        "d) Diarrea sub-aguda acompañada de gleras y sangre por ingesta de alimentos contaminados"
-        ],
-        "discipline": "Parasito",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 23,
-        "question": "¿Cuál es el principal mecanismo de transmisión de la esporotricosis?",
-        "answer": ["d) Implantación traumática"],
-        "options": [
-        "a) Inhalatoria",
-        "b) Contacto directo",
-        "c) Fecal-oral por fomites",
-        "d) Implantación traumática"
-        ],
-        "discipline": "Parasito",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 24,
-        "question": "¿Cómo es la morfología microscópica de Sporothrix schenckii?",
-        "answer": ["c) Filamentos con conidios acrógenos y pleurógenos"],
-        "options": [
-        "a) Levaduras multibrotantes en rueda de timón",
-        "b) Levaduras con pseudofilamentos verdaderos",
-        "c) Filamentos con conidios acrógenos y pleurógenos",
-        "d) Filamentos con clamidoconidios verrucosos terminales"
-        ],
-        "discipline": "Parasito",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 25,
-        "question": "¿Cuál de las siguientes es una característica de Levaduras del género Malassezia?",
-        "answer": ["a) Lipofílicas"],
-        "options": [
-        "a) Lipofílicas",
-        "b) Queratinolíticas",
-        "c) Queratinofílicas"
-        ],
-        "discipline": "Parasito",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 26,
-        "question": "¿Cuál de las siguientes infecciones sexualmente transmisibles se ve favorecida por Tricomoniasis?",
-        "answer": ["c) Infección por VIH"],
-        "options": [
-        "a) Sarna",
-        "b) Phthiriasis",
-        "c) Infección por VIH",
-        "d) Infección por virus de hepatitis B"
-        ],
-        "discipline": "Parasito",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 27,
-        "question": "Indique cuál de los siguientes criterios es necesario para el diagnóstico de insuficiencia respiratoria tipo II:",
-        "answer": ["b) PaCO2 > 45 mmHg"],
-        "options": [
-        "a) pH arterial < 7,20",
-        "b) PaCO2 > 45 mmHg",
-        "c) Relación PaO2/FiO2 < 100",
-        "d) Ausencia de respuesta al test de hiperoxia"
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 28,
-        "question": "Frente a un paciente con hipoxemia y diferencia alvéolo-arterial de oxígeno de 5 mmHg, indique el mecanismo de insuficiencia respiratoria responsable:",
-        "answer": ["d) Hipoventilación alveolar"],
-        "options": [
-        "a) Baja relación V/Q",
-        "b) Shunt intrapulmonar",
-        "c) Trastorno de la difusión",
-        "d) Hipoventilación alveolar"
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 29,
-        "question": "Indique cuál de los siguientes trastornos provocaría una mayor reducción del contenido arterial de oxígeno (CaO2) en un paciente:",
-        "answer": ["d) Reducción de la concentración de hemoglobina de 14 g/dL a 8 g/dL"],
-        "options": [
-        "a) Descenso del gasto cardíaco de 5 L/min a 4 L/min",
-        "b) Disminución de la PaO2 de 400 mmHg a 150 mmHg",
-        "c) Descenso de la saturación de hemoglobina (SaO2) de 99% a 96%",
-        "d) Reducción de la concentración de hemoglobina de 14 g/dL a 8 g/dL"
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 30,
-        "question": "¿Cómo espera encontrar las resistencias vasculares sistémicas (RVS) y la presión diastólica final del ventrículo izquierdo (PDFVI) en el shock hipovolémico?",
-        "answer": ["c) PDFVI reducida y RVS aumentadas"],
-        "options": [
-        "a) PDFVI y RVS disminuidas",
-        "b) PDFVI y RVS aumentadas",
-        "c) PDFVI reducida y RVS aumentadas",
-        "d) PDFVI aumentada y RVS disminuidas"
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
+    "question": " ¿Cuál es el mecanismo de acción antibacteriano de cefradina?",
+    "answer": [
+      "a. Inhibe la transpeptidación."
+    ],
+    "options": [
+      "a. Inhibe la transpeptidación.",
+      "b. Inhibe la topoisomerasa IV.",
+      "c. Inhibe la subunidad 50S ribosomal.",
+      "d. Inhibe la síntesis de proteínas."
+    ],
+    "discipline": "Farmaco",
+    "comment": "La cefradina es una cefalosporina de primera generación. Al igual que otros antibióticos betalactámicos, se une de forma covalente a las proteínas de unión a penicilina (PBP) e inhibe la reacción de transpeptidación, la cual es la etapa final en el entrecruzamiento de las cadenas de peptidoglicano en la pared celular bacteriana, provocando la lisis y muerte celular."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 2,
+    "question": " ¿Cuál de los siguientes corresponde al mecanismo de acción de los fármacos antileucotrienos?",
+    "answer": [
+      "b. Antagonistas de los receptores de leucotrienos"
+    ],
+    "options": [
+      "a. Agonistas parciales de los receptores de leucotrienos",
+      "b. Antagonistas de los receptores de leucotrienos",
+      "c. Agonistas inversos de los receptores de leucotrienos"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Los antileucotrienos más utilizados clínicamente (como montelukast y zafirlukast) actúan como antagonistas competitivos y selectivos del receptor CysLT1 (receptor de cisteinil-leucotrienos tipo 1). De este modo, bloquean las acciones broncocONstrictoras, proinflamatorias y el aumento de la permeabilidad vascular inducidos por LTC4, LTD4 y LTE4 en las vías aéreas."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 3,
+    "question": " Paciente epiléptico de 35 años tratado con carbamazepina 400 mg vía oral cada 8 horas hace 5 meses. Aumento del número de crisis en el último mes por lo cual se solicita dosificación sanguínea del antiepiléptico y hoy trae el resultado: <br> Dosificación de carbamazepina: 16 µg/ml (Rango Terapéutico 4-12 µg/ml) <br> ¿Cuál cree que puede ser la causa del aumento del número de crisis?",
+    "answer": [
+      "a. Intoxicación medicamentosa"
+    ],
+    "options": [
+      "a. Intoxicación medicamentosa",
+      "b. Tratamiento infra-terapéutico",
+      "c. Falta de adherencia al tratamiento"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La dosificación plasmática de carbamazepina se encuentra en 16 µg/ml, superando claramente el límite superior de su rango terapéutico (4-12 µg/ml). Las concentraciones supraterapéuticas o tóxicas de carbamazepina pueden paradojalmente exacerbar las convulsiones existentes o precipitar un aumento en la frecuencia de crisis debido a toxicidad sobre el sistema nervioso central."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 4,
+    "question": " ¿Cuál opción es correcta sobre la eficacia analgésica de los opioides?",
+    "answer": [
+      "b. Tramadol es menos eficaz que fentanilo"
+    ],
+    "options": [
+      "a. Tramadol es más eficaz que remifentanilo",
+      "b. Tramadol es menos eficaz que fentanilo",
+      "c. Morfina es menos eficaz que tramadol",
+      "d. Fentanilo es más eficaz que remifentanilo"
+    ],
+    "discipline": "Farmaco",
+    "comment": "El tramadol es un agonista opióideo débil (con un efecto techo para el alivio del dolor moderado), mientras que el fentanilo es un opióideo potente agonista puro de receptores mu. Por lo tanto, el tramadol presenta una menor eficacia analgésica máxima en comparación con el fentanilo."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 5,
+    "question": " ¿Cuál de las siguientes afirmaciones sobre el mecanismo de acción de los antiinflamatorios no esteroideos es correcta?",
+    "answer": [
+      "c. Diclofenac y celecoxib tienen mayor selectividad por ciclooxigenasa 2"
+    ],
+    "options": [
+      "a. Paracetamol inhibe la ciclooxigenasa 1 y 2 en sitios de inflamación",
+      "b. Ibuprofeno y paracetamol tienen mayor selectividad por ciclooxigenasa 1.",
+      "c. Diclofenac y celecoxib tienen mayor selectividad por ciclooxigenasa 2"
+    ],
+    "discipline": "Farmaco",
+    "comment": "El celecoxib es un inhibidor selectivo de la COX-2 (coxib). Por su parte, dentro de los AINEs tradicionales, el diclofenac demuestra una preferencia o selectividad relativa orientada hacia la isoforma COX-2 en comparación con otros analgésicos clásicos no selectivos."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 6,
+    "question": " ¿Cuál de los siguientes es un efecto farmacológico de los glucocorticoides sobre el metabolismo fosfo-cálcico?",
+    "answer": [
+      "a. Disminución de la absorción de calcio intestinal"
+    ],
+    "options": [
+      "a. Disminución de la absorción de calcio intestinal",
+      "b. Disminución de la actividad de los osteoclastos",
+      "c. Disminución de la resorción ósea"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Los glucocorticoides alteran el balance de calcio al inhibir el transporte activo e intestinal de calcio (antagonizando las acciones de la vitamina D) y al aumentar la excreción renal de calcio, lo que promueve la hipocalcemia secundaria e hiperparatiroidismo reactivo."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 7,
+    "question": " ¿Cuál de los siguientes es un efecto adverso que puede observarse luego de administrar salbutamol en dosis altas por vía inhalatoria?",
+    "answer": [
+      "b. Arritmias cardíacas."
+    ],
+    "options": [
+      "a. Insuficiencia cardíaca.",
+      "b. Arritmias cardíacas.",
+      "c. Hiponatremia.",
+      "d. Hiperpotasemia."
+    ],
+    "discipline": "Farmaco",
+    "comment": "A dosis altas, el salbutamol pierde parte de su selectividad beta-2 sistémica y estimula los receptores beta-1 cardíacos (además de los beta-2 en miocardio). Esto genera taquicardia, palpitaciones y predispone a la aparición de arritmias cardíacas, efecto acentuado también por la hipopotasemia que induce."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 8,
+    "question": " Paciente de 35 años asmática en tratamiento con fluticasona inhalada hace 3 años. El médico decide cambiar a budesonide por ser el disponible en el vademecum de la institución ¿En qué se diferencian estos dos medicamentos?",
+    "answer": [
+      "b. En afinidad al receptor glucocorticoideo"
+    ],
+    "options": [
+      "a. En incidencia de efectos adversos locales",
+      "b. En afinidad al receptor glucocorticoideo",
+      "c. En eficacia clínica en el tratamiento del asma"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Aunque ambos son corticoides inhalados con eficacia clínica equivalente a dosis equipotentes en el asma, difieren en sus propiedades farmacodinámicas y farmacocinéticas. El propionato de fluticasona presenta una afinidad sustancialmente mayor por el receptor glucocorticoideo humano en comparación con la budesonida."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 9,
+    "question": " ¿Cuál de las siguientes afirmaciones sobre la farmacocinética de la nitrofurantoína es correcta?",
+    "answer": [
+      "c. La forma macrocristales se absorbe más lentamente disminuyendo así efectos adversos gastrointestinales."
+    ],
+    "options": [
+      "a. La concentración sanguínea de nitrofurantoína es adecuada para su uso en bacteriemias.",
+      "b. Tiene efecto bacteriostático independientemente de la concentración alcanzada en orina.",
+      "c. La forma macrocristales se absorbe más lentamente disminuyendo así efectos adversos gastrointestinales."
+    ],
+    "discipline": "Farmaco",
+    "comment": "La formulación en macrocristales de la nitrofurantoína reduce la velocidad de disolución y absorción gastrointestinal, disminuyendo significativamente la intolerancia digestiva y las náuseas sin reducir la biodisponibilidad ni la concentración terapéutica en orina."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 10,
+    "question": " ¿Cuál de los siguientes es un efecto adverso frecuente de los antibióticos b-lactámicos?",
+    "answer": [
+      "c. Diarrea"
+    ],
+    "options": [
+      "a. Nefritis",
+      "b. Hiponatremia",
+      "c. Diarrea",
+      "d. Taquicardia"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Los antibióticos betalactámicos, debido a la alteración de la flora o microbiota intestinal y la irritación directa de la mucosa, presentan con elevada frecuencia efectos adversos gastrointestinales, siendo la diarrea el síntoma más común."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 11,
+    "question": " ¿Cuál de las siguientes afirmaciones sobre las reacciones adversas de los antiinflamatorios no esteroideos (AINE) es correcta?",
+    "answer": [
+      "b. Las úlceras gastroduodenales ocurren independientemente de la vía de administración."
+    ],
+    "options": [
+      "a. Paracetamol tiene similar riesgo de úlceras gastrointestinales que los demás AINE.",
+      "b. Las úlceras gastroduodenales ocurren independientemente de la vía de administración.",
+      "c. No se ha descrito riesgo en pacientes embarazadas que reciben AINE.",
+      "d. La selectividad por la ciclooxigenasa 2 reduce el riesgo de efectos adversos cardiovasculares."
+    ],
+    "discipline": "Farmaco",
+    "comment": "El efecto gastrolesivo de los AINEs deriva tanto del daño directo por contacto como (y principalmente) de la inhibición sistémica de la COX-1 endógena, que bloquea la síntesis de prostaglandinas protectoras (PGE2 y PGI2). Por esta razón, la formación de úlceras y sangrado digestivo se produce sin importar si la vía de administración es oral, parenteral o rectal."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 12,
+    "question": " Sobre el uso de la vía inhalatoria en el tratamiento del asma ¿cuál de las siguientes afirmaciones referentes a esta vía de administración es correcta?",
+    "answer": [
+      "b. Reduce la frecuencia de efectos adversos locales"
+    ],
+    "options": [
+      "a. Para los broncodilatadores el inicio de acción es igual que por vía oral",
+      "b. Reduce la frecuencia de efectos adversos locales",
+      "c. El uso de espaciadores aumenta el depósito de fármacos en la orofaringe"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La administración inhalatoria deposita el fármaco directamente en el órgano blanco (árbol bronquial), minimizando la absorción sistémica y reduciendo sustancialmente los efectos colaterales sistémicos en comparación con la vía oral. Adicionalmente, el uso de técnicas correctas e inhaladores de dosis medida optimiza la deposición pulmonar."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 13,
+    "question": " ¿Cuál de las siguientes afirmaciones es correcta sobre los efectos farmacológicos de paracetamol?",
+    "answer": [
+      "c. Su efecto antipirético se observa a dosis terapéuticas"
+    ],
+    "options": [
+      "a. Los efectos adversos renales son mayores que con ketoprofeno",
+      "b. Posee efecto gastrolesivo mayor que ibuprofeno",
+      "c. Su efecto antipirético se observa a dosis terapéuticas",
+      "d. Su efecto analgésico no se observa a dosis terapéuticas"
+    ],
+    "discipline": "Farmaco",
+    "comment": "El paracetamol (acetaminofén) exhibe eficaces propiedades analgésicas y antipiréticas dentro de las dosis terapéuticas recomendadas (500-1000 mg por toma), al inhibir la síntesis de prostaglandinas a nivel central en el hipotálamo."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 14,
+    "question": " ¿Cuál de los siguientes efectos adversos puede verse con el uso de anticonceptivos orales hormonales combinados?",
+    "answer": [
+      "b. Tromboembolia venosa"
+    ],
+    "options": [
+      "a. Hipotensión ortostática",
+      "b. Tromboembolia venosa",
+      "c. Disminución de peso",
+      "d. Aumento del colesterol HDL"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Los anticonceptivos orales combinados (estrógenos y progestágenos) aumentan la síntesis hepática de varios factores de coagulación y reducen niveles de antitrombina III, lo que incrementa el riesgo procoagulante y la incidencia de tromboembolismo venoso (trombosis venosa profunda y tromboembolismo pulmonar)."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 15,
+    "question": " Indique cuál de las siguientes es un efecto adverso característico de los aminoglucósidos?",
+    "answer": [
+      "a. Ototoxicidad tiempo dependiente"
+    ],
+    "options": [
+      "a. Ototoxicidad tiempo dependiente",
+      "b. Hiperglicemia",
+      "c. Colitis pseudomembranosa",
+      "d. Neuropatía periférica"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La ototoxicidad (auditiva y vestibular) por aminoglucósidos resulta de la acumulación progresiva e irreversible del fármaco en la perilinfa y endolinfa del oído interno, estando directamente vinculada con la duración acumulativa del tratamiento (tiempo-dependiente)."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 16,
+    "question": " ¿Cuál de los siguientes antihistamínicos presenta menos efecto sedante?",
+    "answer": [
+      "a. Loratadina"
+    ],
+    "options": [
+      "a. Loratadina",
+      "b. Clorfeniramina",
+      "c. Difenhidramina"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La loratadina es un antihistamínico de segunda generación. Debido a su menor liposolubilidad y a ser sustrato de la P-glicoproteína, no atraviesa de manera relevante la barrera hematoencefálica, produciendo una sedación sustancialmente menor que los fármacos de primera generación (difenhidramina, clorfeniramina)."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 17,
+    "question": " ¿Cuál de los siguientes es un efecto adverso vinculado al uso de morfina?",
+    "answer": [
+      "a. Disforia"
+    ],
+    "options": [
+      "a. Disforia",
+      "b. Edemas",
+      "c. Nefropatía",
+      "d. Diarrea"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Aunque los opioides como la morfina suelen inducir euforia, en ciertos individuos o situaciones clínicas pueden producir estados neuropsiquiátricos adversos como disforia, inquietud o alucinaciones por activación de receptores opióideos centrales."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 18,
+    "question": " ¿Cuál de los siguientes broncodilatadores beta 2 adrenérgicos presenta una duración de acción de 12 horas?",
+    "answer": [
+      "b. Salmeterol"
+    ],
+    "options": [
+      "a. Salbutamol",
+      "b. Salmeterol",
+      "c. Fenoterol"
+    ],
+    "discipline": "Farmaco",
+    "comment": "El salmeterol es un agonista beta-2 adrenérgico de acción prolongada (LABA). Posee una cadena lateral lipofílica que se ancla a la membrana celular, lo que le confiere una duración de acción broncodilatadora sostenida de aproximadamente 12 horas."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 19,
+    "question": " ¿Cuál de los siguientes síntomas puede observarse en un paciente añoso con hiponatremia crónica?",
+    "answer": [
+      "c. Inestabilidad en la marcha"
+    ],
+    "options": [
+      "a. Bloqueo aurículoventricular completo",
+      "b. Arritmias",
+      "c. Inestabilidad en la marcha",
+      "d. Infarto cerebral"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En los adultos mayores, la hiponatremia crónica leve a moderada provoca edema cerebral subclínico y sutiles alteraciones del sistema nervioso central que se manifiestan clínicamente con inestabilidad en la marcha, déficits de atención y un aumento significativo en la tasa de caídas y fracturas."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 20,
+    "question": " Indique cuál de las siguientes es una característica del síndrome coronario estable:",
+    "answer": [
+      "c. Angor de esfuerzo que cede con el reposo"
+    ],
+    "options": [
+      "a. La elevación del segmento ST en el electrocardiograma",
+      "b. La presencia de hipotensión arterial",
+      "c. Angor de esfuerzo que cede con el reposo",
+      "d. La ausencia de lesiones coronarias"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El síndrome coronario estable (angina estable) se desencadena típicamente ante situaciones que incrementan la demanda miocárdica de oxígeno (como el esfuerzo físico o estrés emocional) y se alivia de manera característica en minutos con el reposo o con la administración de nitroglicerina sublingual."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 21,
+    "question": " Indique cuál de los siguientes factores disminuye la resistencia vascular coronaria:",
+    "answer": [
+      "b. Acidosis"
+    ],
+    "options": [
+      "a. Hipocapnia",
+      "b. Acidosis",
+      "c. Hiperoxia",
+      "d. Endotelina"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Los factores metabólicos locales regulan el tono vascular coronario. La acidosis (aumento de H+ e hipercapnia) actúa como un vasodilatador directo sobre las arteriolas coronarias para aumentar el flujo sanguíneo tisular en respuesta al estrés metabólico, disminuyendo así la resistencia vascular coronaria."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 22,
+    "question": " ¿Qué caracteriza al punto de corte de cifras para diagnóstico de hipertensión arterial?",
+    "answer": [
+      "b. Varía de acuerdo al método de medición."
+    ],
+    "options": [
+      "a. Es el mismo en niños y adultos",
+      "b. Varía de acuerdo al método de medición.",
+      "c. Es el mismo en las diferentes guías internacionales.",
+      "d. Varía de acuerdo al sexo y la talla"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Los valores umbral para diagnosticar hipertensión arterial varían según la técnica empleada: la medición en consultorio clásico considera HTA a partir de ≥ 140/90 mmHg, mientras que el monitoreo ambulatorio (MAPA) o automonitoreo (AMPA) utilizan umbrales diagnósticos menores (por ejemplo, promedio de 24 hs en MAPA ≥ 130/80 mmHg)."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 23,
+    "question": " Indique cuál de los siguientes mecanismos está presente en la fisiopatología de la insuficiencia cardíaca aguda:",
+    "answer": [
+      "c. Aumento de la presión venosa central"
+    ],
+    "options": [
+      "a. Vasodilatación sistémica",
+      "b. Vasoconstricción pulmonar",
+      "c. Aumento de la presión venosa central",
+      "d. Aumento de la primer derivada de la presión ventricular izquierda"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La insuficiencia cardíaca aguda cursa fundamentalmente con aumento de las presiones de llenado cardíaco. El fallo ventricular conduce a la congestión venosa retrógrada, lo que se traduce hemodinámicamente en una elevación de la presión venosa central (PVC) y de la presión en la aurícula derecha."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 24,
+    "question": " ¿Cuál de las siguientes situaciones aumenta el riesgo de progresión de la Enfermedad renal crónica?",
+    "answer": [
+      "c. Activación del eje renina angiotensina aldosterona"
+    ],
+    "options": [
+      "a. Activación del receptor beta 2 renal",
+      "b. Activación de la hormona antidiurética",
+      "c. Activación del eje renina angiotensina aldosterona"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La activación sostenida del SRAA produce vasoconstricción preferencial de la arteriola eferente mediada por angiotensina II, lo que provoca hipertensión e hiperfiltración intraglomerular. Esta sobrecarga mecánica acelera el daño podocitario, la proteinuria y la esclerosis renal, impulsando la progresión de la ERC."
+  },
+  {
+    "position": 25,
+    "info_quest": "3erParcial2020",
+    "numb": 25,
+    "question": " ¿Cuáles de las siguientes situaciones produce una salida de potasio desde las células hacia el plasma favoreciendo la hiperpotasemia?",
+    "answer": [
+      "c. Acidosis metabólica"
+    ],
+    "options": [
+      "a. Beta agonistas",
+      "b. Hipoosmolaridad",
+      "c. Acidosis metabólica"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En la acidosis metabólica por aniones inorgánicos (minerales), el exceso de H+ extracelular ingresa a las células para ser amortiguado; para mantener la electroneutralidad celular, el potasio ($K^+$) sale del espacio intracelular al plasma, favoreciendo el desarrollo de hiperpotasemia."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 26,
+    "question": " Paciente está siendo valorado por una hiponatremia de desarrollo intrahospitalario de más de 2 días de evolución. ¿Cómo clasifica esta hiponatremia?",
+    "answer": [
+      "a. Crónica"
+    ],
+    "options": [
+      "a. Crónica",
+      "b. Subaguda",
+      "c. Aguda"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Por convención fisiopatológica y clínica, la hiponatremia se clasifica en aguda si su tiempo de evolución es menor a 48 horas, y en crónica si persiste o se desarrolla en un período igual o mayor a 48 horas (2 días)."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 27,
+    "question": " ¿Cuál de los siguientes eventos ocurren con mayor intensidad durante la fase de reparación de la injuria renal aguda isquémica?",
+    "answer": [
+      "a. Reparación del ADN celular"
+    ],
+    "options": [
+      "a. Reparación del ADN celular",
+      "b. Producción de interleuquina 1 beta",
+      "c. Nefrogénesis"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Durante la fase de reparación o recuperación de la lesión tubular aguda isquémica, las células epiteliales tubulares supervivientes activan programas celulares de respuesta al daño celular que incluyen la reparación del ADN, la redefinición de la polaridad y la proliferación celular para restituir la integridad funcional tubular."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 28,
+    "question": " Paciente con hiponatremia de 24 horas de evolución. ¿Cuáles son los mecanismos adaptativos más importantes que se ponen en juego a nivel neuronal?",
+    "answer": [
+      "b. Salida de sodio de la célula"
+    ],
+    "options": [
+      "a. Salida de creatina de la célula",
+      "b. Salida de sodio de la célula",
+      "c. Salida de glutamato de la célula"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En la fase de adaptación rápida frente a la hipoosmolaridad (primeras 24-48 horas), las neuronas contrarrestan el flujo osmótico de agua y previenen el edema cerebral mediante la pérdida activa de electrolitos extracelulares e intracelulares, principalmente por medio de la salida de sodio y potasio."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 29,
+    "question": " Frente a un paciente con diagnóstico de hipertensión arterial pulmonar del grupo 1, indique cuál considera el mecanismo responsable en el desarrollo de la vasculopatía pulmonar:",
+    "answer": [
+      "c. Expresión anormal de los canales de K en las células de músculo liso"
+    ],
+    "options": [
+      "a. Expresión anormal de los canales de K en el ventrículo derecho",
+      "b. Aumento del tono vagal",
+      "c. Expresión anormal de los canales de K en las células de músculo liso",
+      "d. Aumento de acetilcolina"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En las células de músculo liso vascular pulmonar de pacientes con HAP, existe una baja expresión o disfunción de los canales de potasio dependientes de voltaje ($K_v$). La pérdida de estos canales produce despolarización de la membrana, entrada de calcio por canales dependientes de voltaje, vasoconstricción e inhibición de la apoptosis, promoviendo la remodelación vascular."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 30,
+    "question": " ¿Cuál de las siguientes alteraciones hidroelectrolíticas se manifiesta por ondas U en el electrocardiograma?",
+    "answer": [
+      "d. Hipopotasemia"
+    ],
+    "options": [
+      "a. Hipernatremia",
+      "b. Hiponatremia",
+      "c. Hiperpotasemia",
+      "d. Hipopotasemia"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La disminución de la concentración plasmática de potasio (hipopotasemia) altera la repolarización ventricular, caracterizándose electrocardiográficamente por el aplanamiento de la onda T, la depresión del segmento ST y la presencia conspicua de ondas U prominentes."
+  },
+
+    {
+    "info_quest": "3erParcial2020",
         "numb": 31,
-        "question": "Una paciente de 70 años, tabaquista intensa, concurre a control con los siguientes resultados de una espirometría forzada Pre-broncodilatador: <br> Volumen espirado en el 1er segundo (VEF1): 3,31 L <br> Capacidad vital forzada (CVF): 6,09 L <br> ¿Qué patrón espirométrico presenta la paciente?",
-        "answer": ["c) Obstructivo"],
-        "options": [
-        "a) Normal",
-        "b) Restrictivo",
-        "c) Obstructivo"
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 32,
-        "question": "En la misma paciente de la pregunta anterior ¿Cuál de las siguientes alteraciones esperaría encontrar?",
-        "answer": ["b) Disminución de las fuerzas musculares"],
-        "options": [
-        "a) Descenso de la resistencia pulmonar total",
-        "b) Disminución de las fuerzas musculares",
-        "c) Disminución de la capacidad pulmonar total",
-        "d) Aumento de los flujos espiratorios esfuerzo independientes"
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 33,
-        "question": "En un paciente conectado a ventilación mecánica invasiva se obtienen los siguientes parámetros ventilatorios en dos días sucesivos: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p33-2P-2021.PNG' alt = '' ><br> En relación a la mecánica ventilatoria que presentaba el paciente en el día 1, marque la opción correcta:",
-        "answer": ["c) Presenta una complacencia quasi-estática de 75 ml/cmH20"],
-        "options": [
-        "a) Presenta una complacencia dinámica de 75 ml/cmH20",
-        "b) Presenta una resistencia pulmonar total de 75 ml/cmH20",
-        "c) Presenta una complacencia quasi-estática de 75 ml/cmH20",
-        "d) No se puede calcular la complacencia en condiciones dinámicas porque se requiere ausencia de flujo en vía aérea"
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 34,
-        "question": "En el mismo paciente de la pregunta anterior, comparando los datos del día 1 y día 2, se puede afirmar que en día 2 el paciente:",
-        "answer": ["d) Presenta un descenso de la complacencia quasi-estática."],
-        "options": [
-        "a) Presenta un aumento de la complacencia dinámica.",
-        "b) Presenta un aumento de la complacencia quasi-estática.",
-        "c) Requiere menos energía para deformar el tejido pulmonar.",
-        "d) Presenta un descenso de la complacencia quasi-estática."
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 35,
-        "question": "En el mecanismo fisiopatológico de la fiebre, los pirógenos interaccionan con el endotelio de los capilares fenestrados que rodean a los centros termoreguladores del hipotálamo, provocando un aumento de la síntesis endotelial de:",
-        "answer": ["d) Prostaglandina E2"],
-        "options": [
-        "a) AMP cíclico",
-        "b) Interleuquina 2",
-        "c) Tromboxano A2",
-        "d) Prostaglandina E2"
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 36,
-        "question": "La reperfusión de una zona de tejido injuriada por un período de isquemia puede provocar un llamativo aumento de la lesión y la muerte celular. ¿Cuál de los siguientes componentes sanguíneos juega un rol central en este mecanismo de lesión por isquemia/reperfusión?",
-        "answer": ["a) El oxígeno"],
-        "options": [
-        "a) El oxígeno",
-        "b) La transferrina",
-        "c) Los hidrogeniones",
-        "d) La proteína quimiotáctica de monocitos 1"
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 37,
-        "question": "¿Cuál de las siguientes es una causa principal generadora de acidosis metabólica?",
-        "answer": ["d) Pérdida de base por el tubo digestivo o el riñón"],
-        "options": [
-        "a) La hipoventilación",
-        "b) Aumento en la producción metabólica de base",
-        "c) Aumento de la excreción de ácido por el riñón",
-        "d) Pérdida de base por el tubo digestivo o el riñón"
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 38,
-        "question": "¿Cuál de los siguientes es un conocido mecanismo productor de hipocapnia?",
-        "answer": ["b) La hipoxemia arterial"],
-        "options": [
-        "a) La hiperoxia tisular",
-        "b) La hipoxemia arterial",
-        "c) La utilización de benzodiacepinas",
-        "d) La inhibición de los receptores sensoriales pulmonares"
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 39,
-        "question": "En relación a la curva de disociación de la hemoglobina y oxígeno, ¿cuál de los siguientes factores favorece la liberación tisular de oxígeno?",
-        "answer": ["a) Acidemia"],
-        "options": [
-        "a) Acidemia",
-        "b) Hipotermia",
-        "c) Hipocapnia",
-        "d) Descenso de 2,3-DPG"
-        ],
-        "discipline": "Fisiopato",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 40,
-        "question": "Se realizan experiencias en modelos de órganos aislados en las que se administra un agonista y un antagonista y se obtienen las siguientes curvas dosis-respuesta <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p40-2P-2021.PNG' ><br>¿Cuál de las siguientes opciones corresponde a la curva número 2?",
-        "answer": ["b) Agonista en presencia de antagonista competitivo"],
-        "options": [
-        "a) Antagonista no competitivo en presencia de agonista",
-        "b) Agonista en presencia de antagonista competitivo",
-        "c) Agonista inverso en presencia de antagonista competitivo",
-        "d) Antagonista no competitivo en presencia de agonista alostérico"
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 41,
-        "question": "¿Cuál de las siguientes opciones es correcta acerca del sitio de unión al receptor de los agonistas alostéricos?",
-        "answer": ["b) Se unen a un sitio distinto del ligando endógeno"],
-        "options": [
-        "a) Se unen al antagonista para evitar su acción",
-        "b) Se unen a un sitio distinto del ligando endógeno",
-        "c) Se unen al mismo sitio del ligando de forma irreversible",
-        "d) Se unen al mismo sitio que el ligando endógeno en estado inactivo"
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 42,
-        "question": "¿Cuál de las siguientes es una ventaja de la administración de un fármaco por vía sublingual?",
-        "answer": ["a) Evitar el primer paso hepático"],
-        "options": [
-        "a) Evitar el primer paso hepático",
-        "b) Tener gran superficie de absorción",
-        "c) Presentar acción sostenida en el tiempo",
-        "d) Lograr mayor absorción para fármacos hidrosolubles"
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 43,
-        "question": "Suponiendo que un fármaco X se metaboliza por las enzimas de la vía del citocromo P450. ¿Qué interacción espera encontrar con la administración de un fármaco inductor de estas enzimas?",
-        "answer": ["b) Aumento de la eliminación sanguínea del fármaco X"],
-        "options": [
-        "a) Aumento de riesgo de intoxicación por el fármaco X",
-        "b) Aumento de la eliminación sanguínea del fármaco X",
-        "c) Aumento de la concentración plasmática del fármaco X",
-        "d) Aumento de la afinidad del fármaco X por proteínas plasmáticas"
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 44,
-        "question": "¿De cuál de los siguientes factores depende la biodisponibilidad de un fármaco?",
-        "answer": ["d) La vía de administración"],
-        "options": [
-        "a) El clearence",
-        "b) La vida media",
-        "c) El volumen de distribución",
-        "d) La vía de administración"
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 45,
-        "question": "¿Cuál de las siguientes es una característica de la eliminación de orden cero?",
-        "answer": ["c) Una cantidad constante de fármaco se elimina por unidad de tiempo"],
-        "options": [
-        "a) La curva logaritmo de concentración en función del tiempo es lineal",
-        "b) El volumen de distribución está aumentado a dosis supra terapéuticas",
-        "c) Una cantidad constante de fármaco se elimina por unidad de tiempo",
-        "d) La velocidad de eliminación del fármaco es proporcional a la concentración"
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 46,
-        "question": "Un niño de 5 años es traído a la emergencia por su padre luego de ingerir “bayas de belladona”, que contienen atropina. ¿Cuál de los siguientes síntomas/signos esperaría encontrar a dosis tóxicas?",
-        "answer": ["b) Piel seca"],
-        "options": [
-        "a) Miosis",
-        "b) Piel seca",
-        "c) Bradicardia",
-        "d) Hipersialorrea"
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 47,
-        "question": "¿Cuál de las siguientes características farmacocinéticas es correcta acerca de los antimuscarínicos cuaternarios?",
-        "answer": ["c) Tienen escasa absorción en el tracto digestivo"],
-        "options": [
-        "a) Tienen una distribución ocular elevada",
-        "b) Presentan buena absorción sublingual",
-        "c) Tienen escasa absorción en el tracto digestivo",
-        "d) Presentan gran capacidad de atravesar la barrera hematoencefálica"
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 48,
-        "question": "¿Cuál es el mecanismo de acción de adrenalina?",
-        "answer": ["c) Agonista puro de los receptores alfa y beta"],
-        "options": [
-        "a) Agonista selectivo de los receptores alfa 1",
-        "b) Agonista selectivo de los receptores beta 1",
-        "c) Agonista puro de los receptores alfa y beta",
-        "d) Agonista parcial de los receptores alfa 1 y alfa 2"
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 49,
-        "question": "¿Cuál de los siguientes son efectos farmacológicos dosis dependientes de dopamina?",
-        "answer": ["a) A dosis bajas, produce aumento del flujo sanguíneo renal"],
-        "options": [
-        "a) A dosis bajas, produce aumento del flujo sanguíneo renal",
-        "b) A dosis altas, produce disminución de la frecuencia cardíaca",
-        "c) A dosis bajas disminuye el flujo coronario por vasoconstricción",
-        "d) A dosis altas, sus efectos inotrópicos se explican por unión al receptor D1"
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 50,
-        "question": "¿Cuál de las siguientes opciones indica un efecto adverso de los agonistas beta 2 adrenérgicos administrados por vía inhalatoria?",
-        "answer": ["b) Taquicardia por efecto beta 1 y beta 2 cardíacos"],
-        "options": [
-        "a) Depresión neuropsíquica, efecto adverso tipo C",
-        "b) Taquicardia por efecto beta 1 y beta 2 cardíacos",
-        "c) Temblor muscular, efecto dosis independiente tipo B",
-        "d) Hipopotasemia, frecuente a dosis de 100 microgramos"
-        ],
-        "discipline": "Farmaco",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 51,
-        "question": "¿Cuál de las siguientes opciones indica una característica de las radiaciones ionizantes?",
-        "answer": ["b) Tienen origen natural o artificial"],
-        "options": [
-        "a) No generan radicales libres",
-        "b) Tienen origen natural o artificial",
-        "c) Están formadas exclusivamente por corpúsculos",
-        "d) Su energía no permite eyección de electrones desde átomos"
-        ],
-        "discipline": "Biofisica",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 52,
-        "question": "¿En qué unidades se expresa la dosis absorbida?",
-        "answer": ["b) Gray/área"],
-        "options": [
-        "a) Gray",
-        "b) Gray/área",
-        "c) Sievert x tiempo",
-        "d) Becquerel/tiempo",
-        "e) Roentgen x tiempo"
-        ],
-        "discipline": "Biofisica",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 53,
-        "question": "¿Cuál de las siguientes opciones es una característica de la interacción de la radiación con la materia a través del efecto fotoeléctrico?",
-        "answer": ["d) La probabilidad de que el evento suceda por unidad de masa del material absorbente es función del número atómico"],
-        "options": [
-        "a) Es un proceso donde parte de la energía del fotón se dispersa y parte se transfiere a un electrón del medio",
-        "b) El rango de energía utilizada para este efecto coincide con la energía de la mayoría de los tratamientos radiantes",
-        "c) Se basa en la interacción del haz de radiación con el campo nuclear dándose una absorción total de la energía",
-        "d) La probabilidad de que el evento suceda por unidad de masa del material absorbente es función del número atómico"
-        ],
-        "discipline": "Biofisica",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 54,
-        "question": "Al comparar la evolución en función de la dosis de radiación de las curvas de sobrevida para una cepa mutante en la familia de genes XP y para otra cepa normal se puede aseverar que: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p54-2P-2021.PNG'>",
-        "answer": ["c) La dosis cuasiumbral (Dq) es menor para la cepa XP- que para la cepa normal"],
-        "options": [
-        "a) El número de extrapolación tiene el mismo valor para las dos cepas",
-        "b) La dosis letal media (D0) es mayor para la cepa XP- que para la cepa normal",
-        "c) La dosis cuasiumbral (Dq) es menor para la cepa XP- que para la cepa normal",
-        "d) El número de extrapolación es mayor para la cepa XP- que para la cepa normal"
-        ],
-        "discipline": "Biofisica",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 55,
-        "question": "¿Cuál de las siguientes opciones es una característica del daño producido por las radiaciones ionizantes sobre los blancos moleculares?",
-        "answer": ["b) No existe especificidad respecto al tipo de moléculas o estructuras biológicas que son dañadas"],
-        "options": [
-        "a) Las roturas de doble cadena de ADN son las lesiones con menor probabilidad de letalidad",
-        "b) No existe especificidad respecto al tipo de moléculas o estructuras biológicas que son dañadas",
-        "c) Se produce un efecto de daño directo a través de la formación de sustancias reactivas como los radicales libres"
-        ],
-        "discipline": "Biofisica",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 56,
-        "question": "Los efectos estocásticos se caracterizan por:",
-        "answer": ["c) Aumentar linealmente con la dosis su probabilidad de ocurrencia"],
-        "options": [
-        "a) Presentar una dosis umbral de ocurrencia",
-        "b) Mostrar una clara relación entre causa y efecto",
-        "c) Aumentar linealmente con la dosis su probabilidad de ocurrencia",
-        "d) Necesitar de varias exposiciones en el año para que se manifiesten"
-        ],
-        "discipline": "Biofisica",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 57,
-        "question": "Los efectos determinísticos de las radiaciones se caracterizan por manifestarse:",
-        "answer": ["d) A partir de una dosis umbral"],
-        "options": [
-        "a) A bajas dosis",
-        "b) A largo plazo",
-        "c) Como un carcinoma",
-        "d) A partir de una dosis umbral"
-        ],
-        "discipline": "Biofisica",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 58,
-        "question": "En el período fetal tardío el efecto de la radiación ionizante se observa como:",
-        "answer": ["c) Un aumento del riesgo de la inducción de cáncer"],
-        "options": [
-        "a) Un efecto de todo o nada",
-        "b) Un retardo mental severo",
-        "c) Un aumento del riesgo de la inducción de cáncer"
-        ],
-        "discipline": "Biofisica",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 59,
-        "question": "En el diagnóstico por imágenes, el médico al prescribir aplica el principio de:",
-        "answer": ["b) Justificación"],
-        "options": [
-        "a) Limitación",
-        "b) Justificación",
-        "c) Optimización"
-        ],
-        "discipline": "Biofisica",
-        "comment": "",
-    
-        },
-        {
-        "info_quest": "2do Parcial 2021",
-        "numb": 60,
-        "question": "El recuento de cromosomas en anillo mediante la técnica de condensación prematura de cromosomas permite:",
-        "answer": ["a) Estimar exposiciones agudas a dosis elevadas de radiaciones ionizantes"],
-        "options": [
-        "a) Estimar exposiciones agudas a dosis elevadas de radiaciones ionizantes",
-        "b) Cuantificar la cantidad de micronúcleos generados por la exposición a radiación",
-        "c) Cuantificar la cantidad de traslocaciones generadas por la exposición a radiación",
-        "d) Estimar la dosis de radiación absorbida en personas sobreexpuestas 20 años atrás",
-        "e) Estimar el nivel de radiosensibilidad en pacientes pasibles de tratamientos radiantes"
-        ],
-        "discipline": "Biofisica",
-        "comment": "",
-    
-        },
+    "question": " ¿Cuál de los siguientes mecanismos caracteriza a la activación neurohumoral y remodelado en la insuficiencia cardíaca crónica?",
+    "answer": [
+      "b. Hipertrofia excéntrica en respuesta a la sobrecarga crónica de volumen"
+    ],
+    "options": [
+      "a. Hipertrofia concéntrica en respuesta a la sobrecarga crónica de volumen",
+      "b. Hipertrofia excéntrica en respuesta a la sobrecarga crónica de volumen",
+      "c. Aumento en la expresión de receptores beta1 adrenérgicos miocárdicos",
+      "d. Aumento de citoquinas proinflamatorias con efecto inotrópico positivo"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En la insuficiencia cardíaca crónica con sobrecarga crónica de volumen (o con dilatación ventricular), la adición de sarcomeras en serie conduce a la hipertrofia excéntrica. Por el contrario, la sobrecarga de presión induce hipertrofia concéntrica (sarcomeras en paralelo). Además, en la IC crónica hay desensibilización e internalización (downregulation) de receptores $\\beta_1$ adrenérgicos y las citoquinas proinflamatorias (como TNF-$\\alpha$) ejercen efectos inotrópicos negativos."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 32,
+    "question": " Indique cuál de los siguientes factores puede determinar isquemia miocárdica por aumento de la demanda metabólica:",
+    "answer": [
+      "c. Estenosis aórtica"
+    ],
+    "options": [
+      "a. Disfunción microvascular",
+      "b. Hipotiroidismo",
+      "c. Estenosis aórtica",
+      "d. Estenosis de arterias coronarias"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La estenosis aórtica genera una severa sobrecarga de presión en el ventrículo izquierdo, lo que desencadena una marcada hipertrofia miocárdica y un aumento drástico del estrés sistólico de pared. Estos factores incrementan masivamente el consumo de oxígeno del miocardio (demanda metabólica), pudiendo desencadenar isquemia incluso en ausencia de obstrucciones coronarias epicárdicas."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 33,
+    "question": " Frente al descenso de la presión de perfusión cerebral, ¿qué ocurre en la zona de isquemia no letal de un infarto cerebral?",
+    "answer": [
+      "d. El consumo de O2 está disminuido"
+    ],
+    "options": [
+      "a. Las resistencias vasculares están aumentadas",
+      "b. El flujo sanguíneo es normal",
+      "c. La extracción O2 está disminuida",
+      "d. El consumo de O2 está disminuido"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En la penumbra isquémica (zona de isquemia no letal), la reducción de la presión de perfusión cerebral genera una disminución del flujo sanguíneo cerebral. Para compensar, la fracción de extracción de $O_2$ aumenta al máximo; sin embargo, esta compensación es insuficiente para mantener el metabolismo normal, resultando en una disminución neta de la tasa metabólica del consumo de oxígeno ($CMRO_2$)."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 34,
+    "question": " Los solutos como el fósforo y el potasio son conocidos como tipo B, ¿cuál de los siguientes es el nivel de flitrado glomerular aproximado en el cual comienza a aumentar su concentración sérica?",
+    "answer": [
+      "b. 25 ml/min/1.73m2"
+    ],
+    "options": [
+      "a. 5 ml/min/1.73m2",
+      "b. 25 ml/min/1.73m2",
+      "c. 50 ml/min/1.73m2"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Los solutos de tipo B (como el potasio y el fosfato) mantienen concentraciones plasmáticas prácticamente normales a través de mecanismos compensatorios tubulares adaptativos sostenidos hasta que la tasa de filtrado glomerular (TFG) cae a rangos avanzados de la enfermedad renal crónica, típicamente por debajo de $25-30\\text{ ml/min/1.73 m}^2$."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 35,
+    "question": " ¿Cuál de las siguientes alteraciones de la biología del miocito espera encontrar en la insuficiencia cardíaca crónica?",
+    "answer": [
+      "b. Proceso de relajación más lento"
+    ],
+    "options": [
+      "a. Aumento de la expresión de SERCA2a",
+      "b. Proceso de relajación más lento",
+      "c. Mayor liberación de Ca2+ en cada contracción",
+      "d. Mayor contenido de Ca2+ dentro del retículo"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En la insuficiencia cardíaca crónica existe una subregulación (disminución de la expresión y actividad) de la bomba SERCA2a e hiperfosforilación/inactivación del fosfolamban. Esto compromete la reacumulación de $Ca^{2+}$ en el retículo sarcoplásmico durante la diástole, enlenteciendo el proceso de relajación miocárdica (disfunción lusitrópica) y reduciendo la carga de $Ca^{2+}$ reticular disponible para el siguiente latido."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 36,
+    "question": " Indique cuál de las siguientes características está presente en la insuficiencia cardíaca aguda hipertensiva:",
+    "answer": [
+      "c. Normovolemia"
+    ],
+    "options": [
+      "a. Gasto cardíaco bajo con resistencias vasculares normales",
+      "b. Presión arterial sistólica pulmonar mayor 140 mmHg",
+      "c. Normovolemia",
+      "d. Presión arterial sistólica sistémica mayor 120 mmHg"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La insuficiencia cardíaca aguda hipertensiva se debe principalmente a un aumento brusco de la poscarga (vasoconstricción sistémica severa) y a una redistribución del volumen vascular desde el territorio esplácnico/venoso hacia la circulación pulmonar, ocurriendo típicamente en pacientes normovolémicos o con mínima retención neta de fluidos (a diferencia del fallo congestivo crónico reagudizado)."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 37,
+    "question": " Paciente con potasemia de 2 mEq/L y potasiuria en orina aislada de 5 mEq/L ¿qué está ocurriendo con el balance externo de potasio?",
+    "answer": [
+      "b. Es concordante con pérdidas extrarenales de potasio"
+    ],
+    "options": [
+      "a. Es concordante con pérdidas renales de potasio",
+      "b. Es concordante con pérdidas extrarenales de potasio",
+      "c. La secreción de aldosterona está aumentada",
+      "d. La eliminación renal está aumentada"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Frente a una hipopotasemia severa ($2\\text{ mEq/L}$), la respuesta renal fisiológica normal es la máxima conservación de potasio, reduciendo la concentración urinaria por debajo de $15-20\\text{ mEq/L}$ (o $< 15\\text{ mEq/día}$). Una potasiuria de $5\\text{ mEq/L}$ demuestra que el riñón está respondiendo adecuadamente y conservando $K^+$, lo que confirma que la causa del déficit se debe a pérdidas de origen extrarenal (p. ej., digestivas) o a pasaje intracelular."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 38,
+    "question": " Paciente de 58 años con insuficiencia cardíaca crónica. Al examen físico se destaca edemas de miembros inferiores, ingurgitación yugular y edema pulmonar. Presión arterial 100/60 mmHg. Natremia 126 mEq/L. <br> ¿Cuál es el mecanismo más probable de hiponatremia de este paciente?",
+    "answer": [
+      "a. Estímulo no osmótico de la arginina vasopresina por caída del volumen circulante efectivo"
+    ],
+    "options": [
+      "a. Estímulo no osmótico de la arginina vasopresina por caída del volumen circulante efectivo",
+      "b. Estímulo del sistema renina angiotensina aldosterona",
+      "c. Estímulo osmótico de la arginina vasopresina por descenso de la osmolaridad plasmática a valores cercanos a 125 mEq/L",
+      "d. Estímulo de la sed con aporte de agua libre por los valores de osmolaridad "
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En la insuficiencia cardíaca avanzada, la disminución del gasto cardíaco condiciona una reducción del volumen arterial circulante efectivo. Esto estimula los barorreceptores arteriales, desencadenando la liberación no osmótica de arginina vasopresina (ADH/AVP). La ADH promueve la reabsorción de agua libre en los conductos colectores renales a través de acuaporinas-2, reteniendo agua en exceso en relación con el sodio y generando una hiponatremia hipervolémica por dilución."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 39,
+    "question": " Por fuera de los límites de autorregulación cerebral, frente a un descenso de la presión de perfusión cerebral: <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/3Parcial2020/Media/p39-3P2020.PNG' >",
+    "answer": [
+      "a. El flujo sanguíneo cerebral disminuye"
+    ],
+    "options": [
+      "a. El flujo sanguíneo cerebral disminuye",
+      "b. Las resistencias vasculares cerebrales disminuyen",
+      "c. Se activa la reactividad vascular al CO2",
+      "d. La presión arterial media disminuye"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Dentro de la meseta de autorregulación cerebral ($50-150\\text{ mmHg}$ de PPC), la resistencia vascular cerebral ($RVC$) se adapta de forma activa para mantener constante el Flujo Sanguíneo Cerebral ($FSC$). Cuando la $PPC$ cae por debajo del límite inferior de autorregulación, los vasos cerebrales ya han alcanzado su vasodilatación máxima (mínima $RVC$), por lo que el $FSC$ pasa a depender de forma pasiva y lineal de la $PPC$, disminuyendo progresivamente."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 40,
+    "question": " Paciente 55 años ingresa por hematemesis (vómitos con sangre) por ulcus gastroduodenal. Al ingreso paciente con PA 70/50 mmHg, que mejora luego del tratamiento. <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/3Parcial2020/Media/p40-3P2020.PNG' > <br> ¿Cuál es el valor de fracción excretada de sodio más probable en esta situación al ingreso?",
+    "answer": [
+      "c. 0,5%"
+    ],
+    "options": [
+      "a. 15%",
+      "b. 5%",
+      "c. 0,5%"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El paciente presenta una Injuria Renal Aguda (IRA) de origen prerrenal secundaria a hipovolemia por sangrado digestivo alto e hipotensión arterial ($70/50\\text{ mmHg}$). En el patrón prerrenal, los mecanismos ávidos de conservación renal de sodio y agua (activación del SRAA y sistema simpático) se encuentran plenamente indemnes, lo que resulta en una fracción excretada de sodio ($FENa$) típicamente inferior al $1\\%$ (ej. $0,5\\%$)."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 41,
+    "question": " Indique cuál de las siguientes situaciones puede hacer variar la creatinina sérica:",
+    "answer": [
+      "b. Ingesta de proteínas"
+    ],
+    "options": [
+      "a. Ingesta de lípidos",
+      "b. Ingesta de proteínas",
+      "c. Ingesta de glúcidos"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La creatinina sérica puede modificarse por factores no renales como la masa muscular, la edad, el sexo y la dieta. La ingesta de carne cocida o suplementos proteicos incrementa significativamente los niveles séricos de creatinina al aportar creatina/creatinina exógena absorbida a nivel intestinal."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 42,
+    "question": " De acuerdo a la cascada vasoconstrictora, ¿qué ocurre frente a un aumento de la presión de perfusión cerebral dentro del rango de la autorregulación?",
+    "answer": [
+      "b. La resistencia vascular cerebral aumenta"
+    ],
+    "options": [
+      "a. La presión intracraneana aumenta",
+      "b. La resistencia vascular cerebral aumenta",
+      "c. El volumen sanguíneo cerebral aumenta"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Según el mecanismo miogénico de autorregulación cerebral (cascada vasoconstrictora), cuando la presión de perfusión cerebral aumenta dentro del rango miogénico fisiológico, las arteriolas cerebrales responden contrayéndose (vasoconstricción miogénica), lo que incrementa la Resistencia Vascular Cerebral ($RVC$) para proteger el lecho capilar y mantener constante el Flujo Sanguíneo Cerebral ($FSC$)."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 43,
+    "question": " ¿Cuál de las siguientes afirmaciones es correcta con respecto a la fisiopatología de la disnea en la insuficiencia cardíaca crónica?",
+    "answer": [
+      "c. En el ejercicio se produce por aumento de la presión diastólica final y presión capilar pulmonar"
+    ],
+    "options": [
+      "a. La disnea de decúbito se explica por la redistribución del líquido extracelular hacia el compartimento extratorácico",
+      "b. La disnea paroxística nocturna se produce por aumento del tono simpático durante el sueño",
+      "c. En el ejercicio se produce por aumento de la presión diastólica final y presión capilar pulmonar"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Durante el esfuerzo físico, la elevación de la frecuencia cardíaca y del retorno venoso impone una demanda diastólica al ventrículo izquierdo disfuncional. El fallo en la relajación/distensibilidad eleva la presión de fin de diástole del $VI$, lo cual se transmite retrógradamente hacia la aurícula izquierda y los capilares pulmonares (aumento de la $PCP$), estimulando mecanorreceptores y receptores $J$ pulmonares produciendo disnea."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 44,
+    "question": " Frente a un paciente con inestabilidad hemodinámica causada por disfunción del ventrículo derecho, indique cuál de las siguientes condiciones puede agravar la misma y llevar al fallo del ventrículo derecho:",
+    "answer": [
+      "a. Hipoxia"
+    ],
+    "options": [
+      "a. Hipoxia",
+      "b. Hipocapnia",
+      "c. Aumento de la distensibilidad pulmonar",
+      "d. Vasoconstricción periférica"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La hipoxia alveolar induce vasoconstricción pulmonar hipóxica ($VPH$), lo que incrementa notablemente las resistencias vasculares pulmonares ($RVP$) y la poscarga del ventrículo derecho ($VD$). En un $VD$ previamente comprometido, este aumento drástico de poscarga precipita dilatación, fallo agudo e inestabilidad hemodinámica."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 45,
+    "question": " Indique cuál de los siguientes mecanismos puede estar presente en el síndrome cardiorenal agudo:",
+    "answer": [
+      "b. Aumento de la presión intra-abdominal"
+    ],
+    "options": [
+      "a. Aumento del flujo sanguíneo renal",
+      "b. Aumento de la presión intra-abdominal",
+      "c. Edema cerebral",
+      "d. Edema pulmonar"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En el síndrome cardiorrenal agudo (tipo 1), además de la reducción del gasto cardíaco, la congestión venosa sistémica y el aumento de la presión intraabdominal se han reconocido como factores fisiopatológicos determinantes clave. El aumento de la presión intraabdominal incrementa la presión en la vena renal, reduciendo la presión de perfusión renal efectiva y la tasa de filtrado glomerular."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 46,
+    "question": " Paciente de sexo masculino de 43 años que consulta en policlínica para saber el resultado de un estudio de Anatomía Patológica. Relata que se le resecó una lesión costrosa de varios meses de evolución, que apareció luego de clavarse una espina. <br> El informe dice: “Secciones de piel que muestran una epidermis acantopapilomatosa y en la dermis denso infiltrado inflamatorio formado por linfocitos, plasmocitos y algunos macrófagos. No se observan leucocitos polimorfonucleares. Vasos dilatados.” <br> En este contexto estamos frente a un proceso inflamatorio:",
+    "answer": [
+      "c. Crónico inespecífico"
+    ],
+    "options": [
+      "a. Agudo supurado",
+      "b. Crónico granulomatoso",
+      "c. Crónico inespecífico",
+      "d. Agudo gangrenoso"
+    ],
+    "discipline": "AnatoP",
+    "comment": "La presencia de un infiltrado mononuclear compuesto predominantemente por linfocitos, células plasmáticas y macrófagos, asociado a la ausencia de neutrófilos y sin la organización espacial en granulomas definidos (células epitelioides, células gigantes), caracteriza histológicamente a una inflamación crónica inespecífica."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 47,
+    "question": " La atrofia se caracteriza por:",
+    "answer": [
+      "d. Ser frecuente cuando ocurre una denervación muscular"
+    ],
+    "options": [
+      "a. Muerte celular tras la activación de un programa interno de suicidio",
+      "b. Presentarse en hepatectomía parcial",
+      "c. Tener invariablemente un papel patológico y no verse fisiológicamente",
+      "d. Ser frecuente cuando ocurre una denervación muscular"
+    ],
+    "discipline": "AnatoP",
+    "comment": "La atrofia por denervación (o neuropática) es una de las causas patológicas clásicas de atrofia muscular esquelética, observada al perderse la inervación e impulso trófico normal sobre las fibras musculares. Cabe destacar que la atrofia también puede ser fisiológica (p. ej., involución del timo o del útero posparto)."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 48,
+    "question": " ¿Cuál de las opciones indica lo correcto en relación a la lesión celular irreversible?",
+    "answer": [
+      "d. La necrosis se produce en procesos patológicos"
+    ],
+    "options": [
+      "a. Los cuerpos apoptóticos son diana para los eosinófilos",
+      "b. La célula necrótica presenta una membrana plasmática intacta",
+      "c. La apoptosis induce reacción inflamatoria",
+      "d. La necrosis se produce en procesos patológicos"
+    ],
+    "discipline": "AnatoP",
+    "comment": "La necrosis es siempre un proceso patológico no controlado inducido por una agresión letal que provoca pérdida de la integridad de la membrana celular y digestión enzimática. Por contraposición, la apoptosis puede ser tanto fisiológica como patológica y no genera reacción inflamatoria contigua."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 49,
+    "question": " Si en un tejido encontramos un proceso inflamatorio crónico, podemos inferir que:",
+    "answer": [
+      "b. Es consecuencia de la movilización de macrofagos y linfocitos."
+    ],
+    "options": [
+      "a. Es un tipo específico de inflamación granulomatosa.",
+      "b. Es consecuencia de la movilización de macrofagos y linfocitos.",
+      "c. Se debe al aumento de la permeabilidad vascular.",
+      "d. La lesión afectó a un tejido que no se regenera."
+    ],
+    "discipline": "AnatoP",
+    "comment": "Histológicamente, la inflamación crónica se define por tres pilares: infiltración por células mononucleares (macrófagos, linfocitos y células plasmáticas), destrucción tisular e intentos de curación mediante angiogénesis y fibrosis."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 50,
+    "question": " ¿Cuál de los siguientes procedimientos se utiliza en la prueba de Papanicolaou?",
+    "answer": [
+      "a. Citología exfoliativa"
+    ],
+    "options": [
+      "a. Citología exfoliativa",
+      "b. Biopsia excisional",
+      "c. Biopsia incisional",
+      "d. Biopsia extemporánea"
+    ],
+    "discipline": "AnatoP",
+    "comment": "El Papanicolaou es la técnica diagnóstica prototípica de la citología exfoliativa, consistente en el raspado y descamación superficial de células del epitelio del cuello uterino (ectocérvix y endocérvix) para su examen microscópico."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 51,
+    "question": " La inflamación crónica granulomatosa se caracteriza por:",
+    "answer": [
+      "c. Nódulos formados por linfocitos, células epiteloides, algunos histiocitos y células gigantes de tipo Langhans. Se asocia necrosis de tipo caseoso."
+    ],
+    "options": [
+      "a. Infiltrado inflamatorio formado por linfocitos, plasmocitos y algunos macrófagos.",
+      "b. Exudado inflamatorio a predominio de neutrófilos con abscesos y extensa hemorragia y necrosis transmural.",
+      "c. Nódulos formados por linfocitos, células epiteloides, algunos histiocitos y células gigantes de tipo Langhans. Se asocia necrosis de tipo caseoso.",
+      "d. Infiltrado inflamatorio formado por leucocitos polimorfonucleares y fibrina, sin necrosis. Vasos dilatados."
+    ],
+    "discipline": "AnatoP",
+    "comment": "El granuloma característico (p. ej., en la tuberculosis) consiste en una acumulación focal de macrófagos modificados con aspecto epitelial (células epitelioides), rodeados por un ribete de linfocitos y células gigantes multinucleadas de tipo Langhans, asociando frecuentemente una zona central de necrosis caseosa."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 52,
+    "question": " Paciente femenina 40 años con dolor abdominal, náuseas y vómitos. Se le realiza paraclínica que evidencia enzimas pancreáticas elevadas en sangre.¿Qué proceso patológico es más probable que se haya producido en el páncreas?",
+    "answer": [
+      "d. Necrosis grasa"
+    ],
+    "options": [
+      "a. Necrosis coagulativa",
+      "b. Necrosis caseosa",
+      "c. Necrosis licuefacción",
+      "d. Necrosis grasa"
+    ],
+    "discipline": "AnatoP",
+    "comment": "La pancreatitis aguda destructiva cursa con la liberación indeseada de lipasas pancreáticas activadas en el tejido acinar pancreático y cavidad peritoneal. Estas enzimas digieren los triglicéridos de los adipocitos, liberando ácidos grasos libres que se combinan con calcio para formar jabones de calcio macronoscópicamente blanquecinos ( saponificación y necrosis grasa o esteatonecrosis)."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 53,
+    "question": " En la amiloidosis se observan depósitos extracelulares de:",
+    "answer": [
+      "b. Proteínas"
+    ],
+    "options": [
+      "a. Triglicéridos",
+      "b. Proteínas",
+      "c. Glucógeno",
+      "d. Colesterol"
+    ],
+    "discipline": "AnatoP",
+    "comment": "La amiloidosis engloba a un grupo heterogéneo de trastornos caracterizados por la acumulación y depósito extracelular de proteínas patológicas plegadas de manera anómala en forma de fibrillas insolubles en diversos tejidos."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 54,
+    "question": " El exudado inflamatorio a predominio de eosinófilos se observa en:",
+    "answer": [
+      "a. Infecciones parasitarias"
+    ],
+    "options": [
+      "a. Infecciones parasitarias",
+      "b. Cicatriz",
+      "c. Inflamación aguda",
+      "d. Inflamación crónica"
+    ],
+    "discipline": "AnatoP",
+    "comment": "Los eosinófilos son atraídos específicamente por eotaxinas e interleuquina 5 (IL-5). Constituyen el componente leucocitario inflamatorio característico e idóneo en las reacciones alérgicas (mediadas por IgE) y en las infecciones helmínticas/parasitarias."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 55,
+    "question": " La inflamación crónica granulomatosa no caseificante a bacilos acido-alcohol-resistentes es característica de:",
+    "answer": [
+      "b. Lepra"
+    ],
+    "options": [
+      "a. Sarcoidosis",
+      "b. Lepra",
+      "c. Sífilis",
+      "d. Tuberculosis"
+    ],
+    "discipline": "AnatoP",
+    "comment": "La lepra (producida por *Mycobacterium leprae*, un bacilo ácido-alcohol resistente) en su forma tuberculoide induce una marcada respuesta inmune celular que produce granulomas no caseificantes. La sarcoidosis produce granulomas no caseificantes pero no es producida por BAAR; la tuberculosis genera típicamente necrosis caseosa."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 56,
+    "question": " De acuerdo a las capacidades proliferativas de los tejidos, los tejidos permanentes se caracterizan por:",
+    "answer": [
+      "d. Tener células diferenciadas de forma terminal"
+    ],
+    "options": [
+      "a. Ser quiescentes, regeneran frente a una lesión",
+      "b. Pertenecer al grupo de tejidos de piel y tubo digestivo",
+      "c. Tener la capacidad de dividirse de forma continua",
+      "d. Tener células diferenciadas de forma terminal"
+    ],
+    "discipline": "AnatoP",
+    "comment": "Los tejidos permanentes o no divididos están compuestos por células diferenciadas de forma terminal que han abandonado irreversiblemente el ciclo celular y no pueden realizar mitosis (ej. neuronas, miocitos cardíacos). Las lesiones en estos tejidos se reparan por fibrosis y cicatrización."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 57,
+    "question": " La atrofia corresponde a:",
+    "answer": [
+      "c. La reducción del tamaño y número de células de un órgano"
+    ],
+    "options": [
+      "a. El cambio de fenotipo de una célula diferenciada de tipo mucosecretante a tipo escamosa",
+      "b. El aumento del tamaño de un órgano y de las células",
+      "c. La reducción del tamaño y número de células de un órgano",
+      "d. El aumento del número de células en respuesta a hormonas u otros factores de crecimiento"
+    ],
+    "discipline": "AnatoP",
+    "comment": "La atrofia representa la disminución de tamaño de un tejido u órgano secundaria a la reducción en el volumen celular y/o en el número de células (a través de mayor degradación proteica por la vía ubiquitina-proteasoma y autofagia)."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 58,
+    "question": " En la formación de absceso predomina:",
+    "answer": [
+      "c. La inflamación purulenta o supurativa caracterizada por producir pus"
+    ],
+    "options": [
+      "a. Alteraciones vasculares, edema e infiltración por neutrófilos sin formar agregados",
+      "b. La necrosis celular con aumento de la eosinofilia y con cambios nucleares",
+      "c. La inflamación purulenta o supurativa caracterizada por producir pus",
+      "d. Exudado mononuclear integrado por macrofagos, linfocitos y plasmocitos"
+    ],
+    "discipline": "AnatoP",
+    "comment": "Un absceso representa una colección focal de exudado purulento (pus) circunscrito y cavitado, resultado de una inflamación aguda supurativa grave con necrosis por licuación rodeada de un denso conglomerado de neutrófilos."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 59,
+    "question": " Paciente de sexo masculino de 70 años consulta por fiebre y dolor torácico punzante. Se le realiza biopsia de pericardio que muestra “exudado de fibrina sobre la superficie pericardica”. Corresponde a:",
+    "answer": [
+      "a. Inflamación fibrinosa"
+    ],
+    "options": [
+      "a. Inflamación fibrinosa",
+      "b. Inflamación supurativa",
+      "c. Lesión ulcerada",
+      "d. Inflamación serosa"
+    ],
+    "discipline": "AnatoP",
+    "comment": "El hallazgo de un exudado denso rico en fibrina depositado sobre serosas (como en la pericarditis fibrinosa) es patognomónico de la inflamación fibrinosa, la cual ocurre cuando existe un aumento notable de la permeabilidad vascular que permite la salida de grandes moléculas de fibrinógeno al espacio extravascular."
+  },
+  {
+    "info_quest": "3erParcial2020",
+    "numb": 60,
+    "question": " La acumulación intracelular hialina de proteínas se puede observar en:",
+    "answer": [
+      "b. Hepatopatía alcóholica"
+    ],
+    "options": [
+      "a. Hemocromatosis",
+      "b. Hepatopatía alcóholica",
+      "c. Colesterolosis",
+      "d. Antracosis"
+    ],
+    "discipline": "AnatoP",
+    "comment": "En la hepatopatía alcohólica es característica la formación de los cuerpos o hialina de Mallory-Denk, que representan acumulaciones proteicas intracitoplasmáticas hialinas compuestas por filamentos intermedios de citoqueratina agregados y mal plegados."
+  },
+
+
+
+      ////////////////////////////////////////////////
+      
+
+      {
+    "info_quest": "2do Parcial 2021",
+    "numb": 1,
+    "question": "Si se quisiera descartar la transmisión materno-fetal del virus de inmunodeficiencia humana (VIH), ¿qué tipo de test elegiría?",
+    "answer": [
+      "a) Test de tamizaje altamente sensible como ELISA",
+      "d) Test genético como Reacción en Cadena de la Polimerasa"
+    ],
+    "options": [
+      "a) Test de tamizaje altamente sensible como ELISA",
+      "b) Test rápido como inmunocromatografía para VIH",
+      "c) Test confirmatorio de alta especificidad como Western Blot",
+      "d) Test genético como Reacción en Cadena de la Polimerasa"
+    ],
+    "discipline": "Bacterio",
+    "comment": "Ambigua (A y D)Para descartar transmisión en la madre gestante se utilizan tests de tamizaje de alta sensibilidad (ELISA). Sin embargo, para descartar la transmisión materno-fetal en el recién nacido, las pruebas serológicas no son útiles debido a la transferencia placentaria pasiva de anticuerpos IgG maternos. Por ello, en el neonato/lactante se requiere una prueba virológica directa como la PCR (carga viral VIH/ADN proviral)."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 2,
+    "question": "Durante la infección por VIH está indicado el tratamiento con fármacos antiretrovirales. Estos fármacos se caracterizan por:",
+    "answer": [
+      "a) Interferir con alguna etapa del ciclo de replicación viral"
+    ],
+    "options": [
+      "a) Interferir con alguna etapa del ciclo de replicación viral",
+      "b) Presentar actividad enzimática que destruye las partículas virales libres en sangre",
+      "c) Inducir la lisis osmótica de la partícula viral debilitando la integridad de la envoltura",
+      "d) Estimular bombas de eflujo en las células susceptibles induciendo la expulsión activa de viriones"
+    ],
+    "discipline": "Bacterio",
+    "comment": "Los fármacos antirretrovirales actúan inhibiendo etapas clave del ciclo replicativo del virus dentro de la célula huésped, tales como la entrada/fusión, la transcripción reversa (ITRN e ITNNR), la integración del ADN viral al genoma celular (inhibidores de integrasa) o la maduración proteica (inhibidores de proteasa)."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 3,
+    "question": "Un paciente con síntomas de infección del sistema nervioso central, presenta en el estudio del líquido cefalorraquídeo las siguientes características en el estudio citoquímico: <br> Pleocitosis (500 leucocitos; 90% polimorfonucleares), con hiperproteinorraquia (0,95 g/L) e hipoglucorraquia. <br>  En base a estos hallazgos, ¿cuál de los siguientes microorganismos es el más probable agente causal de este cuadro?",
+    "answer": [
+      "c) Neisseria meningitidis"
+    ],
+    "options": [
+      "a) Enterovirus",
+      "b) Herpes simple tipo 1",
+      "c) Neisseria meningitidis",
+      "d) Mycobacterium tuberculosis"
+    ],
+    "discipline": "Bacterio",
+    "comment": "El patrón citoquímico del LCR caracterizado por pleocitosis a predominio de polimorfonucleares (>80-90%), hiperproteinorraquia e hipoglucorraquia marcada es patognomónico de una meningitis bacteriana aguda. Entre los microorganismos listados, Neisseria meningitidis es el principal etiología bacteriana supurada."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 4,
+    "question": "En los cuadros de encefalitis herpéticos causados por Herpes simple tipo 1 ¿cómo alcanza este agente el encéfalo?",
+    "answer": [
+      "c) A través de los nervios olfatorios"
+    ],
+    "options": [
+      "a) A través del VIII par craneano",
+      "b) A través de los plexos coroideos",
+      "c) A través de los nervios olfatorios",
+      "d) A través de las papilas gustativas"
+    ],
+    "discipline": "Bacterio",
+    "comment": "El virus Herpes Simplex tipo 1 (HSV-1) puede ingresar al sistema nervioso central por vía retrógrada neurogena, utilizando la vía del nervio trigémino o retrogradamente a través de las fibras del nervio olfatorio desde la mucosa nasal, alcanzando de preferencia los lóbulos temporales y frontales del encéfalo."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 5,
+    "question": "¿Cuál de las siguientes opciones indica resistencia heterogénea a vancomicina (hVISA) en un aislamiento de Staphylococcus aureus?",
+    "answer": [
+      "d) Un conjunto de bacterias con concentración inhibitoria mínima en el rango de susceptibilidad y subpoblaciones con susceptibilidad intermedia"
+    ],
+    "options": [
+      "a) Un conjunto de bacterias a las que no se logra determinar la concentración inhibitoria mínima a vancomicina",
+      "b) Cepas que presentan los genes de resistencia a vancomicina (van) y que los expresan solo en presencia de un inductor",
+      "c) Cepas que presentan resistencia intermedia a glucopéptidos como teicoplanina y un comportamiento variable frente a vancomicina",
+      "d) Un conjunto de bacterias con concentración inhibitoria mínima en el rango de susceptibilidad y subpoblaciones con susceptibilidad intermedia"
+    ],
+    "discipline": "Bacterio",
+    "comment": "La resistencia heterogénea a vancomicina en S. aureus (hVISA) se define como una población bacteriana cuya CIM global de vancomicina se encuentra en el rango de sensibilidad (≤ 2 µg/mL por métodos estándar), pero que contiene subpoblaciones mutantes capaces de crecer a concentraciones intermedias de vancomicina (4-8 µg/mL)."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 6,
+    "question": "En la patogénesis de la endocarditis infecciosa, se pueden observar comunidades bacterianas asociadas a la superficie de la válvula cardíaca, rodeadas por una matriz polisacarídica de origen bacteriano. <br> Estas estructuras bacterianas se denominan:",
+    "answer": [
+      "a) Biofilms"
+    ],
+    "options": [
+      "a) Biofilms",
+      "b) Absceso valvular",
+      "c) Comunidades bacterianas intracelulares",
+      "d) Unidades formadoras de colonias bacterianas"
+    ],
+    "discipline": "Bacterio",
+    "comment": "Las vegetaciones de la endocarditis infecciosa constituyen biofilms bacterianos desarrollados sobre el endotelio valvular lesionado. Las bacterias crecen englobadas en una matriz extracelular autoproducida de exopolisacáridos, plaquetas y fibrina, lo que dificulta la acción del sistema inmune y de los antibióticos."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 7,
+    "question": "¿Qué tipo de betalactamasas se busca detectar cuando se realiza un test de sinergia colocando discos de Meropenem o Imipenem próximos a un disco de EDTA?",
+    "answer": [
+      "b) Metalo carbapenemasas (tipo NDM-1)"
+    ],
+    "options": [
+      "a) Cefalosporinasas de clase C (ampC)",
+      "b) Metalo carbapenemasas (tipo NDM-1)",
+      "c) Carbapenemasas de clase A (tipo KPC)",
+      "d) Betalactamasas de espectro extendido (BLEE)"
+    ],
+    "discipline": "Bacterio",
+    "comment": "Las metalo-beta-lactamasas (Clase B de Ambler, como NDM, VIM e IMP) requieren cationes metálicos de zinc (Zn2+) en su sitio activo para hidrolizar los betalactámicos. El EDTA es un quelante de cationes divalentes que inhibe estas enzimas; al colocarlo junto a un carbapenémico, inhibe la enzima y restituye el halo de inhibición (sinergia positiva)."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 8,
+    "question": "En un antibiograma realizado a un aislamiento de Klebsiella pneumoniae ¿Cuál de los siguientes resultados puede explicarse por la producción de una betalactamasa de espectro extendido (BLEE) sabiendo que esa cepa no presenta otro mecanismo de resistencia a betalactámicos?",
+    "answer": [
+      "b) Cefotaxime>32 µg/ml (resistente)"
+    ],
+    "options": [
+      "a) Meropenem 8 µg/ml (resistente)",
+      "b) Cefotaxime>32 µg/ml (resistente)",
+      "c) Ampicilina Sulbactam >32µg/ml (resistente)",
+      "d) Piperacilina Tazobactam>64 µg/ml (resistente)"
+    ],
+    "discipline": "Bacterio",
+    "comment": "Las BLEE hidrolizan las penicilinas, cefalosporinas de 3.ª y 4.ª generación (como cefotaxima, ceftriaxona, ceftazidima) y monobactámicos, pero son inhibidas por los inhibidores de betalactamasas (como clavulanato, sulbactam y tazobactam) y respetan los carbapenémicos."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 9,
+    "question": "¿Cuál de las siguientes estructuras de Mycobacterium tuberculosis es responsable de la ácido-alcohol resistencia?",
+    "answer": [
+      "c) Ácidos micólicos"
+    ],
+    "options": [
+      "a) Cápsula",
+      "b) Peptidoglicano",
+      "c) Ácidos micólicos",
+      "d) Arabinogalactano"
+    ],
+    "discipline": "Bacterio",
+    "comment": "La propiedad de ácido-alcohol resistencia (propia de las micobacterias) radica en el elevado contenido lipídico de su pared celular, concretamente los ácidos micólicos (ácidos grasos ramificados de cadena larga), los cuales retienen fuertemente la colorante fucsina impidiendo su decoloración con alcohol-ácido."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 10,
+    "question": "¿Cuáles de los siguientes métodos de estudio son aplicables para el diagnóstico de tuberculosis?",
+    "answer": [
+      "c) Tinción de Ziehl Neelsen, PCR y cultivo en medios selectivos como Löwenstein Jensen"
+    ],
+    "options": [
+      "a) Tinción de Gram, PCR, cultivo en medios líquidos como caldo TSB y tioglicolato",
+      "b) Tinción de Gram, cultivo en medios selectivos como agar Thayer Martin o agar Skirrow",
+      "c) Tinción de Ziehl Neelsen, PCR y cultivo en medios selectivos como Löwenstein Jensen",
+      "d) Tinción con azul de metileno, cultivo en medios ricos y muy ricos como agar sangre y chocolate"
+    ],
+    "discipline": "Bacterio",
+    "comment": "El diagnóstico microbiológico estándar de M. tuberculosis se basa en la baciloscopía con coloración de Ziehl-Neelsen o fluorocromos, la detección genómica rápida mediante PCR (p. ej. GeneXpert) y el cultivo en medios sólidos a base de huevo como Löwenstein-Jensen o medios líquidos automáticos."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 11,
+    "question": "¿Cuál de las siguientes vías de transmisión es la más frecuente para el virus de la hepatitis C?",
+    "answer": [
+      "c) Parenteral"
+    ],
+    "options": [
+      "a) Sexual",
+      "b) Vertical",
+      "c) Parenteral",
+      "d) Fecal-oral"
+    ],
+    "discipline": "Bacterio",
+    "comment": "El virus de la hepatitis C (VHC) se transmite eficientemente por vía parenteral, principalmente a través de la exposición percutánea a sangre contaminada (uso de drogas inyectables, transfusiones sanguíneas no cribadas o material médico no esterilizado)."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 12,
+    "question": "¿Qué tipo de evolución clínica es la más frecuente en las infecciones producidas por el virus de la hepatitis C?",
+    "answer": [
+      "b) Agudo que con frecuencia evoluciona a la cronicidad"
+    ],
+    "options": [
+      "a) Agudo y fulminante",
+      "b) Agudo que con frecuencia evoluciona a la cronicidad",
+      "c) Agudo que excepcionalmente evoluciona a la cronicidad"
+    ],
+    "discipline": "Bacterio",
+    "comment": "La infección aguda por VHC suele ser asintomática o paucisintomática, y se caracteriza por una alta tasa de persistencia viral, evolucionando a hepatitis crónica en aproximadamente el 75-85% de los pacientes infectados."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 13,
+    "question": "¿Qué observa en el estudio micológico frente a la sospecha de Histoplasmosis?",
+    "answer": [
+      "d) Filamentos con clamidosporos verrucosos y microconidios"
+    ],
+    "options": [
+      "a) Levaduras con pseudofilamentos",
+      "b) Fase micelial en los medios de cultivo a 35 °C",
+      "c) Levaduras multibrotantes con cápsulas mucopolisacarídicas",
+      "d) Filamentos con clamidosporos verrucosos particulates y microconidios"
+    ],
+    "discipline": "Parasito",
+    "comment": "Histoplasma capsulatum es un hongo dimórfico. En su fase micelial (cultivado a temperatura ambiente, ~25°C), microscópicamente se observan hifas hialinas tabicadas con macroconidios tuberculados o clamidosporos verrucosos característicos y microconidios lisos."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 14,
+    "question": "¿Cuál es la vía de infección en las formas cutáneas de Histoplasmosis?",
+    "answer": [
+      "c) Inhalatoria",
+      "d) Transcutánea"
+    ],
+    "options": [
+      "a) Sexual",
+      "b) Digestiva",
+      "c) Inhalatoria",
+      "d) Transcutánea"
+    ],
+    "discipline": "Parasito",
+    "comment": "Ambigua (C y D). Las manifestaciones cutáneas de la histoplasmosis suelen ser secundarias a la diseminación hematógena tras una infección primaria por vía inhalatoria de microconidios. No obstante, en raras ocasiones la histoplasmosis cutánea primaria puede adquirirse por inoculación directa transcutánea traumática."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 15,
+    "question": "Mujer de 25 años, cursando primer trimestre de gestación. Serología para toxoplasmosis: <br> ELISA IgG reactivo; IgM no reactivo. ¿Cómo interpreta estos resultados?",
+    "answer": [
+      "b) Se trata de una infección pasada. Se explica a la paciente que no hay riesgo de transmisión fetal"
+    ],
+    "options": [
+      "a) Se trata de una infección en curso. Será necesario repetir la serología en los próximos trimestres",
+      "b) Se trata de una infección pasada. Se explica a la paciente que no hay riesgo de transmisión fetal",
+      "c) Se trata de una paciente no inmunizada. Se explican las medidas preventivas para no adquirir una infección primaria",
+      "d) Se trata de una infección reciente. Se explica que el riesgo de transmisión fetal es elevado por lo que deberá iniciar tratamiento precozmente"
+    ],
+    "discipline": "Parasito",
+    "comment": "La presencia de IgG positiva con IgM negativa indica inmunidad previa adquirida antes del embarazo (infección pasada). En mujeres inmunocompetentes, esta condición protege de reinfecciones y descarta el riesgo de transmisión vertical de Toxoplasma gondii al feto."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 16,
+    "question": "Mujer de 32 años, cursando primer trimestre de gestación. Serología para Chagas: ELISA Reactivo. ¿Cuál sería la conducta frente a esta situación?",
+    "answer": [
+      "d) Confirmar la infección mediante inmuno fluorescencia indirecta"
+    ],
+    "options": [
+      "a) Realizar xenodiagnóstico a la madre",
+      "b) Iniciar inmediatamente el tratamiento etiológico",
+      "c) Confirmar el diagnóstico mediante la técnica de gota gruesa",
+      "d) Confirmar la infección mediante inmuno fluorescencia indirecta"
+    ],
+    "discipline": "Parasito",
+    "comment": "El diagnóstico serológico de la infección crónica por Trypanosoma cruzi requiere de la demostración de anticuerpos mediante dos pruebas serológicas de diferente principio antigénico (ej. ELISA e Inmunofluorescencia Indirecta - IFI). Ante una primera prueba reactiva, se debe solicitar la segunda para confirmar."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 17,
+    "question": "Lactante de 3 meses, hijo de madre chagásica, remitido por pediatra tratante a la policlínica de Parasitología y Micología del Instituto de Higiene, para estudio de Enfermedad de Chagas. ¿Cuál es la conducta a seguir?",
+    "answer": [
+      "a) Indicar xenodiagnóstico"
+    ],
+    "options": [
+      "a) Indicar xenodiagnóstico",
+      "b) Solicitar estudio serológico",
+      "c) Conducta expectante hasta los 9 meses",
+      "d) Iniciar tratamiento empírico con Nifurtimox"
+    ],
+    "discipline": "Parasito",
+    "comment": "En recién nacidos o lactantes menores de 8-9 meses expuestos a Chagas congénito, las pruebas serológicas no son concluyentes por el pasaje de IgG materna. Por lo tanto, se deben emplear métodos parasitológicos directos o indirectos de multiplicación/búsqueda del parásito (como el xenodiagnóstico o la microhematocrito/PCR según pauta institucional)."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 18,
+    "question": "¿Qué tinción se utiliza para identificar a Cryptosporidium spp?",
+    "answer": [
+      "d) Ziehl Neelsen modificado"
+    ],
+    "options": [
+      "a) Gomori-Grocott",
+      "b) Gram-cromotrope",
+      "c) May Grunwald-Giemsa",
+      "d) Ziehl Neelsen modificado"
+    ],
+    "discipline": "Parasito",
+    "comment": "Cryptosporidium spp. es un coccidio intestinal cuyos ooquistes presentan la propiedad de ser ácido-alcohol resistentes. Por lo tanto, la tinción de elección para su identificación microscópica en heces es la tinción de Ziehl-Neelsen modificada (Kinyoun)."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 19,
+    "question": "¿Qué araña presenta ponzoña con acción neurotóxica?",
+    "answer": [
+      "c) Latrodectus spp."
+    ],
+    "options": [
+      "a) Loxosceles laeta.",
+      "b) Lycosa spp.",
+      "c) Latrodectus spp."
+    ],
+    "discipline": "Parasito",
+    "comment": "El veneno de Latrodectus spp. (viuda negra) contiene alfa-latrotoxina, una neurotoxina que desencadena la liberación masiva no controlada de neurotransmisores (acetilcolina, catecolaminas) en las uniones neuromusculares y sinapsis del sistema nervioso autónomo, provocando latrodectismo."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 20,
+    "question": "¿Cuál de las siguientes especies de ofidios ponzoñosos del Uruguay presenta anillos de color amarillo, rojo y negro?",
+    "answer": [
+      "a) Micrurus altirostris"
+    ],
+    "options": [
+      "a) Micrurus altirostris",
+      "b) Bothrops alternatus",
+      "c) Bothrops pubescens",
+      "d) Crotalus durissus terrificus"
+    ],
+    "discipline": "Parasito",
+    "comment": "Micrurus altirostris (serpiente de coral verdadera) es el único ofidio de importancia médica en Uruguay que posee un patrón característico de anillos completos de colores rojo, negro y blanco/amarillo alrededor de su cuerpo."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 21,
+    "question": "¿Qué tipo de dentición presenta Micrurus altirostris?",
+    "answer": [
+      "d) Proteroglifa"
+    ],
+    "options": [
+      "a) Aglifa",
+      "b) Opistoglifa",
+      "c) Solenoglifa",
+      "d) Proteroglifa"
+    ],
+    "discipline": "Parasito",
+    "comment": "Los elápidos como Micrurus altirostris poseen dentición proteroglifa, caracterizada por colmillos inoculadores de veneno acanalados o semiacanalados pequeños, fijos y ubicados en la parte anterior del maxilar superior."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 22,
+    "question": "¿Cuál es la forma de presentación clínica más frecuente en la neumocistosis?",
+    "answer": [
+      "b) Neumonitis intersticial que lleva rápidamente a la insuficiencia respiratoria aguda"
+    ],
+    "options": [
+      "a) Nódulos pulmonares con preponderancia en lóbulos superiores",
+      "b) Neumonitis intersticial que lleva rápidamente a la insuficiencia respiratoria aguda",
+      "c) Afectación de piel y partes blandas a punto de partida de su implantación traumática",
+      "d) Diarrea sub-aguda acompañada de gleras y sangre por ingesta de alimentos contaminados"
+    ],
+    "discipline": "Parasito",
+    "comment": "Pneumocystis jirovecii provoca una neumonía intersticial subaguda o aguda oportunista, especialmente en pacientes inmunodeprimidos (como personas con VIH/SIDA), manifestada clínicamente con disnea progresiva, tos seca, fiebre e insuficiencia respiratoria hipoxémica."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 23,
+    "question": "¿Cuál es el principal mecanismo de transmisión de la esporotricosis?",
+    "answer": [
+      "d) Implantación traumática"
+    ],
+    "options": [
+      "a) Inhalatoria",
+      "b) Contacto directo",
+      "c) Fecal-oral por fomites",
+      "d) Implantación traumática"
+    ],
+    "discipline": "Parasito",
+    "comment": "Sporothrix schenckii se adquiere habitualmente por inoculación o implantación traumática del hongo presente en vegetales, espinas, madera o por arañazos/mordeduras de animales (especialmente gatos)."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 24,
+    "question": "¿Cómo es la morfología microscópica de Sporothrix schenckii?",
+    "answer": [
+      "c) Filamentos con conidios acrógenos y pleurógenos"
+    ],
+    "options": [
+      "a) Levaduras multibrotantes en rueda de timón",
+      "b) Levaduras con pseudofilamentos verdaderos",
+      "c) Filamentos con conidios acrógenos y pleurógenos",
+      "d) Filamentos con clamidoconidios verrucosos terminales"
+    ],
+    "discipline": "Parasito",
+    "comment": "En la fase micelial de Sporothrix schenckii (a 25 °C), la microscopía revela hifas delgadas y tabicadas de las que nacen conidióforos con conidios dispuestas en forma de margarita o roseta en el ápice (acrógenos) o a los lados de las hifas (pleurógenos)."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 25,
+    "question": "¿Cuál de las siguientes es una característica de Levaduras del género Malassezia?",
+    "answer": [
+      "a) Lipofílicas"
+    ],
+    "options": [
+      "a) Lipofílicas",
+      "b) Queratinolíticas",
+      "c) Queratinofílicas"
+    ],
+    "discipline": "Parasito",
+    "comment": "Las levaduras del género Malassezia (componente de la microbiota cutánea normal) son comúnmente lipofílicas o lipodependientes, ya que requieren lípidos para su crecimiento al carecer de ácido graso sintasa."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 26,
+    "question": "¿Cuál de las siguientes infecciones sexualmente transmisibles se ve favorecida por Tricomoniasis?",
+    "answer": [
+      "c) Infección por VIH"
+    ],
+    "options": [
+      "a) Sarna",
+      "b) Phthiriasis",
+      "c) Infección por VIH",
+      "d) Infección por virus de hepatitis B"
+    ],
+    "discipline": "Parasito",
+    "comment": "La infección por Trichomonas vaginalis induce una respuesta inflamatoria local en la mucosa genital con microulceraciones y reclutamiento de linfocitos CD4+, lo que incrementa significativamente la susceptibilidad al contagio y la transmisión del VIH."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 27,
+    "question": "Indique cuál de los siguientes criterios es necesario para el diagnóstico de insuficiencia respiratoria tipo II:",
+    "answer": [
+      "b) PaCO2 > 45 mmHg"
+    ],
+    "options": [
+      "a) pH arterial < 7,20",
+      "b) PaCO2 > 45 mmHg",
+      "c) Relación PaO2/FiO2 < 100",
+      "d) Ausencia de respuesta al test de hiperoxia"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La insuficiencia respiratoria tipo II se define como la insuficiencia respiratoria hipercapnica, caracterizada por la presencia de una PaCO2 mayor a 45 mmHg (hipercapnia) asociada a hypoxemia (PaO2 < 60 mmHg) por falla de la bomba ventilatoria."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 28,
+    "question": "Frente a un paciente con hipoxemia y diferencia alvéolo-arterial de oxígeno de 5 mmHg, indique el mecanismo de insuficiencia respiratoria responsable:",
+    "answer": [
+      "d) Hipoventilación alveolar"
+    ],
+    "options": [
+      "a) Baja relación V/Q",
+      "b) Shunt intrapulmonar",
+      "c) Trastorno de la difusión",
+      "d) Hipoventilación alveolar"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Una gradiente o diferencia alvéolo-arterial de O2 [P(A-a)O2] normal (<15-20 mmHg) en presencia de hipoxemia indica que la causa del trastorno reside fuera del parénquima pulmonar, siendo el mecanismo responsable la hipoventilación alveolar o la baja PO2 inspirada."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 29,
+    "question": "Indique cuál de los siguientes trastornos provocaría una mayor reducción del contenido arterial de oxígeno (CaO2) en un paciente:",
+    "answer": [
+      "d) Reducción de la concentración de hemoglobina de 14 g/dL a 8 g/dL"
+    ],
+    "options": [
+      "a) Descenso del gasto cardíaco de 5 L/min a 4 L/min",
+      "b) Disminución de la PaO2 de 400 mmHg a 150 mmHg",
+      "c) Descenso de la saturación de hemoglobina (SaO2) de 99% a 96%",
+      "d) Reducción de la concentración de hemoglobina de 14 g/dL a 8 g/dL"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El contenido arterial de O2 se calcula como CaO2 = (Hb x 1,34 x SaO2) + (PaO2 x 0,0031). Dado que la gran mayoría del oxígeno viaja unido a la hemoglobina, una caída en la Hb de 14 a 8 g/dL (casi el 43% de reducción) causa la disminución más severa y determinante del CaO2."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 30,
+    "question": "¿Cómo espera encontrar las resistencias vasculares sistémicas (RVS) y la presión diastólica final del ventrículo izquierdo (PDFVI) en el shock hipovolémico?",
+    "answer": [
+      "c) PDFVI reducida y RVS aumentadas"
+    ],
+    "options": [
+      "a) PDFVI y RVS disminuidas",
+      "b) PDFVI y RVS aumentadas",
+      "c) PDFVI reducida y RVS aumentadas",
+      "d) PDFVI aumentada y RVS disminuidas"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En el shock hipovolémico se produce una disminución de la precarga por pérdida crítica de volumen intravascular, provocando un descenso de la PDFVI (presión de llenado). Como respuesta compensatoria simpática a la disminución del gasto cardíaco, las RVS se encuentran elevadas por vasoconstricción arteriolar periférica."
+  },
+  
+
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 31,
+    "question": "Una paciente de 70 años, tabaquista intensa, concurre a control con los siguientes resultados de una espirometría forzada Pre-broncodilatador: <br> Volumen espirado en el 1er segundo (VEF1): 3,31 L <br> Capacidad vital forzada (CVF): 6,09 L <br> ¿Qué patrón espirométrico presenta la paciente?",
+    "answer": [
+      "c) Obstructivo"
+    ],
+    "options": [
+      "a) Normal",
+      "b) Restrictivo",
+      "c) Obstructivo"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El índice de Tiffeneau (relación VEF1/CVF) se calcula dividiendo 3,31 L entre 6,09 L, lo cual da aproximadamente 0,54 (54%). Al ser inferior al límite inferior de lo normal (generalmente < 0,70 o 70%), define inequívocamente un patrón espirométrico obstructivo."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 32,
+    "question": "En la misma paciente de la pregunta anterior ¿Cuál de las siguientes alteraciones esperaría encontrar?",
+    "answer": [
+      "b) Disminución de las fuerzas musculares"
+    ],
+    "options": [
+      "a) Descenso de la resistencia pulmonar total",
+      "b) Disminución de las fuerzas musculares",
+      "c) Disminución de la capacidad pulmonar total",
+      "d) Aumento de los flujos espiratorios esfuerzo independientes"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En patologías obstructivas crónicas por tabaquismo (como EPOC), la hiperinsuflación pulmonar coloca a los músculos respiratorios (principalmente el diafragma) en una posición desventajosa de su curva longitud-tensión, lo que ocasiona una disminución de la fuerza muscular efectiva ejercida."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 33,
+    "question": "En un paciente conectado a ventilación mecánica invasiva se obtienen los siguientes parámetros ventilatorios en dos días sucesivos: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p33-2P-2021.PNG' alt = '' ><br> En relación a la mecánica ventilatoria que presentaba el paciente en el día 1, marque la opción correcta:",
+    "answer": [
+      "c) Presenta una complacencia quasi-estática de 75 ml/cmH20"
+    ],
+    "options": [
+      "a) Presenta una complacencia dinámica de 75 ml/cmH20",
+      "b) Presenta una resistencia pulmonar total de 75 ml/cmH20",
+      "c) Presenta una complacencia quasi-estática de 75 ml/cmH20",
+      "d) No se puede calcular la complacencia en condiciones dinámicas porque se requiere ausencia de flujo en vía aérea"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La complacencia quasi-estática del sistema respiratorio se calcula dividiendo el volumen corriente (Vt) entre la presión de impulso o driving pressure (Pausa inspiratoria - PEEP). En el día 1: Vt = 600 ml, Ppausa = 13 cmH2O y PEEP = 5 cmH2O (∆P = 13 - 5 = 8 cmH2O). Cst = 600 / 8 = 75 ml/cmH2O."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 34,
+    "question": "En el mismo paciente de la pregunta anterior, comparando los datos del día 1 y día 2, se puede afirmar que en día 2 el paciente:",
+    "answer": [
+      "d) Presenta un descenso de la complacencia quasi-estática."
+    ],
+    "options": [
+      "a) Presenta un aumento de la complacencia dinámica.",
+      "b) Presenta un aumento de la complacencia quasi-estática.",
+      "c) Requiere menos energía para deformar el tejido pulmonar.",
+      "d) Presenta un descenso de la complacencia quasi-estática."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En el día 2, con un Vt = 600 ml, la Ppausa sube a 21 cmH2O y PEEP = 5 cmH2O (∆P = 21 - 5 = 16 cmH2O). La nueva complacencia estática es Cst = 600 / 16 = 37,5 ml/cmH2O. Al comparar con el día 1 (75 ml/cmH2O), se observa un claro descenso de la complacencia quasi-estática del sistema respiratorio."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 35,
+    "question": "En el mecanismo fisiopatológico de la fiebre, los pirógenos interaccionan con el endotelio de los capilares fenestrados que rodean a los centros termoreguladores del hipotálamo, provocando un aumento de la síntesis endotelial de:",
+    "answer": [
+      "d) Prostaglandina E2"
+    ],
+    "options": [
+      "a) AMP cíclico",
+      "b) Interleuquina 2",
+      "c) Tromboxano A2",
+      "d) Prostaglandina E2"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Los pirógenos exógenos y endógenos (como IL-1, TNF-alfa, IL-6) estimulan a las células endoteliales de la red vascular del órgano vasculoso de la lámina terminal (OVLT) para sintetizar Prostaglandina E2 (PGE2). La PGE2 atraviesa la barrera hematoencefálica y reajusta el punto de consigna térmico en el área preóptica del hipotálamo anterior."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 36,
+    "question": "La reperfusión de una zona de tejido injuriada por un período de isquemia puede provocar un llamativo aumento de la lesión y la muerte celular. ¿Cuál de los siguientes componentes sanguíneos juega un rol central en este mecanismo de lesión por isquemia/reperfusión?",
+    "answer": [
+      "a) El oxígeno"
+    ],
+    "options": [
+      "a) El oxígeno",
+      "b) La transferrina",
+      "c) Los hidrogeniones",
+      "d) La proteína quimiotáctica de monocitos 1"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El restablecimiento del flujo sanguíneo aporta un ingreso masivo de oxígeno a un tejido previamente hipóxico y metabólicamente alterado, desencadenando la producción desmedida de especies reactivas del oxígeno (ROS/estrés oxidativo), las cuales causan peroxidación lipídica de membranas, daño proteico y muerte celular."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 37,
+    "question": "Indique cuál de las siguientes es una causa principal generadora de acidosis metabólica:",
+    "answer": [
+      "d) Pérdida de base por el tubo digestivo o el riñón"
+    ],
+    "options": [
+      "a) La hipoventilación",
+      "b) Aumento en la producción metabólica de base",
+      "c) Aumento de la excreción de ácido por el riñón",
+      "d) Pérdida de base por el tubo digestivo o el riñón"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La acidosis metabólica se produce fundamentalmente por una acumulación de ácidos no volátiles o por una pérdida excesiva de bicarbonato (HCO3-). La pérdida de bases ocurre típicamente por vía digestiva baja (diarreas, fístulas) o renal (acidosis tubular renal)."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 38,
+    "question": "¿Cuál de los siguientes es un conocido mecanismo productor de hipocapnia?",
+    "answer": [
+      "b) La hipoxemia arterial"
+    ],
+    "options": [
+      "a) La hiperoxia tisular",
+      "b) La hipoxemia arterial",
+      "c) La utilización de benzodiacepinas",
+      "d) La inhibición de los receptores sensoriales pulmonares"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La hipoxemia arterial (PaO2 < 60 mmHg) estimula los quimiorreceptores periféricos (cuerpos carotídeos y aórticos), lo cual desencadena un aumento reflejo de la ventilación alveolar (hiperventilación), provocando un barrido excesivo de CO2 y consecuentemente hipocapnia (PaCO2 < 35 mmHg)."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 39,
+    "question": "En relación a la curva de disociación de la hemoglobina y oxígeno, ¿cuál de los siguientes factores favorece la liberación tisular de oxígeno?",
+    "answer": [
+      "a) Acidemia"
+    ],
+    "options": [
+      "a) Acidemia",
+      "b) Hipotermia",
+      "c) Hipocapnia",
+      "d) Descenso de 2,3-DPG"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Según el efecto Bohr, un descenso del pH (acidemia), el aumento de la PaCO2, el aumento de la temperatura o del 2,3-DPG desplazan la curva de disociación de la hemoglobina hacia la derecha, disminuyendo la afinidad de la hemoglobina por el O2 y facilitando su entrega a los tejidos."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 40,
+    "question": "Se realizan experiencias en modelos de órganos aislados en las que se administra un agonista y un antagonista y se obtienen las siguientes curvas dosis-respuesta <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p40-2P-2021.PNG' ><br>¿Cuál de las siguientes opciones corresponde a la curva número 2?",
+    "answer": [
+      "b) Agonista en presencia de antagonista competitivo"
+    ],
+    "options": [
+      "a) Antagonista no competitivo en presencia de agonista",
+      "b) Agonista en presencia de antagonista competitivo",
+      "c) Agonista inverso en presencia de antagonista competitivo",
+      "d) Antagonista no competitivo en presencia de agonista alostérico"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Un antagonista competitivo reversible compite por el mismo sitio activo del receptor que el agonista. Esto produce un desplazamiento paralelo de la curva dosis-respuesta hacia la derecha (aumenta la CE50/disminuye la potencia) sin alterar el efecto máximo (Emax), tal como muestra la curva 2."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 41,
+    "question": "¿Cuál de las siguientes opciones es correcta acerca del sitio de unión al receptor de los agonistas alostéricos?",
+    "answer": [
+      "b) Se unen a un sitio distinto del ligando endógeno"
+    ],
+    "options": [
+      "a) Se unen al antagonista para evitar su acción",
+      "b) Se unen a un sitio distinto del ligando endógeno",
+      "c) Se unen al mismo sitio del ligando de forma irreversible",
+      "d) Se unen al mismo sitio que el ligando endógeno en estado inactivo"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Los moduladores o agonistas alostéricos se caracterizan por unirse a un sitio alostérico (un sitio ortostéricamente independiente y topográficamente distinto al sitio de fijación del ligando endógeno o principal), modificando la afinidad y/o eficacia del receptor."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 42,
+    "question": "¿Cuál de las siguientes es una ventaja de la administración de un fármaco por vía sublingual?",
+    "answer": [
+      "a) Evitar el primer paso hepático"
+    ],
+    "options": [
+      "a) Evitar el primer paso hepático",
+      "b) Tener gran superficie de absorción",
+      "c) Presentar acción sostenida en el tiempo",
+      "d) Lograr mayor absorción para fármacos hidrosolubles"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La mucosa sublingual posee una rica vascularización venosa que drena directamente a la vena cava superior a través de las venas yugulares. Al no pasar por la circulación portal intestinal, evita el metabolismo de primer paso hepático, logrando un rápido inicio de acción y mayor biodisponibilidad."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 43,
+    "question": "Suponiendo que un fármaco X se metaboliza por las enzimas de la vía del citocromo P450. ¿Qué interacción espera encontrar con la administración de un fármaco inductor de estas enzimas?",
+    "answer": [
+      "b) Aumento de la eliminación sanguínea del fármaco X"
+    ],
+    "options": [
+      "a) Aumento de riesgo de intoxicación por el fármaco X",
+      "b) Aumento de la eliminación sanguínea del fármaco X",
+      "c) Aumento de la concentración plasmática del fármaco X",
+      "d) Aumento de la afinidad del fármaco X por proteínas plasmáticas"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Un inductor enzimático incrementa la síntesis y actividad metabólica de las isoenzimas del citocromo P450. Esto acelera la biotransformación metabólica del fármaco X, aumentando su tasa de eliminación sanguínea (clearance metabólico) y reduciendo sus concentraciones plasmáticas."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 44,
+    "question": "¿De cuál de los siguientes factores depende la biodisponibilidad de un fármaco?",
+    "answer": [
+      "d) La vía de administración"
+    ],
+    "options": [
+      "a) El clearence",
+      "b) La vida media",
+      "c) El volumen de distribución",
+      "d) La vía de administración"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La biodisponibilidad (F) representa la fracción del fármaco administrado que alcanza intacto la circulación sistémica. Depende críticamente de la vía de administración (ej. 100% por vía intravenosa, menor por vía oral debido a absorción incompleta o primer paso hepático) y de las propiedades fisicoquímicas del principio activo y la forma farmacéutica."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 45,
+    "question": "¿Cuál de las siguientes es una característica de la eliminación de orden cero?",
+    "answer": [
+      "c) Una cantidad constante de fármaco se elimina por unidad de tiempo"
+    ],
+    "options": [
+      "a) La curva logaritmo de concentración en función del tiempo es lineal",
+      "b) El volumen de distribución está aumentado a dosis supra terapéuticas",
+      "c) Una cantidad constante de fármaco se elimina por unidad de tiempo",
+      "d) La velocidad de eliminación del fármaco es proporcional a la concentración"
+    ],
+    "discipline": "Farmaco",
+    "comment": "En la cinética de eliminación de orden cero (o no lineal/saturable), los mecanismos de eliminación o metabolismo están saturados, por lo que se elimina una cantidad fija y constante del fármaco por unidad de tiempo, independientemente de su concentración plasmática."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 46,
+    "question": "Un niño de 5 años es traído a la emergencia por su padre luego de ingerir “bayas de belladona”, que contienen atropina. ¿Cuál de los siguientes síntomas/signos esperaría encontrar a dosis tóxicas?",
+    "answer": [
+      "b) Piel seca"
+    ],
+    "options": [
+      "a) Miosis",
+      "b) Piel seca",
+      "c) Bradicardia",
+      "d) Hipersialorrea"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La atropina es un antagonista competitivo de los receptores muscarínicos. Su intoxicación provoca un síndrome anticolinérgico caracterizado por sequedad de piel y mucosas (por anhidrosis y xerostomía), midriasis, taquicardia, rubor cutáneo e hipertermia."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 47,
+    "question": "¿Cuál de las siguientes características farmacocinéticas es correcta acerca de los antimuscarínicos cuaternarios?",
+    "answer": [
+      "c) Tienen escasa absorción en el tracto digestivo"
+    ],
+    "options": [
+      "a) Tienen una distribución ocular elevada",
+      "b) Presentan buena absorción sublingual",
+      "c) Tienen escasa absorción en el tracto digestivo",
+      "d) Presentan gran capacidad de atravesar la barrera hematoencefálica"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Los aminos cuaternarios (como el bromuro de ipratropio o la escopolamina N-butilbromuro) poseen una carga positiva permanente que les otorga alta polaridad e hidrosolubilidad, impidiendo su fácil paso por membranas biológicas, lo que resulta en una absorción digestiva muy pobre y baja penetración al sistema nervioso central."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 48,
+    "question": "¿Cuál es el mecanismo de acción de adrenalina?",
+    "answer": [
+      "c) Agonista puro de los receptores alfa y beta"
+    ],
+    "options": [
+      "a) Agonista selectivo de los receptores alfa 1",
+      "b) Agonista selectivo de los receptores beta 1",
+      "c) Agonista puro de los receptores alfa y beta",
+      "d) Agonista parcial de los receptores alfa 1 y alfa 2"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La adrenalina (epinefrina) es una catecolamina endógena que actúa como un agonista directo potente e inespecífico (no selectivo) de todos los subtipos de receptores adrenérgicos (alfa-1, alfa-2, beta-1, beta-2 y beta-3)."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 49,
+    "question": "¿Cuál de los siguientes son efectos farmacológicos dosis dependientes de dopamina?",
+    "answer": [
+      "a) A dosis bajas, produce aumento del flujo sanguíneo renal"
+    ],
+    "options": [
+      "a) A dosis bajas, produce aumento del flujo sanguíneo renal",
+      "b) A dosis altas, produce disminución de la frecuencia cardíaca",
+      "c) A dosis bajas disminuye el flujo coronario por vasoconstricción",
+      "d) A dosis altas, sus efectos inotrópicos se explican por unión al receptor D1"
+    ],
+    "discipline": "Farmaco",
+    "comment": "A dosis dopaminérgicas bajas (0,5-2 µg/kg/min), la dopamina estimula predominantemente los receptores D1 vasculares, induciendo vasodilatación del lecho renal, mesentérico y coronario con aumento consecuente del flujo sanguíneo renal."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 50,
+    "question": "¿Cuál de las siguientes opciones indica un efecto adverso de los agonistas beta 2 adrenérgicos administrados por vía inhalatoria?",
+    "answer": [
+      "b) Taquicardia por efecto beta 1 y beta 2 cardíacos"
+    ],
+    "options": [
+      "a) Depresión neuropsíquica, efecto adverso tipo C",
+      "b) Taquicardia por efecto beta 1 y beta 2 cardíacos",
+      "c) Temblor muscular, efecto dosis independiente tipo B",
+      "d) Hipopotasemia, frecuente a dosis de 100 microgramos"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La absorción sistémica de agonistas beta-2 (como salbutamol) o la pérdida de selectividad a dosis altas puede generar taquicardia y palpitaciones, tanto por estimulación directa de receptores beta-1 y beta-2 miocárdicos como por taquicardia refleja secundaria a la vasodilatación sistémica (beta-2)."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 51,
+    "question": "¿Cuál de las siguientes opciones indica una característica de las radiaciones ionizantes?",
+    "answer": [
+      "b) Tienen origen natural o artificial"
+    ],
+    "options": [
+      "a) No generan radicales libres",
+      "b) Tienen origen natural o artificial",
+      "c) Están formadas exclusivamente por corpúsculos",
+      "d) Su energía no permite eyección de electrones desde átomos"
+    ],
+    "discipline": "Biofisica",
+    "comment": "Las radiaciones ionizantes pueden ser de origen natural (rayos cósmicos, radón, isótopos radiactivos de la corteza terrestre) o artificial (equipos de rayos X, aceleradores lineales, radionúclidos de uso médico e industrial)."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 52,
+    "question": "¿En qué unidades se expresa la dosis absorbida?",
+    "answer": [
+      "b) Gray/área"
+    ],
+    "options": [
+      "a) Gray",
+      "b) Gray/área",
+      "c) Sievert x tiempo",
+      "d) Becquerel/tiempo",
+      "e) Roentgen x tiempo"
+    ],
+    "discipline": "Biofisica",
+    "comment": "En el Sistema Internacional, la dosis absorbida se mide en Grays (Gy), donde 1 Gy representa la absorción de 1 Julio de energía por kilogramo de materia (J/kg). Sin embargo, en contexto evaluativo específico de esta pregunta de la cátedra se marca 'Gray/área' como opción correcta de opción múltiple."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 53,
+    "question": "¿Cuál de las siguientes opciones es una característica de la interacción de la radiación con la materia a través del efecto fotoeléctrico?",
+    "answer": [
+      "d) La probabilidad de que el evento suceda por unidad de masa del material absorbente es función del número atómico"
+    ],
+    "options": [
+      "a) Es un proceso donde parte de la energía del fotón se dispersa y parte se transfiere a un electrón del medio",
+      "b) El rango de energía utilizada para este efecto coincide con la energía de la mayoría de los tratamientos radiantes",
+      "c) Se basa en la interacción del haz de radiación con el campo nuclear dándose una absorción total de la energía",
+      "d) La probabilidad de que el evento suceda por unidad de masa del material absorbente es función del número atómico"
+    ],
+    "discipline": "Biofisica",
+    "comment": "La probabilidad de ocurrencia del efecto fotoeléctrico es fuertemente dependiente del número atómico (Z) del material absorbente (varía proporcionalmente a Z³), lo que explica la excelente diferenciación tisular entre hueso y tejidos blandos en las radiografías convencionales."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 54,
+    "question": "Al comparar la evolución en función de la dosis de radiación de las curvas de sobrevida para una cepa mutante en la familia de genes XP y para otra cepa normal se puede aseverar que: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p54-2P-2021.PNG'>",
+    "answer": [
+      "c) La dosis cuasiumbral (Dq) es menor para la cepa XP- que para la cepa normal"
+    ],
+    "options": [
+      "a) El número de extrapolación tiene el mismo valor para las dos cepas",
+      "b) La dosis letal media (D0) es mayor para la cepa XP- que para la cepa normal",
+      "c) La dosis cuasiumbral (Dq) es menor para la cepa XP- que para la cepa normal",
+      "d) El número de extrapolación es mayor para la cepa XP- que para la cepa normal"
+    ],
+    "discipline": "Biofisica",
+    "comment": "Las células deficientes en reparación de ADN (como las mutantes XP-, afectadas en el mecanismo de reparación por escisión de nucleótidos) presentan un hombro de reparación prácticamente ausente o reducido. Por ende, la dosis cuasiumbral (Dq), que cuantifica la anchura del hombro y la capacidad celular de reparar daño subletal, es sensiblemente menor en la cepa XP-."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 55,
+    "question": "¿Cuál de las siguientes opciones es una característica del daño producido por las radiaciones ionizantes sobre los blancos moleculares?",
+    "answer": [
+      "b) No existe especificidad respecto al tipo de moléculas o estructuras biológicas que son dañadas"
+    ],
+    "options": [
+      "a) Las roturas de doble cadena de ADN son las lesiones con menor probabilidad de letalidad",
+      "b) No existe especificidad respecto al tipo de moléculas o estructuras biológicas que son dañadas",
+      "c) Se produce un efecto de daño directo a través de la formación de sustancias reactivas como los radicales libres"
+    ],
+    "discipline": "Biofisica",
+    "comment": "La interacción de la radiación ionizante con la materia viva es de naturaleza aleatoria e inespecífica; la energía se deposita de manera estocástica afectando a cualquier átomo o molécula (agua, proteínas, lípidos, ácidos nucleicos) que se encuentre a su paso."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 56,
+    "question": "Los efectos estocásticos se caracterizan por:",
+    "answer": [
+      "c) Aumentar linealmente con la dosis su probabilidad de ocurrencia"
+    ],
+    "options": [
+      "a) Presentar una dosis umbral de ocurrencia",
+      "b) Mostrar una clara relación entre causa y efecto",
+      "c) Aumentar linealmente con la dosis su probabilidad de ocurrencia",
+      "d) Necesitar de varias exposiciones en el año para que se manifiesten"
+    ],
+    "discipline": "Biofisica",
+    "comment": "Los efectos estocásticos o probabilísticos (como la carcinogénesis y mutaciones hereditarias) no poseen una dosis umbral de aparición; la probabilidad de que ocurran aumenta de forma lineal con la dosis recibida, mientras que su gravedad es independiente de la dosis."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 57,
+    "question": "Los efectos determinísticos de las radiaciones se caracterizan por manifestarse:",
+    "answer": [
+      "d) A partir de una dosis umbral"
+    ],
+    "options": [
+      "a) A bajas dosis",
+      "b) A largo plazo",
+      "c) Como un carcinoma",
+      "d) A partir de una dosis umbral"
+    ],
+    "discipline": "Biofisica",
+    "comment": "Los efectos determinísticos o reacciones tisulares (como eritema, cataratas, esterilidad) requieren la destrucción masiva de una masa crítica celular, por lo que solo se manifiestan una vez superada una dosis umbral específica. Por encima del umbral, la severidad del efecto se incrementa con la dosis."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 58,
+    "question": "En el período fetal tardío el efecto de la radiación ionizante se observa como:",
+    "answer": [
+      "c) Un aumento del riesgo de la inducción de cáncer"
+    ],
+    "options": [
+      "a) Un efecto de todo o nada",
+      "b) Un retardo mental severo",
+      "c) Un aumento del riesgo de la inducción de cáncer"
+    ],
+    "discipline": "Biofisica",
+    "comment": "Durante la fase fetal tardía (período de maduración organogénica final y crecimiento), el riesgo principal ante bajas-moderadas dosis de radiación ionizante deja de ser la malformación congénita grave para convertirse en un riesgo estocástico de inducción de cáncer radioinducido (leucemias e tumores sólidos) durante la infancia o vida adulta."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 59,
+    "question": "En el diagnóstico por imágenes, el médico al prescribir aplica el principio de:",
+    "answer": [
+      "b) Justificación"
+    ],
+    "options": [
+      "a) Limitación",
+      "b) Justificación",
+      "c) Optimización"
+    ],
+    "discipline": "Biofisica",
+    "comment": "El principio de justificación en la protección radiológica médica establece que no se debe llevar a cabo ninguna exposición médica a radiaciones a menos que produzca un beneficio neto directo para la salud del paciente que supere el detrimento biológico que pueda causar."
+  },
+  {
+    "info_quest": "2do Parcial 2021",
+    "numb": 60,
+    "question": "El recuento de cromosomas en anillo mediante la técnica de condensación prematura de cromosomas permite:",
+    "answer": [
+      "a) Estimar exposiciones agudas a dosis elevadas de radiaciones ionizantes"
+    ],
+    "options": [
+      "a) Estimar exposiciones agudas a dosis elevadas de radiaciones ionizantes",
+      "b) Cuantificar la cantidad de micronúcleos generados por la exposición a radiación",
+      "c) Cuantificar la cantidad de traslocaciones generadas por la exposición a radiación",
+      "d) Estimar la dosis de radiación absorbida en personas sobreexpuestas 20 años atrás",
+      "e) Estimar el nivel de radiosensibilidad en pacientes pasibles de tratamientos radiantes"
+    ],
+    "discipline": "Biofisica",
+    "comment": "La técnica de Condensación Prematura de Cromosomas (PCC) permite visualizar aberturas y dicéntricos/anillos cromosómicos en interfase sin necesidad de esperar a que las células entren naturalmente en mitosis, siendo el método de elección en la biodosimetría de sobredosis agudas y masivas de radiación ionizante."
+  },
 
 
         //////////////////////////////////////////
 
 
         {
-          "info_quest": "3er Parcial 2021",
-          "numb": 1,
-          "question": "La creatinina sérica y el filtrado glomerular tienen una relación no lineal ¿a partir de que valor aproximado de filtrado glomerular la creatinina sérica asciende a valores mayores de 1.2 mg/dl?",
-          "answer": ["c) 50-70 ml/min/1.73 m2"],
-          "options": [
-          "a) 90- 110 ml/min/1.73 m2",
-          "b) 70-90 ml/min/1.73 m2",
-          "c) 50-70 ml/min/1.73 m2"
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 2,
-          "question": "¿Cuál de los siguientes factores acelera la progresión de la enfermedad renal crónica?",
-          "answer": ["c) Acidosis metabólica."],
-          "options": [
-          "a) Dieta baja en proteínas.",
-          "b) Inhibición del eje renina angiotensina aldosterona.",
-          "c) Acidosis metabólica.",
-          "d) Normotensión arterial."
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 3,
-          "question": "¿Qué ocurre con el flujo plasmático renal en las nefronas remanentes?",
-          "answer": ["a) Aumenta."],
-          "options": [
-          "a) Aumenta.",
-          "b) Se mantiene normal.",
-          "c) Disminuye."
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 4,
-          "question": "En una insuficiencia renal aguda pre-renal, ¿cómo espera que sean el sodio urinario y la fracción excretada de sodio?",
-          "answer": ["a) Natriuria < 15 mEq/L, FeNa < 3%"],
-          "options": [
-          "a) Natriuria < 15 mEq/L, FeNa < 3%",
-          "b) Natriuria > 15 mEq/L, FeNa < 3%",
-          "c) Natriuria > 15 mEq/L, FeNa > 3%"
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 5,
-          "question": "rente a un paciente con trauma encéfalocraneano grave y autorregulación cerebral abolida, ¿qué respuesta espera encontrar frente a un aumento de la presión arterial media?",
-          "answer": ["a) Aumento del flujo sanguíneo cerebral."],
-          "options": [
-          "a) Aumento del flujo sanguíneo cerebral.",
-          "b) Aumento de las resistencias vasculares.",
-          "c) Disminución de la presión intracraneana.",
-          "d) Mejoría de la complacencia intracraneana."
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 6,
-          "question": "Indique cuál de las siguientes medidas terapéuticas disminuye la presión intracraneana por su efecto sobre el metabolismo cerebral:",
-          "answer": ["d) Hipotermia."],
-          "options": [
-          "a) Osmoterapia.",
-          "b) Hiperventilación.",
-          "c) Craniectomía decompresiva.",
-          "d) Hipotermia."
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 7,
-          "question": "En la insuficiencia hepatocítica se produce una disminución de los ésteres de colesterol a nivel plasmático (“derrumbe de los ésteres de colesterol”). Esto principalmente es debido a que en el hepatocito se da una disminución en la síntesis de la:",
-          "answer": ["b) lecitin colesterol acil transferasa (LCAT)."],
-          "options": [
-          "a) hidroximetilglutaril CoA reductasa (HMG-CoA reductasa).",
-          "b) lecitin colesterol acil transferasa (LCAT).",
-          "c) albúmina.",
-          "d) apo-B100. "
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 8,
-          "question": "El patrón hemodinámico del paciente cirrótico con ascitis se asocia con:",
-          "answer": ["c) una presión arterial baja."],
-          "options": [
-          "a) un gasto cardíaco bajo.",
-          "b) un aumento de las resistencias vasculares sistémicas.",
-          "c) una presión arterial baja.",
-          "d) una vasoconstricción arterial periférica."
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 9,
-          "question": "Las causas de Insuficiencia Renal Aguda son múltiples. ¿Cuáles son las más frecuentes?",
-          "answer": ["a) Las pre-renales."],
-          "options": [
-          "a) Las pre-renales.",
-          "b) Las parenquimatosas.",
-          "c) Las obstructivas.",
-          "d) Las post-renales."
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 10,
-          "question": "Un paciente joven, diabético tipo 1, es ingresado en emergencia por cetoacidosis diabética luego de abandonar la medicación. Presenta sed intensa, diuresis de 3 litros en 12h y glucosuria +++. Paraclínica de sangre: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p10-3P-2021.PNG'> <br> ¿Qué alteraciones del balance interno pueden estar contribuyendo a la hiperpotasemia?",
-          "answer": ["a) Hiperosmolalidad plasmática."],
-          "options": [
-          "a) Hiperosmolalidad plasmática.",
-          "b) Alcalosis metabólica.",
-          "c) Tratamiento con insulina.",
-          "d) Disminución de la excreción urinaria de potasio."
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 11,
-          "question": "Un paciente joven, diabético tipo 1, es ingresado en emergencia por cetoacidosis diabética luego de abandonar la medicación. Presenta sed intensa, diuresis de 3 litros en 12h y glucosuria +++. Paraclínica de sangre: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p10-3P-2021.PNG'> <br> Considerando los mayores riesgos para la vida del paciente asociados con la hiperpotasemia, ¿qué estudio solicitaría de inmediato?",
-          "answer": ["b) Electrocardiograma."],
-          "options": [
-          "a) Gasometría arterial.",
-          "b) Electrocardiograma.",
-          "c) Ionograma en orina.",
-          "d) Insulinemia.",
-          "e) Función renal."
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 12,
-          "question": "Un paciente joven, diabético tipo 1, es ingresado en emergencia por cetoacidosis diabética luego de abandonar la medicación. Presenta sed intensa, diuresis de 3 litros en 12h y glucosuria +++. Paraclínica de sangre: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p10-3P-2021.PNG'> <br> ¿Qué alteraciones espera encontrar en el balance externo de potasio?",
-          "answer": ["c) Aumento de pérdidas urinarias potasio."],
-          "options": [
-          "a) Aumento de pérdidas digestivas de potasio.",
-          "b) Aumento del potasio corporal total.",
-          "c) Aumento de pérdidas urinarias potasio.",
-          "d) Descenso de la excreción urinaria de potasio."
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 13,
-          "question": "¿Cuál de las siguientes condiciones puede ser causa de hipopotasemia?",
-          "answer": ["e) Tratamiento con diuréticos de asa."],
-          "options": [
-          "a) Rabdomiólisis.",
-          "b) Lisis tumoral.",
-          "c) Tratamiento con beta bloqueantes.",
-          "d) Injuria renal aguda.",
-          "e) Tratamiento con diuréticos de asa."
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 14,
-          "question": "¿Cuál de los siguientes factores contribuye al desarrollo de hiperpotasemia?",
-          "answer": ["c) Acidosis metabólica."],
-          "options": [
-          "a) Estímulo beta-adrenérgico.",
-          "b) Tratamiento con diuréticos de asa.",
-          "c) Acidosis metabólica.",
-          "d) Tratamiento con insulina intra-venosa."
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 15,
-          "question": "Indique cuál de las siguientes alteraciones está presente en la insuficiencia hepatocítica:",
-          "answer": ["d) Descenso del clearance de lactato."],
-          "options": [
-          "a) Descenso de la tasa de protrombina que mejora con el aporte de vitamina K.",
-          "b) Aumento de la albumina sérica.",
-          "c) Aumento de los ésteres de colesterol.",
-          "d) Descenso del clearance de lactato.",
-          "e) Aumento de las inmunoglobulinas sinterizadas por el hepatocito."
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 16,
-          "question": "Un paciente de 66 años con cirrosis hepática se presenta en emergencia, desorientado en tiempo y espacio, con tendencia al sueño y la siguiente paraclínica de sangre: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/p16-3P-2021.PNG' > <br> ¿Cuál de las siguientes opciones explica la alteración que presenta el paciente y su mecanismo causal?",
-          "answer": ["d) Hiperbilirrubinemia causada principalmente por colestasis hepática."],
-          "options": [
-          "a) Hiponatremia por aumento de la secreción de ADH por estimulo osmótico.",
-          "b) Hiponatremia aguda determinada por pérdida de agua libre a nivel renal.",
-          "c) Síntomas neurológicos secundarios a descenso del neurotransmisor inhibitorio ácido gamma aminobutírico (GABA).",
-          "d) Hiperbilirrubinemia causada principalmente por colestasis hepática."
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 17,
-          "question": "Paciente de 65 años, sexo femenino, IMC 32 kg/m2, hipertensa. Historia de disnea de esfuerzo clase funcional II. Ingresa por disnea de esfuerzo progresiva en los últimos 6 días, ortopnea y el día del ingreso dolor precordial de 30 minutos de duración. Al examen físico lúcida, apirética, sudorosa, cianosis distal. Lengua húmeda. Ritmo regular de 110pm, ruidos hipofonéticos, PA 100/60. Ingurgitación yugular, reflujo hepatoyugular. Edemas de MMII hasta rodilla. Polipnea de 27 pm, estertores crepitantes en 2/3 inferiores de ambos campos pulmonares. ECG: RS 105pm, P y PR normal, trastornos inespecíficos de la repolarización <br> ¿Cuál de los siguientes cuadros hemodinámicos explica la situación clínica de la paciente?",
-          "answer": ["d) Insuficiencia cardíaca congestiva."],
-          "options": [
-          "a) Crisis hipertensiva con edema pulmonar.",
-          "b) Insuficiencia cardíaca aguda con perfil hemodinámico seco y caliente.",
-          "c) Insuficiencia cardíaca aguda ‘de novo’.",
-          "d) Insuficiencia cardíaca congestiva."
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 18,
-          "question": "Paciente de 65 años, sexo femenino, IMC 32 kg/m2, hipertensa. Historia de disnea de esfuerzo clase funcional II. Ingresa por disnea de esfuerzo progresiva en los últimos 6 días, ortopnea y el día del ingreso dolor precordial de 30 minutos de duración. Al examen físico lúcida, apirética, sudorosa, cianosis distal. Lengua húmeda. Ritmo regular de 110pm, ruidos hipofonéticos, PA 100/60. Ingurgitación yugular, reflujo hepatoyugular. Edemas de MMII hasta rodilla. Polipnea de 27 pm, estertores crepitantes en 2/3 inferiores de ambos campos pulmonares. ECG: RS 105pm, P y PR normal, trastornos inespecíficos de la repolarización  <br> Señale qué mecanismo fisiopatológico está involucrado en el cuadro clínico de la paciente:",
-          "answer": ["a) Hipertensión venosa sistémica."],
-          "options": [
-          "a) Hipertensión venosa sistémica.",
-          "b) Deshidratación.",
-          "c) Aumento de la excreción de agua y sodio urinario.",
-          "d) Disminución de la concentración de citoquinas inflamatorias."
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 19,
-          "question": "Cuál de los siguientes parámetros reflejan la presencia de congestión sistémica en la Insuficiencia cardíaca aguda:",
-          "answer": ["c) Aumento de la gama-glutamil transferasa."],
-          "options": [
-          "a) Aumento de BNP.",
-          "b) Albuminuria.",
-          "c) Aumento de la gama-glutamil transferasa.",
-          "d) Aumento de la alanino aminotransferasa."
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 20,
-          "question": "¿Cuál de los siguientes factores están involucrados en la fisiopatología del sindrome cardiorenal agudo?",
-          "answer": ["b) Aumento de la presión venosa central."],
-          "options": [
-          "a) Hipovolemia.",
-          "b) Aumento de la presión venosa central.",
-          "c) Vasoplejia.",
-          "d) Disminución de la actividad NADPH oxidasa."
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 21,
-          "question": "¿Cuáles cambios metabólicos miocárdicos se observan en la insuficiencia cardíaca crónica?",
-          "answer": ["a) Existe un desacople en la respiración celular."],
-          "options": [
-          "a) Existe un desacople en la respiración celular.",
-          "b) Hay un aumento de la relación fosfocreatina/ATP.",
-          "c) Hay una disminución de la beta-oxidación de los ácidos grasos libres",
-          "d) Se produce un aumento del consumo de cuerpos cetónicos."
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 22,
-          "question": "En cuanto a la mecánica cardíaca en la insuficiencia cardíaca (IC) crónica, es correcto afirmar que:",
-          "answer": ["b) El aumento de la deformación circunferencial permite preservar la FEVI en la IC con FEVI preservada."],
-          "options": [
-          "a) La deformación longitudinal está preservada en la IC con fracción de eyección ventricular izquierda (FEVI) preservada.",
-          "b) El aumento de la deformación circunferencial permite preservar la FEVI en la IC con FEVI preservada.",
-          "c) La IC con FEVI preservada se asocia con una disfunción diastólica y función sistólica normal.",
-          "d) La activación neurohumoral que se observa en la IC es independiente de la FEVI. "
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 23,
-          "question": "La remodelación cardíaca implicada en la progresión de la insuficiencia cardíaca crónica se asocia a:",
-          "answer": ["a) Aumento de la actividad de las metaloproteinasas de matriz (MMP)."],
-          "options": [
-          "a) Aumento de la actividad de las metaloproteinasas de matriz (MMP).",
-          "b) Disminución de la apoptosis.",
-          "c) Sustitución de la titina por isoformas menos rígidas.",
-          "d) Dilatación ventricular izquierda."
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 24,
-          "question": "Con respecto a la fisiopatología de los síntomas y signos en la insuficiencia cardíaca crónica (ICC), marque la opción correcta:",
-          "answer": ["a) Durante el sueño se produce aumento del tono parasimpático y reabsorción de edemas, aumentado la presión diastólica final y generando disnea."],
-          "options": [
-          "a) Durante el sueño se produce aumento del tono parasimpático y reabsorción de edemas, aumentado la presión diastólica final y generando disnea.",
-          "b) El decúbito determina redistribución del volumen del líquido extracelular hacia el compartimento extratorácico",
-          "c) La complacencia pulmonar se encuentra aumentada por la congestión pulmonar en la ICC.",
-          "d) La disnea de esfuerzo se produce únicamente en pacientes con insuficiencia cardíaca con fracción de eyección del ventrículo izquierdo reducida."
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 25,
-          "question": "En el desarrollo de la insuficiencia cardíaca crónica, el miocito sufre cambios fenotípicos y funcionales. ¿Cuál de las siguientes afirmaciones representa uno de estos cambios?",
-          "answer": ["d) El miocito insuficiente aumenta su rigidez por oxidación de la titina producto del aumento de las especies reactivas del oxígeno."],
-          "options": [
-          "a) Los miocitos insuficientes presentan mayor contenido de Ca2+ reticular diastólico que en situación fisiológica por su incapacidad de liberarlo en sístole.",
-          "b) El mecanismo de recaptación de Ca2+ por la bomba SERCA2a se encuentra potenciado en el miocito insuficiente lo que determina aumento de la liberación en cada contracción.",
-          "c) El miocito insuficiente utiliza con mayor eficiencia los ácidos grasos como fuente de energía.",
-          "d) El miocito insuficiente aumenta su rigidez por oxidación de la titina producto del aumento de las especies reactivas del oxígeno."
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 26,
-          "question": "¿Cuál de las siguientes afirmaciones sobre el flujo sanguíneo coronario es correcta?",
-          "answer": ["b) La reserva de flujo coronario puede disminuir por aumentos del flujo sanguíneo coronario en reposo."],
-          "options": [
-          "a) Las arterias epicárdicas de conducción son el contribuyente principal a la resistencia al flujo sanguíneo coronario en situación fisiológica.",
-          "b) La reserva de flujo coronario puede disminuir por aumentos del flujo sanguíneo coronario en reposo.",
-          "c) La tensión parietal ejercida sobre el miocardio es mayor a nivel subepicárdico que a nivel subendocárdico.",
-          "d) La reserva de flujo coronario es mayor a nivel subendocárdico que a nivel subepicárdico."
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 27,
-          "question": "La isquemia miocárdica aguda determina las siguientes alteraciones: <br>  1. distorsión de los tubos T y retículo sarcoplásmico, <br> 2. acidosis intracelular, <br> 3. alteraciones del segmento ST del ECG y, <br> 4. aumento de la presión de llenado ventricular. <br> Señale el orden correcto en que ocurren en la cascada isquémica:",
-          "answer": ["b) 2, 1, 4, 3."],
-          "options": [
-          "a) 3, 2, 1, 4.",
-          "b) 2, 1, 4, 3.",
-          "c) 3, 1, 2, 4.",
-          "d) 1, 2, 3, 4. "
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 29,
-          "question": "Marque la opción correcta respecto al acoplamiento ventrículo-arterial (AVA) mecánico del ventrículo izquierdo (VI):",
-          "answer": ["c) Durante la sístole el desplazamiento longitudinal del VI genera el desplazamiento y estrechamiento de la aorta ascendente"],
-          "options": [
-          "a) Una aorta con alto contenido de colágeno facilita el retroceso diastólico precoz",
-          "b) El AVA es un concepto teórico, sin capacidad de poder evaluarse en la práctica clínica de manera no invasiva.",
-          "c) Durante la sístole el desplazamiento longitudinal del VI genera el desplazamiento y estrechamiento de la aorta ascendente",
-          "d) La interacción adecuada entre el VI y el sistema arterial determina grandes cambios de presión de pulso"
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 30,
-          "question": "Marque la opción correcta con respecto a la nocicepción:",
-          "answer": ["b) el dolor nociceptivo corresponde a la estimulación supraumbral de receptores ubicados tanto en piel como vísceras y articulaciones"],
-          "options": [
-          "a) la transmisión es la última fase del procesamiento de la señal dolorosa, la cual produce la experiencia subjetiva y emocional denominada dolor",
-          "b) el dolor nociceptivo corresponde a la estimulación supraumbral de receptores ubicados tanto en piel como vísceras y articulaciones",
-          "c) los nociceptores relacionados a fibras c corresponden a receptores específicos especializados en la transmisión de dolor",
-          "d) los nociceptores, a diferencia de otros receptores sensitivos, pueden adaptarse"
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 31,
-          "question": "En cuanto a la fisiopatología de la hipertensión pulmonar (HP), es correcto afirmar que:",
-          "answer": ["b) La fase compensada de la HP involucra los mecanismos de autorregulación homeométrica y heterométrica del ventrículo derecho."],
-          "options": [
-          "a) La HP tromboembólica pulmonar es producida por una embolia con mínima remodelación parietal arterial.",
-          "b) La fase compensada de la HP involucra los mecanismos de autorregulación homeométrica y heterométrica del ventrículo derecho.",
-          "c) La mortalidad asociada a la HP depende directamente del nivel de presión arterial pulmonar media.",
-          "d) El descenso de la presión arterial pulmonar media durante el tratamiento de la HP arterial mejora el pronóstico independientemente del índice cardíaco."
-          ],
-          "discipline": "Fisiopato",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 32,
-          "question": "¿Cuál de las siguientes opciones es verdadera acerca de los parámetros farmacocinéticos/ farmacodinámicos(PK/PD) de los antibióticos?",
-          "answer": ["a) El parámetro área bajo la curva 24hs/CIM define una actividad concentración y tiempo dependiente"],
-          "options": [
-          "a) El parámetro área bajo la curva 24hs/CIM define una actividad concentración y tiempo dependiente",
-          "b) El Cmax/CIM refleja la cantidad total del fármaco que alcanza la circulación sistémica",
-          "c) El t>CIM tiene como objetivo alcanzar una toxicidad menor al 40% del intervalo interdosis",
-          "d) El parámetro área bajo la curva 24hs/CIM se expresa en mg/dl o en g/l según el antibiótico"
-          ],
-          "discipline": "Farmaco",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 33,
-          "question": "¿Cuál de las siguientes es una estrategia que aplica los parámetros PK/PD para optimizar las pautas posológicas de un tratamiento con betalactámicos en un paciente con infección grave?",
-          "answer": ["c) Acortar el intervalo interdosis"],
-          "options": [
-          "a) Realizar dosis carga",
-          "b) Acortar el tiempo de infusión",
-          "c) Acortar el intervalo interdosis",
-          "d) Realizar una dosis diaria"
-          ],
-          "discipline": "Farmaco",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 34,
-          "question": "¿Cuál es el mecanismo de acción de los macrólidos?",
-          "answer": ["b) Inhiben la síntesis proteica uniéndose a la subunidad 50S ribosomal"],
-          "options": [
-          "a) Inhiben el primer paso de la síntesis de la pared bacteriana",
-          "b) Inhiben la síntesis proteica uniéndose a la subunidad 50S ribosomal",
-          "c) Alteran la síntesis de ADN, a través de la inhibición de la ADN girasa bacteriana",
-          "d) Actúan mediante la rotura directa del ADN bacteriano"
-          ],
-          "discipline": "Farmaco",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 35,
-          "question": "¿Cuál de las siguientes es una característica de la vía clásica o genómica en el mecanismo de acción de los corticoides?",
-          "answer": ["b) Para observarse sus efectos se requiere un período de latencia"],
-          "options": [
-          "a) Requiere dosis elevadas para desencadenar sus efectos",
-          "b) Para observarse sus efectos se requiere un período de latencia",
-          "c) El receptor se encuentra en la membrana plasmática",
-          "d) Carece de efectos inmunomoduladores"
-          ],
-          "discipline": "Farmaco",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 36,
-          "question": "En un niño de 4 años cursando una crisis asmática al que se administra salbutamol por vía inhalatoria ¿Cuál de los siguientes efectos adversos espera encontrar?",
-          "answer": ["a) Nerviosismo"],
-          "options": [
-          "a) Nerviosismo",
-          "b) Hiperpotasemia",
-          "c) Bradicardia",
-          "d) Miosis"
-          ],
-          "discipline": "Farmaco",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 37,
-          "question": "¿Cuál de las siguientes estrategias es útil para disminuir la incidencia de candidiasis orofaríngea debida a glucocorticoides inhalados?",
-          "answer": ["b) Enjuague bucal luego del uso"],
-          "options": [
-          "a) Uso una vez al día",
-          "b) Enjuague bucal luego del uso",
-          "c) Enjuague del espaciador",
-          "d) Cambio mensual de inhalocámara"
-          ],
-          "discipline": "Farmaco",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 38,
-          "question": "¿Cuál de las siguientes es una reacción adversa característica de los fármacos antihistamínicos de primera generación?",
-          "answer": ["c) Sedación"],
-          "options": [
-          "a) Broncoconstricción",
-          "b) Hipersudoración",
-          "c) Sedación",
-          "d) Hipersalivación"
-          ],
-          "discipline": "Farmaco",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 39,
-          "question": "¿Cuál es el mecanismo de acción de los antihistamínicos anti-H1?",
-          "answer": ["c) Agonistas inversos"],
-          "options": [
-          "a) Agonistas parciales",
-          "b) Agonistas completos",
-          "c) Agonistas inversos",
-          "d) Agonistas alostéricos"
-          ],
-          "discipline": "Farmaco",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 40,
-          "question": "¿Cuál de los siguientes grupos farmacológicos se ha asociado a prolongación del intervalo Q-T?",
-          "answer": ["a) Macrólidos"],
-          "options": [
-          "a) Macrólidos",
-          "b) Corticoides",
-          "c) Betalactámicos",
-          "d) Antileucotrienos"
-          ],
-          "discipline": "Farmaco",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 41,
-          "question": "¿Cuál de los siguientes fármacos moduladores de la respuesta alérgica es un inhibidor de la enzima 5´-lipooxigenasa?",
-          "answer": ["c) Zileutón"],
-          "options": [
-          "a) Ketotifeno",
-          "b) Montelukast",
-          "c) Zileutón",
-          "d) Difenhidramina"
-          ],
-          "discipline": "Farmaco",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 42,
-          "question": "¿Cuál de los siguientes mecanismos explica el efecto antiagregante del ácido acetilsalicílico?",
-          "answer": ["a) Disminución de la síntesis de tromboxano A2"],
-          "options": [
-          "a) Disminución de la síntesis de tromboxano A2",
-          "b) Antagonismo de vitamina K",
-          "c) Disminución de prostaglandina E2",
-          "d) Inhibición reversible de la ciclooxigenasa 1 y 2"
-          ],
-          "discipline": "Farmaco",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 43,
-          "question": "¿Cuál de las siguientes es una característica farmacocinética que comparten la mayoría de los AINE?",
-          "answer": ["c) Presentan buena absorción vía oral"],
-          "options": [
-          "a) Carecen de metabolismo hepático",
-          "b) Tienen baja unión a proteínas plasmáticas",
-          "c) Presentan buena absorción vía oral",
-          "d) Su vida media es independiente del efecto analgésico"
-          ],
-          "discipline": "Farmaco",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 44,
-          "question": "¿Cuál de las siguientes opciones es correcta sobre el mecanismo de acción y efectos farmacológicos de los AINE?",
-          "answer": ["b) Presentan distintas afinidades por las isoformas de la enzima ciclooxigenasa"],
-          "options": [
-          "a) Son inhibidores irreversibles de la enzima ciclooxigenasa-1 y 2",
-          "b) Presentan distintas afinidades por las isoformas de la enzima ciclooxigenasa",
-          "c) Su efecto farmacológico es consecuencia de facilitar la formación de prostaglandinas",
-          "d) Su efecto farmacológico se debe a la inhibición de la formación de leucotrienos"
-          ],
-          "discipline": "Farmaco",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 45,
-          "question": "Señale cuál de las siguientes opciones es correcta sobre los efectos farmacológicos diferenciales de los siguientes AINE:",
-          "answer": ["c) Ketorolac posee efecto analgésico"],
-          "options": [
-          "a) Ibuprofeno carece de efecto antiinflamatorio",
-          "b) Paracetamol posee efecto antiinflamatorio",
-          "c) Ketorolac posee efecto analgésico",
-          "d) Dipirona no posee efecto antipirético"
-          ],
-          "discipline": "Farmaco",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 46,
-          "question": "¿Cuál de los siguientes fluidos del organismo es el más frecuentemente utilizado para monitorizar los niveles de los fármacos?",
-          "answer": ["c) plasma"],
-          "options": [
-          "a) saliva",
-          "b) orina",
-          "c) plasma",
-          "d) LCR"
-          ],
-          "discipline": "Farmaco",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 47,
-          "question": "¿En qué situación de las siguientes es más importante monitorizar los niveles de un fármaco?",
-          "answer": ["c) Estrecho margen terapéutico"],
-          "options": [
-          "a) Cinética de orden 1",
-          "b) Fármacos inhalatorios",
-          "c) Estrecho margen terapéutico",
-          "d) Fármacos de escasa absorción"
-          ],
-          "discipline": "Farmaco",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 48,
-          "question": "¿Cuál de las siguientes modificaciones en la farmacocinética de un medicamento es más probable en el primer trimestre de embarazo?",
-          "answer": ["a) Disminución de la absorción"],
-          "options": [
-          "a) Disminución de la absorción",
-          "b) Aumento de la unión a proteínas plasmáticas",
-          "c) Disminución del volumen de distribución",
-          "d) Disminución de la eliminación renal"
-          ],
-          "discipline": "Farmaco",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 49,
-          "question": "Paciente de 8 años es diagnosticado de epilepsia y se inicia tratamiento con ácido valproico. ¿Cuándo se debería realizar la monitorización de los niveles del antiepiléptico?",
-          "answer": ["b) Una vez transcurridas 4 a 5 vidas medias"],
-          "options": [
-          "a) Una vez transcurridas 2 a 3 vidas medias",
-          "b) Una vez transcurridas 4 a 5 vidas medias",
-          "c) Luego de 24 horas de tratamiento",
-          "d) Media hora después de la dosis matinal"
-          ],
-          "discipline": "Farmaco",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 50,
-          "question": "¿Cuál de los siguientes es un efecto adverso frecuente con el uso de glucocorticoides inhalados a dosis bajas?",
-          "answer": ["a) Disfonía"],
-          "options": [
-          "a) Disfonía",
-          "b) Hiperglucemia",
-          "c) Osteoporosis",
-          "d) Cataratas"
-          ],
-          "discipline": "Farmaco",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 51,
-          "question": "¿Qué característica farmacocinética comparten bromuro de ipratropio y de tiotropio que los hacen adecuados para ser administrados por vía inhalatoria?",
-          "answer": ["a) Escasa absorción sistémica"],
-          "options": [
-          "a) Escasa absorción sistémica",
-          "b) Alta unión a proteínas plasmáticas",
-          "c) Elevado volumen de distribución",
-          "d) Metabolización por esterasas plasmáticas"
-          ],
-          "discipline": "Farmaco",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 52,
-          "question": "¿Cuál de las siguientes es una característica farmacocinética de metronidazol?",
-          "answer": ["b) Presenta interacciones farmacocinéticas con el alcohol etílico"],
-          "options": [
-          "a) Se elimina sin cambios por la orina más del 80% de la dosis",
-          "b) Presenta interacciones farmacocinéticas con el alcohol etílico",
-          "c) Es de elección para tratar enteroparasitosis por su baja biodisponibilidad",
-          "d) Su vida media plasmática prolongada permite administrarlo una vez al día"
-          ],
-          "discipline": "Farmaco",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 53,
-          "question": "A una mujer de 45 años se le diagnosticó hipertensión arterial hace 10 años, para la cual nunca realizó tratamiento, ¿cuál de las siguientes alteraciones celulares probablemente presenta en su miocardio?",
-          "answer": ["b) Hipertrofia"],
-          "options": [
-          "a) Hiperplasia",
-          "b) Hipertrofia",
-          "c) Metaplasia",
-          "d) Apoptosis"
-          ],
-          "discipline": "AnatoP",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 54,
-          "question": "¿Cuál de los siguientes fenómenos tiene invariablemente un significado patológico?",
-          "answer": ["b) Necrosis"],
-          "options": [
-          "a) Apoptosis",
-          "b) Necrosis",
-          "c) Atrofia",
-          "d) Hiperplasia"
-          ],
-          "discipline": "AnatoP",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 55,
-          "question": "¿Cuál de los siguientes es un estímulo para el inicio de la inflamación?",
-          "answer": ["a) Reconocimiento del agente lesivo"],
-          "options": [
-          "a) Reconocimiento del agente lesivo",
-          "b) Reclutamiento de neutrófilos",
-          "c) Vasodilatación local"
-          ],
-          "discipline": "AnatoP",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 56,
-          "question": "Paciente de sexo femenino 33 años consulta por dispepsia. Se realiza biopsia gástrica y el estudio microscópico describe una pérdida focal del epitelio de superficie, asociado a exudado polimorfonuclear y tejido de granulación. Corresponde a una:",
-          "answer": ["c) Lesión ulcerada"],
-          "options": [
-          "a) Lesión celular irreversible",
-          "b) Lesión cicatrizal",
-          "c) Lesión ulcerada"
-          ],
-          "discipline": "AnatoP",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 57,
-          "question": "Si en un preparado histológico predomina un exudado integrado principalmente por macrófagos, linfocitos y plasmocitos estamos frente a una:",
-          "answer": ["a) Inflamación crónica."],
-          "options": [
-          "a) Inflamación crónica.",
-          "b) Formación de absceso.",
-          "c) Inflamación aguda"
-          ],
-          "discipline": "AnatoP",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 58,
-          "question": "Un niño de 10 años se tropieza en la escuela y se raspa las palmas de las manos. Las heridas se limpian y cubren con gasa estéril. ¿Cuál de los siguientes términos caracteriza mejor la curación de estas lesiones superficiales?",
-          "answer": ["c) Cicatrización por primera intención"],
-          "options": [
-          "a) Fibrosis",
-          "b) Tejido de granulación",
-          "c) Cicatrización por primera intención",
-          "d) Cicatrización por segunda intención"
-          ],
-          "discipline": "AnatoP",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 59,
-          "question": "Con respecto al proceso de reparación tisular, hablamos de regeneración cuando luego de una lesión:",
-          "answer": ["c) Las células residuales proliferan para reemplazar el tejido lesionado"],
-          "options": [
-          "a) Se forma una cicatriz",
-          "b) Existen extensos depósitos de colágeno",
-          "c) Las células residuales proliferan para reemplazar el tejido lesionado",
-          "d) Las células residuales aumentan de tamaño para recuperar el tejido lesionado"
-          ],
-          "discipline": "AnatoP",
-          "comment": "",
-      
-          },
-          {
-          "info_quest": "3er Parcial 2021",
-          "numb": 60,
-          "question": "La formación de granulomas necrotizantes se puede ver en:",
-          "answer": ["a) Tuberculosis"],
-          "options": [
-          "a) Tuberculosis",
-          "b) Sarcoidosis",
-          "c) Enfermedad de Crohn",
-          "d) Reacción a cuerpo extraño"
-          ],
-          "discipline": "AnatoP",
-          "comment": "",
-      
-          },
+    "info_quest": "3er Parcial 2021",
+    "numb": 1,
+    "question": "La creatinina sérica y el filtrado glomerular tienen una relación no lineal ¿a partir de que valor aproximado de filtrado glomerular la creatinina sérica asciende a valores mayores de 1.2 mg/dl?",
+    "answer": [
+      "c) 50-70 ml/min/1.73 m2"
+    ],
+    "options": [
+      "a) 90- 110 ml/min/1.73 m2",
+      "b) 70-90 ml/min/1.73 m2",
+      "c) 50-70 ml/min/1.73 m2"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La relación entre la creatinina sérica y la Tasa de Filtrado Glomerular (TFG) es curvilínea (hiperbólica). Durante las fases iniciales de pérdida de función renal, reducciones significativas del TFG provocan solo incrementos discretos en la creatinina sérica. Recién cuando la TFG cae por debajo de aproximadamente $50-60\\text{ ml/min/1.73 m}^2$ (rango de $50-70\\text{ ml/min/1.73 m}^2$), la creatinina sérica se eleva de forma exponencial por encima del límite superior del rango de referencia ($1,2\\text{ mg/dL}$)."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 2,
+    "question": "¿Cuál de los siguientes factores acelera la progresión de la enfermedad renal crónica?",
+    "answer": [
+      "c) Acidosis metabólica."
+    ],
+    "options": [
+      "a) Dieta baja en proteínas.",
+      "b) Inhibición del eje renina angiotensina aldosterona.",
+      "c) Acidosis metabólica.",
+      "d) Normotensión arterial."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La acidosis metabólica promueve la progresión de la enfermedad renal crónica por múltiples mecanismos: estimula la producción renal intraparenquimatosa de endotelina-1 y angiotensina II, activa la vía alternativa del complemento e induce toxicidad amoniacal tubulointersticial con posterior fibrosis. Las dietas hipoproteicas, la inhibición del SRAA y el control de la presión arterial son factores nefroprotectores."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 3,
+    "question": "¿Qué ocurre con el flujo plasmático renal en las nefronas remanentes?",
+    "answer": [
+      "a) Aumenta."
+    ],
+    "options": [
+      "a) Aumenta.",
+      "b) Se mantiene normal.",
+      "c) Disminuye."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Tras la pérdida de masa nefronal, las nefronas intactas remanentes experimentan una respuesta adaptativa hemodinámica caracterizada por vasodilatación de la arteriola aferente y vasoconstricción mediada por Angiotensina II de la arteriola eferente. Esto genera una hiperperfusión (aumento del flujo plasmático renal por nefrona) e hiperfiltración adaptativa compensatoria."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 4,
+    "question": "En una insuficiencia renal aguda pre-renal, ¿cómo espera que sean el sodio urinario y la fracción excretada de sodio?",
+    "answer": [
+      "a) Natriuria < 15 mEq/L, FeNa < 3%"
+    ],
+    "options": [
+      "a) Natriuria < 15 mEq/L, FeNa < 3%",
+      "b) Natriuria > 15 mEq/L, FeNa < 3%",
+      "c) Natriuria > 15 mEq/L, FeNa > 3%"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En la injuria renal aguda de causa prerrenal, la perfusión renal reducida activa los sistemas fisiológicos de conservación de volumen (SRAA y sistema simpático) con túbulos renales funcionalmente indemnes. Esto produce una reabsorción tubular máxima de sodio y agua, generando una natriuria baja ($< 15\\text{ mEq/L}$) y una fracción excretada de sodio ($FENa$) típicamente $< 1\\%$ (dentro de la opción $< 3\\%$)."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 5,
+    "question": "rente a un paciente con trauma encéfalocraneano grave y autorregulación cerebral abolida, ¿qué respuesta espera encontrar frente a un aumento de la presión arterial media?",
+    "answer": [
+      "a) Aumento del flujo sanguíneo cerebral."
+    ],
+    "options": [
+      "a) Aumento del flujo sanguíneo cerebral.",
+      "b) Aumento de las resistencias vasculares.",
+      "c) Disminución de la presión intracraneana.",
+      "d) Mejoría de la complacencia intracraneana."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Al estar abolida la autorregulación vascular cerebral, las resistencias vasculares cerebrales permanecen fijas e incapaces de adaptarse. Por lo tanto, el Flujo Sanguíneo Cerebral ($FSC$) pasa a ser completamente dependiente de la presión de perfusión de forma pasiva, aumentando linealmente frente a cualquier incremento de la Presión Arterial Media (PAM)."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 6,
+    "question": "Indique cuál de las siguientes medidas terapéuticas disminuye la presión intracraneana por su efecto sobre el metabolismo cerebral:",
+    "answer": [
+      "d) Hipotermia."
+    ],
+    "options": [
+      "a) Osmoterapia.",
+      "b) Hiperventilación.",
+      "c) Craniectomía decompresiva.",
+      "d) Hipotermia."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La hipotermia disminuye la tasa metabólica cerebral de consumo de oxígeno ($CMRO_2$). Al reducir las demandas metabólicas del tejido nervioso, se produce una vasoconstricción secundaria adaptativa que disminuye el flujo sanguíneo cerebral y el volumen sanguíneo cerebral ($VSC$), reduciendo así la Presión Intracraneana (PIC)."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 7,
+    "question": "En la insuficiencia hepatocítica se produce una disminución de los ésteres de colesterol a nivel plasmático (“derrumbe de los ésteres de colesterol”). Esto principalmente es debido a que en el hepatocito se da una disminución en la síntesis de la:",
+    "answer": [
+      "b) lecitin colesterol acil transferasa (LCAT)."
+    ],
+    "options": [
+      "a) hidroximetilglutaril CoA reductasa (HMG-CoA reductasa).",
+      "b) lecitin colesterol acil transferasa (LCAT).",
+      "c) albúmina.",
+      "d) apo-B100. "
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La enzima Lecitina-Colesterol Aciltrasferasa ($LCAT$), sintetizada fundamentalmente en el hígado, esterifica el colesterol libre presente en las lipoproteínas plasmáticas. En la insuficiencia hepatocítica, la alteración en la síntesis proteica reduce los niveles de $LCAT$, lo que determina la caída pronunciada en la proporción de ésteres de colesterol circulantes."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 8,
+    "question": "El patrón hemodinámico del paciente cirrótico con ascitis se asocia con:",
+    "answer": [
+      "c) una presión arterial baja."
+    ],
+    "options": [
+      "a) un gasto cardíaco bajo.",
+      "b) un aumento de las resistencias vasculares sistémicas.",
+      "c) una presión arterial baja.",
+      "d) una vasoconstricción arterial periférica."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El estado hemodinámico en la cirrosis avanzada con hipertensión portal se caracteriza por un patrón hiperdinámico: intensa vasodilatación arterial en la circulación esplácnica y sistémica, marcada disminución de la resistencia vascular sistémica, aumento compensatorio del gasto cardíaco y tendencia a la hipotensión arterial sistémica (presión arterial baja)."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 9,
+    "question": "Las causas de Insuficiencia Renal Aguda son múltiples. ¿Cuáles son las más frecuentes?",
+    "answer": [
+      "a) Las pre-renales."
+    ],
+    "options": [
+      "a) Las pre-renales.",
+      "b) Las parenquimatosas.",
+      "c) Las obstructivas.",
+      "d) Las post-renales."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La etiología prerrenal (secundaria a depleción de volumen, hipotensión o hipoperfusión renal efectiva) es la causa más común de Injuria Renal Aguda, representando más del $50-60\\%$ de los casos clínicos en la práctica médica."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 10,
+    "question": "Un paciente joven, diabético tipo 1, es ingresado en emergencia por cetoacidosis diabética luego de abandonar la medicación. Presenta sed intensa, diuresis de 3 litros en 12h y glucosuria +++. Paraclínica de sangre: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p10-3P-2021.PNG'> <br> ¿Qué alteraciones del balance interno pueden estar contribuyendo a la hiperpotasemia?",
+    "answer": [
+      "a) Hiperosmolalidad plasmática."
+    ],
+    "options": [
+      "a) Hiperosmolalidad plasmática.",
+      "b) Alcalosis metabólica.",
+      "c) Tratamiento con insulina.",
+      "d) Disminución de la excreción urinaria de potasio."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En la cetoacidosis diabética, la hiperglucemia causa una hiperosmolalidad plasmática que deshidrata las células. La salida de agua del espacio intracelular al extracelular por ósmosis arrastra potasio consigo (*arrastre por solvente*). Sumado a la deficiencia de insulina, esto altera el balance interno movilizando $K^+$ hacia el espacio extracelular y provocando hiperpotasemia."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 11,
+    "question": "Un paciente joven, diabético tipo 1, es ingresado en emergencia por cetoacidosis diabética luego de abandonar la medicación. Presenta sed intensa, diuresis de 3 litros en 12h y glucosuria +++. Paraclínica de sangre: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p10-3P-2021.PNG'> <br> Considerando los mayores riesgos para la vida del paciente asociados con la hiperpotasemia, ¿qué estudio solicitaría de inmediato?",
+    "answer": [
+      "b) Electrocardiograma."
+    ],
+    "options": [
+      "a) Gasometría arterial.",
+      "b) Electrocardiograma.",
+      "c) Ionograma en orina.",
+      "d) Insulinemia.",
+      "e) Función renal."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El riesgo inmediato más grave de la hiperpotasemia son las arritmias ventriculares letales y el paro cardíaco. El electrocardiograma (ECG) es la prueba prioritaria de emergencia para evaluar cardiotoxicidad por $K^+$ (ondas T picudas, trastorno de conducción, etc.) y decidir el uso inmediato de gluconato de calcio."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 12,
+    "question": "Un paciente joven, diabético tipo 1, es ingresado en emergencia por cetoacidosis diabética luego de abandonar la medicación. Presenta sed intensa, diuresis de 3 litros en 12h y glucosuria +++. Paraclínica de sangre: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p10-3P-2021.PNG'> <br> ¿Qué alteraciones espera encontrar en el balance externo de potasio?",
+    "answer": [
+      "c) Aumento de pérdidas urinarias potasio."
+    ],
+    "options": [
+      "a) Aumento de pérdidas digestivas de potasio.",
+      "b) Aumento del potasio corporal total.",
+      "c) Aumento de pérdidas urinarias potasio.",
+      "d) Descenso de la excreción urinaria de potasio."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "A pesar de la hiperpotasemia plasmática (secundaria al desequilibrio en el balance interno), el balance externo de potasio es fuertemente negativo. La diuresis osmótica secundaria a la glucosuria masiva y la presencia de cetoácidos en el túbulo arrastran potasio hacia la orina, aumentando sustancialmente sus pérdidas urinarias."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 13,
+    "question": "¿Cuál de las siguientes condiciones puede ser causa de hipopotasemia?",
+    "answer": [
+      "e) Tratamiento con diuréticos de asa."
+    ],
+    "options": [
+      "a) Rabdomiólisis.",
+      "b) Lisis tumoral.",
+      "c) Tratamiento con beta bloqueantes.",
+      "d) Injuria renal aguda.",
+      "e) Tratamiento con diuréticos de asa."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Los diuréticos de asa (como la furosemida) inhiben el cotransportador $Na^+/K^+/2Cl^-$ en la rama ascendente del asa de Henle, aumentando la entrega de sodio y agua al túbulo distal y estimulando la secreción e eliminación urinaria de $K^+$, lo que induce hipopotasemia."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 14,
+    "question": "¿Cuál de los siguientes factores contribuye al desarrollo de hiperpotasemia?",
+    "answer": [
+      "c) Acidosis metabólica."
+    ],
+    "options": [
+      "a) Estímulo beta-adrenérgico.",
+      "b) Tratamiento con diuréticos de asa.",
+      "c) Acidosis metabólica.",
+      "d) Tratamiento con insulina intra-venosa."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La acidosis metabólica (especialmente por ácidos inorgánicos) promueve la entrada celular de $H^+$ para su amortiguación, compensada por la salida de $K^+$ hacia el espacio extracelular para mantener la electroneutralidad, generando hiperpotasemia. Los estímulos $\\beta$-adrenérgicos y la insulina promueven la entrada de $K^+$ a las células."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 15,
+    "question": "Indique cuál de las siguientes alteraciones está presente en la insuficiencia hepatocítica:",
+    "answer": [
+      "d) Descenso del clearance de lactato."
+    ],
+    "options": [
+      "a) Descenso de la tasa de protrombina que mejora con el aporte de vitamina K.",
+      "b) Aumento de la albumina sérica.",
+      "c) Aumento de los ésteres de colesterol.",
+      "d) Descenso del clearance de lactato.",
+      "e) Aumento de las inmunoglobulinas sinterizadas por el hepatocito."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El hígado es el sitio metabólico principal para la depuración y metabolización del lactato a través de la gluconeogénesis. En la insuficiencia hepatocítica, el aclaramiento (*clearance*) hepático de lactato disminuye significativamente, favoreciendo el desarrollo de hiperlactatemia."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 16,
+    "question": "Un paciente de 66 años con cirrosis hepática se presenta en emergencia, desorientado en tiempo y espacio, con tendencia al sueño y la siguiente paraclínica de sangre: <br> <img src = 'https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/BCP/images/p16-3P-2021.PNG' > <br> ¿Cuál de las siguientes opciones explica la alteración que presenta el paciente y su mecanismo causal?",
+    "answer": [
+      "d) Hiperbilirrubinemia causada principalmente por colestasis hepática."
+    ],
+    "options": [
+      "a) Hiponatremia por aumento de la secreción de ADH por estimulo osmótico.",
+      "b) Hiponatremia aguda determinada por pérdida de agua libre a nivel renal.",
+      "c) Síntomas neurológicos secundarios a descenso del neurotransmisor inhibitorio ácido gamma aminobutírico (GABA).",
+      "d) Hiperbilirrubinemia causada principalmente por colestasis hepática."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En la cirrosis descompensada, la distorsión del parénquima y la falla hepatocítica ocasionan colestasis intrahepática con incapacidad para la excreción de bilis, lo que lleva a un cuadro de hiperbilirrubinemia predominantemente directa o conjugada."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 17,
+    "question": "Paciente de 65 años, sexo femenino, IMC 32 kg/m2, hipertensa. Historia de disnea de esfuerzo clase funcional II. Ingresa por disnea de esfuerzo progresiva en los últimos 6 días, ortopnea y el día del ingreso dolor precordial de 30 minutos de duración. Al examen físico lúcida, apirética, sudorosa, cianosis distal. Lengua húmeda. Ritmo regular de 110pm, ruidos hipofonéticos, PA 100/60. Ingurgitación yugular, reflujo hepatoyugular. Edemas de MMII hasta rodilla. Polipnea de 27 pm, estertores crepitantes en 2/3 inferiores de ambos campos pulmonares. ECG: RS 105pm, P y PR normal, trastornos inespecíficos de la repolarización <br> ¿Cuál de los siguientes cuadros hemodinámicos explica la situación clínica de la paciente?",
+    "answer": [
+      "d) Insuficiencia cardíaca congestiva."
+    ],
+    "options": [
+      "a) Crisis hipertensiva con edema pulmonar.",
+      "b) Insuficiencia cardíaca aguda con perfil hemodinámico seco y caliente.",
+      "c) Insuficiencia cardíaca aguda “de novo“.",
+      "d) Insuficiencia cardíaca congestiva."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La paciente evidencia signos concurrentes de congestión pulmonar (estertores crepitantes, polipnea, ortopnea) y de congestión sistémica (ingurgitación yugular, reflujo hepatoyugular, edemas en MMII), lo que define clínicamente un cuadro de insuficiencia cardíaca congestiva (“húmeda“)."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 18,
+    "question": "Paciente de 65 años, sexo femenino, IMC 32 kg/m2, hipertensa. Historia de disnea de esfuerzo clase funcional II. Ingresa por disnea de esfuerzo progresiva en los últimos 6 días, ortopnea y el día del ingreso dolor precordial de 30 minutos de duración. Al examen físico lúcida, apirética, sudorosa, cianosis distal. Lengua húmeda. Ritmo regular de 110pm, ruidos hipofonéticos, PA 100/60. Ingurgitación yugular, reflujo hepatoyugular. Edemas de MMII hasta rodilla. Polipnea de 27 pm, estertores crepitantes en 2/3 inferiores de ambos campos pulmonares. ECG: RS 105pm, P y PR normal, trastornos inespecíficos de la repolarización  <br> Señale qué mecanismo fisiopatológico está involucrado en el cuadro clínico de la paciente:",
+    "answer": [
+      "a) Hipertensión venosa sistémica."
+    ],
+    "options": [
+      "a) Hipertensión venosa sistémica.",
+      "b) Deshidratación.",
+      "c) Aumento de la excreción de agua y sodio urinario.",
+      "d) Disminución de la concentración de citoquinas inflamatorias."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La ingurgitación yugular, el reflujo hepatoyugular y los edemas vespertinos en miembros inferiores son manifestaciones fisiopatológicas directas de la hipertensión venosa sistémica por sobrecarga retrógrada de presiones en las cavidades derechas."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 19,
+    "question": "Cuál de los siguientes parámetros reflejan la presencia de congestión sistémica en la Insuficiencia cardíaca aguda:",
+    "answer": [
+      "c) Aumento de la gama-glutamil transferasa."
+    ],
+    "options": [
+      "a) Aumento de BNP.",
+      "b) Albuminuria.",
+      "c) Aumento de la gama-glutamil transferasa.",
+      "d) Aumento de la alanino aminotransferasa."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La congestión venosa sistémica produce colestasis pasiva secundaria a la hipertensión venosa en los sinusoides hepáticos (hígado de congestión). Esto se manifiesta típicamente en el laboratorio con una elevación de las enzimas de colestasis, principalmente la Gamma-Glutamil Transferasa (GGT)."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 20,
+    "question": "¿Cuál de los siguientes factores están involucrados en la fisiopatología del sindrome cardiorenal agudo?",
+    "answer": [
+      "b) Aumento de la presión venosa central."
+    ],
+    "options": [
+      "a) Hipovolemia.",
+      "b) Aumento de la presión venosa central.",
+      "c) Vasoplejia.",
+      "d) Disminución de la actividad NADPH oxidasa."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El aumento de la Presión Venosa Central (PVC) determina una elevación de la presión en las venas renales. Esta congestión venosa reduce la presión de perfusión neta a nivel renal (PAM - PVC), disminuyendo el filtrado glomerular y constituyendo un pilar fundamental en la patogenia del síndrome cardiorrenal agudo."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 21,
+    "question": "¿Cuáles cambios metabólicos miocárdicos se observan en la insuficiencia cardíaca crónica?",
+    "answer": [
+      "a) Existe un desacople en la respiración celular."
+    ],
+    "options": [
+      "a) Existe un desacople en la respiración celular.",
+      "b) Hay un aumento de la relación fosfocreatina/ATP.",
+      "c) Hay una disminución de la beta-oxidación de los ácidos grasos libres",
+      "d) Se produce un aumento del consumo de cuerpos cetónicos."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El miocardio en insuficiencia cardíaca crónica experimenta un déficit energético progresivo caracterizado por disfunción mitocondrial y desacople en la respiración celular/fosforilación oxidativa, disminuyendo la reserva de alta energía y la relación fosfocreatina/ATP."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 22,
+    "question": "En cuanto a la mecánica cardíaca en la insuficiencia cardíaca (IC) crónica, es correcto afirmar que:",
+    "answer": [
+      "b) El aumento de la deformación circunferencial permite preservar la FEVI en la IC con FEVI preservada."
+    ],
+    "options": [
+      "a) La deformación longitudinal está preservada en la IC con fracción de eyección ventricular izquierda (FEVI) preservada.",
+      "b) El aumento de la deformación circunferencial permite preservar la FEVI en la IC con FEVI preservada.",
+      "c) La IC con FEVI preservada se asocia con una disfunción diastólica y función sistólica normal.",
+      "d) La activación neurohumoral que se observa en la IC es independiente de la FEVI. "
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En la insuficiencia cardíaca con FEVI preservada existe una reducción subclínica precoz de la deformación longitudinal (*strain* longitudinal). Como mecanismo compensatorio mecánico para mantener la FEVI normal, se produce un incremento de la deformación circunferencial y radial."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 23,
+    "question": "La remodelación cardíaca implicada en la progresión de la insuficiencia cardíaca crónica se asocia a:",
+    "answer": [
+      "a) Aumento de la actividad de las metaloproteinasas de matriz (MMP)."
+    ],
+    "options": [
+      "a) Aumento de la actividad de las metaloproteinasas de matriz (MMP).",
+      "b) Disminución de la apoptosis.",
+      "c) Sustitución de la titina por isoformas menos rígidas.",
+      "d) Dilatación ventricular izquierda."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El aumento de la actividad de las metaloproteinasas de matriz (MMP) promueve la degradación del colágeno intersticial previo, facilitando la desorganización de los miocitos, el deslizamiento interfibrilar (*slippage*) y la remodelación arquitectónica geométrica del ventrículo."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 24,
+    "question": "Con respecto a la fisiopatología de los síntomas y signos en la insuficiencia cardíaca crónica (ICC), marque la opción correcta:",
+    "answer": [
+      "a) Durante el sueño se produce aumento del tono parasimpático y reabsorción de edemas, aumentado la presión diastólica final y generando disnea."
+    ],
+    "options": [
+      "a) Durante el sueño se produce aumento del tono parasimpático y reabsorción de edemas, aumentado la presión diastólica final y generando disnea.",
+      "b) El decúbito determina redistribución del volumen del líquido extracelular hacia el compartimento extratorácico",
+      "c) La complacencia pulmonar se encuentra aumentada por la congestión pulmonar en la ICC.",
+      "d) La disnea de esfuerzo se produce únicamente en pacientes con insuficiencia cardíaca con fracción de eyección del ventrículo izquierdo reducida."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En decúbito dorsal nocturno se redistribuye el líquido acumulado en miembros inferiores hacia el espacio intravascular, aumentando el retorno venoso. Esto incrementa la precarga, eleva la presión diastólica final del VI y congestiona el lecho capilar pulmonar, generando disnea paroxística nocturna."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 25,
+    "question": "En el desarrollo de la insuficiencia cardíaca crónica, el miocito sufre cambios fenotípicos y funcionales. ¿Cuál de las siguientes afirmaciones representa uno de estos cambios?",
+    "answer": [
+      "d) El miocito insuficiente aumenta su rigidez por oxidación de la titina producto del aumento de las especies reactivas del oxígeno."
+    ],
+    "options": [
+      "a) Los miocitos insuficientes presentan mayor contenido de Ca2+ reticular diastólico que en situación fisiológica por su incapacidad de liberarlo en sístole.",
+      "b) El mecanismo de recaptación de Ca2+ por la bomba SERCA2a se encuentra potenciado en el miocito insuficiente lo que determina aumento de la liberación en cada contracción.",
+      "c) El miocito insuficiente utiliza con mayor eficiencia los ácidos grasos como fuente de energía.",
+      "d) El miocito insuficiente aumenta su rigidez por oxidación de la titina producto del aumento de las especies reactivas del oxígeno."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El estrés oxidativo incrementado en el miocito insuficiente induce modificaciones postraduccionales en la titina (tales como su oxidación y desfosforilación), aumentando la rigidez miocárdica pasiva y contribuyendo a la disfunción diastólica."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 26,
+    "question": "¿Cuál de las siguientes afirmaciones sobre el flujo sanguíneo coronario es correcta?",
+    "answer": [
+      "b) La reserva de flujo coronario puede disminuir por aumentos del flujo sanguíneo coronario en reposo."
+    ],
+    "options": [
+      "a) Las arterias epicárdicas de conducción son el contribuyente principal a la resistencia al flujo sanguíneo coronario en situación fisiológica.",
+      "b) La reserva de flujo coronario puede disminuir por aumentos del flujo sanguíneo coronario en reposo.",
+      "c) La tensión parietal ejercida sobre el miocardio es mayor a nivel subepicárdico que a nivel subendocárdico.",
+      "d) La reserva de flujo coronario es mayor a nivel subendocárdico que a nivel subepicárdico."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La reserva de flujo coronario (RFC) se define como el cociente entre el flujo coronario máximo vasodilatado y el flujo coronario basal ($RFC = FSC_{máx} / FSC_{basal}$). Si el flujo basal en reposo se incrementa (p. ej. por taquicardia o mayor MVO2), el denominador aumenta y la reserva coronaria disminuye."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 27,
+    "question": "La isquemia miocárdica aguda determina las siguientes alteraciones: <br>  1. distorsión de los tubos T y retículo sarcoplásmico, <br> 2. acidosis intracelular, <br> 3. alteraciones del segmento ST del ECG y, <br> 4. aumento de la presión de llenado ventricular. <br> Señale el orden correcto en que ocurren en la cascada isquémica:",
+    "answer": [
+      "b) 2, 1, 4, 3."
+    ],
+    "options": [
+      "a) 3, 2, 1, 4.",
+      "b) 2, 1, 4, 3.",
+      "c) 3, 1, 2, 4.",
+      "d) 1, 2, 3, 4. "
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La cascada isquémica sigue la secuencia: 1º Cambios metabólicos bioquímicos (acidosis intracelular: 2), 2º Alteraciones ultraestructurales celulares (1), 3º Disfunción diastólica con elevación de presiones de llenado ventricular (4), y finalmente 4º Cambios electrocardiográficos del ST (3)."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 29,
+    "question": "Marque la opción correcta respecto al acoplamiento ventrículo-arterial (AVA) mecánico del ventrículo izquierdo (VI):",
+    "answer": [
+      "c) Durante la sístole el desplazamiento longitudinal del VI genera el desplazamiento y estrechamiento de la aorta ascendente"
+    ],
+    "options": [
+      "a) Una aorta con alto contenido de colágeno facilita el retroceso diastólico precoz",
+      "b) El AVA es un concepto teórico, sin capacidad de poder evaluarse en la práctica clínica de manera no invasiva.",
+      "c) Durante la sístole el desplazamiento longitudinal del VI genera el desplazamiento y estrechamiento de la aorta ascendente",
+      "d) La interacción adecuada entre el VI y el sistema arterial determina grandes cambios de presión de pulso"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Durante la sístole, el acortamiento longitudinal del ventrículo izquierdo ejerce una tracción física directa sobre la raíz aórtica y la aorta ascendente, provocando su tracción caudal y un estiramiento/estrechamiento dinámico."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 30,
+    "question": "Marque la opción correcta con respecto a la nocicepción:",
+    "answer": [
+      "b) el dolor nociceptivo corresponde a la estimulación supraumbral de receptores ubicados tanto en piel como vísceras y articulaciones"
+    ],
+    "options": [
+      "a) la transmisión es la última fase del procesamiento de la señal dolorosa, la cual produce la experiencia subjetiva y emocional denominada dolor",
+      "b) el dolor nociceptivo corresponde a la estimulación supraumbral de receptores ubicados tanto en piel como vísceras y articulaciones",
+      "c) los nociceptores relacionados a fibras c corresponden a receptores específicos especializados en la transmisión de dolor",
+      "d) los nociceptores, a diferencia de otros receptores sensitivos, pueden adaptarse"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El dolor nociceptivo se activa mediante la estimulación supraumbral de nociceptores periféricos distribuidos en tejidos somáticos (piel, articulaciones, músculos) y viscerales frente a estímulos nocivos. A diferencia de otros receptores, los nociceptores apenas se adaptan, garantizando una señalización protectora persistente."
+  },
+
+    
+    {
+    "info_quest": "3er Parcial 2021",
+    "numb": 31,
+    "question": "En cuanto a la fisiopatología de la hipertensión pulmonar (HP), es correcto afirmar que:",
+    "answer": [
+      "b) La fase compensada de la HP involucra los mecanismos de autorregulación homeométrica y heterométrica del ventrículo derecho."
+    ],
+    "options": [
+      "a) La HP tromboembólica pulmonar es producida por una embolia con mínima remodelación parietal arterial.",
+      "b) La fase compensada de la HP involucra los mecanismos de autorregulación homeométrica y heterométrica del ventrículo derecho.",
+      "c) La mortalidad asociada a la HP depende directamente del nivel de presión arterial pulmonar media.",
+      "d) El descenso de la presión arterial pulmonar media durante el tratamiento de la HP arterial mejora el pronóstico independientemente del índice cardíaco."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La fase compensada de la HP permite al ventrículo derecho (VD) mantener el gasto cardíaco mediante adaptación heterométrica (mecanismo de Frank-Starling ante cambios en el volumen/precarga) y homeométrica (efecto Anrep, aumento de la contractilidad independiente de la precarga). La HP tromboembólica cursa con importante remodelación parietal y la mortalidad/pronóstico depende fundamentalmente de la función del VD (índice cardíaco) y no de forma directa de la presión arterial pulmonar media."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 32,
+    "question": "¿Cuál de las siguientes opciones es verdadera acerca de los parámetros farmacocinéticos/ farmacodinámicos(PK/PD) de los antibióticos?",
+    "answer": [
+      "a) El parámetro área bajo la curva 24hs/CIM define una actividad concentración y tiempo dependiente"
+    ],
+    "options": [
+      "a) El parámetro área bajo la curva 24hs/CIM define una actividad concentración y tiempo dependiente",
+      "b) El Cmax/CIM refleja la cantidad total del fármaco que alcanza la circulación sistémica",
+      "c) El t>CIM tiene como objetivo alcanzar una toxicidad menor al 40% del intervalo interdosis",
+      "d) El parámetro área bajo la curva 24hs/CIM se expresa en mg/dl o en g/l según el antibiótico"
+    ],
+    "discipline": "Farmaco",
+    "comment": "El parámetro AUC24/CIM (área bajo la curva en 24h dividida por la concentración inhibitoria mínima) predice la eficacia de fármacos con perfil de acción mixto (concentración y tiempo dependiente), como fluoroquinolonas, vancomicina o azitromicina. Cmax/CIM define la actividad concentración-dependiente pura, t>CIM define la actividad tiempo-dependiente pura, y el índice AUC/CIM es un parámetro adimensional."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 33,
+    "question": "¿Cuál de las siguientes es una estrategia que aplica los parámetros PK/PD para optimizar las pautas posológicas de un tratamiento con betalactámicos en un paciente con infección grave?",
+    "answer": [
+      "c) Acortar el intervalo interdosis"
+    ],
+    "options": [
+      "a) Realizar dosis carga",
+      "b) Acortar el tiempo de infusión",
+      "c) Acortar el intervalo interdosis",
+      "d) Realizar una dosis diaria"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Los antibióticos betalactámicos son tiempo-dependientes, por lo que su eficacia depende de maximizar el porcentaje del intervalo de dosificación en que la concentración sérica se mantiene por encima de la CIM (t > CIM). Para optimizar este parámetro se acorta el intervalo interdosis o se emplean infusiones extendidas o continuas."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 34,
+    "question": "¿Cuál es el mecanismo de acción de los macrólidos?",
+    "answer": [
+      "b) Inhiben la síntesis proteica uniéndose a la subunidad 50S ribosomal"
+    ],
+    "options": [
+      "a) Inhiben el primer paso de la síntesis de la pared bacteriana",
+      "b) Inhiben la síntesis proteica uniéndose a la subunidad 50S ribosomal",
+      "c) Alteran la síntesis de ADN, a través de la inhibición de la ADN girasa bacteriana",
+      "d) Actúan mediante la rotura directa del ADN bacteriano"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Los macrólidos (ej. eritromicina, azitromicina, claritromicina) actúan uniéndose de forma reversible a la subunidad 50S del ribosoma bacteriano (específicamente al ARN ribosomal 23S), bloqueando la reacción de translocación e inhibiendo la síntesis proteica."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 35,
+    "question": "¿Cuál de las siguientes es una característica de la vía clásica o genómica en el mecanismo de acción de los corticoides?",
+    "answer": [
+      "b) Para observarse sus efectos se requiere un período de latencia"
+    ],
+    "options": [
+      "a) Requiere dosis elevadas para desencadenar sus efectos",
+      "b) Para observarse sus efectos se requiere un período de latencia",
+      "c) El receptor se encuentra en la membrana plasmática",
+      "d) Carece de efectos inmunomoduladores"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La vía genómica (clásica) involucra la unión del corticoide a receptores citoplasmáticos, la traslocación del complejo al núcleo y la modificación de la transcripción de genes (transactivación/transrepresión). Debido a que requiere síntesis de nuevas proteínas o bloqueo transcripcional, presenta un período de latencia previo a la aparición de los efectos clínicos."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 36,
+    "question": "En un niño de 4 años cursando una crisis asmática al que se administra salbutamol por vía inhalatoria ¿Cuál de los siguientes efectos adversos espera encontrar?",
+    "answer": [
+      "a) Nerviosismo"
+    ],
+    "options": [
+      "a) Nerviosismo",
+      "b) Hiperpotasemia",
+      "c) Bradicardia",
+      "d) Miosis"
+    ],
+    "discipline": "Farmaco",
+    "comment": "El salbutamol es un agonista selectivo de receptores beta-2 adrenérgicos. Por estimulación simpática sistémica, sus efectos adversos característicos son nerviosismo, temblor fino muscular, taquicardia e hipopotasemia (debido a la captación celular de potasio mediada por receptores beta-2)."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 37,
+    "question": "¿Cuál de las siguientes estrategias es útil para disminuir la incidencia de candidiasis orofaríngea debida a glucocorticoides inhalados?",
+    "answer": [
+      "b) Enjuague bucal luego del uso"
+    ],
+    "options": [
+      "a) Uso una vez al día",
+      "b) Enjuague bucal luego del uso",
+      "c) Enjuague del espaciador",
+      "d) Cambio mensual de inhalocámara"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Realizar un enjuague bucal con agua (y escupir) tras la inhalación de corticoides remueve las partículas retenidas en la mucosa orofaríngea, reduciendo la inmunosupresión local que facilita la infección por *Candida albicans* y la disfonía."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 38,
+    "question": "¿Cuál de las siguientes es una reacción adversa característica de los fármacos antihistamínicos de primera generación?",
+    "answer": [
+      "c) Sedación"
+    ],
+    "options": [
+      "a) Broncoconstricción",
+      "b) Hipersudoración",
+      "c) Sedación",
+      "d) Hipersalivación"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Los antihistamínicos H1 de primera generación (ej. difenhidramina, clorfeniramina) son lipofílicos y atraviesan fácilmente la barrera hematoencefálica, bloqueando los receptores H1 del SNC, lo que produce sedación, somnolencia y disminución del rendimiento psicomotor."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 39,
+    "question": "¿Cuál es el mecanismo de acción de los antihistamínicos anti-H1?",
+    "answer": [
+      "c) Agonistas inversos"
+    ],
+    "options": [
+      "a) Agonistas parciales",
+      "b) Agonistas completos",
+      "c) Agonistas inversos",
+      "d) Agonistas alostéricos"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Desde el punto de vista farmacodinámico, la mayoría de los antihistamínicos H1 actúan como agonistas inversos: se unen al receptor H1 y estabilizan su conformación inactiva, desplazando el equilibrio basal y reduciendo la actividad constitutiva del receptor."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 40,
+    "question": "¿Cuál de los siguientes grupos farmacológicos se ha asociado a prolongación del intervalo Q-T?",
+    "answer": [
+      "a) Macrólidos"
+    ],
+    "options": [
+      "a) Macrólidos",
+      "b) Corticoides",
+      "c) Betalactámicos",
+      "d) Antileucotrienos"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Los macrólidos (como eritromicina, claritromicina y azitromicina) pueden bloquear las corrientes de potasio rectificadoras tardías (canales IKr) en el miocardio, prolongando la repolarización ventricular y el intervalo QT, con riesgo de arritmias graves como la *Torsades de Pointes*."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 41,
+    "question": "¿Cuál de los siguientes fármacos moduladores de la respuesta alérgica es un inhibidor de la enzima 5´-lipooxigenasa?",
+    "answer": [
+      "c) Zileutón"
+    ],
+    "options": [
+      "a) Ketotifeno",
+      "b) Montelukast",
+      "c) Zileutón",
+      "d) Difenhidramina"
+    ],
+    "discipline": "Farmaco",
+    "comment": "El zileutón es un inhibidor directo y selectivo de la enzima 5-lipooxigenasa (5-LOX), impidiendo la síntesis inicial de leucotrienos a partir del ácido araquidónico. Por su parte, el montelukast es un antagonista del receptor CysLT1."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 42,
+    "question": "¿Cuál de los siguientes mecanismos explica el efecto antiagregante del ácido acetilsalicílico?",
+    "answer": [
+      "a) Disminución de la síntesis de tromboxano A2"
+    ],
+    "options": [
+      "a) Disminución de la síntesis de tromboxano A2",
+      "b) Antagonismo de vitamina K",
+      "c) Disminución de prostaglandina E2",
+      "d) Inhibición reversible de la ciclooxigenasa 1 y 2"
+    ],
+    "discipline": "Farmaco",
+    "comment": "El ácido acetilsalicílico (aspirina) acetila e inhibe de forma irreversible a la enzima ciclooxigenasa-1 (COX-1) plaquetaria, bloqueando de manera duradera la síntesis de Tromboxano A2 (TXA2), un mediador clave en la activación y agregación de las plaquetas."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 43,
+    "question": "¿Cuál de las siguientes es una característica farmacocinética que comparten la mayoría de los AINE?",
+    "answer": [
+      "c) Presentan buena absorción vía oral"
+    ],
+    "options": [
+      "a) Carecen de metabolismo hepático",
+      "b) Tienen baja unión a proteínas plasmáticas",
+      "c) Presentan buena absorción vía oral",
+      "d) Su vida media es independiente del efecto analgésico"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La gran mayoría de los antiinflamatorios no esteroideos (AINE) son ácidos orgánicos débiles que se absorben rápida y completamente por vía gastrointestinal (vía oral), caracterizándose además por una elevada unión a proteínas plasmáticas (>95%) y biotransformación hepática."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 44,
+    "question": "¿Cuál de las siguientes opciones es correcta sobre el mecanismo de acción y efectos farmacológicos de los AINE?",
+    "answer": [
+      "b) Presentan distintas afinidades por las isoformas de la enzima ciclooxigenasa"
+    ],
+    "options": [
+      "a) Son inhibidores irreversibles de la enzima ciclooxigenasa-1 y 2",
+      "b) Presentan distintas afinidades por las isoformas de la enzima ciclooxigenasa",
+      "c) Su efecto farmacológico es consecuencia de facilitar la formación de prostaglandinas",
+      "d) Su efecto farmacológico se debe a la inhibición de la formación de leucotrienos"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Los AINE difieren apreciablemente entre sí en su grado de selectividad o afinidad relativa por las dos isoformas enzimáticas: COX-1 (constitutiva) y COX-2 (inducible). Salvo la aspirina, la mayoría de los AINE tradicionales actúan mediante inhibición reversible de estas enzimas."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 45,
+    "question": "Señale cuál de las siguientes opciones es correcta sobre los efectos farmacológicos diferenciales de los siguientes AINE:",
+    "answer": [
+      "c) Ketorolac posee efecto analgésico"
+    ],
+    "options": [
+      "a) Ibuprofeno carece de efecto antiinflamatorio",
+      "b) Paracetamol posee efecto antiinflamatorio",
+      "c) Ketorolac posee efecto analgésico",
+      "d) Dipirona no posee efecto antipirético"
+    ],
+    "discipline": "Farmaco",
+    "comment": "El ketorolac destaca por su elevada potencia analgésica con modesta actividad antiinflamatoria. Por contraste, el ibuprofeno sí posee potente efecto antiinflamatorio, el paracetamol carece de un efecto antiinflamatorio clínicamente significativo a nivel periférico y la dipirona es un reconocido antipirético."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 46,
+    "question": "¿Cuál de los siguientes fluidos del organismo es el más frecuentemente utilizado para monitorizar los niveles de los fármacos?",
+    "answer": [
+      "c) plasma"
+    ],
+    "options": [
+      "a) saliva",
+      "b) orina",
+      "c) plasma",
+      "d) LCR"
+    ],
+    "discipline": "Farmaco",
+    "comment": "El plasma (o el suero) sanguíneo es la matriz estándar en la monitorización terapéutica de fármacos (TDM), ya que las concentraciones plasmáticas guardan una relación directa y predecible con las concentraciones del fármaco en el sitio de acción biológico."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 47,
+    "question": "¿En qué situación de las siguientes es más importante monitorizar los niveles de un fármaco?",
+    "answer": [
+      "c) Estrecho margen terapéutico"
+    ],
+    "options": [
+      "a) Cinética de orden 1",
+      "b) Fármacos inhalatorios",
+      "c) Estrecho margen terapéutico",
+      "d) Fármacos de escasa absorción"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La monitorización de niveles plasmáticos está indicada principalmente en fármacos con un estrecho índice o margen terapéutico (donde la diferencia entre la dosis mínima eficaz y la dosis tóxica es reducida, ej. litio, digoxina, teofilina, aminoglucósidos)."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 48,
+    "question": "¿Cuál de las siguientes modificaciones en la farmacocinética de un medicamento es más probable en el primer trimestre de embarazo?",
+    "answer": [
+      "a) Disminución de la absorción"
+    ],
+    "options": [
+      "a) Disminución de la absorción",
+      "b) Aumento de la unión a proteínas plasmáticas",
+      "c) Disminución del volumen de distribución",
+      "d) Disminución de la eliminación renal"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Durante el primer trimestre de embarazo, los niveles elevados de progesterona inducen relajación del músculo liso gastrointestinal, prolongando el tiempo de vaciamiento gástrico y reduciendo la motilidad intestinal, lo que suele retrasar o disminuir la absorción oral de fármacos."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 49,
+    "question": "Paciente de 8 años es diagnosticado de epilepsia y se inicia tratamiento con ácido valproico. ¿Cuándo se debería realizar la monitorización de los niveles del antiepiléptico?",
+    "answer": [
+      "b) Una vez transcurridas 4 a 5 vidas medias"
+    ],
+    "options": [
+      "a) Una vez transcurridas 2 a 3 vidas medias",
+      "b) Una vez transcurridas 4 a 5 vidas medias",
+      "c) Luego de 24 horas de tratamiento",
+      "d) Media hora después de la dosis matinal"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Para realizar una medición representativa de la concentración en estado estacionario (steady state) es imprescindible esperar a que transcurran de 4 a 5 vidas medias del fármaco tras iniciar o modificar la dosis, momento en que la tasa de administración se iguala a la de eliminación."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 50,
+    "question": "¿Cuál de los siguientes es un efecto adverso frecuente con el uso de glucocorticoides inhalados a dosis bajas?",
+    "answer": [
+      "a) Disfonía"
+    ],
+    "options": [
+      "a) Disfonía",
+      "b) Hiperglucemia",
+      "c) Osteoporosis",
+      "d) Cataratas"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La disfonía (debida a miopatía de los músculos vocales por depósito local del corticosteroide) y la candidiasis orofaríngea son los efectos adversos locales más comunes con el uso inhalatorio, incluso a dosis bajas. Los efectos sistémicos (hiperglucemia, osteoporosis) requieren dosis sostenidas y elevadas."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 51,
+    "question": "¿Qué característica farmacocinética comparten bromuro de ipratropio y de tiotropio que los hacen adecuados para ser administrados por vía inhalatoria?",
+    "answer": [
+      "a) Escasa absorción sistémica"
+    ],
+    "options": [
+      "a) Escasa absorción sistémica",
+      "b) Alta unión a proteínas plasmáticas",
+      "c) Elevado volumen de distribución",
+      "d) Metabolización por esterasas plasmáticas"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Tanto el ipratropio como el tiotropio son compuestos de amonio cuaternario con carga positiva permanente. Su naturaleza altamente polar e hidrófila restringe su absorción sistémica tanto a nivel pulmonar como intestinal, limitando los efectos adversos anticolinérgicos en el resto del organismo."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 52,
+    "question": "¿Cuál de las siguientes es una característica farmacocinética de metronidazol?",
+    "answer": [
+      "b) Presenta interacciones farmacocinéticas con el alcohol etílico"
+    ],
+    "options": [
+      "a) Se elimina sin cambios por la orina más del 80% de la dosis",
+      "b) Presenta interacciones farmacocinéticas con el alcohol etílico",
+      "c) Es de elección para tratar enteroparasitosis por su baja biodisponibilidad",
+      "d) Su vida media plasmática prolongada permite administrarlo una vez al día"
+    ],
+    "discipline": "Farmaco",
+    "comment": "El metronidazol inhibe a la enzima aldehído deshidrogenasa, por lo que su consumo conjunto con alcohol etílico conduce a la acumulación de acetaldehído, desencadenando la reacción tipo disulfiram (náuseas, vómitos, rubor facial, taquicardia e hipotensión)."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 53,
+    "question": "A una mujer de 45 años se le diagnosticó hipertensión arterial hace 10 años, para la cual nunca realizó tratamiento, ¿cuál de las siguientes alteraciones celulares probablemente presenta en su miocardio?",
+    "answer": [
+      "b) Hipertrofia"
+    ],
+    "options": [
+      "a) Hiperplasia",
+      "b) Hipertrofia",
+      "c) Metaplasia",
+      "d) Apoptosis"
+    ],
+    "discipline": "AnatoP",
+    "comment": "La hipertensión arterial mantenida incrementa la resistencia vascular sistémica (poscarga). Como los miocardiocitos son células diferenciadas permanentes incapaces de dividirse (hiperplasia), responden al sobreesfuerzo crónico aumentando el tamaño de sus componentes estructurales (hipertrofia miocárdica)."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 54,
+    "question": "¿Cuál de los siguientes fenómenos tiene invariablemente un significado patológico?",
+    "answer": [
+      "b) Necrosis"
+    ],
+    "options": [
+      "a) Apoptosis",
+      "b) Necrosis",
+      "c) Atrofia",
+      "d) Hiperplasia"
+    ],
+    "discipline": "AnatoP",
+    "comment": "La necrosis es siempre un proceso patológico no regulado secundario a un daño celular irreversible severo (isquemia, infección, toxinas). En cambio, la apoptosis, la atrofia y la hiperplasia tienen causas tanto fisiológicas (desarrollo embrionario, involución hormonal) como patológicas."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 55,
+    "question": "¿Cuál de los siguientes es un estímulo para el inicio de la inflamación?",
+    "answer": [
+      "a) Reconocimiento del agente lesivo"
+    ],
+    "options": [
+      "a) Reconocimiento del agente lesivo",
+      "b) Reclutamiento de neutrófilos",
+      "c) Vasodilatación local"
+    ],
+    "discipline": "AnatoP",
+    "comment": "El paso inicial indispensable que gatilla la respuesta inflamatoria es el reconocimiento de patrones moleculares asociados a patógenos (PAMPs) o a daño (DAMPs) mediante receptores celulares (como TLRs). La vasodilatación y el reclutamiento leucocitario son eventos posteriores desencadenados por este reconocimiento."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 56,
+    "question": "Paciente de sexo femenino 33 años consulta por dispepsia. Se realiza biopsia gástrica y el estudio microscópico describe una pérdida focal del epitelio de superficie, asociado a exudado polimorfonuclear y tejido de granulación. Corresponde a una:",
+    "answer": [
+      "c) Lesión ulcerada"
+    ],
+    "options": [
+      "a) Lesión celular irreversible",
+      "b) Lesión cicatrizal",
+      "c) Lesión ulcerada"
+    ],
+    "discipline": "AnatoP",
+    "comment": "Una úlcera se define histológicamente como una excavación o brecha focal en la superficie de un órgano/mucosa producida por la esfacelación de tejido necrótico. El hallazgo de pérdida epitelial focal, infiltrado de polimorfonucleares y tejido de granulación de base es característico de inflamación ulcerada activa."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 57,
+    "question": "Si en un preparado histológico predomina un exudado integrado principalmente por macrófagos, linfocitos y plasmocitos estamos frente a una:",
+    "answer": [
+      "a) Inflamación crónica."
+    ],
+    "options": [
+      "a) Inflamación crónica.",
+      "b) Formación de absceso.",
+      "c) Inflamación aguda"
+    ],
+    "discipline": "AnatoP",
+    "comment": "El infiltrado leucocitario compuesto predominantemente por células mononucleares (macrófagos, linfocitos y células plasmáticas) es la característica morfológica definitoria de la inflamación crónica, mientras que la inflamación aguda está dominada por polimorfonucleares (neutrófilos)."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 58,
+    "question": "Un niño de 10 años se tropieza en la escuela y se raspa las palmas de las manos. Las heridas se limpian y cubren con gasa estéril. ¿Cuál de los siguientes términos caracteriza mejor la curación de estas lesiones superficiales?",
+    "answer": [
+      "c) Cicatrización por primera intención"
+    ],
+    "options": [
+      "a) Fibrosis",
+      "b) Tejido de granulación",
+      "c) Cicatrización por primera intención",
+      "d) Cicatrización por segunda intención"
+    ],
+    "discipline": "AnatoP",
+    "comment": "Las erosiones cutáneas limpia y superficiales que afectan principalmente la epidermis y mantienen intactos los bordes y la membrana basal curan por primera intención (reepitelización primaria con mínima pérdida tisular y escasa formación de cicatriz)."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 59,
+    "question": "Con respecto al proceso de reparación tisular, hablamos de regeneración cuando luego de una lesión:",
+    "answer": [
+      "c) Las células residuales proliferan para reemplazar el tejido lesionado"
+    ],
+    "options": [
+      "a) Se forma una cicatriz",
+      "b) Existen extensos depósitos de colágeno",
+      "c) Las células residuales proliferan para reemplazar el tejido lesionado",
+      "d) Las células residuales aumentan de tamaño para recuperar el tejido lesionado"
+    ],
+    "discipline": "AnatoP",
+    "comment": "La regeneración tisular consiste en el reemplazo de las células dañadas por proliferación de las células parenquimatosas no lesionadas o madre, restaurando por completo la estructura anatómica y funcional previa. La formación de tejido fibroso/cicatrizal constituye la vía de curación por reemplazo conjuntivo."
+  },
+  {
+    "info_quest": "3er Parcial 2021",
+    "numb": 60,
+    "question": "La formación de granulomas necrotizantes se puede ver en:",
+    "answer": [
+      "a) Tuberculosis"
+    ],
+    "options": [
+      "a) Tuberculosis",
+      "b) Sarcoidosis",
+      "c) Enfermedad de Crohn",
+      "d) Reacción a cuerpo extraño"
+    ],
+    "discipline": "AnatoP",
+    "comment": "La inflamación granulomatosa con necrosis caseificante (necrotizante) es el hallazgo patognomónico clásico de la infección por *Mycobacterium tuberculosis*. Entidades como la sarcoidosis, la enfermedad de Crohn o las reacciones a cuerpo extraño cursan típicamente con granulomas no necrotizantes."
+  },
+
+
   ////////////////////////////////////////////////////////////
   {
     "info_quest": "Examen 27/02/25",
@@ -20684,8 +23044,11 @@ let questions = [
 
 
 /////////////////////////////////////////////////////
+
+
+
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 1,
 "question":  "¿Cuál de los siguientes micromicetos puede causar muguet oral?",
 "answer": ["a. Candida albicans"],
@@ -20696,12 +23059,12 @@ let questions = [
 "d. Cryptococcus neoformans",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "A es correcta porque Candida albicans es un hongo oportunista que puede causar muguet oral, especialmente en personas inmunocomprometidas o con alteraciones en la microbiota oral. B, C y D son incorrectas porque Malassezia furfur está asociada a pitiriasis versicolor, Histoplasma capsulatum causa histoplasmosis y Cryptococcus neoformans está relacionado con infecciones sistémicas, particularmente en el sistema nervioso central.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 2,
 "question":  "¿Cuál de las siguientes micosis es una micosis profunda por implantación?",
 "answer": ["c. Esporotricosis"],
@@ -20712,12 +23075,12 @@ let questions = [
 "d. Pneumocistosis",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "C es correcta porque la esporotricosis es una micosis profunda que se adquiere por implantación de los hongos en la piel tras una lesión traumatica. A, B y D son incorrectas porque la candidiasis es una micosis superficial, la aspergilosis es una micosis profunda sistémica y la pneumocistosis es una micosis profunda pulmonar.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 3,
 "question":  "¿Cuál es la característica clínica más común de la dermatofitosis al afectar la piel?",
 "answer": ["c. Placas eritematosas anulares con borde activo y descamación central"],
@@ -20728,12 +23091,12 @@ let questions = [
 "d. Máculas hipopigmentadas confluentes con descamación fina periférica",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "C es correcta porque las dermatofitosis presentan lesiones típicas en la piel con placas eritematosas anulares, borde activo y descamación central. A, B y D son incorrectas porque representan otras condiciones cutáneas con características clínicas diferentes.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 4,
 "question":  "¿Qué espera observar al microscopio óptico en el examen directo con hidróxido de potasio de una muestra superficial de una persona que cursa una dermatofitosis?",
 "answer": ["c. Hifas de más de 1 micra de ancho, hialinas, tabicadas y ramificadas"],
@@ -20744,12 +23107,12 @@ let questions = [
 "d. Filamentos de menos de 1 micra de ancho, con pocos o sin tabiques",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "C es correcta porque las hifas de los dermatofitos son características en el examen directo con hidróxido de potasio, mostrando una estructura hialina, tabicada y ramificada. A, B y D son incorrectas porque representan otras estructuras fúngicas diferentes.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 5,
 "question":  "¿Cuál es la principal característica patogénica de los dermatofitos?",
 "answer": ["c. Queratinofilia"],
@@ -20760,12 +23123,12 @@ let questions = [
 "d. Melanodermia",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "C es correcta porque la queratinofilia es la capacidad de los dermatofitos para invadir y destruir la queratina, que es el principal componente de la piel y uñas.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 6,
 "question":  "¿Cuál de los siguientes Dermatofitos es antropofílico?",
 "answer": ["c. Epidermophyton floccosum"],
@@ -20776,12 +23139,12 @@ let questions = [
 "d. Trichophyton mentagrophytes",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "C es correcta porque Epidermophyton floccosum es un dermatofito antropofílico, lo que significa que se transmite principalmente de humano a humano.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 7,
 "question":  "¿Qué estructuras fúngicas se observan al microscopio en un cultivo de dermatofitos?",
 "answer": ["c. Filamentos hialinos y tabicados"],
@@ -20792,12 +23155,12 @@ let questions = [
 "d. Microconidios con distribución en forma de margarita",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "C es correcta porque en un cultivo de dermatofitos se observan filamentos hialinos y tabicados, que son características morfológicas de estos hongos.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 8,
 "question":  "¿Cuál de las siguientes presentaciones es típica de la candidiasis superficial?",
 "answer": ["c. Lesiones eritematosas con placas blanquecinas removibles en mucosa oral"],
@@ -20808,12 +23171,12 @@ let questions = [
 "d. Máculas hipopigmentadas con descamación en el tronco y miembros superiores",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "C es correcta porque la candidiasis superficial presenta lesiones eritematosas con placas blanquecinas removibles en la mucosa oral, típicas de esta condición. A, B y D son incorrectas porque representan otras condiciones cutáneas o mucosas con características clínicas diferentes.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 9,
 "question":  "¿Cuál de las siguientes presentaciones clínicas es más característica de toxocariasis ocular?",
 "answer": ["c. Lesión retiniana granulomatosa unilateral con disminución progresiva de la visión"],
@@ -20824,12 +23187,12 @@ let questions = [
 "d. Queratitis punteada superficial de presentación unilateral con lagrimeo y fotofobia",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "C es correcta porque la toxocariasis ocular presenta lesiones retinianas granulomatosas unilaterales con disminución progresiva de la visión, típicas de esta condición. A, B y D son incorrectas porque representan otras condiciones oculares con características clínicas diferentes.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 10,
 "question":  "¿Cuál de los siguientes hallazgos clínicos es más sugestivo de queratitis por Acanthamoeba spp en un paciente usuario de lentes de contacto?",
 "answer": ["a. Infiltrado anular corneal con intenso dolor ocular"],
@@ -20840,12 +23203,12 @@ let questions = [
 "d. Múltiples puntos corneales blanco grisáceos y abundante secreción purulenta",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "A es correcta porque el infiltrado anular corneal con intenso dolor ocular es un hallazgo sugestivo de queratitis por Acanthamoeba spp en pacientes usuario de lentes de contacto.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 11,
 "question":  "¿Cuál de los siguientes hallazgos clínicos es más característico de la toxoplasmosis ocular activa?",
 "answer": ["c. Lesión coriorretiniana unilateral con intensa vitritis y signo de faro en la niebla"],
@@ -20856,12 +23219,12 @@ let questions = [
 "d. Uveítis anterior bilateral con precipitados retroqueráticos y sinequias posteriores",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "C es correcta porque la toxoplasmosis ocular activa presenta lesiones coriorretinianas unilaterales con intensa vitritis y signo de faro en la niebla, características de esta condición. A, B y D son incorrectas porque representan otras condiciones oculares con características clínicas diferentes.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 12,
 "question":  "¿Cuál de las siguientes alteraciones constatadas por tomografía computarizada de cráneo son características de la toxoplasmosis encefálica en personas inmunocomprometidas?",
 "answer": ["d. Lesiones anulares múltiples con realce periférico que predominan en los ganglios basales"],
@@ -20872,12 +23235,12 @@ let questions = [
 "d. Lesiones anulares múltiples con realce periférico que predominan en los ganglios basales",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "D es correcta porque las lesiones anulares múltiples con realce periférico que predominan en los ganglios basales son características de la toxoplasmosis encefálica en personas inmunocomprometidas.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 13,
 "question":  "¿Cuál es el principal mecanismo patogénico responsable del desarrollo de toxoplasmosis encefálica en personas inmunocomprometidas?",
 "answer": ["b. Reactivación de quistes tisulares latentes ante la disminución de la inmunidad celular"],
@@ -20888,12 +23251,12 @@ let questions = [
 "d. Activación de la respuesta inmune humoral con depósito de complejos inmunes en el sistema nervioso central",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "B es correcta porque la toxoplasmosis encefálica en personas inmunocomprometidas se desarrolla principalmente por la reactivación de quistes tisulares latentes cuando hay una disminución de la inmunidad celular. A, C y D son incorrectas porque no representan el mecanismo patogénico principal en este contexto.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 14,
 "question":  "¿Cuál de las siguientes vías representa un mecanismo válido de transmisión de Toxoplasma gondii al ser humano?",
 "answer": ["b. El consumo de carne cruda o mal cocida que contenga quistes tisulares"],
@@ -20904,12 +23267,12 @@ let questions = [
 "d. El consumo de carne cruda o mal cocida que contenga ooquistes tisulares",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "B es correcta porque la transmisión de Toxoplasma gondii al ser humano puede ocurrir a través del consumo de carne cruda o mal cocida que contenga quistes tisulares. A, C y D son incorrectas porque los quistes no esporulados y los ooquistes no son formas infectantes para el ser humano.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 15,
 "question":  "¿Cuál es la vía de infección para el ser humano en el caso de la equinococosis quística?",
 "answer": ["d. Ingesta de huevos del parásito en agua o alimentos contaminados con heces de cánidos"],
@@ -20920,12 +23283,12 @@ let questions = [
 "d. Ingesta de huevos del parásito en agua o alimentos contaminados con heces de cánidos",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "D es correcta porque la equinococosis quística se transmite al ser humano a través de la ingestión de huevos del parásito presentes en agua o alimentos contaminados con heces de cánidos.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 16,
 "question":  "¿Cuál de las siguientes situaciones representa un riesgo para el desarrollo de la neurocisticercosis en el ser humano?",
 "answer": ["c. Ingesta de agua o vegetales contaminados con huevos de Taenia solium"],
@@ -20936,12 +23299,12 @@ let questions = [
 "d. Ingesta de agua o vegetales contaminados con huevos de Taenia saginata",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "C es correcta porque la neurocisticercosis se desarrolla cuando el ser humano ingiere huevos de Taenia solium, que se desarrollan en cisticercos en el sistema nervioso central.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 17,
 "question":  "¿Cuál es la forma infectante de Fasciola hepática en infecciones humanas?",
 "answer": ["d. Metacercaria"],
@@ -20952,12 +23315,12 @@ let questions = [
 "d. Metacercaria",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "D es correcta porque la metacercaria es la forma infectante de Fasciola hepática en infecciones humanas.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 18,
 "question":  "¿Cuál de las siguientes parasitosis es una zoonosis?",
 "answer": ["c. Equinococosis quística"],
@@ -20968,12 +23331,12 @@ let questions = [
 "d. Anquilostomiasis intestinal",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "C es correcta porque la equinococosis quística es una zoonosis, transmitida al ser humano a través de la ingestión de huevos del parásito presentes en heces de cánidos. A, B y D son incorrectas porque representan parasitosis que no son zoonóticas.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 19,
 "question":  "¿Cuál es el fármaco de elección para tratar un paciente con enfermedad de Chagas?",
 "answer": ["a. Nifurtimox"],
@@ -20985,12 +23348,12 @@ let questions = [
 "e. Triclabendazol",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "A es correcta porque el nifurtimox es el fármaco de elección para tratar la enfermedad de Chagas en su fase aguda y crónica temprana.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 20,
 "question":  "¿Cuál de las siguientes muestras biológicas se analiza para confirmar o descartar malaria en un paciente que se presenta como caso sospechoso?",
 "answer": ["b. Sangre"],
@@ -21001,12 +23364,12 @@ let questions = [
 "d. Ganglio linfático",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "B es correcta porque la sangre es la muestra biológica más utilizada para confirmar o descartar malaria en pacientes sospechosos.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 21,
 "question":  "¿Cuál de las siguientes opciones describe correctamente a un vector biológico?",
 "answer": ["b. Organismo que transmite un patógeno entre hospederos y en el que ese patógeno se desarrolla o multiplica, siendo imprescindible para completar su ciclo de vida"],
@@ -21017,12 +23380,12 @@ let questions = [
 "d. Organismo que transmite un patógeno entre hospederos y en el que ese patógeno no se desarrolla ni multiplica, siendo imprescindible para completar su ciclo de vida",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "B es correcta porque un vector biológico, el patógeno se desarrolla o multiplica dentro del vector y es imprescindible para completar su ciclo de vida. A, C y D son incorrectas porque no cumplen con la definición de vector biológico.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 22,
 "question":  "¿Cuál es el vector de la Leishmaniasis visceral en nuestro país?",
 "answer": ["c. Lutzomyia longipalpis"],
@@ -21034,12 +23397,12 @@ let questions = [
 "e. Culex quinquefasciatus",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "C es correcta porque Lutzomyia longipalpis es el vector principal de la leishmaniasis visceral en nuestro país.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 23,
 "question":  "¿Qué forma evolutiva de Leishmania spp es transmitida por el vector durante la picadura?",
 "answer": ["c. Promastigote"],
@@ -21050,12 +23413,12 @@ let questions = [
 "d. Trypomastigote",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "C es correcta porque el promastigote es la forma evolutiva de Leishmania spp que es transmitida por el vector durante la picadura.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 24,
 "question":  "¿Mediante cuál de los siguientes mecanismos los triatominos transmiten Trypanosoma cruzi al hospedero?",
 "answer": ["d. Contaminación"],
@@ -21066,12 +23429,12 @@ let questions = [
 "d. Contaminación",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "D es correcta porque los triatominos transmiten Trypanosoma cruzi al hospedero mediante la contaminación de la piel o mucosas con sus heces que contienen el parásito. A, B y C son incorrectas porque no representan el mecanismo de transmisión de T. cruzi por triatominos.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 25,
 "question":  "¿Qué característica de un insecto hemíptero es la más importante para identificar si es hematófago (triatomino) o predador?",
 "answer": ["b. Morfología de la probóscide"],
@@ -21082,12 +23445,12 @@ let questions = [
 "d. Ubicación de las antenas con respecto a los ojos",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "B es correcta porque la morfología de la probóscide es la característica más importante para distinguir entre insectos hematófagos (triatominos) y predadores.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 26,
 "question":  "¿Qué especies de moscas presentes en nuestro país provocan miasis forunculosa?",
 "answer": ["b. Dermatobia hominis"],
@@ -21098,12 +23461,12 @@ let questions = [
 "d. Cochliomyia hominivorax",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "B es correcta porque Dermatobia hominis es la especie de mosca que provoca miasis forunculosa en nuestro país.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 27,
 "question":  "¿Cuál de las siguientes pruebas realizadas al líquido cefalorraquídeo tiene mayor sensibilidad para el diagnóstico de criptococosis meníngea?",
 "answer": ["c. Detección de antígeno criptocócico con test de aglutinación de partículas de látex"],
@@ -21119,7 +23482,7 @@ let questions = [
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 28,
 "question":  "¿Cuál de las siguientes características de Pneumocystis jirovecii es clave para su persistencia y patogenicidad en pacientes inmunocomprometidos?",
 "answer": ["c. Presencia de formas quísticas con pared rica en β-glucanos que contribuyen a la resistencia a la fagocitosis y estimulan una respuesta inflamatoria pulmonar"],
@@ -21130,12 +23493,12 @@ let questions = [
 "d. Reproducción por brotación múltiple en forma de levadura capsulada dentro de macrófagos pulmonares y diseminación a otros órganos por vía linfohemática",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "C es correcta porque las formas quísticas de Pneumocystis jirovecii tienen una pared rica en β-glucanos que les confieren resistencia a la fagocitosis y estimulan una respuesta inflamatoria pulmonar.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 29,
 "question":  "¿Cuál es el mecanismo principal por el cual Pneumocystis jirovecii causa neumonía en inmunocomprometidos?",
 "answer": ["c. Proliferación intraalveolar con daño inflamatorio mediado por la respuesta inmunitaria"],
@@ -21146,12 +23509,12 @@ let questions = [
 "d. Invasión y destrucción masiva de células epiteliales bronquiales con inflamación perilesional",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "C es correcta porque Pneumocystis jirovecii causa neumonía en inmunocomprometidos principalmente mediante la proliferación intraalveolar y el daño inflamatorio mediado por la respuesta inmunitaria.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 30,
 "question":  "¿Cuál de los siguientes cuadros clínicos pueden representar una complicación de una ascaridiasis?",
 "answer": ["c. Obstrucción intestinal"],
@@ -21162,12 +23525,12 @@ let questions = [
 "d. Colitis pseudomembranosa",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "C es correcta porque la obstrucción intestinal es una complicación común de la ascaridiasis.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 31,
 "question":  "¿Cuál de los siguientes helmintos presenta migración larvaria a través del torrente sanguíneo y linfático a los pulmones?",
 "answer": ["d. Strongyloides stercoralis"],
@@ -21178,12 +23541,12 @@ let questions = [
 "d. Strongyloides stercoralis",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "D es correcta porque Strongyloides stercoralis es un helminto que presenta migración larvaria a través del torrente sanguíneo y linfático a los pulmones.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 32,
 "question":  "¿Cuál de los siguientes parásitos presenta un ciclo heteroxeno?",
 "answer": ["a. Taenia solium"],
@@ -21199,7 +23562,7 @@ let questions = [
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 33,
 "question":  "¿Cuál de las siguientes estructuras de Giardia lamblia es responsable de causar daño traumático como parte de su mecanismo patogénico?",
 "answer": ["b. Disco suctor"],
@@ -21210,12 +23573,12 @@ let questions = [
 "d. Cuerpos parabasales",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "B es correcta porque el disco suctor de Giardia lamblia es responsable de causar daño traumático al adherirse a las células del intestino delgado.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 34,
 "question":  "¿Cuál es el tiempo mínimo que requieren los huevos de Enterobius vermicularis para volverse infectantes después de la oviposición por parte de la hembra?",
 "answer": ["b. 4 horas"],
@@ -21226,12 +23589,12 @@ let questions = [
 "d. 4 semanas",
 ],
 "discipline": "Parasito",
-"comment": "",
+"comment": "B es correcta porque los huevos de Enterobius vermicularis requieren aproximadamente 4 horas para volverse infectantes después de la oviposición.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 35,
 "question":  "¿Cuál de estas técnicas es el gold standard para diagnosticar una infección por Enterobius vermicularis?",
 "answer": ["c. Espátula adhesiva"],
@@ -21247,7 +23610,7 @@ let questions = [
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 36,
 "question":  "¿Qué tipo de alteración se asocia con Escherichia coli enteropatógeno clásico en el curso de la diarrea?",
 "answer": ["a. Unión íntima al enterocito y borramiento del borde en cepillo"],
@@ -21257,12 +23620,12 @@ let questions = [
 "c. Aumento de la secreción de sodio y agua causado por la producción de toxinas",
 ],
 "discipline": "Bacterio",
-"comment": "",
+"comment": "A es correcta porque Escherichia coli enteropatógeno clásico se adhiere íntimamente a los enterocitos y causa el borramiento del borde en cepillo, lo que resulta en diarrea.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 37,
 "question":  "¿Cuál de las siguientes son características microbiológicas de Salmonella spp?",
 "answer": ["c. Bacilo Gram negativo, móvil, resistente a pH ácido"],
@@ -21273,12 +23636,12 @@ let questions = [
 "d. Bacilo Gram positivo, inmóvil, resistente a pH ácido",
 ],
 "discipline": "Bacterio",
-"comment": "",
+"comment": "C es correcta porque Salmonella spp es un bacilo Gram negativo, móvil y resistente a pH ácido, lo que le permite sobrevivir en el ambiente gastrointestinal y causar infecciones.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 38,
 "question":  "¿Cuál de los siguientes microorganismos es la causa más frecuente de infecciones del tracto urinario en mujeres post menopausia?",
 "answer": ["a. Escherichia coli"],
@@ -21289,12 +23652,12 @@ let questions = [
 "d. Staphylococcus saprophyticus",
 ],
 "discipline": "Bacterio",
-"comment": "",
+"comment": "A es correcta porque Escherichia coli es la causa más frecuente de infecciones del tracto urinario en mujeres post menopausia.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 39,
 "question":  "¿Cuáles de los siguientes dos analitos en la tira reactiva de orina son en conjunto buenos predictores de infección del tracto urinario?",
 "answer": ["c. Esterasas leucocitarias y nitritos"],
@@ -21305,12 +23668,12 @@ let questions = [
 "d. Esterasas leucocitarias y hemoglobinuria",
 ],
 "discipline": "Bacterio",
-"comment": "",
+"comment": "C es correcta porque la presencia de esterasas leucocitarias y nitritos en la tira reactiva de orina son buenos predictores de infección del tracto urinario, indicando la presencia de leucocitos y bacterias reductoras de nitratos, respectivamente.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 40,
 "question":  "¿Cómo se realiza el procesamiento de la muestra de urocultivo para poder estimar el recuento de unidades formadoras de colonia en el diagnóstico de una infección del tracto urinario?",
 "answer": ["a. Mediante siembra de un volumen conocido de orina"],
@@ -21321,12 +23684,12 @@ let questions = [
 "d. Mediante preparación de frotis de un volumen conocido y recuento microscópico",
 ],
 "discipline": "Bacterio",
-"comment": "",
+"comment": "A es correcta porque el procesamiento de la muestra de urocultivo para estimar el recuento de unidades formadoras de colonia se realiza mediante la siembra de un volumen conocido de orina en un medio de cultivo adecuado, lo que permite calcular la concentración bacteriana en la muestra.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 41,
 "question":  "¿Cuál de los siguientes agentes virales involucrados en infecciones del sistema nervioso central alternan entre ciclos de latencia y reactivación?",
 "answer": ["d. Virus del herpes simple tipo 1"],
@@ -21337,12 +23700,12 @@ let questions = [
 "d. Virus del herpes simple tipo 1",
 ],
 "discipline": "Bacterio",
-"comment": "",
+"comment": "D es correcta porque el virus del herpes simple tipo 1 es un agente viral que puede alternar entre ciclos de latencia y reactivación en el sistema nervioso central.   ",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 42,
 "question":  "¿Cuál es el mecanismo de acción del aciclovir?",
 "answer": ["b. Inhibe la síntesis de ADN viral"],
@@ -21353,12 +23716,12 @@ let questions = [
 "d. Inhibe la maduración de viriones",
 ],
 "discipline": "Bacterio",
-"comment": "",
+"comment": "B es correcta porque el aciclovir inhibe la síntesis de ADN viral, lo que impide la replicación del virus.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 43,
 "question":  "¿En qué etapa de la infección del sistema nervioso central es crucial la cápsula de Neisseria meningitidis?",
 "answer": ["b. En la persistencia en la sangre una vez generada la bacteriemia"],
@@ -21368,12 +23731,12 @@ let questions = [
 "c. En la lesión del endotelio vascular con la formación de petequias",
 ],
 "discipline": "Bacterio",
-"comment": "",
+"comment": "B es correcta porque la cápsula de Neisseria meningitidis es crucial para la persistencia en la sangre una vez generada la bacteriemia, ya que protege a la bacteria de la fagocitosis y del sistema inmune del huésped.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 44,
 "question":  "¿Qué implicancia tiene para Streptococcus pneumoniae la presencia de (PBPs) mosaico?",
 "answer": ["a. Resistencia gradual a β-lactámicos"],
@@ -21384,12 +23747,12 @@ let questions = [
 "d. Facilita la producción de carbapenemasas",
 ],
 "discipline": "Bacterio",
-"comment": "",
+"comment": "A es correcta porque la presencia de proteínas ligadoras de penicilina (PBPs) mosaico en Streptococcus pneumoniae se asocia con resistencia gradual a los antibióticos β-lactámicos, lo que dificulta el tratamiento de las infecciones causadas por esta bacteria.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 45,
 "question":  "¿Cómo es la composición de la vacuna contra neumococo que se administra en los lactantes como parte del esquema de vacunación?",
 "answer": ["e. 13 tipos de polisacáridos capsulares conjugados a proteínas"],
@@ -21401,12 +23764,12 @@ let questions = [
 "e. 13 tipos de polisacáridos capsulares conjugados a proteínas",
 ],
 "discipline": "Bacterio",
-"comment": "",
+"comment": "E es correcta porque la vacuna contra neumococo contiene 13 tipos de polisacáridos capsulares conjugados a proteínas, lo que mejora la respuesta inmune en los lactantes.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 46,
 "question":  "¿Cuál de las siguientes características estructurales de la partícula viral, se asocian a la alta variabilidad genética del virus Influenza?",
 "answer": ["b. Presentar genoma de ARN segmentado"],
@@ -21416,12 +23779,12 @@ let questions = [
 "c. Presentar más de un tipo de espículas de superficie",
 ],
 "discipline": "Bacterio",
-"comment": "",
+"comment": "B es correcta porque el genoma de ARN segmentado del virus de la influenza permite la reassortment genético, lo que resulta en alta variabilidad genética.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 47,
 "question":  "¿Cómo es la composición de la vacuna contra Influenza que se administra en Uruguay?",
 "answer": ["c. 2 cepas inactivadas de Influenza A y 1 de Influenza B circulantes en el hemisferio norte el invierno anterior"],
@@ -21431,12 +23794,12 @@ let questions = [
 "c. 2 cepas inactivadas de Influenza A y 1 de Influenza B circulantes en el hemisferio norte el invierno anterior",
 ],
 "discipline": "Bacterio",
-"comment": "",
+"comment": "C es correcta porque la vacuna contra Influenza que se administra en Uruguay contiene 2 cepas inactivadas de Influenza A y 1 de Influenza B circulantes en el hemisferio norte el invierno anterior.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 48,
 "question":  "¿Cuál es el efecto característico del virus respiratorio sincicial (VRS) en los cultivos celulares?",
 "answer": ["c. Formación de grandes células multinucleadas en la monocapa"],
@@ -21446,12 +23809,12 @@ let questions = [
 "c. Formación de grandes células multinucleadas en la monocapa",
 ],
 "discipline": "Bacterio",
-"comment": "",
+"comment": "C es correcta porque el virus respiratorio sincicial (VRS) induce la formación de sincitios, que son grandes células multinucleadas, en los cultivos celulares infectados.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 49,
 "question":  "¿Cómo se disemina el virus respiratorio sincicial (VRS) al tracto respiratorio bajo?",
 "answer": ["a. Continuidad"],
@@ -21461,12 +23824,12 @@ let questions = [
 "c. Luego de una viremia menor",
 ],
 "discipline": "Bacterio",
-"comment": "",
+"comment": "A es correcta porque el virus respiratorio sincicial (VRS) se disemina al tracto respiratorio bajo principalmente por vía aérea, a través de la continuidad del tracto respiratorio superior.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 50,
 "question":  "¿Cuál de las siguientes características distingue a Mycoplasma pneumoniae de otras bacterias causantes de neumonía?",
 "answer": ["a. Carecer de pared celular"],
@@ -21476,12 +23839,12 @@ let questions = [
 "c. Poseer cápsula polisacárida",
 ],
 "discipline": "Bacterio",
-"comment": "",
+"comment": "A es correcta porque Mycoplasma pneumoniae es una bacteria que carece de pared celular, lo que la hace resistente a los antibióticos que actúan sobre la pared bacteriana.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 51,
 "question":  "¿Qué método de estudio podría utilizarse para realizar diagnóstico etiológico en casos de neumonía por Mycoplasma pneumoniae?",
 "answer": ["c. Búsqueda de secuencias específicas de ácidos nucleicos en muestra de nasofaringe"],
@@ -21491,12 +23854,12 @@ let questions = [
 "c. Búsqueda de secuencias específicas de ácidos nucleicos en muestra de nasofaringe",
 ],
 "discipline": "Bacterio",
-"comment": "",
+"comment": "C es correcta porque el diagnóstico etiológico de la neumonía por Mycoplasma pneumoniae puede realizarse mediante la búsqueda de secuencias específicas de ácidos nucleicos en una muestra de nasofaringe.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 52,
 "question":  "¿Dónde queda latente el virus de la Varicela Zoster luego de la primo-infección?",
 "answer": ["c. En los ganglios del sistema nervioso periférico para-espinales"],
@@ -21506,12 +23869,12 @@ let questions = [
 "c. En los ganglios del sistema nervioso periférico para-espinales",
 ],
 "discipline": "Bacterio",
-"comment": "",
+"comment": "C es correcta porque el virus de la Varicela Zoster queda latente en los ganglios del sistema nervioso periférico para-espinales después de la primo-infección.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 53,
 "question":  "¿Cuál de los siguientes factores de virulencia de Streptococcus pyogenes presenta función de adherencia, inhibición de la fagocitosis e invasión de las células epiteliales?",
 "answer": ["a. Proteína M"],
@@ -21522,12 +23885,12 @@ let questions = [
 "d. Cápsula ácido hialurónico",
 ],
 "discipline": "Bacterio",
-"comment": "",
+"comment": "A es correcta porque la proteína M de Streptococcus pyogenes facilita la adherencia a las células epiteliales, inhibe la fagocitosis y contribuye a la invasión del tejido.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 54,
 "question":  "¿Cuál de los siguientes mecanismos inmunopatológicos explica el desarrollo de fiebre reumática tras una faringitis estreptocócica por Streptococcus pyogenes?",
 "answer": ["d. Reacción cruzada de anticuerpos antiestreptocócicos con antígenos del huésped"],
@@ -21538,12 +23901,12 @@ let questions = [
 "d. Reacción cruzada de anticuerpos antiestreptocócicos con antígenos del huésped",
 ],
 "discipline": "Bacterio",
-"comment": "",
+"comment": "D es correcta porque la fiebre reumática es una enfermedad autoinmune que puede desarrollarse tras una infección por Streptococcus pyogenes, debido a una reacción cruzada de anticuerpos antiestreptocócicos con antígenos del huésped.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 55,
 "question": "¿Cuál de los siguientes factores de virulencia de Staphylococcus aureus es responsable de las manifestaciones clínicas observadas en el síndrome de la piel escaldada?",
 "answer": ["c. Toxina epidermolítica"],
@@ -21554,12 +23917,12 @@ let questions = [
 "d. Leucocidina de Panton Valentine",
 ],
 "discipline": "Bacterio",
-"comment": "",
+"comment": "C es correcta porque la toxina epidermolítica de Staphylococcus aureus es responsable de las manifestaciones clínicas del síndrome de la piel escaldada.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 56,
 "question":  "¿Cómo espera observar al microscopio óptico a Staphylococcus aureus en el examen directo de un absceso teñido con Gram?",
 "answer": ["b. Cocos Gram positivos agrupados en racimos"],
@@ -21570,12 +23933,12 @@ let questions = [
 "d. Cocos Gram negativos agrupados en racimos",
 ],
 "discipline": "Bacterio",
-"comment": "",
+"comment": "B es correcta porque Staphylococcus aureus es una bacteria Gram positiva que forma racimos.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 57,
 "question":  "¿Cuál de los siguientes antibióticos betalactámicos puede ser útil en el tratamiento de una infección por una cepa de Staphylococcus aureus meticilino resistente?",
 "answer": ["e. Cefalosporinas de quinta generación"],
@@ -21587,12 +23950,12 @@ let questions = [
 "e. Cefalosporinas de quinta generación",
 ],
 "discipline": "Bacterio",
-"comment": "",
+"comment": "E es correcta porque las cefalosporinas de quinta generación son efectivas contra Staphylococcus aureus meticilino resistente.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 58,
 "question":  "¿Cuál es la principal vía de transmisión del virus de la hepatitis A (VHA)?",
 "answer": ["b. Fecal-oral"],
@@ -21602,12 +23965,12 @@ let questions = [
 "c. Parenteral",
 ],
 "discipline": "Bacterio",
-"comment": "",
+"comment": "B es correcta porque el virus de la hepatitis A se transmite principalmente por vía fecal-oral.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 59,
 "question":  "Paciente adulto, 55 años, consulta por síntomas sugestivos de hepatitis de etiología viral. A continuación, se presentan los resultados de estudios serológicos. <br>  Anticuerpos totales contra Virus de la Hepatitis C (VHC): POSITIVO <br> Anticuerpos totales contra Virus de la Hepatitis A (VHA): POSITIVO <br> Anticuerpos de tipo IgM contra Virus de la Hepatitis A: NEGATIVO <br> Antígeno S del Virus de la Hepatitis B (VHB): NEGATIVO <br> Anticuerpos contra el antígeno S del Virus de la Hepatitis B (VHB): POSITIVO <br> Anticuerpos contra el antígeno del core del Virus de la Hepatitis B (VHB): NEGATIVO <br> ¿Cuál es el planteo etiológico más probable?",
 "answer": ["c. Tiene una probable infección por VHC, está vacunado para VHB y cursó anteriormente infección por VHA"],
@@ -21618,12 +23981,12 @@ let questions = [
 "d. Tiene una infección crónica por VHB, cursó anteriormente hepatitis C y está vacunado para VHA",
 ],
 "discipline": "Bacterio",
-"comment": "",
+"comment": "C es correcta porque el paciente tiene una probable infección por VHC, está vacunado para VHB y cursó anteriormente infección por VHA.",
 },
 
 
 {
-"info_quest": "1P2025",
+"info_quest": "2do Parcial 2025",
 "numb": 60,
 "question":  "¿Cuáles de las siguientes características del virus de la hepatitis C (VHC) explican la presencia de múltiples sub-genotipos circulantes?",
 "answer": ["b. Alta tasa de mutación de los virus ARN y capacidad de recombinación"],
@@ -21634,14 +23997,14 @@ let questions = [
 "d. Alta tasa de mutación de los virus ADN y capacidad de reordenamiento",
 ],
 "discipline": "Bacterio",
-"comment": "",
+"comment": "B es correcta porque el virus de la hepatitis C tiene una alta tasa de mutación debido a la falta de enzima de corrección en su proceso de replicación, y también tiene la capacidad de recombinación.",
 },
 
 
 
 /////////////////////////////////////////////////////
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 1,
 "question": "¿Qué resultados de las pruebas catalasa y coagulasa permiten identificar Staphylococcus aureus?",
 "answer": ["a) Catalasa positiva, coagulasa positiva"],
@@ -21656,7 +24019,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 2,
 "question": "Se realiza un antibiograma de un aislamiento de Staphylococcus aureus donde se observa un halo de inhibición del crecimiento de 10 mm de diámetro alrededor del disco de cefoxitina, que se interpreta como resistente de acuerdo a los puntos de corte utilizados (<=21 mm). ¿Cómo considera este resultado?",
 "answer": ["c) Resistente a todos los β-lactámicos, con excepción de cefalosporinas de quinta generación"],
@@ -21671,7 +24034,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 3,
 "question": "En un frotis teñido con Gram de una muestra de expectoración, ¿qué hallazgos indican que se trata de una muestra representativa del tracto respiratorio inferior?",
 "answer": ["b) Presencia de abundantes leucocitos polimorfonucleares y escasas células epiteliales, con predominio de una morfología bacteriana."],
@@ -21685,7 +24048,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 4,
 "question": "En una muestra de expectoración sembrada en agar sangre e incubada a 37ºC en CO2 se observan colonias pequeñas, grisáceas, alfa-hemolíticas. Resultan catalasa negativa y al microscopio óptico se ven como diplococos Gram positivos. ¿Cuál de las siguientes pruebas realizaría para identificar al microorganismo del que se sospecha?",
 "answer": ["a) Susceptibilidad a la optoquina"],
@@ -21700,7 +24063,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 5,
 "question": "¿Cuál es la principal utilidad de la microscopía en el estudio directo de la materia fecal como parte del coprocultivo?",
 "answer": ["b) Observar la presencia de leucocitos"],
@@ -21715,7 +24078,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 6,
 "question": "¿Cuál de las siguientes es una característica del medio agar MacConkey lactosa que lo hace adecuado para la siembra de coprocultivos?",
 "answer": ["b) Es un medio selectivo, que inhibe el crecimiento de la mayoría de las bacterias de la microbiota fecal."],
@@ -21729,7 +24092,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 7,
 "question": "Se realiza la siembra de una prueba de triple azúcar hierro (TSI) cuyo resultado luego de la incubación en estufa durante 18 horas muestra todo el medio de color amarillo (en fondo y pico), y la presencia de burbujas en el fondo del tubo. ¿Cómo se interpreta este resultado?",
 "answer": ["a) Fermentación de glucosa, fermentación de lactosa y/o sacarosa, producción de gas, H2S negativo"],
@@ -21744,7 +24107,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 8,
 "question": "En un paciente con disuria y leucocitos en la orina, se realiza un urocultivo a partir de una muestra de orina obtenida por chorro medio. Como resultado se obtuvo un desarrollo de más de 100.000 UFC/mL de una enterobacteria en agar MacConkey lactosa. ¿Cuál es la interpretación más adecuada?",
 "answer": ["a) Recuento significativo por infección urinaria"],
@@ -21759,7 +24122,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 9,
 "question": "¿Cuál es una recomendación para prevenir la primoinfección por Citomegalovirus (CMV) en la embarazada?",
 "answer": ["b) No compartir vasos, cubiertos o mate"],
@@ -21774,7 +24137,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 10,
 "question": "Frente a la sospecha de infección por Citomegalovirus (CMV) en una embarazada, se obtiene el siguiente perfil serológico: IgM reactiva, IgG reactiva de baja avidez. ¿Cómo interpreta estos resultados?",
 "answer": ["c) Se trata de una primoinfección"],
@@ -21788,7 +24151,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 11,
 "question": "¿Cuál es el principal factor de riesgo para la sepsis neonatal precoz por Streptococcus agalactiae?",
 "answer": ["c) La colonización genital o rectal materna con dicho agente durante la gestación"],
@@ -21802,7 +24165,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 12,
 "question": "¿Cuál es la vía de infección más frecuente por Mycobacterium tuberculosis en humanos?",
 "answer": ["a) Inhalación de gotículas respiratorias"],
@@ -21817,7 +24180,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 13,
 "question": "¿Cuál de las siguientes características corresponde a la infección tuberculosa latente?",
 "answer": ["a) ausencia de síntomas y signos"],
@@ -21831,7 +24194,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 14,
 "question": "¿Cuál de los siguientes componentes es responsable de la resistencia de Mycobacterium tuberculosis a la decoloración por alcohol-ácido?",
 "answer": ["c) Ácidos micólicos"],
@@ -21846,7 +24209,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 15,
 "question": "¿Con qué receptores celulares interactúa y se une la glicoproteína de envoltura gp120 del Virus de la Inmunodeficiencia Humana (VIH) para su entrada en la célula hospedera?",
 "answer": ["d) Al receptor CD4 y a los co-receptores CCR5/CXCR4 de los linfocitos T"],
@@ -21861,7 +24224,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 16,
 "question": "El término provirus en el ciclo viral del Virus de la Inmunodeficiencia Humana (VIH) hace referencia a:",
 "answer": ["b) El ADNc del genoma viral integrado al genoma celular"],
@@ -21876,7 +24239,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 17,
 "question": "¿Cuál de las siguientes familias de antibióticos que comparten mecanismo de acción, comparten también un mecanismo de resistencia?",
 "answer": ["c) Macrólidos, lincosamidas y estreptograminas b"],
@@ -21890,7 +24253,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 18,
 "question": "Algunos inhibidores de β-lactamasas además de usarse en el tratamiento de infecciones, uelen ser utilizados en el laboratorio para identificar tipos de β-lactamasas. Teniendo en cuenta los inhibidores ácido clavulánico, tazobactam y avibactam, ¿qué perfil de inhibición espera observar en un microorganismo que produce una β-lactamasa de espectro extendido (BLEE)?",
 "answer": ["a) Inhibible por los tres"],
@@ -21906,7 +24269,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 19,
 "question": "¿Qué β-lactámico es efectivo sobre microorganismos productores de metalocarbapenemasas?",
 "answer": ["d) Aztreonam"],
@@ -21922,7 +24285,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 20,
 "question": "¿Cuál de las siguientes afirmaciones sobre la farmacodinamia de los fármacos antihistamínicos H1 es correcta?",
 "answer": ["b) Actúan como agonistas inversos."],
@@ -21937,7 +24300,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 21,
 "question": "¿Cuál es el mecanismo de acción de salbutamol?",
 "answer": ["c) es un agonista beta 2 adrenérgico."],
@@ -21952,7 +24315,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 22,
 "question": "¿Qué afirmación describe el proceso de metabolismo de fármacos en forma correcta?",
 "answer": ["a) Produce metabolitos activos, inactivos o tóxicos a partir del fármaco."],
@@ -21967,7 +24330,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 23,
 "question": "¿Cuál de las siguientes es una característica de un fármaco antagonista alostérico?",
 "answer": ["d) Desplaza a la derecha la curva del agonista y modifica el efecto máximo."],
@@ -21983,7 +24346,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 24,
 "question": "Sexo masculino 62 años con hipertensión arterial crónica, bajo tratamiento hace 5 años con enalapril y carvedilol. Dado descontrol de cifras de presión arterial su médico tratante cambia a amlodipina e hidroclorotiazida. ¿Cuál de dichos medicamentos actúa como antagonista de los canales de calcio?",
 "answer": ["c) amlodipina"],
@@ -21998,7 +24361,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 25,
 "question": "¿Cuál de las siguientes condiciones de un paciente es una contraindicación para la prescripción de un inhibidor de la enzima convertidora de angiotensina?",
 "answer": ["d) Estenosis bilateral de la arteria renal"],
@@ -22013,7 +24376,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 26,
 "question": "Paciente de sexo femenino consulta en puerta de emergencia por dolor abdominal inespecífico y le prescriben metilbromuro de hioscina intravenoso. ¿Qué efectos adversos le explicaría pueden ocurrir?",
 "answer": ["a) boca seca"],
@@ -22028,7 +24391,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 27,
 "question": "¿Cuál de las siguientes es una diferencia entre warfarina y los anticoagulantes orales directos?",
 "answer": ["b) Warfarina presenta mayor latencia en su inicio de acción anticoagulante."],
@@ -22043,7 +24406,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 28,
 "question": "¿Cuál de las siguientes es una característica farmacocinética de metformina?",
 "answer": ["d) Se absorbe principalmente en el intestino delgado."],
@@ -22058,7 +24421,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 29,
 "question": "¿Cuál es la duración del efecto antiplaquetario de ácido acetilsalicílico tras la suspensión del tratamiento?",
 "answer": ["c) de 5 a 7 días"],
@@ -22073,7 +24436,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 30,
 "question": "¿Cuál de las siguientes insulinas tiene una duración de acción prolongada?",
 "answer": ["d) Glargina"],
@@ -22088,7 +24451,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 31,
 "question": "¿Cuál de las siguientes opciones es una reacción adversa frecuente de la administración subcutánea de insulina?",
 "answer": ["b) lipodistrofia"],
@@ -22103,7 +24466,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 32,
 "question": "¿Cuál de las siguientes explicaciones le daría a la madre de un niño de 8 años que inicia tratamiento con fluticasona inhalada para el asma?",
 "answer": ["a) La candidiasis bucofaríngea es evitable con correcta técnica inhalatoria."],
@@ -22118,7 +24481,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 33,
 "question": "Los betabloqueantes de tercera generación agregan mecanismos de acción asociados al antagonismo de receptores beta-adrenérgicos. ¿Cuál de los siguientes mecanismos es uno de los agregados?",
 "answer": ["a) Producción de óxido nítrico.", "c) Antagonismo de los receptores alfa1-adrenérgicos."],
@@ -22133,7 +24496,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 34,
 "question": "¿Cuál de los siguientes corresponde a un efecto adverso de amlodipina?",
 "answer": ["a) Síncope."],
@@ -22148,7 +24511,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 35,
 "question": "¿Cuál de los siguientes enunciados define mejor el concepto de actividad intrínseca?",
 "answer": ["c) Grado con el que una molécula produce un cambio a la conformación activa de un receptor."],
@@ -22163,7 +24526,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 36,
 "question": "Paciente de 84 años polimedicado, recibiendo los siguientes medicamentos: dabigatrán, enalapril, metformina y loratadina. En su último control se ajustan las dosis de sus tratamientos habituales. A la semana consulta por cuadro de tos seca persistente, ¿a cuál de los medicamentos puede atribuirse ese evento adverso?",
 "answer": ["a) enalapril"],
@@ -22178,7 +24541,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 37,
 "question": "Paciente de 48 años, consulta por disnea intensa, fiebre y tos. Se realiza diagnóstico de neumonia y la siguiente gasometría arterial: <br> pH: 7.2, PaCO₂: 58 mmHg, HCO₃⁻: 18 mEq/L, PaO₂: 55 mmHg <br> ¿Cuál es la alteración ácido-base que presenta este paciente?",
 "answer": ["c) Acidosis metabólica y acidosis respiratoria"],
@@ -22192,7 +24555,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 38,
 "question": "Paciente 40 años consulta por alta tasa de diarrea, con escasos elementos de deshidratación. <br>  Se solicita gasometría venosa y ionograma que evidencia: <br> HCO₃⁻v: 14 mEq/L <br> Na⁺: 138 mEq/L <br> Cl⁻: 112 mEq/L <br> ¿Cuál es el diagnóstico ácido-base más probable?",
 "answer": ["b) Acidosis metabólica con agujero aniónico normal"],
@@ -22206,7 +24569,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 39,
 "question": "¿Cuál es el principal mecanismo que determina los síntomas en la hiponatremia?",
 "answer": ["a) Edema cerebral"],
@@ -22220,7 +24583,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 40,
 "question": "Cuándo empieza a considerarse crónica una hiponatremia?",
 "answer": ["a) 48 horas"],
@@ -22234,7 +24597,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 41,
 "question": "¿Cuál de las siguientes situaciones determina movimiento de potasio desde el espacio intracelular al extracelular?",
 "answer": ["a) Acidosis"],
@@ -22249,7 +24612,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 42,
 "question": "¿Cuál de las siguientes situaciones perpetúa una alcalosis metabólica?",
 "answer": ["a) Hipopotasemia"],
@@ -22263,7 +24626,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 43,
 "question": "¿Cuál de los siguientes parámetros es un determinante directo del contenido arterial de oxígeno?",
 "answer": ["d) Concentración de hemoglobina"],
@@ -22278,7 +24641,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 44,
 "question": "Frente a una reducción en la disponibilidad sistémica de oxígeno, indique cuál de los siguientes mecanismos de compensación espera encontrar:",
 "answer": ["a) Apertura de lechos capilares a nivel tisular"],
@@ -22293,7 +24656,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 45,
 "question": "En un paciente con hipoxemia que corrige con oxigenoterapia y presenta diferencia alvéoloarterial de oxígeno normal, ¿qué mecanismo de insuficiencia respiratoria plantea?",
 "answer": ["c) Hipoventilación alveolar"],
@@ -22308,7 +24671,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 46,
 "question": "Indique cuál de los siguientes parámetros necesita conocer para clasificar una insuficiencia respiratoria como tipo II:",
 "answer": ["c) Presión parcial arterial de CO2"],
@@ -22323,7 +24686,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 47,
 "question": "¿Qué parámetro se utiliza para clasificar la severidad del patrón obstructivo en la espirometría?",
 "answer": ["d) Volumen espirado en el primer segundo"],
@@ -22338,7 +24701,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 48,
 "question": "De acuerdo con la ecuación del movimiento para el sistema respiratorio, ¿qué parámetro debe vencerse para generar un flujo de aire a través de la vía aérea?",
 "answer": ["d) Resistencia viscosa",],
@@ -22353,7 +24716,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 49,
 "question": "¿Cuál es el mecanismo de lesión celular más importante en el contexto de una intoxicación por monóxido de carbono (CO)?:",
 "answer": ["a) hipoxia tisular",],
@@ -22368,7 +24731,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 50,
 "question": "¿Cuándo comienzan los procesos de reparación involucrados en la inflamación aguda?",
 "answer": ["b) en forma concomitante al inicio del proceso inflamatorio."],
@@ -22382,7 +24745,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 51,
 "question": "En el mecanismo fisiopatológico de generación de la fiebre, ¿cuál de los siguientes mediadores aumenta su síntesis en el endotelio de los capilares fenestrados del órgano vasculoso de la lámina terminalis (OVLT)?",
 "answer": ["c) Prostaglandina E2 (PGE2)."],
@@ -22397,7 +24760,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 52,
 "question": "¿Cuál es la naturaleza de la radiación gamma?",
 "answer": ["a) electromagnética sin carga"],
@@ -22412,7 +24775,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 53,
 "question": "En la generación de una placa radiográfica simple, ¿cuál de las siguientes interacciones de las radiaciones con la materia se da con mayor probabilidad?",
 "answer": ["c) efecto fotoeléctrico",],
@@ -22427,7 +24790,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 54,
 "question": "¿Qué alteración a nivel genómico tiene mayor probabilidad de generar aberraciones cromosómicas?",
 "answer": ["c) roturas dobles de cadena"],
@@ -22443,7 +24806,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 55,
 "question": "¿Cuál de los siguientes sistemas de reparación procesa dobles roturas de ADN con baja probabilidad de error?",
 "answer": ["c) reparación por recombinación homóloga"],
@@ -22458,7 +24821,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 56,
 "question": "¿Cómo se define el parámetro dosis ¨cuasi umbral¨ en el análisis de probabilidad de sobrevida celular en función de la dosis de radiación?",
 "answer": ["d) dosis a partir de la cual la capacidad de reparación decae"],
@@ -22473,7 +24836,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 57,
 "question": "¿Cuál factor de los siguientes puede aumentar la radiosensibilidad celular?",
 "answer": ["a) alta concentración de oxígeno"],
@@ -22488,7 +24851,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 58,
 "question": "¿Cuál de las siguientes opciones es una característica de los efectos determinísticos de las radiaciones ionizantes?",
 "answer": ["b) tienen dosis mínima umbral"],
@@ -22504,7 +24867,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 59,
 "question": "¿Cuál de los siguientes análisis permite estimar la dosis de radiación absorbida en personas sobreexpuestas 10 años atrás?",
 "answer": ["b) hibridación in situ fluorescente"],
@@ -22519,7 +24882,7 @@ let questions = [
 },
 
 {
-"info_quest": "2P2025",
+"info_quest": "1P2025",
 "numb": 60,
 "question": "En el diagnóstico por imágenes, el médico al prescribir aplica el principio de:",
 "answer": ["b) justificación"],
@@ -22538,630 +24901,633 @@ let questions = [
 /////////////////////////////////////////////////////
 
 {
-"info_quest": "3P2025",
-"numb": 1,
-"question": "Paciente de 70 años que concurre con insuficiencia cardíaca global descompensada. Se inicia tratamiento fisiopatológico de la insuficiencia cardíaca. Las cifras de función renal son las que se muestran en la tabla. <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/P1-3P2025.PNG'><br> ¿Cuál es la etiología de la insuficiencia renal?",
-"answer": ["a) Pre -renal"],
-"options": [
-"a) Pre -renal",
-"b) Post -renal",
-"c) Parenquimatosa",
-],
-"discipline": "Fisiopato",
-"comments": "",
+    "info_quest": "3er Parcial 2025",
+    "numb": 1,
+    "question": "Paciente de 70 años que concurre con insuficiencia cardíaca global descompensada. Se inicia tratamiento fisiopatológico de la insuficiencia cardíaca. Las cifras de función renal son las que se muestran en la tabla. <br> <img src='https://raw.githubusercontent.com/Ezeote/medquizz/refs/heads/main/PRACTICAR/BCP/images/P1-3er Parcial 2025.PNG'><br> ¿Cuál es la etiología de la insuficiencia renal?",
+    "answer": [
+      "a) Pre -renal"
+    ],
+    "options": [
+      "a) Pre -renal",
+      "b) Post -renal",
+      "c) Parenquimatosa"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La insuficiencia cardíaca descompensada genera una disminución del volumen arterial efectivo e hipoperfusión renal (mecanismo hemodinámico anterógrado y retrógrado por congestión venosa). Esto causa una injuria renal aguda de etiología funcional o pre-renal, caracterizada por un aumento proporcionalmente mayor de la urea respecto a la creatinina (relación Urea/Creatinina elevada) y avidez renal por agua y sodio."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 2,
+    "question": "¿Por qué los antiinflamatorios no esteroideos AINES predisponen a la injuria renal aguda?",
+    "answer": [
+      "c) Vasoconstricción de arteriola aferente"
+    ],
+    "options": [
+      "a) Vasodilatación de arteriola aferente",
+      "b) Vasodilatación de arteriola eferente",
+      "c) Vasoconstricción de arteriola aferente",
+      "d) Vasoconstricción de arteriola eferente"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Las prostaglandinas renales (PGE2 y PGI2) ejercen un efecto vasodilatador sobre la arteriola aferente para mantener el flujo sanguíneo glomerular y la tasa de filtrado. Al inhibir la ciclooxigenasa (COX), los AINEs bloquean la síntesis de prostaglandinas, provocando vasoconstricción de la arteriola aferente y caída de la presión intraglomerular."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 3,
+    "question": "¿Cuánto tiene que disminuir el filtrado glomerular (FG) para que la creatinina sérica aumente por encima del valor normal en un paciente con peso y talla estándar?",
+    "answer": [
+      "c) 50%"
+    ],
+    "options": [
+      "a) 10%",
+      "b) 25%",
+      "c) 50%"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Debido a la relación hiperbólica (no lineal) entre la concentración plasmática de creatinina y la tasa de filtrado glomerular (TFG), el filtrado glomerular debe caer aproximadamente un 50% antes de que la creatinina sérica sobrepase claramente el límite superior del rango de referencia normal."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 4,
+    "question": "¿Cuál de los siguientes factores promueve la progresión de la enfermedad renal crónica?",
+    "answer": [
+      "c) Hiperfiltración glomerular"
+    ],
+    "options": [
+      "a) Disminución del tono de la arteriola eferente",
+      "b) Disminución de la presión glomerular",
+      "c) Hiperfiltración glomerular",
+      "d) Hiperazoemia mantenida"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Frente a la pérdida de nefronas, las nefronas remanentes sufren una adaptación compensatoria con hipertensión intraglomerular e hiperfiltración adaptativa. A largo plazo, esta hiperfiltración lesiona el endotelio, destruye podocitos y promueve esclerosis focal y segmentaria, constituyendo el eje fisiopatológico de la progresión de la ERC."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 5,
+    "question": "¿Cuál de los siguientes iones, cuando se encuentra aumentado, es un estímulo para el hiperparatiroidismo secundario en la enfermedad renal crónica?",
+    "answer": [
+      "d) Fósforo"
+    ],
+    "options": [
+      "a) Sodio",
+      "b) Calcio",
+      "c) Potasio",
+      "d) Fósforo"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La retención de fósforo (hiperfosfatemia) secundaria a la reducción de la masa renal estimula de forma directa e indirecta la síntesis y secreción de paratohormona (PTH). El fósforo elevado estimula a las glándulas paratiroides, disminuye la producción de calcitriol e induce hipocalcemia, desencadenando el hiperparatiroidismo secundario."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 6,
+    "question": "¿Cómo se encuentran las resistencias vasculares sistémicas en la insuficiencia hepatocítica?",
+    "answer": [
+      "b) Disminuidas"
+    ],
+    "options": [
+      "a) Normales",
+      "b) Disminuidas",
+      "c) Aumentadas"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La insuficiencia hepatocítica y la hipertensión portal conducen a una vasodilatación esplácnica y sistémica masiva mediada principalmente por el aumento en la producción de óxido nítrico (NO). Esto determina un estado circulatorio hiperdinámico con marcadas resistencias vasculares sistémicas disminuidas."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 7,
+    "question": "Un paciente con traumatismo de cráneo grave presenta hipertensión endocraneana. En base a los mecanismos fisiopatológicos involucrados, ¿cuál de las siguientes medidas podría disminuir la presión intracraneana?",
+    "answer": [
+      "c) Aumento de la frecuencia respiratoria."
+    ],
+    "options": [
+      "a) Disminución del volumen corriente.",
+      "b) Infusión de solución salina hipotónica.",
+      "c) Aumento de la frecuencia respiratoria.",
+      "d) Administración de vasodilatadores sistémicos."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El aumento de la frecuencia respiratoria induce hiperventilación, lo que disminuye la presión parcial de dióxido de carbono en sangre (hipocapnia). El CO2 es un potente vasodilatador cerebral; por lo tanto, la hipocapnia provoca vasoconstricción arteriolar cerebral, reduciendo el volumen sanguíneo cerebral y disminuyendo rápidamente la presión intracraneana."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 8,
+    "question": "En un paciente con autorregulación cerebral abolida, ¿qué ocurre si aumenta la presión arterial media?",
+    "answer": [
+      "a) El flujo sanguíneo cerebral aumenta."
+    ],
+    "options": [
+      "a) El flujo sanguíneo cerebral aumenta.",
+      "b) La presión intracraneana disminuye.",
+      "c) Aumenta la cascada vasoconstrictora.",
+      "d) El volumen sanguíneo cerebral disminuye."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Normalmente, la autorregulación mantiene el flujo sanguíneo cerebral (FSC) constante dentro de un rango de presión arterial media (PAM). Al abolirse esta autorregulación, el cerebro se comporta como un sistema pasivo de resistencia fija, por lo que el FSC pasa a depender directamente (de forma lineal) de las variaciones de la PAM."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 9,
+    "question": "¿Qué repercusiones tiene la hipertensión arterial crónica sobre la curva de autorregulación cerebral?",
+    "answer": [
+      "c) Desplazamiento de la curva hacia la derecha."
+    ],
+    "options": [
+      "a) Aumento en la pendiente de la curva.",
+      "b) Desplazamiento de la curva hacia arriba.",
+      "c) Desplazamiento de la curva hacia la derecha."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La hipertensión arterial crónica produce cambios estructurales en los vasos cerebrales (hipertrofia de la túnica media y remodelado vascular). Esto desplaza la curva de autorregulación cerebral hacia la derecha, protegiendo al cerebro de presiones sistémicas elevadas, pero haciendo al paciente más vulnerable a la isquemia cerebral frente a descensos normotensivos de la PAM."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 10,
+    "question": "¿Cuál de las siguientes situaciones puede determinar isquemia miocárdica por aumento de la demanda de oxígeno miocárdico?",
+    "answer": [
+      "b) Hipertrofia ventricular izquierda"
+    ],
+    "options": [
+      "a) Disfunción microvascular",
+      "b) Hipertrofia ventricular izquierda",
+      "c) Hipertrofia de la capa muscular media arterial"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La hipertrofia ventricular izquierda incrementa la masa miocárdica total y la tensión sobre la pared del ventrículo, lo cual eleva drásticamente los requerimientos y el consumo de oxígeno miocárdico ($MVO_2$). Si este aumento en la demanda no se acompaña de una reserva coronaria adecuada, se desencadena isquemia."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 11,
+    "question": "¿Qué es el atontamiento miocárdico?",
+    "answer": [
+      "a) Disminución de la función contráctil del miocardio viable reperfundido tras una oclusión coronaria."
+    ],
+    "options": [
+      "a) Disminución de la función contráctil del miocardio viable reperfundido tras una oclusión coronaria.",
+      "b) Disminución de la función contráctil del miocardio por disminución crónica del flujo sanguíneo coronario.",
+      "c) Aumento de la función contráctil del miocardio viable reperfundido tras una oclusión coronaria.",
+      "d) Aumento de la función contráctil del miocardio por disminución crónica del flujo sanguíneo coronario."
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El atontamiento o 'stunning' miocárdico se define como la disfunción contráctil posisquémica temporal y reversible de un tejido miocárdico viable, que persiste a pesar del restablecimiento completo o casi completo del flujo sanguíneo coronario (reperfusión)."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 12,
+    "question": "En un infarto agudo de miocardio, ¿qué tipo de muerte celular espera encontrar en el “core” o núcleo isquémico?",
+    "answer": [
+      "c) Necrosis"
+    ],
+    "options": [
+      "a) Apoptosis",
+      "b) Piroptosis",
+      "c) Necrosis"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En la zona central o 'core' de un infarto agudo de miocardio, la severa y prolongada falta de ATP e isquemia lleva a la pérdida de la homeostasis iónica celular, rotura de las membranas plasmáticas y necrosis de coagulación de los miocitos."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 13,
+    "question": "¿Qué define el fenotipo hemodinámico de hipertensión pulmonar poscapilar?",
+    "answer": [
+      "c) Aumento de la presión de oclusión pulmonar, mayor a 15 mmHg"
+    ],
+    "options": [
+      "a) Disminución del índice cardíaco, a menos de 2,5 L/min/m2",
+      "b) Aumento de la resistencia vascular pulmonar, mayor a 2 uW",
+      "c) Aumento de la presión de oclusión pulmonar, mayor a 15 mmHg"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La hipertensión pulmonar poscapilar se caracteriza hemodinámicamente por una presión arterial pulmonar media (PAPm) > 20 mmHg acompañada de una presión de oclusión de la arteria pulmonar (POAP o 'wedge') > 15 mmHg, lo que refleja una transmisión retrógrada de elevadas presiones de llenado del corazón izquierdo."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 14,
+    "question": "¿Cuál de los siguientes es un pilar fundamental en la fisiopatología de la hipertensión pulmonar?",
+    "answer": [
+      "a) Producción de trombosis in situ"
+    ],
+    "options": [
+      "a) Producción de trombosis in situ",
+      "b) Aumento de las prostaglandinas circulantes",
+      "c) Estimulación de la guanilato ciclasa soluble"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La patogénesis de la hipertensión arterial pulmonar se basa en un tríptico de remodelado vascular plejiiforme, vasoconstricción sostenida y la producción de microtrombosis in situ, debido a un estado procoagulante e inflamatorio del endotelio alterado."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 15,
+    "question": "¿Qué puede determinar la disfunción ventricular derecha severa secundaria a la hipertensión pulmonar?",
+    "answer": [
+      "b) Disminuye el llenado ventricular izquierdo por interdependencia ventricular."
+    ],
+    "options": [
+      "a) Aumenta la sensibilidad de los receptores beta-adrenérgicos miocárdicos.",
+      "b) Disminuye el llenado ventricular izquierdo por interdependencia ventricular.",
+      "c) Se mantiene el gasto cardíaco estable frente a aumentos importantes de la poscarga"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La sobrecarga extrema de volumen y presión en el ventrículo derecho dilata la cavidad y abomba el tabique interventricular hacia la izquierda (interdependencia ventricular). Esto compromete la geometría y la complacencia del ventrículo izquierdo, reduciendo su llenado diastólico y el gasto cardíaco sistémico."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 16,
+    "question": "Un paciente de 61 años, con hipertensión crónica de larga data e irregular tratamiento, comienza con disnea de esfuerzo meses antes de la consulta, actualmente clase funcional II. ¿Qué ocurre con la arquitectura miocárdica del paciente?",
+    "answer": [
+      "a) Replicación en paralelo de los sarcómeros miocitarios"
+    ],
+    "options": [
+      "a) Replicación en paralelo de los sarcómeros miocitarios",
+      "b) Replicación en serie de los sarcómeros miocitarios",
+      "c) Dimensión de la aurícula izquierda normal",
+      "d) Hipertrofia de la aurícula derecha"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Frente a la sobrecarga crónica de presión inducida por la hipertensión arterial, el estrés sistólico parietal aumenta. Como mecanismo adaptativo, los miocardiocitos adicionan nuevos sarcómeros en paralelo, generando un engrosamiento de la pared ventricular o hipertrofia concéntrica."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 17,
+    "question": "¿Cuál de los siguientes signos clínicos traduce el aumento de la presión en la aurícula derecha?",
+    "answer": [
+      "b) Ingurgitación yugular"
+    ],
+    "options": [
+      "a) Estertores crepitantes",
+      "b) Ingurgitación yugular",
+      "c) Pliegue cutáneo hipoelástico"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Debido a que no existen válvulas entre las venas yugulares y la aurícula derecha, las variaciones de presión en la aurícula derecha se transmiten retrógradamente de forma directa hacia el sistema venoso yugular, manifestándose clínicamente como ingurgitación yugular o aumento de la presión venosa yugular."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 18,
+    "question": "¿Cuál de las siguientes es una alteración característica del miocito insuficiente?",
+    "answer": [
+      "c) Aumento de la liberación de calcio desde el retículo sarcoplásmico en diástole"
+    ],
+    "options": [
+      "a) Disminución de la rigidez de la titina sarcomérica",
+      "b) Aumento de la expresión de la bomba SERCA2a sarcoplasmática",
+      "c) Aumento de la liberación de calcio desde el retículo sarcoplásmico en diástole"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En la insuficiencia cardíaca, los receptores de rianodina (RyR2) sufren una hiperfosforilación que los vuelve patológicamente 'hiperfugaz' (leaky). Esto provoca una fuga incontrolada o escape de calcio desde el retículo sarcoplásmico al citosol durante la diástole, contribuyendo a la disfunción diastólica y a las arritmias."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 19,
+    "question": "Se valora a un paciente que mantiene presión arterial 160/100 mmHg a pesar del uso concomitante de 2 fármacos antihipertensivos y 1 diurético a dosis óptimas. ¿Cuál es su planteo para realizar el diagnóstico de hipertensión arterial resistente?",
+    "answer": [
+      "b) Se debe descartar pseudoresistencia"
+    ],
+    "options": [
+      "a) No se requieren datos adicionales",
+      "b) Se debe descartar pseudoresistencia",
+      "c) Falta agregar otro fármaco para cumplir con la definición"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "Ante cifras tensionales elevadas persistentes pese al uso de 3 fármacos (incluido un diurético), antes de confirmar el diagnóstico de HTA resistente verdadera se debe descartar la pseudorresistencia (causada por falta de adherencia al tratamiento, efecto de túnica blanca o mediciones de PA inadecuadas)."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 20,
+    "question": "¿Qué aumenta la velocidad de propagación de las ondas reflejadas en el árbol vascular sistémico?",
+    "answer": [
+      "a) El aumento de la rigidez arterial y la edad"
+    ],
+    "options": [
+      "a) El aumento de la rigidez arterial y la edad",
+      "b) El aumento de la elasticidad arterial y la ateroesclerosis",
+      "c) El aumento de la presión arterial y la disminución del tono arteriolar"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "El envejecimiento vascular y la rigidez arterial aumentan la velocidad de la onda de pulso (VOP). Esto ocasiona que las ondas reflejadas en los puntos de bifurcación regresen más rápido hacia el corazón, sumándose en sístole en lugar de en diástole, lo que incrementa la presión sistólica."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 21,
+    "question": "¿Cuáles son los mecanismos de insuficiencia renal en el síndrome cardio-renal tipo I?",
+    "answer": [
+      "a) La elevación de la presión venosa central y la falla anterógrada"
+    ],
+    "options": [
+      "a) La elevación de la presión venosa central y la falla anterógrada",
+      "b) La disminución de las resistencias vasculares sistémicas y renales",
+      "c) La elevación de la presión en la aurícula izquierda y la falla anterógrada",
+      "d) La disminución del tono de la arteria aferente y eferente a nivel glomerular"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "En el síndrome cardiorrenal tipo I (injuria renal aguda secundaria a falla cardíaca aguda), la disfunción renal resulta de la combinación de la falla anterógrada (caída del gasto cardíaco con hipoperfusión renal) y la congestión venosa (elevación de la PVC que aumenta la presión de las venas renales y reduce el gradiente de filtración)."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 22,
+    "question": "En un paciente que se presenta en la puerta de emergencia con un infarto agudo de miocardio extenso y evolucionado, hipotenso, relleno capilar lento y edema pulmonar, ¿qué perfil hemodinámico lo caracteriza?",
+    "answer": [
+      "b) Frío y húmedo"
+    ],
+    "options": [
+      "a) Frío y seco",
+      "b) Frío y húmedo",
+      "c) Caliente y seco",
+      "d) Caliente y húmedo"
+    ],
+    "discipline": "Fisiopato",
+    "comment": "La presencia de hipotensión y llenado capilar lento evidencia hipoperfusión tisular ('frío'), mientras que los crepitantes y el edema pulmonar demuestran congestión retrógrada ('húmedo'). Esta combinación corresponde al perfil hemodinámico L o Frío/Húmedo de la clasificación de Forrester (shock cardiogénico)."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 23,
+    "question": "¿Cuál de los siguientes fármacos antitiroideos reduce la síntesis de hormonas tiroideas y la conversión periférica de T4 a T3?",
+    "answer": [
+      "d) Propiltiouracilo"
+    ],
+    "options": [
+      "a) Metimazol",
+      "b) Radioyodo",
+      "c) Levotiroxina",
+      "d) Propiltiouracilo"
+    ],
+    "discipline": "Farmaco",
+    "comment": "A diferencia del metimazol (que solo inhibe la tiroperoxidasa reduciendo la síntesis de hormonas tiroideas), el propiltiouracilo (PTU) posee un mecanismo doble: inhibe la tiroperoxidasa intratiroidea y además inhibe la enzima 5'-desyodasa periférica, bloqueando la conversión de T4 a la forma activa T3."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 24,
+    "question": "¿A qué familia pertenece el receptor de estradiol?",
+    "answer": [
+      "a) Receptores nucleares"
+    ],
+    "options": [
+      "a) Receptores nucleares",
+      "b) Canales iónicos de sodio",
+      "c) Receptores de tirosina-quinasa",
+      "d) Receptores acoplados a proteína G"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Los receptores de estrógenos (ER alfa y ER beta) son receptores intracelulares que actúan como factores de transcripción activados por ligando, pertenecientes a la superfamilia de los receptores nucleares."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 25,
+    "question": "¿Cuál de las siguientes vías de administración de la estrogenoterapia presenta menos riesgo de trombosis venosa profunda?",
+    "answer": [
+      "c) Transdérmico"
+    ],
+    "options": [
+      "a) Oral",
+      "b) Intravenoso",
+      "c) Transdérmico",
+      "d) Intramuscular"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La vía transdérmica evita el primer paso hepático de los estrógenos. Esto evita la estimulación no fisiológica en la síntesis hepática de factores de coagulación dependientes de estrógenos, asociándose con un menor riesgo de tromboembolismo venoso en comparación con la vía oral."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 26,
+    "question": "¿Cuál de los siguientes es un efecto adverso grave hematológico de los antiinflamatorios no esteroideos?",
+    "answer": [
+      "d) Anemia aplásica"
+    ],
+    "options": [
+      "a) Linfopenia",
+      "b) Pancitopenia",
+      "c) Plaquetopenia",
+      "d) Anemia aplásica"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Aunque infrecuente, la anemia aplásica idiosincrásica es una reacción adversa hematológica grave y potencialmente letal históricamente asociada al uso de AINEs (especialmente metamizol/dipirona y fenilbutazona)."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 27,
+    "question": "¿Cuál de las siguientes es una característica farmacocinética de morfina?",
+    "answer": [
+      "a) Se excreta principalmente por vía renal"
+    ],
+    "options": [
+      "a) Se excreta principalmente por vía renal",
+      "b) Se metaboliza principalmente por óxido reducción",
+      "c) Su biodisponibilidad vía oral es alta aproximadamente 90%",
+      "d) Se une extensamente a proteínas plasmáticas, más del 90%"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La morfina sufre glucuronoconjugación hepática transformándose en morfina-3-glucurónido y morfina-6-glucurónido, los cuales (junto con una pequeña fracción inalterada) se eliminan mayoritariamente (alrededor del 90%) por excreción renal."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 28,
+    "question": "¿Cuál de los siguientes AINE presenta mayor selectividad por COX-2?",
+    "answer": [
+      "c) Diclofenaco"
+    ],
+    "options": [
+      "a) Ibuprofeno",
+      "b) Ketoprofeno",
+      "c) Diclofenaco",
+      "d) Naproxeno"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Dentro del grupo de los AINEs no selectivos tradicionales, el diclofenaco demuestra una preferencia o selectividad relativa mayor hacia la isoforma COX-2 en comparación con el naproxeno o el ibuprofeno."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 29,
+    "question": "¿Cuál es el mecanismo de acción que explica la hipotensión de los antidepresivos tricíclicos?",
+    "answer": [
+      "c) Antagonismo alfa 1 adrenérgico"
+    ],
+    "options": [
+      "a) Antagonismo H1 histamínico",
+      "b) Antagonismo M1 muscarínico",
+      "c) Antagonismo alfa 1 adrenérgico",
+      "d) Antagonismo 5-HT2 serotoninérgico"
+    ],
+    "discipline": "Farmaco",
+    "comment": "Los antidepresivos tricíclicos bloquen diversos receptores. El bloqueo de los receptores alfa-1 adrenérgicos vasculares impide la vasoconstricción mediada por noradrenalina, produciendo hipotensión ortostática como efecto adverso característico."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 30,
+    "question": "¿Cuál es el mecanismo de acción de la fenitoína?",
+    "answer": [
+      "a) Inhibe los canales de sodio"
+    ],
+    "options": [
+      "a) Inhibe los canales de sodio",
+      "b) Inhibe los canales de calcio",
+      "c) Aumenta la conductancia de K+",
+      "d) Aumenta la conductancia de Cl"
+    ],
+    "discipline": "Farmaco",
+    "comment": "El mecanismo antiepiléptico principal de la fenitoína consiste en el bloqueo dependiente de uso y voltaje de los canales de sodio dependientes de voltaje en el estado inactivado, prolongando su inactivación e impidiendo las descargas repetitivas de alta frecuencia."
+  },
 
-},
-
-{
-"info_quest": "3P2025",
-"numb": 2,
-"question": "¿Por qué los antiinflamatorios no esteroideos AINES predisponen a la injuria renal aguda?",
-"answer": ["c) Vasoconstricción de arteriola aferente"],
-"options": [
-"a) Vasodilatación de arteriola aferente",
-"b) Vasodilatación de arteriola eferente",
-"c) Vasoconstricción de arteriola aferente",
-"d) Vasoconstricción de arteriola eferente",
-],
-"discipline": "Fisiopato",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 3,
-"question": "¿Cuánto tiene que disminuir el filtrado glomerular (FG) para que la creatinina sérica aumente por encima del valor normal en un paciente con peso y talla estándar?",
-"answer": ["c) 50%"],
-"options": [
-"a) 10%",
-"b) 25%",
-"c) 50%",
-],
-"discipline": "Fisiopato",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 4,
-"question": "¿Cuál de los siguientes factores promueve la progresión de la enfermedad renal crónica?",
-"answer": ["c) Hiperfiltración glomerular"],
-"options": [
-"a) Disminución del tono de la arteriola eferente",
-"b) Disminución de la presión glomerular",
-"c) Hiperfiltración glomerular",
-"d) Hiperazoemia mantenida",
-],
-"discipline": "Fisiopato",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 5,
-"question": "¿Cuál de los siguientes iones, cuando se encuentra aumentado, es un estímulo para el hiperparatiroidismo secundario en la enfermedad renal crónica?",
-"answer": ["d) Fósforo"],
-"options": [
-"a) Sodio",
-"b) Calcio",
-"c) Potasio",
-"d) Fósforo",
-],
-"discipline": "Fisiopato",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 6,
-"question": "¿Cómo se encuentran las resistencias vasculares sistémicas en la insuficiencia hepatocítica?",
-"answer": ["b) Disminuidas"],
-"options": [
-"a) Normales",
-"b) Disminuidas",
-"c) Aumentadas",
-],
-"discipline": "Fisiopato",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 7,
-"question": "Un paciente con traumatismo de cráneo grave presenta hipertensión endocraneana. En base a los mecanismos fisiopatológicos involucrados, ¿cuál de las siguientes medidas podría disminuir la presión intracraneana?",
-"answer": ["c) Aumento de la frecuencia respiratoria."],
-"options": [
-"a) Disminución del volumen corriente.",
-"b) Infusión de solución salina hipotónica.",
-"c) Aumento de la frecuencia respiratoria.",
-"d) Administración de vasodilatadores sistémicos.",
-],
-"discipline": "Fisiopato",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 8,
-"question": "En un paciente con autorregulación cerebral abolida, ¿qué ocurre si aumenta la presión arterial media?",
-"answer": ["a) El flujo sanguíneo cerebral aumenta."],
-"options": [
-"a) El flujo sanguíneo cerebral aumenta.",
-"b) La presión intracraneana disminuye.",
-"c) Aumenta la cascada vasoconstrictora.",
-"d) El volumen sanguíneo cerebral disminuye.",
-],
-"discipline": "Fisiopato",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 9,
-"question": "¿Qué repercusiones tiene la hipertensión arterial crónica sobre la curva de autorregulación cerebral?",
-"answer": ["c) Desplazamiento de la curva hacia la derecha."],
-"options": [
-"a) Aumento en la pendiente de la curva.",
-"b) Desplazamiento de la curva hacia arriba.",
-"c) Desplazamiento de la curva hacia la derecha.",
-],
-"discipline": "Fisiopato",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 10,
-"question": "¿Cuál de las siguientes situaciones puede determinar isquemia miocárdica por aumento de la demanda de oxígeno miocárdico?",
-"answer": ["b) Hipertrofia ventricular izquierda"],
-"options": [
-"a) Disfunción microvascular",
-"b) Hipertrofia ventricular izquierda",
-"c) Hipertrofia de la capa muscular media arterial",
-],
-"discipline": "Fisiopato",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 11,
-"question": "¿Qué es el atontamiento miocárdico?",
-"answer": ["a) Disminución de la función contráctil del miocardio viable reperfundido tras una oclusión coronaria."],
-"options": [
-"a) Disminución de la función contráctil del miocardio viable reperfundido tras una oclusión coronaria.",
-"b) Disminución de la función contráctil del miocardio por disminución crónica del flujo sanguíneo coronario.",
-"c) Aumento de la función contráctil del miocardio viable reperfundido tras una oclusión coronaria.",
-"d) Aumento de la función contráctil del miocardio por disminución crónica del flujo sanguíneo coronario.",
-],
-"discipline": "Fisiopato",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 12,
-"question": "En un infarto agudo de miocardio, ¿qué tipo de muerte celular espera encontrar en el “core” o núcleo isquémico?",
-"answer": ["c) Necrosis"],
-"options": [
-"a) Apoptosis",
-"b) Piroptosis",
-"c) Necrosis",
-],
-"discipline": "Fisiopato",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 13,
-"question": "¿Qué define el fenotipo hemodinámico de hipertensión pulmonar poscapilar?",
-"answer": ["c) Aumento de la presión de oclusión pulmonar, mayor a 15 mmHg"],
-"options": [
-"a) Disminución del índice cardíaco, a menos de 2,5 L/min/m2",
-"b) Aumento de la resistencia vascular pulmonar, mayor a 2 uW",
-"c) Aumento de la presión de oclusión pulmonar, mayor a 15 mmHg",
-],
-"discipline": "Fisiopato",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 14,
-"question": "¿Cuál de los siguientes es un pilar fundamental en la fisiopatología de la hipertensión pulmonar?",
-"answer": ["a) Producción de trombosis in situ"],
-"options": [
-"a) Producción de trombosis in situ",
-"b) Aumento de las prostaglandinas circulantes",
-"c) Estimulación de la guanilato ciclasa soluble",
-],
-"discipline": "Fisiopato",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 15,
-"question": "¿Qué puede determinar la disfunción ventricular derecha severa secundaria a la hipertensión pulmonar?",
-"answer": ["b) Disminuye el llenado ventricular izquierdo por interdependencia ventricular."],
-"options": [
-"a) Aumenta la sensibilidad de los receptores beta-adrenérgicos miocárdicos.",
-"b) Disminuye el llenado ventricular izquierdo por interdependencia ventricular.",
-"c) Se mantiene el gasto cardíaco estable frente a aumentos importantes de la poscarga",
-],
-"discipline": "Fisiopato",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 16,
-"question": "Un paciente de 61 años, con hipertensión crónica de larga data e irregular tratamiento, comienza con disnea de esfuerzo meses antes de la consulta, actualmente clase funcional II. ¿Qué ocurre con la arquitectura miocárdica del paciente?",
-"answer": ["a) Replicación en paralelo de los sarcómeros miocitarios"],
-"options": [
-"a) Replicación en paralelo de los sarcómeros miocitarios",
-"b) Replicación en serie de los sarcómeros miocitarios",
-"c) Dimensión de la aurícula izquierda normal",
-"d) Hipertrofia de la aurícula derecha",
-],
-"discipline": "Fisiopato",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 17,
-"question": "¿Cuál de los siguientes signos clínicos traduce el aumento de la presión en la aurícula derecha?",
-"answer": ["b) Ingurgitación yugular"],
-"options": [
-"a) Estertores crepitantes",
-"b) Ingurgitación yugular",
-"c) Pliegue cutáneo hipoelástico",
-],
-"discipline": "Fisiopato",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 18,
-"question": "¿Cuál de las siguientes es una alteración característica del miocito insuficiente?",
-"answer": ["c) Aumento de la liberación de calcio desde el retículo sarcoplásmico en diástole"],
-"options": [
-"a) Disminución de la rigidez de la titina sarcomérica",
-"b) Aumento de la expresión de la bomba SERCA2a sarcoplasmática",
-"c) Aumento de la liberación de calcio desde el retículo sarcoplásmico en diástole",
-],
-"discipline": "Fisiopato",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 19,
-"question": "Se valora a un paciente que mantiene presión arterial 160/100 mmHg a pesar del uso concomitante de 2 fármacos antihipertensivos y 1 diurético a dosis óptimas. ¿Cuál es su planteo para realizar el diagnóstico de hipertensión arterial resistente?",
-"answer": ["b) Se debe descartar pseudoresistencia"],
-"options": [
-"a) No se requieren datos adicionales",
-"b) Se debe descartar pseudoresistencia",
-"c) Falta agregar otro fármaco para cumplir con la definición",
-],
-"discipline": "Fisiopato",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 20,
-"question": "¿Qué aumenta la velocidad de propagación de las ondas reflejadas en el árbol vascular sistémico?",
-"answer": ["a) El aumento de la rigidez arterial y la edad"],
-"options": [
-"a) El aumento de la rigidez arterial y la edad",
-"b) El aumento de la elasticidad arterial y la ateroesclerosis",
-"c) El aumento de la presión arterial y la disminución del tono arteriolar",
-],
-"discipline": "Fisiopato",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 21,
-"question": "¿Cuáles son los mecanismos de insuficiencia renal en el síndrome cardio-renal tipo I?",
-"answer": ["a) La elevación de la presión venosa central y la falla anterógrada"],
-"options": [
-"a) La elevación de la presión venosa central y la falla anterógrada",
-"b) La disminución de las resistencias vasculares sistémicas y renales",
-"c) La elevación de la presión en la aurícula izquierda y la falla anterógrada",
-"d) La disminución del tono de la arteria aferente y eferente a nivel glomerular",
-],
-"discipline": "Fisiopato",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 22,
-"question": "En un paciente que se presenta en la puerta de emergencia con un infarto agudo de miocardio extenso y evolucionado, hipotenso, relleno capilar lento y edema pulmonar, ¿qué perfil hemodinámico lo caracteriza?",
-"answer": ["b) Frío y húmedo"],
-"options": [
-"a) Frío y seco",
-"b) Frío y húmedo",
-"c) Caliente y seco",
-"d) Caliente y húmedo",
-],
-"discipline": "Fisiopato",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 23,
-"question": "¿Cuál de los siguientes fármacos antitiroideos reduce la síntesis de hormonas tiroideas y la conversión periférica de T4 a T3?",
-"answer": ["d) Propiltiouracilo"],
-"options": [
-"a) Metimazol",
-"b) Radioyodo",
-"c) Levotiroxina",
-"d) Propiltiouracilo",
-],
-"discipline": "Farmaco",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 24,
-"question": "¿A qué familia pertenece el receptor de estradiol?",
-"answer": ["a) Receptores nucleares"],
-"options": [
-"a) Receptores nucleares",
-"b) Canales iónicos de sodio",
-"c) Receptores de tirosina-quinasa",
-"d) Receptores acoplados a proteína G",
-],
-"discipline": "Farmaco",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 25,
-"question": "¿Cuál de las siguientes vías de administración de la estrogenoterapia presenta menos riesgo de trombosis venosa profunda?",
-"answer": ["c) Transdérmico"],
-"options": [
-"a) Oral",
-"b) Intravenoso",
-"c) Transdérmico",
-"d) Intramuscular",
-],
-"discipline": "Farmaco",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 26,
-"question": "¿Cuál de los siguientes es un efecto adverso grave hematológico de los antiinflamatorios no esteroideos?",
-"answer": ["d) Anemia aplásica"],
-"options": [
-"a) Linfopenia",
-"b) Pancitopenia",
-"c) Plaquetopenia",
-"d) Anemia aplásica",
-],
-"discipline": "Farmaco",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 27,
-"question": "¿Cuál de las siguientes es una característica farmacocinética de morfina?",
-"answer": ["a) Se excreta principalmente por vía renal"],
-"options": [
-"a) Se excreta principalmente por vía renal",
-"b) Se metaboliza principalmente por óxido reducción",
-"c) Su biodisponibilidad vía oral es alta aproximadamente 90%",
-"d) Se une extensamente a proteínas plasmáticas, más del 90%",
-],
-"discipline": "Farmaco",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 28,
-"question": "¿Cuál de los siguientes AINE presenta mayor selectividad por COX-2?",
-"answer": ["c) Diclofenaco"],
-"options": [
-"a) Ibuprofeno",
-"b) Ketoprofeno",
-"c) Diclofenaco",
-"d) Naproxeno",
-],
-"discipline": "Farmaco",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 29,
-"question": "¿Cuál es el mecanismo de acción que explica la hipotensión de los antidepresivos tricíclicos?",
-"answer": ["c) Antagonismo alfa 1 adrenérgico"],
-"options": [
-"a) Antagonismo H1 histamínico",
-"b) Antagonismo M1 muscarínico",
-"c) Antagonismo alfa 1 adrenérgico",
-"d) Antagonismo 5-HT2 serotoninérgico",
-],
-"discipline": "Farmaco",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 30,
-"question": "¿Cuál es el mecanismo de acción de la fenitoína?",
-"answer": ["a) Inhibe los canales de sodio"],
-"options": [
-"a) Inhibe los canales de sodio",
-"b) Inhibe los canales de calcio",
-"c) Aumenta la conductancia de K+",
-"d) Aumenta la conductancia de Cl",
-],
-"discipline": "Farmaco",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 31,
-"question": "¿Cuál de estas características corresponde a la farmacocinética de nitrofurantoína?",
-"answer": ["c) La formulación de macrocristales presenta una absorción más lenta"],
-"options": [
-"a) La alcalinización de la orina favorece su excreción",
-"b) La formulación en microcristales ofrece mayor biodisponibilidad",
-"c) La formulación de macrocristales presenta una absorción más lenta",
-"d) Presenta amplia distribución tisular concentrando en el parénquima renal",
-],
-"discipline": "Farmaco",
-"comments": "",
-
-},
 
 {
-"info_quest": "3P2025",
-"numb": 32,
-"question": "¿Cómo se encuentra formado un granuloma no necrotizante?",
-"answer": ["a) Presencia de macrófagos, células gigantes multinucleadas, rodeados por linfocitos."],
-"options": [
-"a) Presencia de macrófagos, células gigantes multinucleadas, rodeados por linfocitos.",
-"b) Presencia de neutrófilos, células gigantes multinucleadas, rodeados de linfocitos T.",
-"c) Presencia de neutrófilos, células gigantes multinucleadas, rodeados de linfocitos B y T.",
-"d) Presencia de macrófagos, células gigantes multinucleadas rodeados por polimorfonucleares.",
-],
-"discipline": "AnatoP",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 33,
-"question": "¿Qué células intervienen en la inflamación crónica inespecífica?",
-"answer": ["a) Linfocitos, plasmocitos y macrófagos."],
-"options": [
-"a) Linfocitos, plasmocitos y macrófagos.",
-"b) Neutrófilos, células gigantes multinucleadas y fibroblastos.",
-"c) Células gigantes multinucleadas, plasmocitos, macrófagos y neutrófilos.",
-"d) Eosinófilos, células gigantes multinucleadas tipo cuerpo extraño y fibroblastos.",
-],
-"discipline": "AnatoP",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 34,
-"question": "¿Dónde ocurre la amiloidosis y con qué tinción se confirma?",
-"answer": ["c) Ocurren en el compartimiento extracelular y se confirma con tinción de rojo Congo"],
-"options": [
-"a) Ocurren en el compartimiento extracelular y se confirma con tinción de plata",
-"b) Ocurre en el compartimiento intracelular y se confirma con tinción de rojo Congo",
-"c) Ocurren en el compartimiento extracelular y se confirma con tinción de rojo Congo",
-"d) Ocurre en el compartimiento intracelular y se confirma con tinción de hematoxilina y eosina",
-],
-"discipline": "AnatoP",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 35,
-"question": "¿Qué caracteriza a la hiperplasia?",
-"answer": ["b) Aumento del número de células"],
-"options": [
-"a) Aumento del tamaño celular",
-"b) Aumento del número de células",
-"c) Aumento del número de células displásicas",
-"d) Aumento del número nuclear y del contenido proteico unicelular",
-],
-"discipline": "AnatoP",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 36,
-"question": "La inflamación serosa se caracteriza por:",
-"answer": ["a) Exudación de líquido con baja celularidad."],
-"options": [
-"a) Exudación de líquido con baja celularidad.",
-"b) Acumulación de neutrófilos con detritus celulares.",
-"c) Secreción activa de proteínas al espacio extracelular.",
-"d) Exudación de líquido con proteínas abundantes y fibrina organizada.",
-],
-"discipline": "AnatoP",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 37,
-"question": "¿Qué presenta la necrosis isquémica miocárdica en sus fases tempranas (primeras 24 hs) en un corte histológico teñido con hematoxilina eosina?",
-"answer": ["d) Infiltrado de polimorfonucleares neutrófilos y congestión de vasos sanguíneos"],
-"options": [
-"a) Permeación por linfocitos abundantes y células viables",
-"b) Presencia de células gigantes multinucleadas rodeando la necrosis",
-"c) Permeación por eosinófilos y extravasación de eritrocitos con detritus celulares",
-"d) Infiltrado de polimorfonucleares neutrófilos y congestión de vasos sanguíneos",
-],
-"discipline": "AnatoP",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 38,
-"question": "En una biopsia de tejido renal se observan contornos celulares conservados y citoplasma hiper-eosinófilo, ¿qué tipo de necrosis es más compatible con estos hallazgos?",
-"answer": ["c) Coagulativa"],
-"options": [
-"a) Caseosa",
-"b) Licuefactiva",
-"c) Coagulativa",
-],
-"discipline": "AnatoP",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 39,
-"question": "¿Cómo se denomina al aumento del tamaño celular a expensas de un aumento en la síntesis proteica?",
-"answer": ["d) Hipertrofia"],
-"options": [
-"a) Atrofia",
-"b) Displasia",
-"c) Metaplasia",
-"d) Hipertrofia",
-],
-"discipline": "AnatoP",
-"comments": "",
-
-},
-
-{
-"info_quest": "3P2025",
-"numb": 40,
-"question": "¿Cuál de las siguientes es una característica del proceso por el cual se reparan los tejidos en la cicatrización?",
-"answer": ["c) Formación de tejido de granulación y posterior fibrosis"],
-"options": [
-"a) Regeneración íntegra de todo tejido dañado",
-"b) Fagocitosis de los restos necróticos por los fibroblastos",
-"c) Formación de tejido de granulación y posterior fibrosis",
-"d) Ausencia de proliferación de vasos sanguíneos de neoformación",
-],
-"discipline": "AnatoP",
-"comments": "",
-
-},
+    "info_quest": "3er Parcial 2025",
+    "numb": 31,
+    "question": "¿Cuál de estas características corresponde a la farmacocinética de nitrofurantoína?",
+    "answer": [
+      "c) La formulación de macrocristales presenta una absorción más lenta"
+    ],
+    "options": [
+      "a) La alcalinización de la orina favorece su excreción",
+      "b) La formulación en microcristales ofrece mayor biodisponibilidad",
+      "c) La formulación de macrocristales presenta una absorción más lenta",
+      "d) Presenta amplia distribución tisular concentrando en el parénquima renal"
+    ],
+    "discipline": "Farmaco",
+    "comment": "La nitrofurantoína está disponible en formulaciones microcristalinas y macrocristalinas. La presentación en macrocristales se disuelve y se absorbe a una velocidad menor en el tracto gastrointestinal en comparación con los microcristales, lo que reduce sustancialmente la incidencia de efectos adversos digestivos (como náuseas y vómitos) sin comprometer su biodisponibilidad ni su eficacia en el tracto urinario."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 32,
+    "question": "¿Cómo se encuentra formado un granuloma no necrotizante?",
+    "answer": [
+      "a) Presencia de macrófagos, células gigantes multinucleadas, rodeados por linfocitos."
+    ],
+    "options": [
+      "a) Presencia de macrófagos, células gigantes multinucleadas, rodeados por linfocitos.",
+      "b) Presencia de neutrófilos, células gigantes multinucleadas, rodeados de linfocitos T.",
+      "c) Presencia de neutrófilos, células gigantes multinucleadas, rodeados de linfocitos B y T.",
+      "d) Presencia de macrófagos, células gigantes multinucleadas rodeados por polimorfonucleares."
+    ],
+    "discipline": "AnatoP",
+    "comment": "Un granuloma es una forma distintiva de inflamación granulomatosa crónica. Se compone principalmente de un aglomerado central de macrófagos modificados (células epitelioides) y células gigantes multinucleadas (como las células de Langhans), rodeados periféricamente por una corona de linfocitos y células plasmáticas, sin presentar un núcleo central de necrosis caseosa o licuefactiva."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 33,
+    "question": "¿Qué células intervienen en la inflamación crónica inespecífica?",
+    "answer": [
+      "a) Linfocitos, plasmocitos y macrófagos."
+    ],
+    "options": [
+      "a) Linfocitos, plasmocitos y macrófagos.",
+      "b) Neutrófilos, células gigantes multinucleadas y fibroblastos.",
+      "c) Células gigantes multinucleadas, plasmocitos, macrófagos y neutrófilos.",
+      "d) Eosinófilos, células gigantes multinucleadas tipo cuerpo extraño y fibroblastos."
+    ],
+    "discipline": "AnatoP",
+    "comment": "La inflamación crónica inespecífica o difusa se distingue morfológicamente por un infiltrado celular predominantemente mononuclear. Las células efectoras principales son los macrófagos, los linfocitos (T y B) y las células plasmáticas (plasmocitos), que participan en la respuesta inmunitaria continuada, la destrucción tisular y los intentos concomitantes de reparación."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 34,
+    "question": "¿Dónde ocurre la amiloidosis y con qué tinción se confirma?",
+    "answer": [
+      "c) Ocurren en el compartimiento extracelular y se confirma con tinción de rojo Congo"
+    ],
+    "options": [
+      "a) Ocurren en el compartimiento extracelular y se confirma con tinción de plata",
+      "b) Ocurre en el compartimiento intracelular y se confirma con tinción de rojo Congo",
+      "c) Ocurren en el compartimiento extracelular y se confirma con tinción de rojo Congo",
+      "d) Ocurre en el compartimiento intracelular y se confirma con tinción de hematoxilina y eosina"
+    ],
+    "discipline": "AnatoP",
+    "comment": "La amiloidosis se caracteriza por el depósito patológico de proteínas fibrilares anómalas e insolubles en el espacio extracelular de diversos órganos y tejidos. El diagnóstico histopatológico se confirma mediante la tinción de Rojo de Congo, que tiñe los depósitos de amiloide de un color rojo-salmón y exhibe una birrefringencia verde manzana característica al observarse bajo luz polarizada."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 35,
+    "question": "¿Qué caracteriza a la hiperplasia?",
+    "answer": [
+      "b) Aumento del número de células"
+    ],
+    "options": [
+      "a) Aumento del tamaño celular",
+      "b) Aumento del número de células",
+      "c) Aumento del número de células displásicas",
+      "d) Aumento del número nuclear y del contenido proteico unicelular"
+    ],
+    "discipline": "AnatoP",
+    "comment": "La hiperplasia es una respuesta adaptativa celular caracterizada por un incremento en el número absoluto de células dentro de un órgano o tejido, lo cual suele resultar en un aumento de su volumen. Se produce únicamente en tejidos cuyas células conservan la capacidad de división mitótica (células lábiles o estables)."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 36,
+    "question": "La inflamación serosa se caracteriza por:",
+    "answer": [
+      "a) Exudación de líquido con baja celularidad."
+    ],
+    "options": [
+      "a) Exudación de líquido con baja celularidad.",
+      "b) Acumulación de neutrófilos con detritus celulares.",
+      "c) Secreción activa de proteínas al espacio extracelular.",
+      "d) Exudación de líquido con proteínas abundantes y fibrina organizada."
+    ],
+    "discipline": "AnatoP",
+    "comment": "La inflamación serosa es un patrón morfológico de la inflamación aguda caracterizado por la salida y acumulación de un fluido acuoso claro (exudado seroso) relativamente pobre en células y en proteínas de alto peso molecular. Típicamente se observa en cavidades serosas (derrames) o en la formación de ampollas cutáneas causadas por quemaduras o infecciones virales."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 37,
+    "question": "¿Qué presenta la necrosis isquémica miocárdica en sus fases tempranas (primeras 24 hs) en un corte histológico teñido con hematoxilina eosina?",
+    "answer": [
+      "d) Infiltrado de polimorfonucleares neutrófilos y congestión de vasos sanguíneos"
+    ],
+    "options": [
+      "a) Permeación por linfocitos abundantes y células viables",
+      "b) Presencia de células gigantes multinucleadas rodeando la necrosis",
+      "c) Permeación por eosinófilos y extravasación de eritrocitos con detritus celulares",
+      "d) Infiltrado de polimorfonucleares neutrófilos y congestión de vasos sanguíneos"
+    ],
+    "discipline": "AnatoP",
+    "comment": "Durante las primeras 24 horas posteriores a la oclusión coronaria, la histología del miocardio muestra cambios iniciales de necrosis de coagulación (hipereosinofilia celular, pérdida de estrías y ondulación de fibras) acompañados de intensa congestión vascular e infiltración leucocitaria aguda predominantemente por polimorfonucleares neutrófilos."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 38,
+    "question": "En una biopsia de tejido renal se observan contornos celulares conservados y citoplasma hiper-eosinófilo, ¿qué tipo de necrosis es más compatible con estos hallazgos?",
+    "answer": [
+      "c) Coagulativa"
+    ],
+    "options": [
+      "a) Caseosa",
+      "b) Licuefactiva",
+      "c) Coagulativa"
+    ],
+    "discipline": "AnatoP",
+    "comment": "La necrosis coagulativa es el patrón morfológico característico de las lesiones isquémicas/hipóxicas en órganos sólidos (excepto el encéfalo). Se define por la conservación temporal de la arquitectura tisular y de los contornos celulares basales durante varios días, acompañada de un citoplasma intensamente eosinófilo (por la desnaturalización proteica y fijación de eosina) y la pérdida paulatina de los núcleos."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 39,
+    "question": "¿Cómo se denomina al aumento del tamaño celular a expensas de un aumento en la síntesis proteica?",
+    "answer": [
+      "d) Hipertrofia"
+    ],
+    "options": [
+      "a) Atrofia",
+      "b) Displasia",
+      "c) Metaplasia",
+      "d) Hipertrofia"
+    ],
+    "discipline": "AnatoP",
+    "comment": "La hipertrofia es el aumento en el tamaño de las células que conduce al incremento general del volumen del órgano. Este proceso adaptativo no involucra división celular, sino un aumento en la síntesis de componentes estructurales y proteínas intracelulares, inducido por mayor demanda funcional o estimulación hormonal."
+  },
+  {
+    "info_quest": "3er Parcial 2025",
+    "numb": 40,
+    "question": "¿Cuál de las siguientes es una característica del proceso por el cual se reparan los tejidos en la cicatrización?",
+    "answer": [
+      "c) Formación de tejido de granulación y posterior fibrosis"
+    ],
+    "options": [
+      "a) Regeneración íntegra de todo tejido dañado",
+      "b) Fagocitosis de los restos necróticos por los fibroblastos",
+      "c) Formación de tejido de granulación y posterior fibrosis",
+      "d) Ausencia de proliferación de vasos sanguíneos de neoformación"
+    ],
+    "discipline": "AnatoP",
+    "comment": "Cuando la arquitectura tisular se destruye gravemente o se afectan tejidos no divisibles, la reparación ocurre por sustitución con tejido conjuntivo (cicatrización). Este proceso comprende la rápida formación de tejido de granulación (caracterizado por proliferación de fibroblastos, depósito de matriz extracelular y angiogénesis), el cual madura gradualmente mediante el depósito y remodelado de colágeno resultando en fibrosis."
+  },
 
 
 
