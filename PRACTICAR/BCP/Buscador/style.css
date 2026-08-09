@@ -1,41 +1,65 @@
 
+:root {
+    --bg: #edf4ff;
+    --surface: rgba(255, 255, 255, 0.68);
+    --surface-strong: rgba(255, 255, 255, 0.9);
+    --primary: #2457d6;
+    --primary-strong: #173fa7;
+    --accent: #58b7ff;
+    --text: #1a2b4c;
+    --muted: #5d6f8d;
+    --shadow: 0 18px 45px rgba(25, 55, 112, 0.18);
+    --shadow-soft: 0 12px 28px rgba(25, 55, 112, 0.12);
+    --border: rgba(140, 170, 220, 0.38);
+}
+
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #f0f0f0;
     margin: 0;
-    padding: 0;   
-	height: 100vh;  
-    width: 100%;  
-    
+    padding: 0;
+    min-height: 100vh;
+    width: 100%;
+    color: var(--text);
+    background: radial-gradient(circle at top left, rgba(88, 183, 255, 0.24), transparent 30%),
+                linear-gradient(180deg, #edf5ff 0%, #f7f9ff 35%, #eef3ff 100%);
 }
+
+body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background: linear-gradient(135deg, rgba(255,255,255,0.25), transparent 40%);
+    pointer-events: none;
+    z-index: 0;
+}
+
 header {
-    background: linear-gradient(-45deg, #1e338e, #0056b3, #1e338e);
-	background-size: 700% 700%;
-	animation: gradient 15s ease infinite;
-    border-radius: 0px;
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-    backdrop-filter: blur(5px);
-    -webkit-backdrop-filter: blur(5px);
-    border: 1px solid rgba(255, 255, 255, 0.3);
-    height: 80px;
-    
+    position: relative;
+    z-index: 1;
+    background: linear-gradient(120deg, rgba(19, 46, 120, 0.96), rgba(36, 87, 214, 0.9), rgba(17, 52, 144, 0.95));
+    background-size: 180% 180%;
+    animation: gradient 15s ease infinite;
+    border-radius: 0 0 26px 26px;
+    box-shadow: 0 18px 40px rgba(20, 54, 118, 0.22);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.28);
+    height: 88px;
 }
+
 @keyframes gradient {
-	0% {
-		background-position: 0% 50%;
-	}
-	50% {
-		background-position: 100% 50%;
-	}
-	100% {
-		background-position: 0% 50%;
-	}
-    
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
 }
-h1{
+
+h1 {
     text-align: center;
     color: white;
+    margin: 0;
+    letter-spacing: 0.04em;
 }
+
 .container1 {
     display: flex;
     justify-content: space-between;
@@ -44,15 +68,15 @@ h1{
 }
 
 .flex-grow {
-    flex-grow: 1; /* Allow the title to take up available space */
+    flex-grow: 1;
     text-align: center;
 }
 
 nav ul {
-    display: flex; /* Ensure the list items are in a horizontal line */
-    list-style: none; /* Remove default list styling */
-    padding: 0; /* Remove default padding */
-    margin: 0; /* Remove default margin */
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
 }
 
 .buscador {
@@ -60,87 +84,112 @@ nav ul {
 }
 
 nav ul li {
-    margin-left: 20px; /* Space between list items */
+    margin-left: 20px;
     margin-right: 20px;
 }
 
 nav ul li a {
-    text-decoration: none; /* Remove underline from links */
-    color: rgb(255, 255, 255); /* Default text color */
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    transition: color 0.2s ease;
 }
 
 nav ul li a:hover {
-    color: rgb(85, 178, 255); /* Change color on hover */
+    color: rgb(154, 213, 255);
 }
+
 .container {
+    position: relative;
+    z-index: 1;
     display: flex;
     flex-wrap: wrap;
-    gap: 20px;
+    gap: 22px;
     justify-content: center;
-    padding: 20px;
+    padding: 28px 20px 12px;
+    max-width: 1180px;
+    margin: 0 auto;
 }
+
 .button-cube {
-    background-color: #fff;
-    border: 1px solid #ddd;
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background: rgba(255, 255, 255, 0.7);
+    border: 1px solid var(--border);
+    border-radius: 22px;
+    box-shadow: var(--shadow-soft);
     overflow: hidden;
-    width: 200px;
+    width: min(220px, 100%);
     text-align: center;
-    transition: transform 0.3s;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
 }
+
 .button-cube:hover {
-    transform: translateY(-10px);
+    transform: translateY(-6px);
+    box-shadow: var(--shadow);
 }
+
 .button-cube img {
     width: 100%;
     height: 150px;
     object-fit: cover;
 }
+
 .button-cube .content {
     padding: 15px;
 }
+
 .button-cube .content h3 {
     margin: 0;
     font-size: 18px;
-    color: #333;
+    color: var(--primary-strong);
 }
+
 .button-cube .content p {
     margin: 10px 0 0;
     font-size: 14px;
-    color: #666;
+    color: var(--muted);
 }
+
 .button-cube .content .btn {
     display: inline-block;
     margin-top: 15px;
     padding: 10px 20px;
-    background-color: #007bff;
+    background: linear-gradient(135deg, var(--primary), #4d82ff);
     color: #fff;
     border: none;
-    border-radius: 5px;
+    border-radius: 12px;
     text-decoration: none;
     font-size: 14px;
-    transition: background-color 0.3s;
+    font-weight: 600;
+    box-shadow: 0 12px 20px rgba(36, 87, 214, 0.2);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
+
 .button-cube .content .btn:hover {
-    background-color: #0056b3;
+    transform: translateY(-1px);
+    box-shadow: 0 14px 24px rgba(36, 87, 214, 0.25);
 }
 
 .modal-list button {
     display: block;
     width: 100%;
-    padding: 10px;
-    margin: 5px 0;
-    background-color: #007bff;
+    padding: 10px 12px;
+    margin: 7px 0;
+    background: linear-gradient(135deg, var(--primary), #4d82ff);
     color: #fff;
     border: none;
-    border-radius: 5px;
+    border-radius: 12px;
     text-align: left;
     font-size: 14px;
-    transition: background-color 0.3s;
+    font-weight: 600;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    box-shadow: 0 10px 18px rgba(36, 87, 214, 0.18);
 }
+
 .modal-list button:hover {
-    background-color: #0056b3;
+    transform: translateY(-1px);
+    box-shadow: 0 12px 22px rgba(36, 87, 214, 0.24);
 }
 
 /* ************** BUSCADOR ******************  */
@@ -151,22 +200,26 @@ nav ul li a:hover {
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 5;
-    background: white;
-    border: 1px solid #ccc;
+    background: rgba(255, 255, 255, 0.85);
+    border: 1px solid rgba(158, 179, 226, 0.45);
+    border-radius: 22px;
     padding: 20px;
     max-width: 80%;
     max-height: 80%;
     overflow-y: auto;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: var(--shadow);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
 }
 
 .result-item {
-    padding: 8px;
-    border-bottom: 1px solid #ccc;
+    padding: 10px 8px;
+    border-bottom: 1px solid rgba(148, 167, 212, 0.35);
 }
 
 .result-item p {
     font-weight: bold;
+    color: var(--primary-strong);
 }
 
 .result-item ul {
@@ -176,6 +229,7 @@ nav ul li a:hover {
 
 .result-item li {
     margin: 5px 0;
+    color: var(--text);
 }
 
 
