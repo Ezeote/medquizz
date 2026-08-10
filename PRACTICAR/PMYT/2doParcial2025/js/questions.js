@@ -3,7 +3,7 @@ let questions = [
 {
     "numb": 1,
     "question": "Indique cuál es la estrategia más apropiada para minimizar la supresión del eje hipotálamohipófiso-suprarrenal en terapia prolongada con prednisona: ",
-    "answers": [
+    "answer": [
       "d) Administración con reducción gradual de la dosis. "
     ],
     "options": [
@@ -18,7 +18,7 @@ let questions = [
   {
     "numb": 2,
     "question": "Señale cuál es un riesgo clínicamente relevante de los anticuerpos monoclonales anti-TNF (factor de necrosis tumoral), como infliximab: ",
-    "answers": [
+    "answer": [
       "c) Reactivación de tuberculosis latente. "
     ],
     "options": [
@@ -33,7 +33,7 @@ let questions = [
   {
     "numb": 3,
     "question": "Indique qué conducta inicial tomaría ante depresión respiratoria por sobredosis de opioides: ",
-    "answers": [
+    "answer": [
       "b) Naloxona intravenosa. "
     ],
     "options": [
@@ -48,7 +48,7 @@ let questions = [
   {
     "numb": 4,
     "question": "Considerando los criterios de selección de medicamentos en infección urinaria no complicada en mujer joven sin comorbilidades, ¿Cuál considera una elección empírica racional? ",
-    "answers": [
+    "answer": [
       "d) Nitrofurantoína. "
     ],
     "options": [
@@ -63,7 +63,7 @@ let questions = [
   {
     "numb": 5,
     "question": "Considerando los criterios de selección de medicamentos en neumonía adquirida en la comunidad sin elementos de gravedad en adulto joven previamente sano, ¿Cuál considera una elección empírica racional? ",
-    "answers": [
+    "answer": [
       "a) Amoxicilina. "
     ],
     "options": [
@@ -78,7 +78,7 @@ let questions = [
   {
     "numb": 6,
     "question": "Marque cuál es un efecto adverso grave de macrólidos:  ",
-    "answers": [
+    "answer": [
       "d) Prolongación del intervalo QT. "
     ],
     "options": [
@@ -93,7 +93,7 @@ let questions = [
   {
     "numb": 7,
     "question": "especto a fármacos antirretrovirales, ¿qué principio de uso racional es prioritario? ",
-    "answers": [
+    "answer": [
       "c) Combinaciones de dos o tres fármacos activos para prevenir resistencias. "
     ],
     "options": [
@@ -108,7 +108,7 @@ let questions = [
   {
     "numb": 8,
     "question": "¿Cuál de los siguientes efectos adversos está descrito para metoclopramida? ",
-    "answers": [
+    "answer": [
       "d) Síntomas extrapiramidales. "
     ],
     "options": [
@@ -123,7 +123,7 @@ let questions = [
   {
     "numb": 9,
     "question": "Marque cuál de los siguientes antidepresivos está aprobado para dolor neuropático: ",
-    "answers": [
+    "answer": [
       "c) Duloxetina. "
     ],
     "options": [
@@ -138,7 +138,7 @@ let questions = [
   {
     "numb": 10,
     "question": "¿Cuál de los siguientes efectos adversos se asocia con el uso de inhibidores selectivos de recaptación de serotonina? ",
-    "answers": [
+    "answer": [
       "b) Hiponatremia. "
     ],
     "options": [
@@ -153,7 +153,7 @@ let questions = [
   {
     "numb": 11,
     "question": "Marque cuál antiepiléptico es teratogénico con riesgo de defectos del tubo neural: ",
-    "answers": [
+    "answer": [
       "d) cÁcido valproico. "
     ],
     "options": [
@@ -168,7 +168,7 @@ let questions = [
   {
     "numb": 12,
     "question": "Indique cuál es un efecto adverso grave de metimazol: ",
-    "answers": [
+    "answer": [
       "c) Agranulocitosis. "
     ],
     "options": [
@@ -183,7 +183,7 @@ let questions = [
   {
     "numb": 13,
     "question": "¿Qué resultado serológico esperaría encontrar en una paciente con lupus eritematoso sistémico clínicamente inactivo? ",
-    "answers": [
+    "answer": [
       "d) Valores normales de proteína C reactiva (PCR) "
     ],
     "options": [
@@ -198,7 +198,7 @@ let questions = [
   {
     "numb": 14,
     "question": "¿Cuál es el principal autoantígeno blanco de las respuestas inmunitarias en la enfermedad de Graves-Basedow? ",
-    "answers": [
+    "answer": [
       "b) Receptor de TSH "
     ],
     "options": [
@@ -213,7 +213,7 @@ let questions = [
   {
     "numb": 15,
     "question": "Una ferritina elevada con sideremia baja y transferrina normal es típica de la anemia de etiología:  ",
-    "answers": [
+    "answer": [
       "d) Inflamatoria "
     ],
     "options": [
@@ -228,7 +228,7 @@ let questions = [
   {
     "numb": 16,
     "question": "La prueba de Coombs directa se utiliza para detectar: ",
-    "answers": [
+    "answer": [
       "b) Anticuerpos fijados a eritrocitos "],
     "options": [
       "a) Inmunocomplejos Circulantes en plasma ",
@@ -242,7 +242,7 @@ let questions = [
   {
     "numb": 17,
     "question": "¿Qué resultado de laboratorio permite diferenciar la anemia por déficit de vitamina B12 de aquella por déficit de ácido fólico? ",
-    "answers": [
+    "answer": [
       "c) Elevación del ácido metilmalónico "
     ],
     "options": [
@@ -257,7 +257,7 @@ let questions = [
   {
     "numb": 18,
     "question": "¿Qué trastorno hemorrágico cursa con sangrados típicos del compromiso de la hemostasia primaria, pero puede acompañarse de alteraciones en pruebas de coagulación? ",
-    "answers": [
+    "answer": [
       "c) Enfermedad de von Willebrand "
     ],
     "options": [
@@ -272,7 +272,7 @@ let questions = [
   {
     "numb": 19,
     "question": "Durante el estudio de un paciente con prolongación del tiempo de tromboplastina parcial activada (aPTT), se realiza una prueba de mezclas. El aPTT se corrige completamente. ¿Cuál es la interpretación más probable? ",
-    "answers": [
+    "answer": [
       "b) Déficit de factor VIII "
     ],
     "options": [
@@ -287,7 +287,7 @@ let questions = [
   {
     "numb": 20,
     "question": "¿Cuál es el principal blanco antigénico de los anticuerpos antifosfolipídicos clínicamente relevantes? ",
-    "answers": [
+    "answer": [
       "a) B2-glicoproteína I "
     ],
     "options": [
@@ -302,7 +302,7 @@ let questions = [
   {
     "numb": 21,
     "question": "El remodelado óseo es importante en la determinación de la calidad ósea y su alteración puede llevar a osteoporosis, en cuanto a las vías que lo regulan, señale lo correcto: ",
-    "answers": [
+    "answer": [
       "a) La activación de la vía RANK-RANK ligando estimula la reabsorción ósea. "
     ],
     "options": [
@@ -317,7 +317,7 @@ let questions = [
   {
     "numb": 22,
     "question": "Cuál es el principal mecanismo mediante el cual los cristales de urato monosódico inducen la respuesta inflamatoria en la gota? ",
-    "answers": [
+    "answer": [
       "a) Son fagocitados, rompen el fagolisosoma y activan el inflamosoma, lo que induce la liberación de IL-1. "
     ],
     "options": [
@@ -332,7 +332,7 @@ let questions = [
   {
     "numb": 23,
     "question": "Con respecto a las complicaciones agudas por consumo de MDMA (metilendioximetanfetamina), señale lo correcto:  ",
-    "answers": [
+    "answer": [
       "b) El consumo de alcohol asociado puede incrementar el riesgo de rabdomiólisis e injuria renal aguda "
     ],
     "options": [
@@ -347,7 +347,7 @@ let questions = [
   {
     "numb": 24,
     "question": "Con respecto al consumo de alcohol, señale la opción correcta:  ",
-    "answers": [
+    "answer": [
       "a) Los consumidores crónicos de alcohol que consumen cocaína presentan mayor riesgo de hepatotoxicidad. "
     ],
     "options": [
@@ -362,7 +362,7 @@ let questions = [
   {
     "numb": 25,
     "question": "Con respecto a la nefrotoxicidad por cocaína, marque la opción correcta:  ",
-    "answers": [
+    "answer": [
       "b) El consumo de y daño celular. alcohol asociado incrementa el riesgo de rabdomiólisis y por consiguiente de injuria renal aguda.  "
     ],
     "options": [
@@ -377,7 +377,7 @@ let questions = [
   {
     "numb": 26,
     "question": "Paciente de 36 años, ADIV, VIH positivo, sin adherencia al TARV. Consulta por cefaleas, fiebre y vómitos de 10 días de evolución. Examen físico: desorientado, fiebre de 39°C, lesiones cutáneas tipo molusco contagioso. Fotofobia, rigidez de nuca y Kernig positivo. Resto del examen s/p. RNM: lesiones periventriculares. Punción lumbar :  líquido claro. ¿Cuál cree que debería ser el primer diagnóstico etiológico a descartar? ",
-    "answers": [
+    "answer": [
       "b) Criptococosis diseminada.  "
     ],
     "options": [
@@ -392,7 +392,7 @@ let questions = [
   {
     "numb": 27,
     "question": "¿Qué factores se consideran vinculados a la progresión de la ERC en el tiempo? Señale la combinación más adecuada. ",
-    "answers": [
+    "answer": [
       "c) Hipertensión arterial, obesidad, acidosis metabólica, uropatía obstructiva "
     ],
     "options": [
@@ -407,7 +407,7 @@ let questions = [
   {
     "numb": 28,
     "question": "Respecto al hepatocarcinoma en pacientes con cirrosis, indique lo correcto: ",
-    "answers": [
+    "answer": [
       "b) Se recomienda realizar screening mediante ecografia de abdomen y alfa-fetoproteina cada 6 meses "
     ],
     "options": [
@@ -422,7 +422,7 @@ let questions = [
   {
     "numb": 29,
     "question": "Mujer de 20 años asintomática y sin antecedentes personales. Enviada por diagnóstico confiable de enfermedad celíaca en su hermana menor. Su primer gesto diagnóstico es: ",
-    "answers": [
+    "answer": [
       "d) Solicitar anti transglutaminasa con dosificación de IgA "
     ],
     "options": [
@@ -438,7 +438,7 @@ let questions = [
 {
     "numb": 30,
     "question": "En la esteatohepatitis alcohólica se halla una combinación de cambios morfológicos característica, aunque no patognomónica, que permite su diagnóstico. Esta es: ",
-    "answers": [
+    "answer": [
       "a) Tumefacción y necrosis de los hepatocitos con cuerpos de Mallory-Denk e infiltrado inflamatorio a neutrófilos. "
     ],
     "options": [
@@ -453,7 +453,7 @@ let questions = [
   {
     "numb": 31,
     "question": "Paciente de 22 años, sexo masculino, que consulta por disnea de esfuerzo y coloración amarillenta de piel y mucosas, así como astenia persistente. Se le realiza extensa paraclínicа, destacandose a nivel de la TC la presencia de enfisema y hepatomegalia moderada (grado 2) con nodulaciones parenquimatosas. Del interrogatorio se extrae que la madre y el tío materno presentaron similares cuadros clínicos. En caso de realizarse biopsia hepática, cuáles serían los hallazgos más probables: ",
-    "answers": [
+    "answer": [
       "b) Hepatocitos con inclusiones globulares citoplasmáticas redondeadas PAS positivas diastasa resistentes. "
     ],
     "options": [
@@ -468,7 +468,7 @@ let questions = [
   {
     "numb": 32,
     "question": "El nódulo reumatoideo se manifiesta histológicamente como:",
-    "answers": [
+    "answer": [
       "a) un granuloma con necrosis fibrinoide central, rodeada de histiocitos y corona de linfocitos"
     ],
     "options": [
@@ -483,7 +483,7 @@ let questions = [
   {
     "numb": 33,
     "question": "Paciente de SM con síntomas de RGE de larga data se realiza una endoscopía de control y le encuentran lengüetas asalmonadas, rojas, aterciopeladas, que ascienden desde la unión gastroesofágica. Se toman biopsias. Los hallazgos más probables en este paciente son: ",
-    "answers": [
+    "answer": [
       "c) Metaplasia intestinal con presencia de células caliciformes. "
     ],
     "options": [
@@ -498,7 +498,7 @@ let questions = [
   {
     "numb": 34,
     "question": "En una paciente de SF, 36 años, con historia de anemia y frecuente distensión abdominal, con anticuerpos antiendomisio y antitrransglutaminasa positivos. Los hallazgos en la biopsia duodenal más probables son: ",
-    "answers": [
+    "answer": [
       "a) Aumento de la linfocitosis intraepitelial, con atrofia variable de las vellosidades y pérdida del borde en cepillo. "
     ],
     "options": [
@@ -513,7 +513,7 @@ let questions = [
   {
     "numb": 35,
     "question": "En relación a los inmunocomplejos presentes en la nefritis lúpica:  ",
-    "answers": [
+    "answer": [
       "c) Son detectables por inmunofluorescencia en todos los estadíos  "
     ],
     "options": [
@@ -528,7 +528,7 @@ let questions = [
   {
     "numb": 36,
     "question": "Paciente de 28 años, SF, se presenta con diarrea crónica, endoscopía que muestra mucosa en empedrado y úlceras aftoides que afecta el íleon, ciego y colon sigmoides, con mucosa sana entre ambos focos, el cuadro histológico más probable es: ",
-    "answers": [
+    "answer": [
       "d) Compromiso de la mucosa y submucosa por un infiltrado inflamatorio linfomononuclear con granulomas, distorsión de la arquitectura de la mucosa y úlceras aftosas. "
     ],
     "options": [
@@ -543,7 +543,7 @@ let questions = [
   {
     "numb": 37,
     "question": "En la afectación articular del LES, es característico observar: ",
-    "answers": [
+    "answer": [
       "a) Sinovitis no erosiva. "
     ],
     "options": [
@@ -558,7 +558,7 @@ let questions = [
   {
     "numb": 38,
     "question": "Paciente de 70 años, SF, que se presenta con esplenomegalia, poliglobulia de 6.000.000/dl y Hb de 20g/dl, con JAK2 mutado y BCR/ABL no mutado, que en la médula ósea muestra panmielosis con hiperplasia de las series eritroide, granular y megacariocítica y maduración presente, el planteo más probable es: ",
-    "answers": [
+    "answer": [
       "a) Policitemia Vera "
     ],
     "options": [
@@ -573,7 +573,7 @@ let questions = [
   {
     "numb": 39,
     "question": "En un paciente de 75 años, con uropatía obstructiva baja crónica, PSA normal, sin dolor o fiebre y hemograma normal, el cuadro histológico más probable es: ",
-    "answers": [
+    "answer": [
       "a) Hiperplasia de patrón nodular a predominio de la zona periuretral, con aumento de las glándulas, que se agrupan y en ocasiones muestran dilatación, sin atipías. "
     ],
     "options": [
@@ -588,7 +588,7 @@ let questions = [
   {
     "numb": 40,
     "question": "El linfoma no Hodgkin (LNH) más frecuente en adultos, se caracteriza por: ",
-    "answers": [
+    "answer": [
       "d) Una proliferación difusa de células de gran talla B (CD20 y CD19 positiva) de rápido crecimiento. "
     ],
     "options": [
