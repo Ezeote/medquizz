@@ -6,7 +6,7 @@ let questions = [
     "options": [
       "a) La transferrina y se produce principalmente a nivel hepático",
       "b) La eritropoyetina con producción principalmente a nivel renal",
-      "c) La hepcidina que se produce principalmente a nivel hepático x",
+      "c) La hepcidina que se produce principalmente a nivel hepático",
       "d) La ferroportina que se produce principalmente a nivel renal"
     ],
     "discipline": "Patologia",
