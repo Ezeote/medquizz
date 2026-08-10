@@ -341,7 +341,7 @@ let questions = [
       "c) La hipertermia es debida a una disfunción del metabolismo del calcio a nivel muscular (hipertermia maligna) ocasionada por el MDMA ",
       "d) La hiponatremia está relacionada a la ingesta abundante de agua para evitar la deshidratación y no por efecto tóxico directo del MDMA "
     ],
-    "discipline": "Toxicología",
+    "discipline": "Patologia",
     "comment": "La coingesta de alcohol y MDMA aumenta la deshidratación, la desacoplación térmica corporal y la sobreactividad muscular involuntaria. Esto potencia fuertemente el riesgo de sufrir síndrome de hipertermia, rabdomiólisis masiva con liberación de mioglobina a la circulación e injuria renal aguda de causa tubular-obstructiva e hemodinámica."
   },
   {
@@ -356,7 +356,7 @@ let questions = [
       "c) El sindrome simpaticomimetico es característico de la intoxicación etílica aguda.  ",
       "d) La injuria renal aguda es debida a la precipitación de metabolitos del etanol a nivel tubular, con la consiguiente lisis celular. "
     ],
-    "discipline": "Toxicología / Hepatología",
+    "discipline": "Patologia",
     "comment": "El consumo concomitante de etanol y cocaína conduce a la síntesis transesterificada hepática de cocaetileno, un metabolito tóxico activo. Además, el alcoholismo crónico induce la isoenzima microsamal CYP2E1, incrementando la bioactivación de la cocaína hacia metabolitos hepatotóxicos reactivos con generación severa de estrés oxidativo y necrosis hepática."
   },
   {
@@ -371,7 +371,7 @@ let questions = [
       "c) La nefrotoxicidad se manifiesta por una injuria renal irreversible ",
       "d) Cuando hay elementos de nefrotoxicidad no es útil la detección de metabolitos de cocaína en orina. "
     ],
-    "discipline": "Toxicología / Nefrología",
+    "discipline": "Patologia",
     "comment": "La cocaína desencadena vasoconstricción renal intensa, hipertermia y colapso muscular (rabdomiólisis). El etanol coingerido agrava de forma sinérgica la rabdomiólisis e hipotensión; la mioglobina libre liberada por el daño muscular genera obstrucción tubular renal, toxicidad citotóxica directa sobre el epitelio tubular e injuria renal aguda."
   },
   {
@@ -386,7 +386,7 @@ let questions = [
       "c) Candidiasis cutánea.  ",
       "d) Aspergilosis cutánea. "
     ],
-    "discipline": "Infectología",
+    "discipline": "Patologia",
     "comment": "En un paciente con inmunodepresión avanzada por VIH no tratado que presenta un cuadro de meningoencefalitis subaguda (fiebre, cefalea, rigidez nucal, LCR claro) acompañado de pápulas cutáneas umbilicadas características que simulan molusco contagioso, el diagnóstico prioritario e ineludible es una infección micótica diseminada por Cryptococcus neoformans."
   },
   {
@@ -401,7 +401,7 @@ let questions = [
       "c) Hipertensión arterial, obesidad, acidosis metabólica, uropatía obstructiva ",
       "d) Hiperuricemia, dislipemia, uso de calcio-antagonistas, diabetes mellitus "
     ],
-    "discipline": "Nefrología",
+    "discipline": "Patologia",
     "comment": "Los factores que aceleran la progresión del daño renal crónico incluyen la hipertensión intraglomerular y sistémica, la hiperfiltración asociada a la obesidad, la acidemia que estimula vías profibróticas/endoteliales tubulares y la hipertensión en la vía urinaria provocada por la uropatía obstructiva. La corrección de estos factores detiene la pérdida progresiva de nefronas."
   },
   {
@@ -416,7 +416,7 @@ let questions = [
       "c) Se recomienda realizar screening mediante ecografia de abdomen y alfa-fetoproteina de forma anual ",
       "d) No se recomienda el screening universal "
     ],
-    "discipline": "Gastroenterología / Hepatología",
+    "discipline": "Patologia",
     "comment": "El hepatocarcinoma (CHC) es la principal neoplasia primaria del hígado y una causa mayor de morbimortalidad en pacientes cirróticos. Las guías clínicas internacionales recomiendan un programa de tamizaje y vigilancia periódica mediante ecografía abdominal cada 6 meses (asociado o no a alfa-fetoproteína), lo que permite detectar nódulos neoplásicos en estadios tempranos candidatos a terapias curativas."
   },
   {
@@ -431,7 +431,7 @@ let questions = [
       "c) Solicitar péptido deaminado de gliadina y antiendomisio ",
       "d) Solicitar anti transglutaminasa con dosificación de IgA "
     ],
-    "discipline": "Gastroenterología",
+    "discipline": "Patologia",
     "comment": "Los familiares de primer grado de pacientes celíacos tienen un riesgo incrementado de padecer la enfermedad. En sujetos asintomáticos mayores de 2 años, el cribado inicial serológico recomendado es la determinación del anticuerpo anti-transglutaminasa tisular IgA (tTG-IgA) emparejado con la cuantificación de IgA sérica total para descartar una deficiencia selectiva de IgA que generaría falsos negativos."
   },
  
@@ -447,7 +447,7 @@ let questions = [
       "c) Cambio graso de los hepatocitos con acúmulo de cobre y fibrosis periportal. ",
       "d) Fibrosis en alambre de gallinero perivenacentrolobulillar, hepatocitos en vidrio esmerilado e infiltrado inflamatorio con numerosos plasmocitos. "
     ],
-    "discipline": "Anatomía Patológica / Hepatología",
+    "discipline": "AnatoP",
     "comment": "La esteatohepatitis alcohólica se caracteriza por la tríada histopatológica clásica: 1) tumefacción (balonización) y necrosis hepatocitaria, 2) presencia de cuerpos de Mallory-Denk (agregados citoplasmáticos eosinófilos de filamentos intermedios de queratina) y 3) infiltrado inflamatorio intralobulillar predominantemente neutrofílico rodeando a los hepatocitos dañados, con frecuencia asociado a esteatosis macrovesicular y fibrosis pericelular/perisinusoidal."
   },
   {
@@ -462,7 +462,7 @@ let questions = [
       "c) Esteatosis extensa con depósitos de cobre demostrables con rodamina y orceína. ",
       "d) Depósitos a nivel del hepatocito tingibles con azul de Prusia y Perls, asociado a daño ductular. "
     ],
-    "discipline": "Anatomía Patológica / Neumología / Hepatología",
+    "discipline": "AnatoP",
     "comment": "La combinación de enfisema pulmonar panacinar de inicio precoz asociado a daño hepático crónico y agregación familiar sugiere fuertemente un déficit de alfa-1 antitripsina. Debido a la mutación genética, la proteína mal plegada se acumula en el retículo endoplásmico de los hepatocitos, manifestándose histológicamente como glóbulos o inclusiones citoplasmáticas redondas que tiñen intensamente con el reactivo de PAS y resisten la digestión previa con diastasa (PAS-D+)."
   },
   {
@@ -477,7 +477,7 @@ let questions = [
       "c) vasculitis trombosada con necrosis fibrinoide, rodeada de reacción gigantoceluilar",
       "d) acúmulos linfoides con formación de centros germinales con presencia de células gigantes multinucleadas en la periferia"
     ],
-    "discipline": "Anatomía Patológica / Reumatología",
+    "discipline": "AnatoP",
     "comment": "El nódulo reumatoide es la manifestación extraarticular más frecuente de la artritis reumatoide. Su patrón histopatológico clásico consiste en un granuloma necrotizante formado por una gran zona central de necrosis fibrinoide (colágeno alterado con depósitos de fibrina), delimitada por una empalizada de histiocitos/macrófagos activados y rodeada externamente por una corona o manguito de linfocitos, células plasmáticas y fibroblastos."
   },
   {
@@ -492,7 +492,7 @@ let questions = [
       "c) Metaplasia intestinal con presencia de células caliciformes. ",
       "d) Venas dilatadas y tortuosas que alcanzan los vasos subepiteliales. "
     ],
-    "discipline": "Anatomía Patológica / Gastroenterología",
+    "discipline": "AnatoP",
     "comment": "El hallazgo endoscópico de lengüetas mucosas asalmonadas en el esófago distal es característico del esófago de Barrett, una complicación del reflujo gastroesofágico (RGE) crónico. Histológicamente, para confirmar el diagnóstico se requiere la sustitución del epitelio escamoso esofágico por metaplasia cilíndrica de tipo intestinal, cuya seña de identidad patognomónica es la presencia de células caliciformes (goblet cells)."
   },
   {
@@ -507,7 +507,7 @@ let questions = [
       "c) Aplanamiento mucoso con ulceración, presencia de pseudomembranas e infiltrado inflamatorio a predominio de polimorfonucleares neutrófilos. ",
       "d) Expansión de las placas de Peyer con formación de elevaciones en forma de meseta que alcanzan los 8 cm, con numerosos polimorfonucleares neutrófilos en la lámina propia. "
     ],
-    "discipline": "Anatomía Patológica / Gastroenterología",
+    "discipline": "AnatoP",
     "comment": "El cuadro clínico-serológico es patognomónico de enfermedad celíaca. Los cambios histopatológicos clásicos en las biopsias del intestino delgado (clasificación de Marsh) corresponden a: 1) incremento de los linfocitos intraepiteliales (mínimo >25 por cada 100 enterocitos), 2) hiperplasia de las criptas y 3) atrofia vellositaria de severidad variable con aplanamiento del microborde apical (pérdida del borde en cepillo)."
   },
   {
@@ -522,7 +522,7 @@ let questions = [
       "c) Son detectables por inmunofluorescencia en todos los estadíos  ",
       "d) Los característicos están compuestos por C3, IgD e IgG "
     ],
-    "discipline": "Anatomía Patológica / Nefrología",
+    "discipline": "AnatoP",
     "comment": "La nefritis lúpica es el prototipo de glomerulonefritis mediada por inmunocomplejos. En la inmunofluorescencia directa (IFD), la demostración de depósitos de inmunoglobulinas (IgG, IgA, IgM) y fracciones del complemento (C3, C1q), fenómeno conocido como patrón 'full house', es constante y detectable en todas las clases/estadíos de la clasificación ISN/RPS (de la Clase I a la VI)."
   },
   {
@@ -537,7 +537,7 @@ let questions = [
       "c) Mucosa con depósito subepitelial de colágeno que se resalta por Tricrómico, asociado a aumento de los linfocitos intraepiteliales. ",
       "d) Compromiso de la mucosa y submucosa por un infiltrado inflamatorio linfomononuclear con granulomas, distorsión de la arquitectura de la mucosa y úlceras aftosas. "
     ],
-    "discipline": "Anatomía Patológica / Gastroenterología",
+    "discipline": "AnatoP",
     "comment": "La presencia de salteo de áreas lesionadas, compromiso ileocecal y sigmoideo, patrón en empedrado y úlceras aftoides orientan al diagnóstico de Enfermedad de Crohn. A diferencia de la colitis ulcerosa, la enfermedad de Crohn presenta una inflamación transmural (que compromete mucosa y submucosa o capas más profundas), infiltrado linfoplasmocitario, agregados linfoideos, distorsión de criptas y la presencia característica de granulomas no caseificantes."
   },
   {
@@ -552,7 +552,7 @@ let questions = [
       "c) Hiperplasia de células sinoviales con infiltrado inflamatorio denso, con formación de pannus, que erosiona el tejido cartilaginoso. ",
       "d) Proliferación de condrocitos articulares formando conglomerados, con fibras de colágeno escindidas. "
     ],
-    "discipline": "Reumatología / Anatomía Patológica",
+    "discipline": "AnatoP",
     "comment": "La afectación articular en el Lupus Eritematoso Sistémico se manifiesta habitualmente como una artritis inflamatoria o artropatía de Jaccoud no erosiva ni destructiva. A diferencia de la artritis reumatoide, no produce proliferación de pannus agresivo ni erosión marginal de hueso o cartílago articular en los estudios radiológicos."
   },
   {
@@ -567,7 +567,7 @@ let questions = [
       "c) Mielofibrosis primaria. ",
       "d) Trombocitemia Esencial. "
     ],
-    "discipline": "Hematología / Anatomía Patológica",
+    "discipline": "AnatoP",
     "comment": "La Policitemia Vera es una neoplasia mieloproliferativa crónica caracterizada por el aumento incontrolado de la masa eritrocitaria (poliglobulia y Hb marcadamente elevada), esplenomegalia y la presencia de la mutación somática JAK2 V617F en >95% de los casos (con BCR/ABL negativo). La biopsia de médula ósea expone una marcada panmielosis con hiperplasia trilineal (eritroide, granulocítica y megacariocítica) preservando la maduración de las series."
   },
   {
@@ -582,7 +582,7 @@ let questions = [
       "c) Proliferación epitelial atípica compuesta por túbulos con ausencia de capa de células basales, infiltrativa. ",
       "d) Presencia de lesión intraepitelial con células basales presentes, compuesta por células de núcleos atípicos con nucleolo evidente. "
     ],
-    "discipline": "Anatomía Patológica / Urología",
+    "discipline": "AnatoP",
     "comment": "La Hiperplasia Benigna de Próstata (HBP) es la causa principal de uropatía obstructiva baja en hombres de edad avanzada. Histológicamente cursa con proliferación nodular no neoplásica de componentes epiteliales y estromales centrados en la zona periuretral y de transición, caracterizada por proliferación glandular bien diferenciada con doble capa celular intacta, ausencia de atipia citológica y eventual formación de ectasias o dilataciones quísticas."
   },
   {
@@ -597,7 +597,7 @@ let questions = [
       "c) Ser una proliferación con frecuente afectación de la médula ósea y linfocitosis en sangre periférica, con ganglios pequeños y lenta evolución, que muestra una proliferación a predominio de linfocitos pequeños con centros de proliferación. ",
       "d) Una proliferación difusa de células de gran talla B (CD20 y CD19 positiva) de rápido crecimiento. "
     ],
-    "discipline": "Hematología / Anatomía Patológica",
+    "discipline": "AnatoP",
     "comment": "El Linfoma Difuso de Células Grandes B (LDCGB) representa la variante más común de Linfoma No Hodgkin en la población adulta (30-40% de los casos). Se caracteriza por una proliferación difusa y agresiva de inmunoblastos o centroblastos B de gran tamaño que destruyen la arquitectura ganglionar u ocluyen tejidos extraganglionares, expresando intensamente antígenos pan-B como CD19, CD20 y CD79a."
   }
  
