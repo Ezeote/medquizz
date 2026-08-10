@@ -25,11 +25,8 @@ let counterLine;
 let widthValue = 0;
 // for cout answer for each discipline
 let disciplineScores = {
-    Bacterio: { correct: 0, total: 0 },
-    Parasito: { correct: 0, total: 0 },
-    Fisiopato: { correct: 0, total: 0 },
     Farmaco: { correct: 0, total: 0 },
-    Biofisica: { correct: 0, total: 0 },
+    Patologia: { correct: 0, total: 0 },
     AnatoP: { correct: 0, total: 0 }
 };
 // Initialize total questions for each discipline
