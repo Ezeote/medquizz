@@ -114,7 +114,7 @@ let questions = [
     ],
     "options": [
       "a. Disminución en la absorción intestinal de hierro. ",
-      "b. Reducción de la hepcidina. Debe decir incremento.",
+      "b. Reducción de la hepcidina.",
       "c. Incremento en la producción de hepcidina. ",
       "d. Liberación excesiva de hierro desde los macrófagos. "
     ],
