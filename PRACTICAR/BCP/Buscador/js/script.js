@@ -69,6 +69,8 @@ function startFullModule(discipline) {
         alert('No hay preguntas disponibles para el módulo: ' + discipline);
         return;
     }
+    // Shuffle the questions
+    filteredQuestions = shuffleArray(filteredQuestions);
     // Renumber questions sequentially
     filteredQuestions.forEach((q, i) => q.numb = i + 1);
 
@@ -526,5 +528,4 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 // ...existing code...
-
 
