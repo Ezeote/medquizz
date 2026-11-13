@@ -47,7 +47,7 @@ function selectDisciplines() {
     );
     filteredQuestions = selectedTopics.length > 0
         ? matchingQuestions
-        : shuffleArray(matchingQuestions).slice(0, 10);
+        : shuffleArray(matchingQuestions);
     filteredQuestions.forEach((question, index) => question.numb = index + 1);
     resetDisciplineScores();
 }
