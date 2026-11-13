@@ -1960,7 +1960,7 @@ let questions = [
 "d. Estudio del metabolismo fosfo-cálcico, en búsqueda de alteraciones que puedan predisponer a la formación de litiasis"
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "",
+"TEMA": "RENAL",
 "comment": "La paciente tiene síntomas urinarios bajos de 4 días y esterasas leucocitarias positivas, es decir, una probable infección urinaria asociada a una posible litiasis. Una infección sobre una vía urinaria obstruida es un factor agravante porque puede evolucionar a pielonefritis obstructiva o urosepsis (emergencia urológica). Por eso el urocultivo es el estudio inicial relevante. La opción a es incorrecta: la Rx simple de abdomen no tiene una sensibilidad y especificidad cercanas al 95% (no ve cálculos radiolúcidos ni los pequeños, y se superpone con gas intestinal). La opción b es incorrecta: una ecografía normal no descarta litiasis (los cálculos ureterales pequeños pueden no verse). La opción d es incorrecta: el estudio metabólico se hace en el seguimiento, no en el momento inicial."
 },
 
@@ -1975,7 +1975,7 @@ let questions = [
 "d. Solicitaría interconsulta con urología urgente dado que tiene indicación de litotricia."
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "",
+"TEMA": "RENAL",
 "comment": "Los cálculos ureterales pequeños (menos de 5 mm) se eliminan espontáneamente en la mayoría de los casos; en los de mayor tamaño (aproximadamente 5 a 10 mm) la terapia médica expulsiva con alfabloqueantes (tamsulosina) relaja el músculo liso ureteral y aumenta la probabilidad de expulsión. La opción a es incorrecta: la hidratación forzada no ha demostrado favorecer la expulsión y puede aumentar el dolor por distensión de la vía urinaria; se recomienda una ingesta normal de líquidos. Las opciones c y d son incorrectas: no hay criterios de derivación urgente (no hay fiebre, anuria, monorreno, ni obstrucción con infección demostrada), ni indicación establecida de litotricia, que dependería del tamaño y la localización del cálculo, aún no conocidos."
 },
 
@@ -1990,7 +1990,7 @@ let questions = [
 "d. una vez superado el cuadro actual, la citaría en policlínica PNA para control con paraclínica de valoración de función renal e imagen de aparato urinario."
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "",
+"TEMA": "RENAL",
 "comment": "El médico del primer nivel de atención es el referente longitudinal de la paciente y debe hacer el seguimiento una vez resuelto el episodio. Corresponde evaluar la función renal (creatinemia, examen de orina) y solicitar una imagen del aparato urinario (ecografía) para confirmar o descartar litiasis residual, malformaciones o secuelas, sobre todo porque tiene ITU a repetición desde la adolescencia. La opción a es incorrecta: no es una paciente que deba ser seguida exclusivamente por urología en este momento. La opción b es incorrecta: no es solo un control clínico, se necesitan estudios paraclínicos. La opción c es incorrecta: el Programa de Salud Renal es para pacientes con enfermedad renal crónica, y no hay evidencia de que la tenga."
 },
 
@@ -2381,7 +2381,564 @@ let questions = [
 "discipline": "Salud Mental",
 "TEMA": "",
 "comment": "En Uruguay las personas adultas mayores, en especial los varones de edad avanzada, tienen las tasas de suicidio más altas de todos los grupos etarios, y el país está entre los de mayor tasa de suicidio de la región. Según los datos de la materia, se registra un suicidio de una persona adulta mayor aproximadamente cada 2 días. Es un problema de salud pública prioritario: los factores de riesgo incluyen depresión, soledad, pérdida de roles y de seres queridos, enfermedades crónicas y dolor, y su abordaje requiere detección precoz de la depresión, evaluación del riesgo suicida en el primer nivel de atención y fortalecimiento de las redes de apoyo."
-}
+},
+
+
+
+{
+    "numb": 1,
+    "question": "VIÑETA 1 </br> Paciente de sexo femenino, 40 años. Trabaja en un laboratorio. No fumadora. Asmática desde los 25 años con crisis esporádicas que trata con salbutamol a demanda y prednisona 40 mg por 3 días. Nunca internaciones por el asma. Concurre a control sin síntomas de exacerbación en el momento. </br> ¿Qué tratamiento indicaría?",
+    "answer": ["c. Fluticasona 250 mcg inhalado cada 12 hs"],
+    "options": [
+      "a. Fluticasona 125 mcg inhalado a demanda",
+      "b. Salbutamol 100 mcg inhalado a demanda",
+      "c. Fluticasona 250 mcg inhalado cada 12 hs",
+      "d. Bromuro de ipratropio 40 mcg inhalado cada 12 hs"
+    ],
+    "discipline": "Medicina Familiar",
+    "TEMA": "Asma",
+    "comment": "La paciente presenta crisis asmáticas que requieren corticoides sistémicos (prednisona 40 mg), lo que indica inflamación bronquial persistente y riesgo futuro de exacerbaciones. Requiere tratamiento controlador diario con corticoide inhalado (CI) reglado (fluticasona 250 mcg cada 12 horas). No se indica fluticasona sola a demanda ni salbutamol en monoterapia por el mayor riesgo de crisis graves, y el ipratropio no es tratamiento de mantenimiento de primera línea en asma."
+  },
+  {
+    "numb": 2,
+    "question": "VIÑETA 1 </br> Paciente de sexo femenino, 40 años. Trabaja en un laboratorio. No fumadora. Asmática desde los 25 años con crisis esporádicas que trata con salbutamol a demanda y prednisona 40 mg por 3 días. Nunca internaciones por el asma. Concurre a control sin síntomas de exacerbación en el momento. </br> Con respecto al tratamiento con corticoides inhalados:",
+    "answer": ["b. Reducen el riesgo de crisis de asma"],
+    "options": [
+      "a. Generan dependencia con su uso crónico",
+      "b. Reducen el riesgo de crisis de asma",
+      "c. Están contraindicados en el asma bien controlada",
+      "d. Aumentan los síntomas de reflujo gastroesofágico"
+    ],
+    "discipline": "Medicina Familiar",
+    "TEMA": "Asma",
+    "comment": "Los corticoides inhalados constituyen la base del tratamiento controlador del asma porque disminuyen la inflamación de la vía aérea, reducen la frecuencia y gravedad de las exacerbaciones (crisis), las hospitalizaciones y la mortalidad. No generan dependencia física, no están contraindicados en el asma controlada (mantienen el control) y no agravan el reflujo gastroesofágico."
+  },
+  {
+    "numb": 3,
+    "question": "VIÑETA 1 </br> Paciente de sexo femenino, 40 años. Trabaja en un laboratorio. No fumadora. Asmática desde los 25 años con crisis esporádicas que trata con salbutamol a demanda y prednisona 40 mg por 3 días. Nunca internaciones por el asma. Concurre a control sin síntomas de exacerbación en el momento. </br> Con respecto a los broncodilatadores de acción corta, señale la opción correcta:",
+    "answer": ["b. El temblor y la taquicardia son efectos adversos frecuentes"],
+    "options": [
+      "a. Su uso está contraindicado junto a los anticolinérgicos de acción corta",
+      "b. El temblor y la taquicardia son efectos adversos frecuentes",
+      "c. El uso de más de 600 dosis por año se asocia a menor riesgo de exacerbaciones",
+      "d. Existe la presentación vía oral de salbutamol"
+    ],
+    "discipline": "Medicina Familiar",
+    "TEMA": "Asma",
+    "comment": "Los agonistas beta-2 adrenérgicos de acción corta (SABA, como el salbutamol) producen frecuentemente temblor fino distal y taquicardia por estimulación beta-adrenérgica. Pueden combinarse con anticolinérgicos de acción corta (ipratropio) en crisis moderadas-graves; y el uso excesivo (más de 3 inhaladores o 600 dosis/año) se asocia a mayor riesgo de exacerbaciones graves y mortalidad."
+  },
+  {
+    "numb": 4,
+    "question": "VIÑETA 1 </br> Paciente de sexo femenino, 40 años. Trabaja en un laboratorio. No fumadora. Asmática desde los 25 años con crisis esporádicas que trata con salbutamol a demanda y prednisona 40 mg por 3 días. Nunca internaciones por el asma. Concurre a control sin síntomas de exacerbación en el momento. </br> Sobre los síntomas de asma, señale la opción correcta:",
+    "answer": ["b. Suelen aparecer o empeorar con las infecciones virales"],
+    "options": [
+      "a. En general, los asmáticos manifiestan un síntoma a la vez",
+      "b. Suelen aparecer o empeorar con las infecciones virales",
+      "c. Raramente son desencadenados por ejercicio, risa, alérgenos y aire frío",
+      "d. Suelen mejorar en la noche o al despertar"
+    ],
+    "discipline": "Medicina Familiar",
+    "TEMA": "Asma",
+    "comment": "Las infecciones virales respiratorias son uno de los desencadenantes más frecuentes de aparición y empeoramiento de los síntomas y crisis asmáticas. Típicamente coexisten varios síntomas (disnea, sibilancias, tos, opresión torácica), empeoran durante la noche o al despertar, y son desencadenados con frecuencia por ejercicio, risa, aire frío y alérgenos."
+  },
+  {
+    "numb": 5,
+    "question": "VIÑETA 1 </br> Paciente de sexo femenino, 40 años. Trabaja en un laboratorio. No fumadora. Asmática desde los 25 años con crisis esporádicas que trata con salbutamol a demanda y prednisona 40 mg por 3 días. Nunca internaciones por el asma. Concurre a control sin síntomas de exacerbación en el momento. </br> En relación al asma como enfermedad, señale lo correcto:",
+    "answer": ["c. A quienes iniciaron síntomas en la edad adulta, se impone evaluar si se trata de un asma ocupacional"],
+    "options": [
+      "a. Si el ejercicio es un desencadenante de exacerbación, debe evitarse",
+      "b. Evitar los alérgenos desencadenantes suele ser una medida sencilla y económica de aplicar",
+      "c. A quienes iniciaron síntomas en la edad adulta, se impone evaluar si se trata de un asma ocupacional",
+      "d. Tratar el reflujo gastroesofágico asintomático es beneficioso para el control del asma"
+    ],
+    "discipline": "Medicina Familiar",
+    "TEMA": "Asma",
+    "comment": "Todo paciente con inicio del asma en la edad adulta (como esta paciente a los 25 años, que además trabaja en un laboratorio) debe ser evaluado para descartar asma ocupacional o agravada por el trabajo. El ejercicio no debe evitarse sino controlarse adecuadamente; la evitación completa de alérgenos suele ser difícil y costosa; y tratar el RGE asintomático no mejora el control del asma."
+  },
+  {
+    "numb": 6,
+    "question": "VIÑETA 2 </br> 63 años, sexo femenino, trabaja en una fábrica. MC: Trae paraclínica solicitada por hallazgo de Creatininemia 1,2 y proteinuria aislada ++ en carné de salud hace 4 meses. De la paraclínica se destaca: Azoemia 55mg/dl, Creatininemia 1,11 mg/dl, Filtrado glomerular (FG) estimado por fórmula CDK-EPI; 52,8 ml/min/1,73m2. Resultado de Proteinuria de 24hs: 450mg. AP: Obesidad, DM2 diagnosticada hace 5 años, en tratamiento con Metformina 850 2 veces por día, última Hb glicosilada 8%. HTA sin tratamiento farmacológico, cifras habituales 140/90mmHg. </br> ¿Cómo realiza diagnóstico de enfermedad renal crónica en esta paciente?",
+    "answer": ["d. Ya tiene diagnóstico con los resultados de hoy."],
+    "options": [
+      "a. Solicitaría microalbuminuria para completar el diagnóstico",
+      "b. Solicitaría creatininemia en 6 meses para completar el diagnóstico",
+      "c. Solicitaría creatininemia en 3 meses para completar el diagnóstico",
+      "d. Ya tiene diagnóstico con los resultados de hoy."
+    ],
+    "discipline": "Medicina Familiar",
+    "TEMA": "RENAL",
+    "comment": "La enfermedad renal crónica (ERC) se define por la presencia de daño renal (p. ej., proteinuria/albuminuria) y/o descenso del filtrado glomerular (< 60 ml/min/1,73 m²) persistentes durante al menos 3 meses. La paciente ya presentaba creatininemia elevada y proteinuria hace 4 meses y hoy persiste con FG de 52,8 ml/min/1,73 m² y proteinuria de 450 mg/24 h, por lo que cumple criterios diagnósticos en esta consulta."
+  },
+  {
+    "numb": 7,
+    "question": "VIÑETA 2 </br> 63 años, sexo femenino, trabaja en una fábrica. MC: Trae paraclínica solicitada por hallazgo de Creatininemia 1,2 y proteinuria aislada ++ en carné de salud hace 4 meses. De la paraclínica se destaca: Azoemia 55mg/dl, Creatininemia 1,11 mg/dl, Filtrado glomerular (FG) estimado por fórmula CDK-EPI; 52,8 ml/min/1,73m2. Resultado de Proteinuria de 24hs: 450mg. AP: Obesidad, DM2 diagnosticada hace 5 años, en tratamiento con Metformina 850 2 veces por día, última Hb glicosilada 8%. HTA sin tratamiento farmacológico, cifras habituales 140/90mmHg. </br> ¿Cuál sospecha que es la etiología del daño renal en esta paciente?",
+    "answer": ["b. Enfermedad glomerular secundaria (Nefropatía diabética)"],
+    "options": [
+      "a. Enfermedad glomerular primaria (Glomerulonefritis)",
+      "b. Enfermedad glomerular secundaria (Nefropatía diabética)",
+      "c. Enfermedad vascular (Nefropatía diabética)",
+      "d. Enfermedad vascular (Nefropatía membranosa)"
+    ],
+    "discipline": "Medicina Familiar",
+    "TEMA": "RENAL",
+    "comment": "Ante una paciente con diabetes mellitus tipo 2 mal controlada (HbA1c 8%), hipertensión arterial y obesidad que presenta proteinuria significativa y caída del filtrado glomerular, la causa más probable es una enfermedad glomerular secundaria: la nefropatía diabética (enfermedad renal diabética)."
+  },
+  {
+    "numb": 8,
+    "question": "VIÑETA 2 </br> 63 años, sexo femenino, trabaja en una fábrica. MC: Trae paraclínica solicitada por hallazgo de Creatininemia 1,2 y proteinuria aislada ++ en carné de salud hace 4 meses. De la paraclínica se destaca: Azoemia 55mg/dl, Creatininemia 1,11 mg/dl, Filtrado glomerular (FG) estimado por fórmula CDK-EPI; 52,8 ml/min/1,73m2. Resultado de Proteinuria de 24hs: 450mg. AP: Obesidad, DM2 diagnosticada hace 5 años, en tratamiento con Metformina 850 2 veces por día, última Hb glicosilada 8%. HTA sin tratamiento farmacológico, cifras habituales 140/90mmHg. </br> ¿Qué medida de nefroprevención indicará en esta consulta?",
+    "answer": ["d. Agregar un inhibidor de la enzima convertidora de angiotensina"],
+    "options": [
+      "a. Suspender metformina",
+      "b. Agregar un diurético",
+      "c. Agregar un calcio antagonista",
+      "d. Agregar un inhibidor de la enzima convertidora de angiotensina"
+    ],
+    "discipline": "Medicina Familiar",
+    "TEMA": "RENAL",
+    "comment": "En pacientes con ERC proteinúrica, DM2 e HTA, el bloqueo del sistema renina-angiotensina-aldosterona con un IECA (o ARA-II) es la medida nefroprotectora de primera línea porque reduce la presión intraglomerular, disminuye la proteinuria y enlentece la progresión del daño renal. Con FG > 45 ml/min/1,73 m² no corresponde suspender la metformina (se suspende si FG < 30)."
+  },
+  {
+    "numb": 9,
+    "question": "VIÑETA 2 </br> 63 años, sexo femenino, trabaja en una fábrica. MC: Trae paraclínica solicitada por hallazgo de Creatininemia 1,2 y proteinuria aislada ++ en carné de salud hace 4 meses. De la paraclínica se destaca: Azoemia 55mg/dl, Creatininemia 1,11 mg/dl, Filtrado glomerular (FG) estimado por fórmula CDK-EPI; 52,8 ml/min/1,73m2. Resultado de Proteinuria de 24hs: 450mg. AP: Obesidad, DM2 diagnosticada hace 5 años, en tratamiento con Metformina 850 2 veces por día, última Hb glicosilada 8%. HTA sin tratamiento farmacológico, cifras habituales 140/90mmHg. </br> Cuál será el objetivo terapéutico de Hemoglobina glicosilada en esta paciente?",
+    "answer": ["c. Hemoglobina glicosilada menor a 7%"],
+    "options": [
+      "a. Hemoglobina glicosilada menor a 8%",
+      "b. Hemoglobina glicosilada menor a 7,5%",
+      "c. Hemoglobina glicosilada menor a 7%",
+      "d. Hemoglobina glicosilada menor a 6,5%"
+    ],
+    "discipline": "Medicina Familiar",
+    "TEMA": "RENAL",
+    "comment": "En la mayoría de los adultos no gestantes con DM2 y enfermedad renal diabética (sin fragilidad extrema, expectativa de vida limitada ni alto riesgo de hipoglucemia), el objetivo general de control glucémico para prevenir progresión de complicaciones microvasculares es una HbA1c menor a 7%."
+  },
+  {
+    "numb": 10,
+    "question": "VIÑETA 3 </br> Hombre, 50 años, trabaja en empresa de mudanzas desde hace 15 años. MC: dolor lumbar. EA: Consulta en su policlínica con médico de referencia por dolor lumbar de 48 hrs de evolución, lateralizado a der, que aparece posterior a realizar un movimiento brusco de rotación de tronco mientras cargaba heladera para evitar que cayese. Refiere tener dolor de intensidad 4-5/10 que le impide realizar sus tareas laborales por lo que está en reposo en su casa desde el evento. Esto lo alivia. Además, relata dolor que le corre por detrás del muslo hasta el tercio medio. Niega parestesias. AP: HTA en tratamiento con dieta hiposódica y losartán 50 mg/d con buena respuesta. Niega problemas de salud relacionados con el aparato locomotor. Examen: Normolíneo. Buen estado general. QA y musc: impresiona una ligera escoliosis lumbar dextro-cóncava. Duele la palpación de la musculatura paravertebral a der. Neurológico: Lasegue homolateral negativo. Reflejos rotuliano y aquiliano presentes simétricos. </br> Este paciente es portador de una lumbalgia aguda inespecífica. En relación a esta entidad es correcto afirmar que:",
+    "answer": ["c. Es un Cuadro frecuente, que puede resolverse sin mediar tratamiento específico"],
+    "options": [
+      "a. Es un cuadro frecuente, que requiere instaurar tratamiento para su resolución",
+      "b. Es un cuadro de presentación patognomónica en personas mayores de 50 años",
+      "c. Es un Cuadro frecuente, que puede resolverse sin mediar tratamiento específico",
+      "d. Es un cuadro que requiere identificar la o las estructuras involucradas para su tratamiento"
+    ],
+    "discipline": "Medicina Familiar",
+    "TEMA": "Osteoarticular",
+    "comment": "La lumbalgia aguda inespecífica es sumamente frecuente y autolimitada en la mayoría de los casos (la gran mayoría mejora espontáneamente en las primeras semanas). No se requiere identificar la estructura anatómica exacta causante del dolor para su manejo inicial."
+  },
+  {
+    "numb": 11,
+    "question": "VIÑETA 3 </br> Hombre, 50 años, trabaja en empresa de mudanzas desde hace 15 años. MC: dolor lumbar. EA: Consulta en su policlínica con médico de referencia por dolor lumbar de 48 hrs de evolución, lateralizado a der, que aparece posterior a realizar un movimiento brusco de rotación de tronco mientras cargaba heladera para evitar que cayese. Refiere tener dolor de intensidad 4-5/10 que le impide realizar sus tareas laborales por lo que está en reposo en su casa desde el evento. Esto lo alivia. Además, relata dolor que le corre por detrás del muslo hasta el tercio medio. Niega parestesias. AP: HTA en tratamiento con dieta hiposódica y losartán 50 mg/d con buena respuesta. Niega problemas de salud relacionados con el aparato locomotor. Examen: Normolíneo. Buen estado general. QA y musc: impresiona una ligera escoliosis lumbar dextro-cóncava. Duele la palpación de la musculatura paravertebral a der. Neurológico: Lasegue homolateral negativo. Reflejos rotuliano y aquiliano presentes simétricos. </br> Cuál es la etiología más probable que da origen al cuadro de este paciente?",
+    "answer": ["c. Por las características de su trabajo y la presentación clínica, las alteraciones músculo tendinosas y las alteraciones degenerativas son las más frecuentemente involucradas."],
+    "options": [
+      "a. Por las características de su trabajo y la presentación clínica, tiene una alta chance de ser portador de una extrusión discal.",
+      "b. Por las características de su trabajo y la presentación clínica, tiene una alta chance de ser portador de un canal estrecho lumbar.",
+      "c. Por las características de su trabajo y la presentación clínica, las alteraciones músculo tendinosas y las alteraciones degenerativas son las más frecuentemente involucradas.",
+      "d. Por los hallazgos del examen físico y la ausencia de antecedentes personales, la escoliosis - degenerativa del adulto es la causa más probable."
+    ],
+    "discipline": "Medicina Familiar",
+    "TEMA": "Osteoarticular",
+    "comment": "En la lumbalgia mecánica aguda tras esfuerzo y en trabajadores manuales de mediana edad sin déficit neurológico ni irradiación radicular verdadera, la causa más frecuente corresponde a sobrecargas o distensiones músculo-tendinosas/ligamentarias y cambios degenerativos osteoarticulares."
+  },
+  {
+    "numb": 12,
+    "question": "VIÑETA 3 </br> Hombre, 50 años, trabaja en empresa de mudanzas desde hace 15 años. MC: dolor lumbar. EA: Consulta en su policlínica con médico de referencia por dolor lumbar de 48 hrs de evolución, lateralizado a der, que aparece posterior a realizar un movimiento brusco de rotación de tronco mientras cargaba heladera para evitar que cayese. Refiere tener dolor de intensidad 4-5/10 que le impide realizar sus tareas laborales por lo que está en reposo en su casa desde el evento. Esto lo alivia. Además, relata dolor que le corre por detrás del muslo hasta el tercio medio. Niega parestesias. AP: HTA en tratamiento con dieta hiposódica y losartán 50 mg/d con buena respuesta. Niega problemas de salud relacionados con el aparato locomotor. Examen: Normolíneo. Buen estado general. QA y musc: impresiona una ligera escoliosis lumbar dextro-cóncava. Duele la palpación de la musculatura paravertebral a der. Neurológico: Lasegue homolateral negativo. Reflejos rotuliano y aquiliano presentes simétricos. </br> En cuanto a la participación neurológica (raíz nerviosa lumbar) en este paciente:",
+    "answer": ["b. Que la maniobra de Lasegue sea negativa es congruente, porque el paciente no presenta una ciática."],
+    "options": [
+      "a. Que la maniobra de Lasegue sea negativa es incongruente, porque el paciente presenta una ciática.",
+      "b. Que la maniobra de Lasegue sea negativa es congruente, porque el paciente no presenta una ciática.",
+      "c. El dolor que llega hasta la mitad del muslo habla de la participación de la raíz L5.",
+      "d. La ciática es un elemento clínico de baja sensibilidad y alta especificidad para el diagnóstico de participación de raíz nerviosa, presente en este paciente."
+    ],
+    "discipline": "Medicina Familiar",
+    "TEMA": "Osteoarticular",
+    "comment": "El dolor referido hasta el tercio medio posterior del muslo (sin sobrepasar la rodilla), en ausencia de parestesias y con reflejos simétricos, corresponde a un dolor somático referido y no a una ciática (radiculopatía). Por ello, es completamente congruente que la maniobra de Lasègue resulte negativa."
+  },
+  {
+    "numb": 13,
+    "question": "VIÑETA 3 </br> Hombre, 50 años, trabaja en empresa de mudanzas desde hace 15 años. MC: dolor lumbar. EA: Consulta en su policlínica con médico de referencia por dolor lumbar de 48 hrs de evolución, lateralizado a der, que aparece posterior a realizar un movimiento brusco de rotación de tronco mientras cargaba heladera para evitar que cayese. Refiere tener dolor de intensidad 4-5/10 que le impide realizar sus tareas laborales por lo que está en reposo en su casa desde el evento. Esto lo alivia. Además, relata dolor que le corre por detrás del muslo hasta el tercio medio. Niega parestesias. AP: HTA en tratamiento con dieta hiposódica y losartán 50 mg/d con buena respuesta. Niega problemas de salud relacionados con el aparato locomotor. Examen: Normolíneo. Buen estado general. QA y musc: impresiona una ligera escoliosis lumbar dextro-cóncava. Duele la palpación de la musculatura paravertebral a der. Neurológico: Lasegue homolateral negativo. Reflejos rotuliano y aquiliano presentes simétricos. </br> En relación a las recomendaciones que le daría a este paciente con respecto al tratamiento, es correcto afirmar que:",
+    "answer": ["a. El objetivo de esta etapa es proveer confort inicial mientras se intenta que se mantenga lo más activo posible en tanto que se espera su recuperación espontánea."],
+    "options": [
+      "a. El objetivo de esta etapa es proveer confort inicial mientras se intenta que se mantenga lo más activo posible en tanto que se espera su recuperación espontánea.",
+      "b. La utilización de analgésicos comunes y AINES han demostrado una alta eficacia en acortar los tiempos de baja laboral.",
+      "c. El reposo en cama, comparado con cualquier otra alternativa de tratamiento, es efectivo para disminuir el dolor y acelerar la recuperación y el retorno a las actividades ordinarias.",
+      "d. El beneficio de realizar un programa de ejercicios y de reacondicionamiento físico después de las seis semanas del comienzo del cuadro tiene una evidencia sólida."
+    ],
+    "discipline": "Medicina Familiar",
+    "TEMA": "Osteoarticular",
+    "comment": "En la lumbalgia aguda inespecífica el pilar del manejo es el alivio sintomático inicial (confort) junto con la indicación de evitar el reposo en cama y mantenerse tan activo como el dolor lo permita, dado que el cuadro tiende a la resolución espontánea. El reposo prolongado empeora el pronóstico y retrasa la recuperación."
+  },
+  {
+    "numb": 14,
+    "question": "VIÑETA 4 </br> Llega a la consulta espontánea en policlínica un señor de 68 años por tos. Refiere inicio desde hace 3 días acompañada de escasa rinorrea mucosa y astenia. Desde el comienzo era productiva, mucosa. Ayer fiebre que se controla con termómetro de 38,5° axilar. En la mañana de hoy agrega disnea con la tos. Apetito conservado, descansa bien. Vive en el barrio solo desde hace 30 años, buena relación con vecinos con quienes juega a las bochas todos los fines de semana. Nunca consultó en este servicio ni en ningún otro, niega antecedentes patológicos, no toma medicación, nunca fumó. Jubilado de chofer de ómnibus. Al examen: TAX 38.5°, lúcido, buen estado general, normocoloreado. PA 130/70 PP: 16 rpm, MAV presente bilateralmente en base derecha, cara posterior estertores crepitantes y subcrepitantes. Sin otros elementos a destacar en el examen físico. </br> En relación al diagnóstico clínico actual, cuál considera es el correcto?",
+    "answer": ["c. Neumonía aguda comunitaria"],
+    "options": [
+      "a. Traqueobronquitis purulenta",
+      "b. Gripe",
+      "c. Neumonía aguda comunitaria",
+      "d. Tuberculosis pulmonar"
+    ],
+    "discipline": "Medicina Familiar",
+    "TEMA": "Respiratorio",
+    "comment": "El cuadro agudo (3 días) de tos productiva, fiebre de 38,5 °C, disnea y hallazgo focal en la auscultación pulmonar (estertores crepitantes en base derecha) configura clínicamente una neumonía aguda comunitaria (NAC). La presencia de focos crepitantes diferencia la NAC de la gripe o la traqueobronquitis, y la evolución aguda descarta como primera hipótesis una tuberculosis."
+  },
+  {
+    "numb": 15,
+    "question": "VIÑETA 4 </br> Llega a la consulta espontánea en policlínica un señor de 68 años por tos. Refiere inicio desde hace 3 días acompañada de escasa rinorrea mucosa y astenia. Desde el comienzo era productiva, mucosa. Ayer fiebre que se controla con termómetro de 38,5° axilar. En la mañana de hoy agrega disnea con la tos. Apetito conservado, descansa bien. Vive en el barrio solo desde hace 30 años, buena relación con vecinos con quienes juega a las bochas todos los fines de semana. Nunca consultó en este servicio ni en ningún otro, niega antecedentes patológicos, no toma medicación, nunca fumó. Jubilado de chofer de ómnibus. Al examen: TAX 38.5°, lúcido, buen estado general, normocoloreado. PA 130/70 PP: 16 rpm, MAV presente bilateralmente en base derecha, cara posterior estertores crepitantes y subcrepitantes. Sin otros elementos a destacar en el examen físico. </br> El tratamiento de elección para esta entidad sería:",
+    "answer": ["b. Amoxicilina/clavulánico 875 mg/125 mg v/o cada 12 hs por 5 días"],
+    "options": [
+      "a. Amoxicilina 500mg cada 8hrs v/o por 5 días",
+      "b. Amoxicilina/clavulánico 875 mg/125 mg v/o cada 12 hs por 5 días",
+      "c. Amoxicilina/clavulánico 875 mg/125 mg + claritromicina 500 mg v/o cada 12 horas por 5 días",
+      "d. Azitromicina 500 mg/d v/o por 7 días"
+    ],
+    "discipline": "Medicina Familiar",
+    "TEMA": "Respiratorio",
+    "comment": "Se trata de un paciente de 68 años sin criterios de gravedad (CURB-65 = 1 por la edad: lúcido, PA 130/70, FR 16 rpm), candidato a manejo ambulatorio. Según las pautas nacionales para adultos mayores de 65 años en el primer nivel de atención, se indica amoxicilina/ácido clavulánico 875/125 mg vía oral cada 12 horas durante 5 días. No se usa azitromicina en monoterapia por resistencia neumocócica ni dosis bajas de amoxicilina."
+  },
+  {
+    "numb": 16,
+    "question": "VIÑETA 4 </br> Llega a la consulta espontánea en policlínica un señor de 68 años por tos. Refiere inicio desde hace 3 días acompañada de escasa rinorrea mucosa y astenia. Desde el comienzo era productiva, mucosa. Ayer fiebre que se controla con termómetro de 38,5° axilar. En la mañana de hoy agrega disnea con la tos. Apetito conservado, descansa bien. Vive en el barrio solo desde hace 30 años, buena relación con vecinos con quienes juega a las bochas todos los fines de semana. Nunca consultó en este servicio ni en ningún otro, niega antecedentes patológicos, no toma medicación, nunca fumó. Jubilado de chofer de ómnibus. Al examen: TAX 38.5°, lúcido, buen estado general, normocoloreado. PA 130/70 PP: 16 rpm, MAV presente bilateralmente en base derecha, cara posterior estertores crepitantes y subcrepitantes. Sin otros elementos a destacar en el examen físico. </br> Transcurrido el cuadro respiratorio, que tuvo buena evolución, concurre a control. </br> ¿Qué acción de prevención de enfermedades realizaría en este paciente?",
+    "answer": ["d. Solicita glicemia en ayuno como cribado de Diabetes Mellitus."],
+    "options": [
+      "a. Solicita Antígeno prostático como cribado de Cáncer de próstata.",
+      "b. Indica control de cifras de Presión Arterial 1 ó 2 veces por semana hasta el próximo control.",
+      "c. Solicita Rx Tx como control evolutivo de su cuadro respiratorio.",
+      "d. Solicita glicemia en ayuno como cribado de Diabetes Mellitus."
+    ],
+    "discipline": "Medicina Familiar",
+    "TEMA": "Adulto mayor",
+    "comment": "Al tratarse de un hombre de 68 años que nunca se ha realizado controles médicos, está indicado realizar tamizaje de diabetes mellitus mediante glucemia en ayunas. El PSA no se solicita de rutina sin decisión compartida; el paciente es normotenso en consultorio; y la radiografía de tórax de control no es necesaria en pacientes no fumadores con buena evolución clínica."
+  },
+  {
+    "numb": 17,
+    "question": "VIÑETA 4 </br> Llega a la consulta espontánea en policlínica un señor de 68 años por tos. Refiere inicio desde hace 3 días acompañada de escasa rinorrea mucosa y astenia. Desde el comienzo era productiva, mucosa. Ayer fiebre que se controla con termómetro de 38,5° axilar. En la mañana de hoy agrega disnea con la tos. Apetito conservado, descansa bien. Vive en el barrio solo desde hace 30 años, buena relación con vecinos con quienes juega a las bochas todos los fines de semana. Nunca consultó en este servicio ni en ningún otro, niega antecedentes patológicos, no toma medicación, nunca fumó. Jubilado de chofer de ómnibus. Al examen: TAX 38.5°, lúcido, buen estado general, normocoloreado. PA 130/70 PP: 16 rpm, MAV presente bilateralmente en base derecha, cara posterior estertores crepitantes y subcrepitantes. Sin otros elementos a destacar en el examen físico. </br> Transcurrido el cuadro respiratorio, que tuvo buena evolución, concurre a control. </br> ¿Qué herramienta utiliza para la valoración afectiva (ánimo) en este paciente?",
+    "answer": ["a. Escala de Yessavage"],
+    "options": [
+      "a. Escala de Yessavage",
+      "b. Test de Pfeiffer",
+      "c. Test Minimental",
+      "d. Escala de Lawton y Brody"
+    ],
+    "discipline": "Medicina Familiar",
+    "TEMA": "Adulto mayor",
+    "comment": "La escala de Yesavage (Escala de Depresión Geriátrica) es el instrumento validado en la valoración geriátrica integral para evaluar la esfera afectiva/ánimo en personas mayores. Los test de Pfeiffer y Minimental evalúan la esfera cognitiva, y la escala de Lawton y Brody evalúa las actividades instrumentales de la vida diaria (funcionalidad)."
+  },
+  {
+    "numb": 18,
+    "question": "VIÑETA 4 </br> Llega a la consulta espontánea en policlínica un señor de 68 años por tos. Refiere inicio desde hace 3 días acompañada de escasa rinorrea mucosa y astenia. Desde el comienzo era productiva, mucosa. Ayer fiebre que se controla con termómetro de 38,5° axilar. En la mañana de hoy agrega disnea con la tos. Apetito conservado, descansa bien. Vive en el barrio solo desde hace 30 años, buena relación con vecinos con quienes juega a las bochas todos los fines de semana. Nunca consultó en este servicio ni en ningún otro, niega antecedentes patológicos, no toma medicación, nunca fumó. Jubilado de chofer de ómnibus. Al examen: TAX 38.5°, lúcido, buen estado general, normocoloreado. PA 130/70 PP: 16 rpm, MAV presente bilateralmente en base derecha, cara posterior estertores crepitantes y subcrepitantes. Sin otros elementos a destacar en el examen físico. </br> Transcurrido el cuadro respiratorio, que tuvo buena evolución, concurre a control. </br> En relación al control integral del adulto mayor:",
+    "answer": ["d. Promueve el envejecimiento participativo."],
+    "options": [
+      "a. Es la atención centrada en las necesidades multidimensionales del cuidador y el entorno.",
+      "b. Para su correcta realización requiere de un equipo multidisciplinario.",
+      "c. Es obligatorio a nivel Nacional a partir de los 60 años (Decreto 159/006).",
+      "d. Promueve el envejecimiento participativo."
+    ],
+    "discipline": "Medicina Familiar",
+    "TEMA": "Adulto mayor",
+    "comment": "La atención integral de la persona mayor busca fomentar un envejecimiento activo, saludable y participativo, centrado en la propia persona mayor (no únicamente en el cuidador) y en su autonomía. Puede realizarse perfectamente en el primer nivel de atención por el médico de referencia sin exigir un equipo multidisciplinario en todos los casos, y el control no es obligatorio por dicho decreto."
+  },
+  {
+    "numb": 19,
+    "question": "VIÑETA 5 </br> V.G sexo femenino, 50 años, viuda, vive sola. 3 hijos. MC: Control con paraclínica. EA: Concurre a control con Paraclínica que le indicó médica de familia por síntomas que presenta desde hace aproximadamente 3 meses de evolución luego que le robaran la casa, caracterizado por presentar irritabilidad, palpitaciones, astenia e intolerancia al calor. Refiere dificultad para realizar las tareas habituales y adelgazamiento en este último tiempo. También manifiesta preocupación porque hace 3 meses no tiene su menstruación. Refiere episodios de deposiciones líquidas, a veces semilíquidas, sin sangre ni pus, casi todos los días hace 1 mes y medio, sin fiebre, a veces acompañado de dolor abdominal tipo cólico que calma con deposiciones. AP: vitíligo y tabaquista en fase de precontemplación. Se le realizó paraclínica de control en donde tenía un TSH < 0.5 uU/ml. Al examen físico se destaca: Peso: 50kg Altura: 1,61m. IMC: 19,28 PA: 130/70mmHg. Piel y mucosas: Normocoloreada. Piel Cálida y húmeda. Ojos: retracción palpebral. Cuello: se palpa tiroides, o visible en la inspección. CV: 95 lpm, ruidos normofonéticos, Resto s/p. </br> Con respecto al diagnóstico clínico presuntivo del motivo de consulta en esta paciente:",
+    "answer": ["d. Debe plantearse el diagnóstico de hipertiroidismo como causa de los síntomas"],
+    "options": [
+      "a. Posiblemente se debe a síntomas vinculados al climaterio.",
+      "b. Se trata de crisis de pánico recurrentes",
+      "c. Se debe plantear el diagnóstico de hipotiroidismo.",
+      "d. Debe plantearse el diagnóstico de hipertiroidismo como causa de los síntomas"
+    ],
+    "discipline": "Medicina Familiar",
+    "TEMA": "Distiroidismos",
+    "comment": "La paciente presenta manifestaciones clásicas de tirotoxicosis (irritabilidad, palpitaciones, intolerancia al calor, adelgazamiento, diarrea, amenorrea, piel cálida y húmeda, retracción palpebral, bocio y taquicardia relativa), antecedente de enfermedad autoinmune (vitíligo) y una TSH suprimida (< 0,5 uU/ml), lo que orienta claramente al diagnóstico de hipertiroidismo."
+  },
+  {
+    "numb": 20,
+    "question": "VIÑETA 5 </br> V.G sexo femenino, 50 años, viuda, vive sola. 3 hijos. MC: Control con paraclínica. EA: Concurre a control con Paraclínica que le indicó médica de familia por síntomas que presenta desde hace aproximadamente 3 meses de evolución luego que le robaran la casa, caracterizado por presentar irritabilidad, palpitaciones, astenia e intolerancia al calor. Refiere dificultad para realizar las tareas habituales y adelgazamiento en este último tiempo. También manifiesta preocupación porque hace 3 meses no tiene su menstruación. Refiere episodios de deposiciones líquidas, a veces semilíquidas, sin sangre ni pus, casi todos los días hace 1 mes y medio, sin fiebre, a veces acompañado de dolor abdominal tipo cólico que calma con deposiciones. AP: vitíligo y tabaquista en fase de precontemplación. Se le realizó paraclínica de control en donde tenía un TSH < 0.5 uU/ml. Al examen físico se destaca: Peso: 50kg Altura: 1,61m. IMC: 19,28 PA: 130/70mmHg. Piel y mucosas: Normocoloreada. Piel Cálida y húmeda. Ojos: retracción palpebral. Cuello: se palpa tiroides, o visible en la inspección. CV: 95 lpm, ruidos normofonéticos, Resto s/p. </br> Con respecto a los síntomas y signos clínicos en esta paciente:",
+    "answer": ["c. La retracción palpebral, Frecuencia cardiaca > 90 lpm, temblor fino, piel húmeda y cálida nos orienta al hipertiroidismo"],
+    "options": [
+      "a. La labilidad emocional no se utiliza para la agrupación sindromática ni en el diagnóstico clínico.",
+      "b. La mayoría de los signos y síntomas conforman un síndrome ansioso, desencadenado por el robo.",
+      "c. La retracción palpebral, Frecuencia cardiaca > 90 lpm, temblor fino, piel húmeda y cálida nos orienta al hipertiroidismo",
+      "d. Los síntomas digestivos y la retracción palpebral son característicos de la enfermedad celíaca, probable en esta paciente"
+    ],
+    "discipline": "Medicina Familiar",
+    "TEMA": "Distiroidismos",
+    "comment": "Signos adrenérgicos e hipermetabólicos como la retracción palpebral (hipertonía simpática del elevador del párpado o enfermedad de Graves), la frecuencia cardíaca > 90 lpm, el temblor fino y la piel húmeda y cálida son hallazgos semiológicos muy orientadores hacia el hipertiroidismo, permitiendo diferenciarlo de un cuadro puramente ansioso o digestivo."
+  },
+  {
+    "numb": 21,
+    "question": "VIÑETA 5 </br> V.G sexo femenino, 50 años, viuda, vive sola. 3 hijos. MC: Control con paraclínica. EA: Concurre a control con Paraclínica que le indicó médica de familia por síntomas que presenta desde hace aproximadamente 3 meses de evolución luego que le robaran la casa, caracterizado por presentar irritabilidad, palpitaciones, astenia e intolerancia al calor. Refiere dificultad para realizar las tareas habituales y adelgazamiento en este último tiempo. También manifiesta preocupación porque hace 3 meses no tiene su menstruación. Refiere episodios de deposiciones líquidas, a veces semilíquidas, sin sangre ni pus, casi todos los días hace 1 mes y medio, sin fiebre, a veces acompañado de dolor abdominal tipo cólico que calma con deposiciones. AP: vitíligo y tabaquista en fase de precontemplación. Se le realizó paraclínica de control en donde tenía un TSH < 0.5 uU/ml. Al examen físico se destaca: Peso: 50kg Altura: 1,61m. IMC: 19,28 PA: 130/70mmHg. Piel y mucosas: Normocoloreada. Piel Cálida y húmeda. Ojos: retracción palpebral. Cuello: se palpa tiroides, o visible en la inspección. CV: 95 lpm, ruidos normofonéticos, Resto s/p. </br> En cuanto a la evaluación con paraclínica, para la confirmación diagnóstica se solicitará:",
+    "answer": ["b. TSH y T4"],
+    "options": [
+      "a. Perfil endocrinológico completo y valoración de la función renal",
+      "b. TSH y T4",
+      "c. No es necesario la solicitud de paraclínica en este caso, ya que el diagnóstico es clínico",
+      "d. La tomografía de cuello dada la precisión anatómica en el diagnóstico"
+    ],
+    "discipline": "Medicina Familiar",
+    "TEMA": "Distiroidismos",
+    "comment": "La confirmación bioquímica del hipertiroidismo requiere determinar TSH (suprimida) junto con T4 libre (elevada en el hipertiroidismo clínico o normal en el subclínico, donde también puede solicitarse T3). La tomografía de cuello no es un estudio diagnóstico inicial de función tiroidea."
+  },
+  {
+    "numb": 22,
+    "question": "VIÑETA 5 </br> V.G sexo femenino, 50 años, viuda, vive sola. 3 hijos. MC: Control con paraclínica. EA: Concurre a control con Paraclínica que le indicó médica de familia por síntomas que presenta desde hace aproximadamente 3 meses de evolución luego que le robaran la casa, caracterizado por presentar irritabilidad, palpitaciones, astenia e intolerancia al calor. Refiere dificultad para realizar las tareas habituales y adelgazamiento en este último tiempo. También manifiesta preocupación porque hace 3 meses no tiene su menstruación. Refiere episodios de deposiciones líquidas, a veces semilíquidas, sin sangre ni pus, casi todos los días hace 1 mes y medio, sin fiebre, a veces acompañado de dolor abdominal tipo cólico que calma con deposiciones. AP: vitíligo y tabaquista en fase de precontemplación. Se le realizó paraclínica de control en donde tenía un TSH < 0.5 uU/ml. Al examen físico se destaca: Peso: 50kg Altura: 1,61m. IMC: 19,28 PA: 130/70mmHg. Piel y mucosas: Normocoloreada. Piel Cálida y húmeda. Ojos: retracción palpebral. Cuello: se palpa tiroides, o visible en la inspección. CV: 95 lpm, ruidos normofonéticos, Resto s/p. </br> Con respecto al tratamiento en esta paciente:",
+    "answer": ["d. El tratamiento farmacológico es altamente efectivo aunque presenta una alta tasa de recaída."],
+    "options": [
+      "a. La indicación de 5mg/día de metimazol repartido en 2 a 3 veces al día es una de las opciones terapéuticas de inicio",
+      "b. Los betabloqueantes son de primera elección",
+      "c. Comenzar empíricamente con levotiroxina 25mg estaría indicado",
+      "d. El tratamiento farmacológico es altamente efectivo aunque presenta una alta tasa de recaída."
+    ],
+    "discipline": "Medicina Familiar",
+    "TEMA": "Distiroidismos",
+    "comment": "Las tionamidas (como el metimazol) logran el control eutiroideo en la mayoría de los pacientes con enfermedad de Graves, pero tras su suspensión (habitualmente a los 12-18 meses) presentan una tasa elevada de recaída (40-50%). El metimazol se inicia en dosis mayores (10-30 mg/día en toma única), los betabloqueantes son solo sintomáticos y la levotiroxina es para el hipotiroidismo."
+  },
+  {
+    "numb": 23,
+    "question": "VIÑETA 6 </br> Juan, 35 años, Empleado administrativo. Casado, vive con su esposa y sus suegros, en la casa de éstos últimos. Motivo de Consulta: nerviosismo. Juan refiere que desde hace al menos seis meses ha estado experimentando una sensación constante de preocupación y nerviosismo, sin una causa aparente. Estos síntomas se han intensificado en las últimas semanas y le están dificultando llevar a cabo sus actividades diarias en el trabajo ya que no logra concentrarse. Refiere preocupación excesiva e incontrolable sobre múltiples aspectos de su vida (trabajo, salud, familia). Nota fatiga constante, a pesar de dormir suficientes horas y tensión muscular, especialmente en los hombros y el cuello. AEA: niega episodios similares previos. AP: No tabaquismo. Niega consumo de alcohol u otras drogas. No recibe medicamentos. Examen Físico: PA 120/80 mmHg. Buen estado general. Bien hidratado y perfundido. Cuello: eje bien centrado. No se ve ni se palpa glándula tiroides. Contractura de musculatura cervical y de hombros. CV: RR 80 lpm. Sin soplos. PP MAV presente bilateral. Resto del examen físico sin alteraciones. </br> Según el DSM-5, ¿cuánto tiempo deben estar presentes los síntomas de ansiedad y preocupación excesiva para considerar un diagnóstico de Trastorno de Ansiedad Generalizada?",
+    "answer": ["c. Al menos 6 meses"],
+    "options": [
+      "a. Al menos 1 mes",
+      "b. Al menos 3 meses",
+      "c. Al menos 6 meses",
+      "d. Al menos 12 meses"
+    ],
+    "discipline": "Medicina Familiar",
+    "TEMA": "Ansiedad",
+    "comment": "De acuerdo con los criterios diagnósticos del DSM-5, el Trastorno de Ansiedad Generalizada (TAG) requiere ansiedad y preocupación excesivas (anticipación aprensiva) sobre diversos sucesos o actividades, presentes la mayoría de los días durante un mínimo de 6 meses, asociadas a síntomas como inquietud, fatiga, dificultad para concentrarse, irritabilidad, tensión muscular o alteraciones del sueño."
+  },
+  {
+    "numb": 24,
+    "question": "VIÑETA 6 </br> Juan, 35 años, Empleado administrativo. Casado, vive con su esposa y sus suegros, en la casa de éstos últimos. Motivo de Consulta: nerviosismo. Juan refiere que desde hace al menos seis meses ha estado experimentando una sensación constante de preocupación y nerviosismo, sin una causa aparente. Estos síntomas se han intensificado en las últimas semanas y le están dificultando llevar a cabo sus actividades diarias en el trabajo ya que no logra concentrarse. Refiere preocupación excesiva e incontrolable sobre múltiples aspectos de su vida (trabajo, salud, familia). Nota fatiga constante, a pesar de dormir suficientes horas y tensión muscular, especialmente en los hombros y el cuello. AEA: niega episodios similares previos. AP: No tabaquismo. Niega consumo de alcohol u otras drogas. No recibe medicamentos. Examen Físico: PA 120/80 mmHg. Buen estado general. Bien hidratado y perfundido. Cuello: eje bien centrado. No se ve ni se palpa glándula tiroides. Contractura de musculatura cervical y de hombros. CV: RR 80 lpm. Sin soplos. PP MAV presente bilateral. Resto del examen físico sin alteraciones. </br> En cuanto al tratamiento de este usuario. ¿Qué conducta tomaría?",
+    "answer": ["c. Iniciaría un ISRS a dosis bajas para evitar efectos secundarios y consideraría una benzodiacepina de acción corta para aliviar síntomas y mejorar el descanso nocturno durante no más de 4 semanas."],
+    "options": [
+      "a. Iniciará con recomendaciones no farmacológicas como actividad física regular y técnicas de relajación, postergando el inicio del tratamiento farmacológico.",
+      "b. Indicaría medidas no farmacológicas y benzodiacepinas, como el alprazolam a dosis de 0,5mg frente a situaciones que desencadenan los síntomas de ansiedad",
+      "c. Iniciaría un ISRS a dosis bajas para evitar efectos secundarios y consideraría una benzodiacepina de acción corta para aliviar síntomas y mejorar el descanso nocturno durante no más de 4 semanas.",
+      "d. Por la intensidad de los síntomas actuales inicia ISRS a dosis máximas."
+    ],
+    "discipline": "Medicina Familiar",
+    "TEMA": "Ansiedad",
+    "comment": "Ante un TAG con repercusión funcional significativa (dificultad para trabajar y concentrarse), el tratamiento farmacológico de primera línea es un ISRS iniciado a dosis bajas (para minimizar efectos adversos iniciales e hiperactivación ansiosa) con titulación progresiva. Mientras el ISRS alcanza su efecto terapéutico (2-4 semanas), puede asociarse una benzodiacepina por un plazo breve (no mayor a 4 semanas) para evitar dependencia."
+  },
+  {
+    "numb": 25,
+    "question": "VIÑETA 6 </br> Juan, 35 años, Empleado administrativo. Casado, vive con su esposa y sus suegros, en la casa de éstos últimos. Motivo de Consulta: nerviosismo. Juan refiere que desde hace al menos seis meses ha estado experimentando una sensación constante de preocupación y nerviosismo, sin una causa aparente. Estos síntomas se han intensificado en las últimas semanas y le están dificultando llevar a cabo sus actividades diarias en el trabajo ya que no logra concentrarse. Refiere preocupación excesiva e incontrolable sobre múltiples aspectos de su vida (trabajo, salud, familia). Nota fatiga constante, a pesar de dormir suficientes horas y tensión muscular, especialmente en los hombros y el cuello. AEA: niega episodios similares previos. AP: No tabaquismo. Niega consumo de alcohol u otras drogas. No recibe medicamentos. Examen Físico: PA 120/80 mmHg. Buen estado general. Bien hidratado y perfundido. Cuello: eje bien centrado. No se ve ni se palpa glándula tiroides. Contractura de musculatura cervical y de hombros. CV: RR 80 lpm. Sin soplos. PP MAV presente bilateral. Resto del examen físico sin alteraciones. </br> ¿Cuándo volverá a citar a este paciente?",
+    "answer": ["a. En 2 semanas"],
+    "options": [
+      "a. En 2 semanas",
+      "b. En 6 semanas",
+      "c. En 8 semanas",
+      "d. Luego de 2 semanas si no responde al tratamiento"
+    ],
+    "discipline": "Medicina Familiar",
+    "TEMA": "Ansiedad",
+    "comment": "Al iniciar tratamiento con psicofármacos (ISRS y eventualmente benzodiacepinas), se recomienda realizar un control precoz a las 2 semanas para evaluar tolerancia, efectos adversos, adherencia terapéutica, respuesta inicial y reevaluar la necesidad de ajuste de dosis."
+  },
+  {
+    "numb": 27,
+    "question": "VIÑETA 6 </br> Juan, 35 años, Empleado administrativo. Casado, vive con su esposa y sus suegros, en la casa de éstos últimos. Motivo de Consulta: nerviosismo. Juan refiere que desde hace al menos seis meses ha estado experimentando una sensación constante de preocupación y nerviosismo, sin una causa aparente. Estos síntomas se han intensificado en las últimas semanas y le están dificultando llevar a cabo sus actividades diarias en el trabajo ya que no logra concentrarse. Refiere preocupación excesiva e incontrolable sobre múltiples aspectos de su vida (trabajo, salud, familia). Nota fatiga constante, a pesar de dormir suficientes horas y tensión muscular, especialmente en los hombros y el cuello. AEA: niega episodios similares previos. AP: No tabaquismo. Niega consumo de alcohol u otras drogas. No recibe medicamentos. Examen Físico: PA 120/80 mmHg. Buen estado general. Bien hidratado y perfundido. Cuello: eje bien centrado. No se ve ni se palpa glándula tiroides. Contractura de musculatura cervical y de hombros. CV: RR 80 lpm. Sin soplos. PP MAV presente bilateral. Resto del examen físico sin alteraciones. </br> Con respecto al tratamiento no farmacológico en este paciente qué recomendaciones serían beneficiosas",
+    "answer": ["a. Recomendar meditación y mindfulness ya que han demostrado ser beneficiosas"],
+    "options": [
+      "a. Recomendar meditación y mindfulness ya que han demostrado ser beneficiosas",
+      "b. Trabajar horas extras e intentar ponerse al día con el trabajo para disminuir la ansiedad",
+      "c. Ignorar las preocupaciones y evitarlas con actividades que lo distraigan",
+      "d. Actividad física extenuante al finalizar el día para mejorar el descanso en la noche."
+    ],
+    "discipline": "Medicina Familiar",
+    "TEMA": "Ansiedad",
+    "comment": "Las intervenciones basadas en mindfulness, meditación y técnicas de relajación cuentan con evidencia sólida para reducir la ansiedad, la rumiación y la tensión muscular en el TAG. Trabajar horas extras aumenta el estrés, la evitación cognitiva perpetúa el ciclo ansioso y el ejercicio extenuante nocturno puede dificultar el sueño."
+  },
+  {
+    "numb": 28,
+    "question": "VIÑETA 6 </br> Juan, 35 años, Empleado administrativo. Casado, vive con su esposa y sus suegros, en la casa de éstos últimos. Motivo de Consulta: nerviosismo. Juan refiere que desde hace al menos seis meses ha estado experimentando una sensación constante de preocupación y nerviosismo, sin una causa aparente. Estos síntomas se han intensificado en las últimas semanas y le están dificultando llevar a cabo sus actividades diarias en el trabajo ya que no logra concentrarse. Refiere preocupación excesiva e incontrolable sobre múltiples aspectos de su vida (trabajo, salud, familia). Nota fatiga constante, a pesar de dormir suficientes horas y tensión muscular, especialmente en los hombros y el cuello. AEA: niega episodios similares previos. AP: No tabaquismo. Niega consumo de alcohol u otras drogas. No recibe medicamentos. Examen Físico: PA 120/80 mmHg. Buen estado general. Bien hidratado y perfundido. Cuello: eje bien centrado. No se ve ni se palpa glándula tiroides. Contractura de musculatura cervical y de hombros. CV: RR 80 lpm. Sin soplos. PP MAV presente bilateral. Resto del examen físico sin alteraciones. </br> Con respecto a este mismo paciente, según la clasificación de Salvador y Pradere, ¿qué tipo de hogar describe mejor la situación de Juan de 35 años, quien está casado y que vive con su esposa y sus suegros?",
+    "answer": ["b. Hogar Extendido biparental"],
+    "options": [
+      "a. Hogar Biparental",
+      "b. Hogar Extendido biparental",
+      "c. Hogar monoparental",
+      "d. Hogar Compuesto biparental"
+    ],
+    "discipline": "Salud Mental",
+    "TEMA": "Familia",
+    "comment": "Según la clasificación estructural de hogares de Salvador y Pradere, un hogar biparental que incluye además a otros parientes consanguíneos o políticos (en este caso, los suegros/padres de la esposa) corresponde a un hogar extendido biparental. Sería compuesto si incluyera personas sin vínculo de parentesco."
+  },
+  {
+    "numb": 29,
+    "question": "VIÑETA 6 </br> Juan, 35 años, Empleado administrativo. Casado, vive con su esposa y sus suegros, en la casa de éstos últimos. Motivo de Consulta: nerviosismo. Juan refiere que desde hace al menos seis meses ha estado experimentando una sensación constante de preocupación y nerviosismo, sin una causa aparente. Estos síntomas se han intensificado en las últimas semanas y le están dificultando llevar a cabo sus actividades diarias en el trabajo ya que no logra concentrarse. Refiere preocupación excesiva e incontrolable sobre múltiples aspectos de su vida (trabajo, salud, familia). Nota fatiga constante, a pesar de dormir suficientes horas y tensión muscular, especialmente en los hombros y el cuello. AEA: niega episodios similares previos. AP: No tabaquismo. Niega consumo de alcohol u otras drogas. No recibe medicamentos. Examen Físico: PA 120/80 mmHg. Buen estado general. Bien hidratado y perfundido. Cuello: eje bien centrado. No se ve ni se palpa glándula tiroides. Contractura de musculatura cervical y de hombros. CV: RR 80 lpm. Sin soplos. PP MAV presente bilateral. Resto del examen físico sin alteraciones. </br> Durante la consulta, el paciente expresa que su relación con su esposa se ha deteriorado debido al estrés por cuidar a sus suegros. ¿Cuál sería la mejor estrategia de intervención?",
+    "answer": ["c. Puede tratarse de una crisis normativa e intenta profundizar en la situación"],
+    "options": [
+      "a. Referir al paciente a terapia matrimonial",
+      "b. Recomendar una terapia individual para el paciente",
+      "c. Puede tratarse de una crisis normativa e intenta profundizar en la situación",
+      "d. Sugiere la posibilidad de que la pareja se vaya a vivir a otro lugar"
+    ],
+    "discipline": "Salud Mental",
+    "TEMA": "Familia",
+    "comment": "El cuidado de padres ancianos es un evento esperable dentro del ciclo vital familiar (crisis normativa o evolutiva) que exige reacomodación de roles y límites. El abordaje inicial en el primer nivel consiste en explorar y profundizar en la situación familiar, validar la sobrecarga y buscar estrategias de apoyo antes de derivar o dar directivas como mudarse."
+  },
+  {
+    "numb": 30,
+    "question": "Sobre la influencia de las familias en el proceso de salud-enfermedad, cuál de las siguientes afirmaciones es correcta?",
+    "answer": ["b. Las dinámicas familiares pueden influir tanto positiva como negativamente en la salud de sus integrantes"],
+    "options": [
+      "a. Las familias no tienen ningún impacto en la salud de sus miembros",
+      "b. Las dinámicas familiares pueden influir tanto positiva como negativamente en la salud de sus integrantes",
+      "c. Sólo las relaciones conflictivas afectan la salud de los individuos",
+      "d. Los hábitos familiares no tienen relación con la salud individual"
+    ],
+    "discipline": "Salud Mental",
+    "TEMA": "Familia",
+    "comment": "La familia actúa como determinante social y entorno próximo que influye bidireccionalmente en el proceso salud-enfermedad: puede ser un recurso protector (apoyo emocional, cuidados, hábitos saludables, adherencia) o un factor de riesgo/estrés cuando predominan dinámicas disfuncionales o hábitos nocivos."
+  },
+  {
+    "numb": 31,
+    "question": "A partir de los procesos migratorios de las familias y los efectos que estos pueden tener en la salud de sus integrantes, ¿Quiénes tendrían más riesgo de padecer trastornos mentales?",
+    "answer": ["b. Los hijos de inmigrantes, nacidos en un nuevo territorio."],
+    "options": [
+      "a. Los adultos, padres inmigrantes, que están en nuevo territorio.",
+      "b. Los hijos de inmigrantes, nacidos en un nuevo territorio.",
+      "c. Los padres de adultos inmigrantes, que quedan en el lugar de origen.",
+      "d. Los adultos mayores inmigrantes, que dejan a sus amigos."
+    ],
+    "discipline": "Salud Mental",
+    "TEMA": "Migración y Salud Mental",
+    "comment": "Diversos estudios sobre migración y salud mental muestran que los hijos de inmigrantes nacidos en el país receptor (segunda generación) presentan mayor vulnerabilidad a trastornos mentales debido a tensiones identitarias, conflictos intergeneracionales y de aculturación entre las pautas culturales de la familia de origen y la sociedad receptora, sumado a eventuales experiencias de discriminación o exclusión."
+  },
+  {
+    "numb": 32,
+    "question": "¿Cuál de las siguientes opciones indican los factores socioculturales que pueden afectar el riesgo de maltrato de las personas mayores?",
+    "answer": ["b. Representación de las personas mayores como frágiles y dependientes."],
+    "options": [
+      "a. Problemas físicos que generen situación de discapacidad y dependencia.",
+      "b. Representación de las personas mayores como frágiles y dependientes.",
+      "c. Personas adultas mayores dependientes, que rechacen la ayuda de cualquier cuidador/ra.",
+      "d. Dificultades interpersonales de larga data que se ven agravadas por la edad avanzada."
+    ],
+    "discipline": "Salud Mental",
+    "TEMA": "Adulto mayor",
+    "comment": "Dentro del modelo ecológico de factores de riesgo de maltrato hacia las personas mayores, los factores socioculturales (nivel comunitario/social) incluyen los estereotipos edadistas y las representaciones sociales que conciben a las personas mayores como frágiles, dependientes o una carga. Las opciones a, c y d corresponden a factores individuales o relacionales."
+  },
+  {
+    "numb": 33,
+    "question": "La depresión es la enfermedad psiquiátrica más frecuente en personas mayores de 60 años. ¿Cuál de los siguientes Constituye un factor protector en la prevención primaria de la depresión en el adulto mayor?",
+    "answer": ["c. Tener una adecuada red de apoyo."],
+    "options": [
+      "a. Sentimientos de autoestima elevada.",
+      "b. Asistirá a controles regulares en salud.",
+      "c. Tener una adecuada red de apoyo.",
+      "d. Pertenecer a una familia nuclear."
+    ],
+    "discipline": "Salud Mental",
+    "TEMA": "Depresión",
+    "comment": "Contar con una red de apoyo social, familiar y comunitaria sólida es uno de los principales factores protectores frente a la depresión en la vejez, ya que amortigua el impacto de las pérdidas, la soledad no deseada y los cambios vitales propios de esta etapa."
+  },
+  {
+    "numb": 34,
+    "question": "Según la Encuesta Nacional sobre Consumo de Drogas en Población General Uruguaya, se estima que para todas las drogas el consumo, tanto en magnitud como en intensidad, es mayor en varones que en las mujeres, excepto para:",
+    "answer": ["a. Psicofármacos"],
+    "options": [
+      "a. Psicofármacos",
+      "b. Marihuana",
+      "c. Alcohol",
+      "d. Tabaco"
+    ],
+    "discipline": "Salud Mental",
+    "TEMA": "Consumo problemático de sustancias",
+    "comment": "En las Encuestas Nacionales sobre Consumo de Drogas en Población General de Uruguay (Junta Nacional de Drogas), el consumo de sustancias como alcohol, tabaco y marihuana es mayor en varones, siendo los psicofármacos (especialmente tranquilizantes/ansiolíticos y antidepresivos) la excepción con prevalencias significativamente mayores en mujeres."
+  },
+  {
+    "numb": 35,
+    "question": "Las Intervenciones Breves han mostrado ser efectivas para motivar a las personas que presentan consumos de riesgo a cambiar sus comportamientos en torno al mismo. ¿Cuáles son las ventajas de las intervenciones breves?",
+    "answer": ["d. Promueven encuentros preventivos y terapéuticos con usuarios de drogas."],
+    "options": [
+      "a. Su efectividad respecto de los tratamientos especializados en salud mental.",
+      "b. Es necesario contar con el acceso a clínicas especializadas para quienes consultan.",
+      "c. Las realiza cualquier agente sanitario con sensibilidad y formación adecuada.",
+      "d. Promueven encuentros preventivos y terapéuticos con usuarios de drogas."
+    ],
+    "discipline": "Salud Mental",
+    "TEMA": "Consumo problemático de sustancias",
+    "comment": "Las intervenciones breves se desarrollan en el primer nivel de atención y contextos asistenciales cotidianos, facilitando oportunidades de encuentro preventivo y terapéutico temprano con personas con consumos de riesgo sin requerir dispositivos especializados como condición previa."
+  },
+  {
+    "numb": 36,
+    "question": "El concepto de adherencia terapéutica según la OMS ha sido actualizado en 2003, según pautas culturales y cambios en el sistema de salud. Los últimos aportes a la definición toman en cuenta los siguientes aspectos. Identifica el enunciado correcto.",
+    "answer": ["d. El acuerdo entre el paciente y su médico sobre las pautas a seguir."],
+    "options": [
+      "a. Incluyen el cumplimiento de la pauta farmacológica diseñada por el médico.",
+      "b. El grado en el que el paciente se ajusta a las pautas del prescriptor.",
+      "c. La forma en la que el paciente se adapta a las indicaciones.",
+      "d. El acuerdo entre el paciente y su médico sobre las pautas a seguir."
+    ],
+    "discipline": "Psicología Médica",
+    "TEMA": "Adherencia terapéutica",
+    "comment": "La definición de adherencia terapéutica de la OMS (2003) supera el concepto pasivo y unidireccional de 'cumplimiento' u 'obediencia' a las órdenes médicas, definiéndola como el grado en que el comportamiento de una persona (toma de medicación, dieta, cambios de estilo de vida) se corresponde con las recomendaciones acordadas con el profesional sanitario."
+  },
+  {
+    "numb": 37,
+    "question": "Los principios de la entrevista motivacional son:",
+    "answer": ["c. Expresar empatía, desarrollar las discrepancias, rodar con las resistencias, apoyar la autoeficacia."],
+    "options": [
+      "a. Expresar empatía, interpelar la discrepancia, apostar al mantenimiento de los hábitos, respetar la autonomía.",
+      "b. Expresar empatía, tener compasión, apoyar la autoeficacia, reducir la incertidumbre del cambio conductual.",
+      "c. Expresar empatía, desarrollar las discrepancias, rodar con las resistencias, apoyar la autoeficacia.",
+      "d. Expresar empatía, desarrollar herramientas para controlar la ambivalencia, cuidar la resistencia, apoyar el empoderamiento."
+    ],
+    "discipline": "Psicología Médica",
+    "TEMA": "Entrevista motivacional",
+    "comment": "Los cuatro principios clásicos de la entrevista motivacional descritos por Miller y Rollnick son: 1) Expresar empatía, 2) Desarrollar las discrepancias (entre la conducta actual y los valores/metas del paciente), 3) Rodar con o sortear las resistencias (evitando la confrontación directa), y 4) Apoyar la autoeficacia (confianza del paciente en su capacidad de cambio)."
+  },
+  {
+    "numb": 38,
+    "question": "La formación de los estudiantes de medicina sobre adherencia terapéutica es importante porque:",
+    "answer": ["d. Genera costos evitables para el sistema asistencial."],
+    "options": [
+      "a. Los pacientes deben cumplir con las indicaciones médicas.",
+      "b. Los tratamientos son cada vez menos efectivos.",
+      "c. Porque hay que evitar las demandas médico-legales.",
+      "d. Genera costos evitables para el sistema asistencial."
+    ],
+    "discipline": "Psicología Médica",
+    "TEMA": "Adherencia terapéutica",
+    "comment": "La baja adherencia terapéutica impacta negativamente en los resultados clínicos, aumenta la morbimortalidad, las complicaciones y las hospitalizaciones, generando importantes costos evitables tanto para los pacientes como para el sistema de salud. Formar a los futuros médicos mejora la comunicación, el acuerdo terapéutico y la eficiencia asistencial."
+  },
+  {
+    "numb": 39,
+    "question": "Juan tiene 58 años, fumador desde la adolescencia. “Empecé como una forma de sentirme grande, pero me di cuenta que al poco tiempo el cigarro me organizó la vida. Vivía en función del cigarro. Lo pude dejar a los 45 años, hasta hace dos meses que después que me despidieron del trabajo. No pude con la situación, no me lo esperaba. Tendría que dejar de fumar, ayuda con la ansiedad. ¡Esa es la verdad!”. Concurre a la consulta con el cirujano para evaluar posible cirugía de hernia \"que me viene complicando”. Ante la indicación de cesación de tabaquismo por la eventual cirugía, Juan refiere: “pah... lo dejaría obligado, lo he pensado… pero sé que justo en este momento no voy a poder”. </br> Sobre la viñeta - Identifica (según Prochaska y Di Clemente) la etapa de motivación para el cambio en la que Juan se encuentra en el momento de la consulta preoperatoria con el cirujano.",
+    "answer": ["b. Contemplación."],
+    "options": [
+      "a. Mantenimiento.",
+      "b. Contemplación.",
+      "c. Pre-contemplacion.",
+      "d. Determinación."
+    ],
+    "discipline": "Psicología Médica",
+    "TEMA": "Entrevista motivacional",
+    "comment": "Juan reconoce que fumar es un problema y ha pensado en dejarlo ('tendría que dejar de fumar', 'lo he pensado'), pero expresa claramente ambivalencia y percibe que aún no puede dar el paso en este momento ('pero sé que justo en este momento no voy a poder'). Esto caracteriza a la etapa de contemplación del modelo transteórico de Prochaska y Di Clemente."
+  },
+  {
+    "numb": 40,
+    "question": "Juan tiene 58 años, fumador desde la adolescencia. “Empecé como una forma de sentirme grande, pero me di cuenta que al poco tiempo el cigarro me organizó la vida. Vivía en función del cigarro. Lo pude dejar a los 45 años, hasta hace dos meses que después que me despidieron del trabajo. No pude con la situación, no me lo esperaba. Tendría que dejar de fumar, ayuda con la ansiedad. ¡Esa es la verdad!”. Concurre a la consulta con el cirujano para evaluar posible cirugía de hernia \"que me viene complicando”. Ante la indicación de cesación de tabaquismo por la eventual cirugía, Juan refiere: “pah... lo dejaría obligado, lo he pensado… pero sé que justo en este momento no voy a poder”. </br> Sobre la viñeta - ¿Qué intervenciones recomendarías según la etapa de motivación para el cambio identificada?",
+    "answer": ["c. Mostrar la ambivalencia de la conducta."],
+    "options": [
+      "a. Trabajar sobre la prevención de recaídas.",
+      "b. Identificar los riesgos de mantener la conducta.",
+      "c. Mostrar la ambivalencia de la conducta.",
+      "d. Hacer foco en la cirugía y dejar de lado la cesación."
+    ],
+    "discipline": "Psicología Médica",
+    "TEMA": "Entrevista motivacional",
+    "comment": "En la etapa de contemplación, la intervención central consiste en explorar y visibilizar la ambivalencia (sopesando los pros y los contras de mantener la conducta versus cambiarla) y reforzar la autoeficacia recordando logros previos (ya logró dejar de fumar a los 45 años). La prevención de recaídas corresponde al mantenimiento, y en precontemplación se trabaja más en sensibilizar sobre riesgos."
+  }
 
 ];
+
+
+
+
+
+
+
+
 
