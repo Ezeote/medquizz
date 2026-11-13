@@ -452,7 +452,6 @@ let questions = [
 "Tema": "Gastrointestinal",
 "comment": "La metoclopramida (antagonista dopaminérgico) tiene efectos adversos neurológicos importantes, sobre todo con el uso prolongado: síntomas extrapiramidales, distonías, parkinsonismo, discinesia tardía, somnolencia y depresión; por eso se limita su uso a periodos cortos. La opción A es incorrecta: los IBP son más eficaces que el placebo, sobre todo en la dispepsia con dolor epigástrico o con componente de reflujo. La opción B es incorrecta: la eficacia de los IBP es mayor en el síndrome de dolor epigástrico y no en el distrés posprandial. La opción D es incorrecta: la erradicación de H. pylori es costo-efectiva, pero el número necesario a tratar es de aproximadamente 14 pacientes para curar a 1 (no 4)."
 },
-
 {
 "numb": 31,
 "question": "José 78 años, trabajador rural, concurre a la policlínica de oncología acompañado por dos de sus hijos. El paciente al comienzo se negaba, luego de algunas estrategias por parte de la familia lograron que concurrieron al centro de salud. (El médico de la zona rural en la que vive sugirió consulta en el hospital en Montevideo). Desde hace varios meses ha presentado síntomas que orientan a pensar que se trata de un CBP. Los hijos se muestran preocupados ya que en la tomografía que le realizaron se observa una gran masa en el pulmón derecho. El médico los orientó a que “esto no es bueno”. Mientras el médico sale a hablar con la secretaria del servicio para coordinar estudios uno de los hijos sale y le dice “no le comunique a mi padre el diagnóstico” Digale lo primero que se le ocurra, pero no que es cáncer ...no lo va a tolerar. <br> Según el protocolo EPICEE ¿cuál es la primera medida que debe realizar el médico ante la solicitud del hijo?",
@@ -464,6 +463,7 @@ let questions = [
 "D. Acordar con los hijos cual es la mejor estrategia a seguir"
 ],
 "discipline": "Psicología Médica",
+"Tema": "Comunicación de malas noticias",
 "comment": "En el protocolo EPICEE (Entorno, Percepción, Invitación, Conocimiento, Emoción/Empatía, Estrategia y resumen), una vez asegurado el entorno, el primer paso es explorar qué sabe y qué percibe el paciente de su enfermedad, y luego cuánto desea saber. José es un adulto autónomo con derecho a ser informado (o a decidir no saber, si así lo expresa). La petición del hijo no puede reemplazar su voluntad, y ocultar el diagnóstico (pacto de silencio) deteriora la confianza y le quita la posibilidad de decidir sobre su tratamiento. Por eso, las opciones B y D (acordar con la familia lo que se le dirá) son incorrectas, y la A es incorrecta porque no hay indicios que justifiquen derivar a psiquiatría. Se puede acoger la preocupación del hijo y trabajar con la familia, pero siempre a partir de lo que el paciente quiere saber."
 },
 
@@ -478,6 +478,7 @@ let questions = [
 "D. Emoción"
 ],
 "discipline": "Psicología Médica",
+"Tema": "Comunicación de malas noticias",
 "comment": "EPICEE son las iniciales de los pasos del protocolo: Entorno (primera E), Percepción, Invitación, Conocimiento, Emoción/Empatía (segunda E) y Estrategia y resumen (tercera E). Por lo tanto, la tercera E corresponde a Estrategia: es el cierre de la entrevista, donde se resume lo hablado, se acuerdan los pasos a seguir y se planifica el seguimiento. Entorno (C) es la primera E, y Empatía/Emoción (B y D) corresponden a la segunda."
 },
 
@@ -492,6 +493,7 @@ let questions = [
 "D. La mala relación MP"
 ],
 "discipline": "Psicología Médica",
+"Tema": "Comunicación en el ámbito quirúrgico",
 "comment": "El estudio de Sánchez y colaboradores (Rev Colomb Cir, 2013) caracterizó los patrones y los errores de comunicación en las salas de cirugía y concluyó que mejorar la comunicación entre los miembros del equipo podría disminuir los efectos sobre la morbimortalidad que generan estas fallas. Por eso la variable que se menciona de forma explícita es la morbimortalidad. Los errores de comunicación son el objeto de estudio y no «errores del médico» en general; la eficacia terapéutica y la relación médico-paciente no son las variables evaluadas."
 },
 
@@ -506,6 +508,7 @@ let questions = [
 "D. comunicar al familiar acompañante sobre la situación clínica"
 ],
 "discipline": "Psicología Médica",
+"Tema": "Comunicación de malas noticias",
 "comment": "Al comunicar una mala noticia el médico debe dar la información de forma gradual, con lenguaje claro y sin tecnicismos, y verificar periódicamente que el paciente comprende y qué emociones tiene, permitiendo preguntas (comunicación bidireccional). La opción B es incorrecta: esperar a que pregunte deja al paciente sin información, y muchos pacientes no se animan a preguntar. La opción C es incorrecta: no es necesario derivar a salud mental antes de dar una noticia; el paciente tiene derecho a ser informado por su médico, y se pide apoyo si se detecta necesidad. La opción D es incorrecta: informar primero al familiar vulnera la autonomía y la confidencialidad; la información debe darse al paciente y a los acompañantes que él autorice."
 },
 
@@ -520,6 +523,7 @@ let questions = [
 "D. Calidad asistencial, políticas sanitarias, decisiones médicas"
 ],
 "discipline": "Psicología Médica",
+"Tema": "Toma de decisiones compartidas",
 "comment": "La toma de decisiones compartidas integra la mejor evidencia científica disponible, las preferencias y valores del paciente y el contexto clínico y social (situación del paciente, recursos, experiencia del profesional). El paciente y el médico deliberan juntos para elegir la opción más adecuada. Las otras opciones mezclan elementos del sistema de salud, de la institución o de las políticas sanitarias, que son factores indirectos o del entorno y no los componentes directos de la decisión; tampoco los valores personales del médico deben imponerse sobre los del paciente."
 },
 
@@ -534,6 +538,7 @@ let questions = [
 "D. Mejorar la salud del integrante que consulta."
 ],
 "discipline": "Salud Mental",
+"Tema": "Familia",
 "comment": "Abordar a la familia como unidad de atención permite conocer su estructura, funcionamiento, recursos, riesgos y entorno (en el domicilio se observa el contexto real), y a partir de eso definir estrategias integrales de promoción de la salud, prevención y cuidado que involucren a todo el grupo, más allá del integrante que consulta. Las demás opciones son más acotadas: la prevención (A) es solo una parte, el foco exclusivo en el integrante que consulta (D) corresponde al abordaje individual, y la opción B describe un uso de la familia como recurso para resolver problemas individuales, pero no es el objetivo del enfoque familiar como unidad de atención."
 },
 
@@ -548,6 +553,7 @@ let questions = [
 "D. Al producirse el fallecimiento de un familiar."
 ],
 "discipline": "Salud Mental",
+"Tema": "Migración y Salud Mental",
 "comment": "El duelo es la reacción psicológica ante la pérdida de algo o alguien significativo para la persona, y no se limita a la muerte. En la migración se pierden vínculos, el lugar de origen, la lengua, la cultura, las costumbres, el estatus y los roles (duelos migratorios: por la familia y los amigos, la lengua, la cultura, la tierra, el estatus social y la seguridad física). Por eso los duelos se desencadenan al perderse algo significativo. La hostilidad de la nueva cultura (A) o la confusión legal (C) pueden ser factores de estrés, pero no son la condición que desencadena un duelo, y el fallecimiento de un familiar (D) es solo un tipo de pérdida."
 },
 
@@ -562,7 +568,8 @@ let questions = [
 "D. 100%"
 ],
 "discipline": "Salud Mental",
-"comment": "",
+"Tema": "Suicidio en el adulto mayor",
+"comment": ""
 },
 
 {
@@ -576,6 +583,7 @@ let questions = [
 "D. A un consumo problemático que no afecta la vida social del sujeto que consume."
 ],
 "discipline": "Salud Mental",
+"Tema": "Consumo problemático de sustancias",
 "comment": "La tolerancia es la adaptación del organismo al uso repetido de una sustancia, de modo que se necesitan dosis cada vez mayores para obtener el mismo efecto (o el mismo efecto con la misma dosis disminuye). Es un fenómeno fisiológico distinto de la dependencia. La opción B describe la dependencia (la sustancia adquiere un lugar central en la vida de la persona). La opción C describe un consumo esporádico, y la opción D no define la tolerancia (y un consumo problemático por definición suele afectar la vida social)."
 },
 
@@ -1592,6 +1600,8 @@ let questions = [
 "comment": "El seguimiento se realiza con pruebas no treponémicas cuantitativas (VDRL), siempre con la misma técnica y preferentemente en el mismo laboratorio, para poder comparar títulos. Se espera una disminución de al menos 4 veces el título (2 diluciones) a los 6 meses en sífilis reciente. Las pruebas treponémicas son diagnósticas y quedan positivas de por vida, por lo que no sirven para seguimiento (tampoco en lupus). Los controles son más frecuentes que a los 4 meses (habitualmente a los 3, 6 y 12 meses).",
 },
 
+
+
 {
 "numb": 31,
 "question": "VIÑETA 9 <br>  María está haciendo una suplencia. Luego de revisar las imágenes de la paciente le dice “... por lo que se informa aquí su enfermedad ha avanzado a pesar del tratamiento oncoespecífico. Su enfermedad no tiene posibilidad de curación lo importante ahora será derivarla a paliativos.“ <br>  El paciente queda en silencio, con expresión de desconcierto, mientras la médica continúa explicando el plan de cuidados. <br> En la situación descrita, ¿qué aspecto del modelo EPICEE se ve transgredido en esta entrevista.",
@@ -1603,7 +1613,7 @@ let questions = [
 "D. Comunicación",
 ],
 "discipline": "Psicología Médica",
-"TEMA": "",
+"TEMA": "Comunicación de malas noticias",
 "comment": "El protocolo EPICEE para comunicar malas noticias incluye: Entorno, Percepción del paciente, Invitación, Conocimiento, Empatía (emociones) y Estrategia/resumen. La médica da la noticia sin explorar antes qué sabe y qué entiende la paciente de su enfermedad (Percepción), y tampoco pregunta cuánto quiere saber (Invitación). Además, no responde a las emociones (Empatía) y continúa con el plan sin comprobar su comprensión. Entre las opciones, el paso transgredido más claramente es Percepción.",
 },
 
@@ -1618,7 +1628,7 @@ let questions = [
 "D. “Llorar no ayuda, lo importante es que se concentre en la cirugía y confiar que será exitosa“. ",
 ],
 "discipline": "Psicología Médica",
-"TEMA": "",
+"TEMA": "Comunicación de malas noticias",
 "comment": "En el paso de Empatía del protocolo EPICEE se reconoce y nombra la emoción del paciente, se valida y se ofrece acompañamiento. La opción C lo hace: reconoce el miedo, normaliza la situación y asegura apoyo. Las otras opciones son inadecuadas: A da una tranquilidad falsa y minimiza, B medicaliza una reacción normal y no valida la emoción, D invalida la emoción y reprende a la paciente.",
 },
 
@@ -1633,7 +1643,7 @@ let questions = [
 "D. La irritabilidad del paciente se deba a ansiedad y no al dolor, por lo que debe priorizarse la contención verbal.",
 ],
 "discipline": "Psicología Médica",
-"TEMA": "",
+"TEMA": "Dolor",
 "comment": "La IASP define el dolor como una experiencia sensorial y emocional desagradable, por lo que es siempre subjetivo y está influido por factores biológicos, psicológicos y sociales (ansiedad, experiencias previas, contexto). El autorreporte del paciente (EVA) es el patrón de referencia para valorarlo y se debe creer y validar. Además, se debe reevaluar de forma periódica tras indicar analgesia (A es incorrecta) y no atribuir la irritabilidad solo a ansiedad (D) ni basarse en parámetros objetivos por sobre su relato (B).",
 },
 
@@ -1648,7 +1658,7 @@ let questions = [
 "D. Factores relacionados con el sistema de salud",
 ],
 "discipline": "Psicología Médica",
-"TEMA": "",
+"TEMA": "Adherencia terapéutica",
 "comment": "El modelo de la OMS agrupa los factores de adherencia en 5 dimensiones: socioeconómicos, del sistema/equipo de salud, de la enfermedad, del tratamiento y del paciente. Los problemas descritos (efectos adversos de los analgesicos, indicaciones poco claras sobre duración, complejidad de las indicaciones de dieta y control) corresponden a factores relacionados con el tratamiento, que son los que conviene indagar mejor.",
 },
 
@@ -1663,7 +1673,7 @@ let questions = [
 "D. Mantenimiento",
 ],
 "discipline": "Psicología Médica",
-"TEMA": "",
+"TEMA": "Entrevista motivacional",
 "comment": "En el modelo transteórico de Prochaska y DiClemente las etapas son: precontemplación, contemplación, preparación, acción, mantenimiento y recaída. La paciente había decidido dejar de fumar y lo logró durante un tiempo (acción) pero volvió a fumar, lo que corresponde a recaída. Es parte normal del proceso de cambio y debe abordarse sin culpabilizar, reforzando lo logrado y retomando el ciclo (reevaluando la motivación y planteando nuevamente la acción).",
 },
 
@@ -1678,7 +1688,7 @@ let questions = [
 "D. Ansiedad",
 ],
 "discipline": "Salud Mental",
-"TEMA": "",
+"TEMA": "Consumo problemático de sustancias",
 "comment": "Según el DSM-5, la abstinencia es el conjunto de síntomas que aparece al cesar o reducir un consumo prolongado e intenso de una sustancia. En la abstinencia de estimulantes (cocaína) hay disforia, fatiga, sueños vívidos y desagradables, insomnio o hipersomnia, aumento del apetito y agitación o enlentecimiento psicomotor, como en este paciente (5 días sin consumir, tras más de 5 años). La intoxicación ocurre durante o poco después del consumo, la tolerancia es la necesidad de dosis crecientes para lograr el efecto, y la ansiedad es sólo un síntoma, no una clasificación.",
 },
 
@@ -1693,7 +1703,7 @@ let questions = [
 "D. Uso dependiente",
 ],
 "discipline": "Salud Mental",
-"TEMA": "",
+"TEMA": "Consumo problemático de sustancias",
 "comment": "Jorge presenta consumo de más de 5 años, síndrome de abstinencia, consecuencias negativas en distintas áreas (relación de pareja, familia), dificultad para controlar el consumo y deseo de dejarlo, lo que configura un uso dependiente (trastorno por consumo de sustancias). El uso experimental es el primer contacto, el recreativo es ocasional y sin consecuencias, y el habitual es frecuente pero sin pérdida de control ni dependencia.",
 },
 
@@ -1708,7 +1718,7 @@ let questions = [
 "D. Dar autonomía al paciente para que genere sus propias estrategias",
 ],
 "discipline": "Salud Mental",
-"TEMA": "",
+"TEMA": "Consumo problemático de sustancias",
 "comment": "El abordaje de consumo problemático en el primer nivel, desde la reducción de riesgos y daños y la entrevista motivacional, incluye brindar información de calidad (basada en evidencia, sin juicios ni moralismos) que permita al paciente tomar decisiones informadas, además de intervención breve, tratamiento de la abstinencia y derivación a dispositivos especializados. Las otras opciones describen principios generales de la relación o actitudes que no son una intervención concreta o que podrían ser inadecuadas en un uso dependiente (por ejemplo, 'favorecer la flexibilidad ante el consumo').",
 },
 
@@ -2233,6 +2243,7 @@ let questions = [
 "comment": "El tratamiento farmacológico de primera línea de la cesación tabáquica incluye la terapia de reemplazo nicotínico (parches, chicles, comprimidos), el bupropión y la vareniclina, asociados a abordaje psicológico y conductual. Dado su consumo muy alto (30 cigarrillos/día) y su dependencia, el bupropión y el reemplazo nicotínico son opciones adecuadas, solos o combinados. La opción a es incorrecta: no hay evidencia suficiente para recomendar los cigarrillos electrónicos como tratamiento y no son inocuos. La opción b es incorrecta: la terapia de reemplazo nicotínico puede y debe ofrecerse durante la internación para aliviar la abstinencia. La opción d es incorrecta: las benzodiazepinas no tienen indicación en la cesación tabáquica."
 },
 
+
 {
 "numb": 31,
 "question": "VIÑETA 8 <br> María concurrió a la policlinica de Mastologia acompañada por su esposo, quien ya conoce los resultados de los estudios que se le realizaron. La paciente llega con resultados que confirman metástasis óseas. “Desde hace varias semanas me duele la cadera, me mejora cuando camino pero si me quedo quieta es horrible. Después de la operación de la mama marché muy bien, pero ahora algo me pasa. No es normal esto. Nunca había tenido dolor”. El médico ajusta la analgesia. Mientras éste sale del consultorio para buscar recetas el esposo sale a su encuentro y le solicita que no le informe los resultados a María. “Le pido por favor Dr., no le diga los resultados porque no lo va a tolerar”. <br> Con respecto al abordaje comunicacional, aplicando el modelo de Comunicación de Malas Noticias, ¿cuál es la primera medida que debe tomar en cuenta el médico?",
@@ -2244,7 +2255,7 @@ let questions = [
 "d. Acordar con la familia cuál es la mejor estrategia a seguir"
 ],
 "discipline": "Psicología Médica",
-"TEMA": "",
+"TEMA": "Comunicación de malas noticias",
 "comment": "En los protocolos de comunicación de malas noticias (como SPIKES), tras preparar el entorno, el primer paso es explorar qué sabe y cómo percibe la paciente su situación (Percepción) y luego cuánto quiere saber (Invitación), para recién después compartir la información de forma gradual y empática. Aquí María ya muestra sospecha de que \"algo pasa\" y tiene derecho a ser informada. La opción b es incorrecta: la solicitud del esposo no puede prevalecer sobre el derecho de la paciente a conocer su diagnóstico (autonomía), ocultarlo es un pacto de silencio que daña la relación médico-paciente y la confianza. La opción d es incorrecta: la estrategia se define con la paciente, no solo con la familia (aunque se la puede involucrar con su consentimiento). La opción a es incorrecta: no hay indicios que justifiquen una derivación psiquiátrica inicial."
 },
 
@@ -2259,7 +2270,7 @@ let questions = [
 "d. Determinación (o preparación)"
 ],
 "discipline": "Psicología Médica",
-"TEMA": "",
+"TEMA": "Entrevista motivacional",
 "comment": "En la contemplación la persona reconoce que tiene un problema y piensa en cambiar, pero está ambivalente y todavía no se ha comprometido con un plan concreto. El paciente admite que el alcohol \"le jodió la vida\", reconoce el problema y expresa la necesidad de cambiar (\"tengo que poder\"), pero a la vez se muestra ambivalente: tomó una cerveza con su hermano y minimiza. La abstinencia actual es forzada por la internación y no una decisión sostenida. No está en precontemplación (que implicaría negar el problema y no pensar en cambiar), ni en preparación (no hay plan concreto), ni en mantenimiento (que requiere un período prolongado de cambio sostenido)."
 },
 
@@ -2274,7 +2285,7 @@ let questions = [
 "d. Ayudar al paciente a orientar sus planteos para ejecutar el cambio."
 ],
 "discipline": "Psicología Médica",
-"TEMA": "",
+"TEMA": "Entrevista motivacional",
 "comment": "El paciente ya reconoce el problema y expresa deseo de cambiar: la intervención adecuada es reforzar esa motivación, resolver la ambivalencia y ayudarlo a transformar sus planteos en decisiones y acciones concretas (fijar metas, elegir estrategias, plantear apoyos). Las demás opciones corresponden a otras etapas: mostrar las razones para cambiar (b) es propio de la precontemplación; prevenir la recaída (c) es propio del mantenimiento; y la opción a es incorrecta porque el tabaco es otra adicción y no un recurso motivador para dejar el alcohol (además, el abordaje debe respetar su ritmo y no imponer cambios simultáneos que no pidió)."
 },
 
@@ -2289,7 +2300,7 @@ let questions = [
 "d. Tener en mente que la responsabilidad final del resultado es del médico."
 ],
 "discipline": "Psicología Médica",
-"TEMA": "",
+"TEMA": "Entrevista motivacional",
 "comment": "La entrevista motivacional es un estilo de comunicación colaborativo y centrado en el paciente, cuyo objetivo es que sea la propia persona quien exprese sus razones para cambiar y resuelva su ambivalencia. El médico explora los motivos a favor y en contra del cambio (incluidas las resistencias), con preguntas abiertas, escucha reflexiva, empatía y sin confrontar. La opción a es incorrecta: tratar de convencer con argumentos racionales genera resistencia. La opción b es incorrecta: no se trata de exhibir conocimiento ni de adoptar un rol de experto autoritario. La opción d es incorrecta: la responsabilidad del cambio es del paciente, el médico es un facilitador."
 },
 
@@ -2304,7 +2315,7 @@ let questions = [
 "d. Incertidumbre frente a la evolución."
 ],
 "discipline": "Psicología Médica",
-"TEMA": "",
+"TEMA": "Ansiedad posquirúrgica",
 "comment": "En el posoperatorio la ansiedad y el dolor se potencian mutuamente: la ansiedad aumenta la percepción del dolor y el umbral doloroso disminuye, por lo que los pacientes ansiosos solicitan más analgésicos. El aumento de solicitud de analgésicos es la situación que más se asocia a ansiedad posquirúrgica. Las otras opciones (malestar con el equipo, estancia hospitalaria prolongada e incertidumbre) pueden ser consecuencias o factores relacionados, pero la ansiedad elevada se manifiesta más frecuentemente con mayor demanda de analgesia. Es un dato útil para detectar y tratar la ansiedad (información preoperatoria, apoyo emocional) y no solo aumentar la analgesia."
 },
 
@@ -2319,7 +2330,7 @@ let questions = [
 "d. Habitual"
 ],
 "discipline": "Salud Mental",
-"TEMA": "",
+"TEMA": "Consumo problemático de sustancias",
 "comment": "El consumo experimental (o experiencial) es el de las primeras experiencias con una sustancia, motivadas por curiosidad y por la presión o el ejemplo del grupo de pares, sin regularidad ni patrón establecido. Santiago lo hizo \"por curiosidad, porque todos mis amigos lo hacen\", algunas veces y no de forma regular. El consumo ocasional es el uso esporádico pero ya integrado, con cierta elección de la persona; el habitual implica uso frecuente y sostenido; y el dependiente implica compulsión, pérdida de control y deterioro en distintas áreas de la vida. Ninguno de estos corresponde al caso."
 },
 
@@ -2334,38 +2345,8 @@ let questions = [
 "d. A que el o cuerpo habituado a la presencia de una sustancia pueda estar sin consumir experimentando estados agradables."
 ],
 "discipline": "Salud Mental",
-"TEMA": "",
+"TEMA": "Consumo problemático de sustancias",
 "comment": "La dependencia psíquica es el impulso o compulsión a consumir una sustancia para obtener placer (un estado afectivo agradable) o para aliviar el malestar emocional (un estado displacentero), y se asocia al deseo intenso o craving. La opción a describe la dependencia física (adaptación del organismo, necesidad de mantener niveles de la sustancia y aparición de síndrome de abstinencia al suspenderla). La opción b describe el consumo recreativo, que no implica dependencia. La opción d está mal formulada: en la dependencia física, la ausencia de la sustancia produce malestar (abstinencia), no estados agradables."
-},
-
-{
-"numb": 38,
-"question": "VIÑETA 11 <br> Pilar de 14 años, consulta a su médico de referencia en la policlínica de Medicina Familiar y Comunitaria, solicitando valoración por malestares físicos vinculados a posible embarazo. Durante la anamnesis, descartado el estado de gravidez, el profesional actuante identifica factores de riesgo. <br> ¿Cuál de los siguientes se asocia a depresión?",
-"answer": "b. El desorden y descuido del cuerpo que la adolescente presenta durante los diferentes encuentros.",
-"options": [
-"a. El debilitamiento de la función de la familia en esta etapa, en el mundo posmoderno.",
-"b. El desorden y descuido del cuerpo que la adolescente presenta durante los diferentes encuentros.",
-"c. La aparición de diferentes conflictos de diversa índole, donde se ve afectada su socialización,",
-"d. Las transformaciones físicas propias de la pubertad que la llevan a sentirse sola"
-],
-"discipline": "Salud Mental",
-"TEMA": "Depresión",
-"comment": "En la adolescencia la depresión suele manifestarse de forma distinta a la del adulto: además de la tristeza puede haber irritabilidad, aislamiento, bajo rendimiento, quejas físicas (somatizaciones) y abandono del autocuidado. El desorden y el descuido del cuerpo y de la apariencia, observados de forma sostenida en las consultas, son un signo de alerta de depresión (apatía, desinterés, abandono de sí). Las otras opciones describen factores contextuales o del desarrollo (cambios familiares, conflictos, transformaciones puberales) que pueden constituir factores de riesgo o ser parte normal de la adolescencia, pero no son por sí mismos indicadores específicos de depresión como lo es el cambio observable en el autocuidado."
-},
-
-{
-"numb": 39,
-"question": "La depresión es una enfermedad prevalente a nivel mundial, pudiendo causar gran sufrimiento y afectar diferentes áreas de la vida de quien la padece. A pesar de ello, un porcentaje muy alto de las personas que la sufren no reciben tratamiento. En relación a ésto: ¿Qué obstáculos se encuentran asociados a una prevención eficaz de la depresión?",
-"answer": "a. Estigmatización",
-"options": [
-"a. Estigmatización",
-"b. Naturalización",
-"c. Sobreinformación",
-"d. Automedicación"
-],
-"discipline": "Salud Mental",
-"TEMA": "Depresión",
-"comment": "Uno de los principales obstáculos para la prevención y el tratamiento eficaz de la depresión es el estigma asociado a los trastornos mentales: las personas temen ser juzgadas o etiquetadas, y por eso no consultan, ocultan los síntomas o abandonan el tratamiento, lo que retrasa el diagnóstico. También la falta de información y de acceso a la atención influyen. Por el contrario, la sobreinformación no es un obstáculo (el problema es la desinformación o falta de información adecuada), y la naturalización o la automedicación, aunque pueden ser problemas, no son el obstáculo asociado de forma principal a la prevención en los textos del curso."
 },
 
 {
@@ -2379,9 +2360,34 @@ let questions = [
 "d. Cada 10 días"
 ],
 "discipline": "Salud Mental",
-"TEMA": "",
+"TEMA": "Suicidio en el adulto mayor",
 "comment": "En Uruguay las personas adultas mayores, en especial los varones de edad avanzada, tienen las tasas de suicidio más altas de todos los grupos etarios, y el país está entre los de mayor tasa de suicidio de la región. Según los datos de la materia, se registra un suicidio de una persona adulta mayor aproximadamente cada 2 días. Es un problema de salud pública prioritario: los factores de riesgo incluyen depresión, soledad, pérdida de roles y de seres queridos, enfermedades crónicas y dolor, y su abordaje requiere detección precoz de la depresión, evaluación del riesgo suicida en el primer nivel de atención y fortalecimiento de las redes de apoyo."
 },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2933,11 +2939,6 @@ let questions = [
   }
 
 ];
-
-
-
-
-
 
 
 
