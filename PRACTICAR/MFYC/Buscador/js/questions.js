@@ -5,603 +5,592 @@ let questions = [
 
 {
 "numb": 1,
-"question": "VIÑETA 1<br> Carolina, 29 años, consumo de marihuana ocasional, sin otros antecedentes personales a destacar, trabaja en barrido de calle. Consulta por presentar hace dos meses, a nivel de regiones escapulares y supraescapulares, múltiples lesiones maculares hipopigmentadas, pardas, redondeadas de no más de 5 mm de diámetro, confluentes, bordes definidos, no pruriginosas, con descamación fina. <br> Según la descripción clínica, ¿cuál de las siguientes opciones corresponden a su planteo diagnóstico?",
-"answer": ["B. Pitiriasis versicolor. "],
+"question": "Viñeta 1 <br> Paciente de 68 años, con AP de HTA en tratamiento con Enalapril 10 mg cada 12 horas, dislipemia sin tratamiento farmacológico, sedentario, obeso. <br> En seguimiento con urólogo de forma irregular por Hiperplasia Prostática Benigna (HPB), diagnosticada hace 2 años. <br> Con respecto a la HPB, señale la opción correcta:",
+"answer": ["C. Es una neoplasia benigna de la glándula prostática de causa desconocida."],
 "options": [
-"A. Pitiriasis alba. ",
-"B. Pitiriasis versicolor. ",
-"C. Pitiriasis rosada de Gilbert.",
-"D. Pitiriasis liquenoide.",
+"A. Es una patología poco frecuente en mayores de 60 años.",
+"B. El agrandamiento macroscópico de la glándula es un criterio requerido para el diagnóstico.",
+"C. Es una neoplasia benigna de la glándula prostática de causa desconocida.",
+"D. Más del 80% de los pacientes con HPB desarrollarán síntomas."
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "Dermatología",
-"comment": "La pitiriasis versicolor es una micosis superficial que se presenta como máculas hipo o hiperpigmentadas, redondeadas, confluentes, con descamación fina (signo de la uña/furfurácea), en zonas seborreicas del tronco (región escapular, supraescapular, tórax, cuello) y habitualmente poco o nada pruriginosas. La pitiriasis alba afecta sobre todo la cara de niños atópicos; la pitiriasis rosada de Gilbert tiene una placa heráldica seguida de lesiones en 'árbol de Navidad' y suele ser pruriginosa; la pitiriasis liquenoide cursa con pápulas/placas de curso recurrente, no con este cuadro.",
+"Tema": "RENAL",
+"comment": "La HPB es una proliferación benigna de los elementos epiteliales y estromales de la próstata (zona de transición), cuya causa exacta no se conoce; se asocia al envejecimiento y a la acción de andrógenos (dihidrotestosterona). La opción A es incorrecta: es muy frecuente, su prevalencia histológica aumenta con la edad y es alta en los varones mayores de 60 años. La opción B es incorrecta: el diagnóstico es clínico (síntomas del tracto urinario inferior, tacto rectal, ecografía, PSA) y no exige un agrandamiento macroscópico, ya que los síntomas dependen de la obstrucción y de la dinámica del cuello vesical, no solo del tamaño. La opción D es incorrecta: la mayoría de los hombres tiene HPB histológica, pero solo una parte (alrededor de la mitad) desarrolla síntomas."
 },
 
 {
 "numb": 2,
-"question": "VIÑETA 1<br> Carolina, 29 años, consumo de marihuana ocasional, sin otros antecedentes personales a destacar, trabaja en barrido de calle. Consulta por presentar hace dos meses, a nivel de regiones escapulares y supraescapulares, múltiples lesiones maculares hipopigmentadas, pardas, redondeadas de no más de 5 mm de diámetro, confluentes, bordes definidos, no pruriginosas, con descamación fina. <br> ¿Cuál de los siguientes corresponde al agente etiológico más frecuente de esta afección?",
-"answer": ["A. Malassezia furfur. "],
+"question": "Viñeta 1 <br> Paciente de 68 años, con AP de HTA en tratamiento con Enalapril 10 mg cada 12 horas, dislipemia sin tratamiento farmacológico, sedentario, obeso. <br> En seguimiento con urólogo de forma irregular por Hiperplasia Prostática Benigna (HPB), diagnosticada hace 2 años. <br>Señale la opción correcta acerca de la presentación clínica del paciente con HPB",
+"answer": ["A. Dificultad para iniciar la micción."],
 "options": [
-"A. Malassezia furfur. ",
-"B. Trichophyton rubrum. ",
-"C. Candida albicans. ",
-"D. Microsporum canis.",
+"A. Dificultad para iniciar la micción.",
+"B. Edemas de los miembros inferiores.",
+"C. Hematuria macroscópica.",
+"D. Orinas espumosas."
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "Dermatología",
-"comment": "La pitiriasis versicolor es causada por levaduras lipofílicas del género Malassezia (M. furfur, globosa, sympodialis), que forman parte de la flora normal de la piel y pasan a su forma micelial patógena por calor, humedad, sudoración y seborrea. Trichophyton rubrum y Microsporum canis son dermatofitos (tiñas) y Candida albicans produce candidiasis cutáneo-mucosas.",
+"Tema": "RENAL",
+"comment": "La HPB produce síntomas del tracto urinario inferior de tipo obstructivo: dificultad para iniciar la micción (latencia o \"hesitancy\"), chorro débil o entrecortado, goteo posmiccional, sensación de vaciado incompleto; y de tipo irritativo: polaquiuria, urgencia y nicturia. Los edemas de miembros inferiores (B) y las orinas espumosas (D, sugieren proteinuria) orientan a patología renal o cardíaca, no a HPB. La hematuria macroscópica (C) puede ocurrir en la HPB, pero no es una manifestación típica o frecuente y obliga a descartar otras causas (litiasis, tumor vesical o renal, infección)."
 },
 
 {
 "numb": 3,
-"question": "VIÑETA 1<br> Carolina, 29 años, consumo de marihuana ocasional, sin otros antecedentes personales a destacar, trabaja en barrido de calle. Consulta por presentar hace dos meses, a nivel de regiones escapulares y supraescapulares, múltiples lesiones maculares hipopigmentadas, pardas, redondeadas de no más de 5 mm de diámetro, confluentes, bordes definidos, no pruriginosas, con descamación fina. <br> Teniendo en cuenta el diagnóstico, extensión y agente etiológico, ¿cuál de los siguientes es el tratamiento tópico de elección?",
-"answer": ["C. Ketoconazol al 2% shampoo. "],
+"question": "Viñeta 1 <br> Paciente de 68 años, con AP de HTA en tratamiento con Enalapril 10 mg cada 12 horas, dislipemia sin tratamiento farmacológico, sedentario, obeso. <br> En seguimiento con urólogo de forma irregular por Hiperplasia Prostática Benigna (HPB), diagnosticada hace 2 años. <br>Con respecto al Antigeno Prostático Específico (PSA), señale la opción correcta:",
+"answer": ["D. Los niveles séricos de PSA no se alteran por el Tacto Rectal, pero si pueden alterarse ante un masaje prostático o una prostatitis."],
 "options": [
-"A. Mupirocina al 2% crema. ",
-"B. Permetrina al 5% loción. ",
-"C. Ketoconazol al 2% shampoo. ",
-"D. Clobetasol al 0,05% crema.",
+"A. Es específico de la presencia de cáncer de próstata.",
+"B. Un valor elevado de PSA, por encima de 4 ng/ml confirma el cancer de próstata.",
+"C. La Hiperplasia prostática Benigna no cursa con PSA elevado.",
+"D. Los niveles séricos de PSA no se alteran por el Tacto Rectal, pero si pueden alterarse ante un masaje prostático o una prostatitis."
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "Dermatología",
-"comment": "Al tratarse de una lesión extensa (varias regiones del tronco) por Malassezia, se elige un antifúngico tópico en formato shampoo/loción que permita cubrir grandes superficies: ketoconazol al 2% (aplicar sobre la piel, dejar actuar unos minutos y enjuagar). La mupirocina es un antibiótico (impétigo), la permetrina es un escabicida/pediculicida y el clobetasol es un corticoide de muy alta potencia, que no trata la micosis y puede empeorarla.",
+"Tema": "RENAL",
+"comment": "El PSA es específico del órgano (próstata) pero no del cáncer: se eleva también en la HPB, la prostatitis, la retención urinaria, la manipulación (masaje prostático, sondaje, biopsia) y con la eyaculación reciente. El tacto rectal habitual no modifica de forma clínicamente relevante el PSA, por lo que puede extraerse sin esperar. La opción A es incorrecta (no es específico de cáncer). La opción B es incorrecta: un valor >4 ng/ml no confirma cáncer, solo indica la necesidad de continuar el estudio; el diagnóstico es histológico (biopsia). La opción C es incorrecta: la HPB sí puede elevar el PSA."
 },
 
 {
 "numb": 4,
-"question": "VIÑETA 2<br> Mariana, 33 años, asmática en tratamiento con fluticasona inhalado y salbutamol de rescate. Trabaja de peluquera. Consulta porque hace cinco días presenta a nivel de palmas y dorsos de dedos de ambas manos, lesiones eritematoedematosas, xerosis y descamación, acompañado de prurito moderado. Ya ha tenido en otras ocasiones y mejoran cuando se encuentra de licencia. <br> ¿Cuál es el planteo diagnóstico?",
-"answer": ["D. Dermatitis de contacto."],
+"question": "Viñeta 1 <br> Paciente de 68 años, con AP de HTA en tratamiento con Enalapril 10 mg cada 12 horas, dislipemia sin tratamiento farmacológico, sedentario, obeso. <br> En seguimiento con urólogo de forma irregular por Hiperplasia Prostática Benigna (HPB), diagnosticada hace 2 años. <br>¿Si nuestro paciente desarrollara síntomas obstructivos por su HPB, cual sería el tratamiento más adecuado?",
+"answer": ["B. Iniciar alfabloqueantes, por ejemplo Tamsulosina, advirtiendo de los posibles efectos secundarios."],
 "options": [
-"A. Psoriasis palmo-plantar. ",
-"B. Tiña manuum. ",
-"C. Intertrigo candidiásico. ",
-"D. Dermatitis de contacto.",
+"A. Iniciar con Salvia hispánica (chía) en infusiones por via oral, una vez al día.",
+"B. Iniciar alfabloqueantes, por ejemplo Tamsulosina, advirtiendo de los posibles efectos secundarios.",
+"C. Iniciar Furosemide 20 mg/día, teniendo en cuenta su efecto antihipertensivo.",
+"D. Iniciar Alfametildopa a dosis bajas por 3 meses y revalorar respuesta."
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "Dermatología",
-"comment": "Lesiones eritematoedematosas, xerosis, descamación y prurito en manos, bilaterales, en una peluquera (exposición a tintes, detergentes, agua, productos químicos) y que mejoran con la licencia, orientan a dermatitis de contacto ocupacional (irritativa o alérgica). La mejoría al alejarse del trabajo es el dato clave. La psoriasis palmo-plantar produce placas bien delimitadas con escamas gruesas, la tiña manuum suele ser unilateral y el intertrigo candidiásico afecta pliegues.",
+"Tema": "RENAL",
+"comment": "Los alfabloqueantes (tamsulosina, alfuzosina, doxazosina, terazosina) son el tratamiento de primera línea de los síntomas obstructivos de la HPB: relajan el músculo liso prostático y del cuello vesical, mejoran el flujo y alivian los síntomas en pocos días. Hay que advertir sobre sus efectos adversos: hipotensión ortostática y mareos (importante en un paciente hipertenso que ya recibe antihipertensivos), astenia, eyaculación retrógrada y, en cirugía de cataratas, síndrome del iris flácido. La chía (A) no tiene evidencia. La furosemida (C) es un diurético que puede empeorar la urgencia y la polaquiuria. La alfametildopa (D) es un antihipertensivo de acción central sin indicación en la HPB."
 },
 
 {
 "numb": 5,
-"question": "VIÑETA 2<br> Mariana, 33 años, asmática en tratamiento con fluticasona inhalado y salbutamol de rescate. Trabaja de peluquera. Consulta porque hace cinco días presenta a nivel de palmas y dorsos de dedos de ambas manos, lesiones eritematoedematosas, xerosis y descamación, acompañado de prurito moderado. Ya ha tenido en otras ocasiones y mejoran cuando se encuentra de licencia. <br> Para la afección aguda de la paciente, ¿cuál de los siguientes es el tratamiento farmacológico de preferencia?",
-"answer": ["C. Betametasona al 0.05% crema. "],
+"question": "Viñeta 2 <br> Paciente de 81 años, sexo masculino. HTA de larga data, diagnosticada a los 54 años. Cifras máximas de 160 de PAS, refiere cifras habituales de 120/80 mmHg. Cumple dieta hiposódica y realiza caminatas de 45 minutos 3 veces por semana. Tiene indicado tratamiento farmacológico con Losartán 50 mg cada 12 hs e Hidroclorotiazida 25 mg 1 vez por día. Además utiliza Atorvastatina 10 mg indicada “hace unos años“, no recuerda resultados de perfil lipídico, y Terazosina 5 mg en la noche por síndrome prostático. Es un ex fumador, en abstinencia hace 25 años. No BC ni disnea de esfuerzo, nunca requirió terapia inhalatoria. Concurre a consulta programada, para control y repetición de su medicación habitual. Niega ángor, nunca IAM, no ACV ni claudicación intermitente dolorosa de MMH. Sin DD ni DPN. TU sin alteraciones. <br> Refiere que en los últimos meses ha sentido “mareos”, en ocasiones al levantarse en la noche para ir al baño o al ducharse. Duran “unos minutos” y se le pasa. En ocasiones permanece sentado y mejoran. No ha tenido caídas ni pérdida de conocimiento. <br> Del examen físico se destaca: <br> P 72 kg, T 1,80 mts, IMC 22. PA 110/70 mmHg tomada en ambos brazos. <br> Buen estado general, bien hidratado y perfundido. PNM sin alteraciones. <br> CV: RR de 82 cpm, RBG, sin soplos. Pulsos presentes y sincrónicos con central. PP: buena entrada de aire bilateral, sin estertores. <br> Con respecto a la HTA que presenta el paciente, marque la opción correcta:",
+"answer": ["B. Se trata de una HTA primaria, bien controlada si tenemos en cuenta las cifras de PA."],
 "options": [
-"A. Bacitracina 500 UI por g ungüento dérmico. ",
-"B. Sulfadiazina de plata crema. ",
-"C. Betametasona al 0.05% crema. ",
-"D. Bifonazol al 1% crema.",
+"A. Es una HTA resistente debido a que utiliza 3 fármacos normotensores incluyendo un diurético tiazídico.",
+"B. Se trata de una HTA primaria, bien controlada si tenemos en cuenta las cifras de PA.",
+"C. Está mal controlada dado que sus cifras habituales no coinciden con el objetivo terapéutico.",
+"D. Se puede clasificar como HTA grado 3 dada su cifra máxima de PA."
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "Dermatología",
-"comment": "El tratamiento de la fase aguda de la dermatitis de contacto son los corticoides tópicos (betametasona 0,05% crema), junto con emolientes y la identificación y evitación del agente causal (guantes, medidas de protección). Bacitracina y sulfadiazina de plata son antibacterianos y el bifonazol es un antifúngico, por lo que no tienen indicación en un cuadro inflamatorio no infeccioso.",
+"Tema": "",
+"comment": "Es una HTA primaria (sin causa secundaria evidente, diagnosticada a los 54 años). Sus cifras habituales (120/80) y la de la consulta (110/70) están en objetivo, e incluso por debajo de lo necesario para un adulto de 81 años, en quien la meta suele ser una PAS de aproximadamente 130 a 139 mmHg; por eso está bien controlada (y probablemente sobretratada). La opción A es incorrecta: la HTA resistente exige cifras fuera de objetivo a pesar de 3 fármacos a dosis plenas, incluido un diurético, y la terazosina es un alfabloqueante indicado por el síndrome prostático, no un antihipertensivo de base. La opción C es incorrecta (no está mal controlada). La opción D es incorrecta: una PAS de 160 corresponde a grado 2 (160-179), y el grado 3 es ≥180; además, la clasificación se hace con cifras de diagnóstico, no con un valor máximo aislado."
 },
 
 {
 "numb": 6,
-"question": "VIÑETA 3<br> 48 años, sexo femenino. AP: Obesidad (IMC 32). Diabetes mellitus Tipo 2 diagnosticada hace 10 años, en tratamiento con Metformina 850mg 3 veces por día, última Hb glicosilada 8%. Trae paraclínica solicitada por control: Azoemia 40mg por dl. Creatininemia 1,25 mg por dl, Filtrado glomerular (FG) estimado por fórmula CDK-EPI: 50,8 ml por min por 1,73m2. Uricemia 7. Ex orina Proteinas 0,32g<br> Cuál es el diagnóstico presuntivo más probable?",
-"answer": ["B. Enfermedad glomerular secundaria "],
+"question": "Con respecto a la sintomatología que presenta el paciente (“mareos”) es correcto afirmar que:",
+"answer": ["B. Puede tratarse de episodios de hipotensión ortostática."],
 "options": [
-"A. Enfermedad glomerular primaria ",
-"B. Enfermedad glomerular secundaria ",
-"C. Nefropatía vascular ",
-"D. Nefropatía túbulo intersticial",
+"A. Seguramente no está relacionada con sus cifras de PA.",
+"B. Puede tratarse de episodios de hipotensión ortostática.",
+"C. Su diagnóstico positivo inicial es vértigo periférico benigno.",
+"D. Es una sintomatología inespecífica muy poco frecuente en adultos mayores."
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "RENAL",
-"comment": "Paciente con diabetes de 10 años de evolución, mal control (HbA1c 8%), obesidad, descenso del FG y proteinuria: lo más probable es nefropatía diabética, que es una enfermedad glomerular secundaria (la causa es una enfermedad sistémica). Las glomerulopatías primarias son enfermedades propias del riñón, la nefropatía vascular se asocia a HTA/ateroesclerosis y la túbulo-intersticial suele cursar con proteinuria leve/tubular y antecedentes de fármacos, obstrucción o infecciones.",
+"Tema": "",
+"comment": "Los mareos que aparecen al levantarse de noche o al ducharse (cambio de posición, vasodilatación por calor), duran minutos y mejoran sentado son muy sugestivos de hipotensión ortostática. Los factores que contribuyen en este paciente son: edad avanzada, cifras de PA bajas (110/70), un diurético tiazídico (depleción de volumen), un ARA II y la terazosina, un alfabloqueante que se toma por la noche y es un causante clásico de hipotensión postural. Por eso la opción A es incorrecta (probablemente sí se relaciona con la PA). La opción C es incorrecta: no hay desencadenantes de vértigo posicional, y no se puede afirmar este diagnóstico sin una maniobra positiva (Dix-Hallpike). La opción D es incorrecta: los mareos son un síntoma muy frecuente en los adultos mayores. Se debe confirmar midiendo la PA en decúbito y de pie (caída de PAS ≥20 o PAD ≥10 a los 1 a 3 minutos)."
 },
 
 {
 "numb": 7,
-"question": "VIÑETA 3<br> 48 años, sexo femenino. AP: Obesidad (IMC 32). Diabetes mellitus Tipo 2 diagnosticada hace 10 años, en tratamiento con Metformina 850mg 3 veces por día, última Hb glicosilada 8%. Trae paraclínica solicitada por control: Azoemia 40mg por dl. Creatininemia 1,25 mg por dl, Filtrado glomerular (FG) estimado por fórmula CDK-EPI: 50,8 ml por min por 1,73m2. Uricemia 7. Ex orina Proteinas 0,32g<br> A los 3 meses la paciente trae estudios que usted solicitó para confirmar la Enfermedad Renal Crónica. ¿Cuál de los siguientes la confirmaría?",
-"answer": ["A. Proteinuria por Creatininuria 300mg por g "],
+"question": "En cuanto al tratamiento farmacológico antihipertensivo del paciente, marque la opción correcta:",
+"answer": ["D. Se suspende la hidroclorotiazida dado el riesgo de caída que tiene el paciente y se le solicita un automonitoreo de la PA."],
 "options": [
-"A. Proteinuria por Creatininuria 300mg por g ",
-"B. FG estimado a partir de Creatininemia 65ml por min por 1,73m2 ",
-"C. Albuminuria 20mg por g ",
-"D. Proteinuria 100 mg en 24hs",
+"A. Se mantiene el mismo tratamiento dado que se están cumpliendo los objetivos terapéuticos.",
+"B. Se suspende el tratamiento farmacológico antihipertensivo dado el riesgo que representa actualmente.",
+"C. Se mantienen las mismas dosis pero se las fracciona en 4 tomas diarias (cada 6 hs).",
+"D. Se suspende la hidroclorotiazida dado el riesgo de caída que tiene el paciente y se le solicita un automonitoreo de la PA."
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "RENAL",
-"comment": "La ERC se define por alteraciones de la estructura o función renal presentes por más de 3 meses: FG < 60 ml/min/1,73 m² y/o marcadores de daño renal (albuminuria ≥ 30 mg/g o proteinuria ≥ 150 mg/g, sedimento alterado, alteraciones imagenológicas, etc.). Una proteinuria/creatininuria de 300 mg/g supera el umbral y confirma ERC. Un FG de 65 ml/min sin otro marcador no la confirma (G2 sin daño), albuminuria 20 mg/g y proteinuria 100 mg/24 h son valores normales.",
+"Tema": "",
+"comment": "Con síntomas de hipotensión ortostática, PA de 110/70 y 81 años, el tratamiento está de más: corresponde desprescribir de forma gradual, retirando el fármaco que más contribuye (el diurético tiazídico, que además causa depleción de volumen e hiponatremia) y vigilar con automonitoreo domiciliario de la PA y control posterior. El objetivo es evitar las caídas y sus consecuencias (fracturas), que en el adulto mayor son más graves que un leve exceso de PA. La opción A es incorrecta porque cumplir objetivos no basta cuando hay efectos adversos (sobretratamiento). La opción B es incorrecta: suspender todo de golpe puede provocar un rebote y pérdida de la protección cardiovascular. La opción C es incorrecta: fraccionar en 4 tomas no tiene fundamento y empeora la adherencia. También conviene reevaluar la terazosina, que contribuye a los mareos."
 },
 
 {
 "numb": 8,
-"question": "VIÑETA 3<br> 48 años, sexo femenino. AP: Obesidad (IMC 32). Diabetes mellitus Tipo 2 diagnosticada hace 10 años, en tratamiento con Metformina 850mg 3 veces por día, última Hb glicosilada 8%. Trae paraclínica solicitada por control: Azoemia 40mg por dl. Creatininemia 1,25 mg por dl, Filtrado glomerular (FG) estimado por fórmula CDK-EPI: 50,8 ml por min por 1,73m2. Uricemia 7. Ex orina Proteinas 0,32g<br> Según los datos aportados ¿cuál es la clasificación de la Enfermedad Renal Crónica (ERC) en esta paciente?",
-"answer": ["A. La paciente se clasifica como ERC Etapa G3a A2 "],
+"question": "Teniendo en cuenta el riesgo cardiovascular del paciente, marque la opción correcta:",
+"answer": ["A. Actualmente el mayor beneficio está dado por mantener un buen control de sus cifras de presión arterial."],
 "options": [
-"A. La paciente se clasifica como ERC Etapa G3a A2 ",
-"B. La paciente se clasifica como ERC Etapa G2 A2 ",
-"C. La paciente se clasifica como ERC Etapa G3a A3 ",
-"D. La paciente se clasifica como ERC Etapa G3b A2",
+"A. Actualmente el mayor beneficio está dado por mantener un buen control de sus cifras de presión arterial.",
+"B. Debe suspender todo tipo de actividad física dado el riesgo de presentar un evento CV.",
+"C. Se debería aumentar la dosis de Atorvastatina a 40 mg por día para evitar un nuevo evento cardiovascular.",
+"D. Tengo indicación de iniciar AAS 100 mg por día como medida de prevención primaria."
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "RENAL",
-"comment": "La clasificación KDIGO se basa en el FG (G) y la albuminuria/proteinuria (A). FG 50,8 ml/min/1,73 m² corresponde a G3a (45-59). Proteinuria/creatininuria de 300 mg/g corresponde a A2 (proteinuria 150-500 mg/g; albuminuria 30-300 mg/g). Por lo tanto: G3a A2. G2 es FG 60-89, G3b es 30-44 y A3 es proteinuria > 500 mg/g.",
+"Tema": "",
+"comment": "El paciente no tiene enfermedad cardiovascular establecida (nunca IAM, ACV ni claudicación), es decir que está en prevención primaria. En un adulto mayor, el control de la presión arterial es la medida con mayor beneficio demostrado para reducir ACV, IC y eventos cardiovasculares, siempre cuidando de no sobretratar (ver preguntas previas). La opción B es incorrecta: la actividad física es una medida beneficiosa y debe mantenerse (caminatas), no hay indicación de suspenderla. La opción C es incorrecta: no hay evento previo (\"nuevo evento\") y en prevención primaria a los 81 años no se justifica intensificar la estatina. La opción D es incorrecta: el AAS no está indicado en prevención primaria en el adulto mayor porque el riesgo de sangrado supera al beneficio."
 },
 
 {
 "numb": 9,
-"question": "VIÑETA 3<br> 48 años, sexo femenino. AP: Obesidad (IMC 32). Diabetes mellitus Tipo 2 diagnosticada hace 10 años, en tratamiento con Metformina 850mg 3 veces por día, última Hb glicosilada 8%. Trae paraclínica solicitada por control: Azoemia 40mg por dl. Creatininemia 1,25 mg por dl, Filtrado glomerular (FG) estimado por fórmula CDK-EPI: 50,8 ml por min por 1,73m2. Uricemia 7. Ex orina Proteinas 0,32g<br> ¿Cuál de las siguientes es una medida de nefroprevención adecuada a esta situación clínica?",
-"answer": ["B. Lograr HbA1c menor a 7% "],
+"question": "Viñeta 3 <br> Hombre de 66 años, consulta en el servicio de salud en el que se atiende habitualmente. <br> Refiere malestar general desde hace menos de 3 días. Ayer agrega odinofagia y fiebre de 38,3°ax. Rinorrea mucosa desde el inicio del cuadro. No dificultad para respirar, leve astenia. Vive con un hermano de 70 años autoválido que no presenta síntomas. APP: Historia de intestino irritable de años de evolución en tratamiento con plan de alimentación que en el último periodo refiere mejoría de los síntomas. <br>Examen físico: <br> Temp 38.2°ax. Normocoloreado y bien perfundido, normotenso. Se limpia la nariz durante el examen. <br> BF: congestiva. <br> LG: Adenomegalias móviles pequeñas bilaterales. <br> PP: 14 rpm, MAV presente bilateralmente sin estertores. <br> No hay otros elementos a destacar. <br> Con respecto al diagnóstico:",
+"answer": ["C. Se trata de un Resfrio común."],
 "options": [
-"A. Realizar tratamiento de hiperuricemia ",
-"B. Lograr HbA1c menor a 7% ",
-"C. Eliminar proteínas de la dieta ",
-"D. Suspender Metformina",
+"A. Se trata de una faringitis por la presencia de adenomegalias en cuello.",
+"B. Es Gripe.",
+"C. Se trata de un Resfrio común.",
+"D. Se debe esperar la evolución por si agrega elementos de afectación del aparato respiratorio inferior para el diagnóstico de NAC."
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "RENAL",
-"comment": "En la nefropatía diabética, el control glucémico estricto (HbA1c alrededor de < 7%, individualizado) enlentece la progresión del daño renal. No se recomienda tratar la hiperuricemia asintomática con fines nefroprotectores, ni eliminar las proteínas de la dieta (se recomienda ingesta moderada, aprox. 0,8 g/kg/día, sin restricción extrema por riesgo de desnutrición). La metformina puede mantenerse con FG ≥ 30 ml/min, ajustando dosis cuando el FG baja de 45.",
+"Tema": "",
+"comment": "El cuadro es una infección respiratoria aguda alta de probable etiología viral: rinorrea mucosa desde el inicio, odinofagia, faringe congestiva, malestar leve y astenia leve, sin compromiso de la vía aérea inferior (sin tos con estertores, FR 14, MAV presente). Se trata de un resfriado común. La gripe (B) se caracteriza por inicio brusco con fiebre alta, mialgias, cefalea y astenia marcada, y tos seca, y la rinorrea no suele ser el síntoma dominante. La opción A es incorrecta: las adenomegalias cervicales pequeñas y móviles son reactivas, y no definen una faringitis; además el predominio de rinorrea apunta a un resfriado. La opción D es incorrecta porque la NAC es otra entidad (compromiso del parénquima) y no se diagnostica por \"esperar\" una evolución hipotética."
 },
 
 {
 "numb": 10,
-"question": "VIÑETA 3<br> 48 años, sexo femenino. AP: Obesidad (IMC 32). Diabetes mellitus Tipo 2 diagnosticada hace 10 años, en tratamiento con Metformina 850mg 3 veces por día, última Hb glicosilada 8%. Trae paraclínica solicitada por control: Azoemia 40mg por dl. Creatininemia 1,25 mg por dl, Filtrado glomerular (FG) estimado por fórmula CDK-EPI: 50,8 ml por min por 1,73m2. Uricemia 7. Ex orina Proteinas 0,32g<br> Cuál de los siguientes fármacos antidiabéticos orales puede ser usado en un paciente con Enfermedad Renal Crónica con Filtrado Glomerular menor a 30ml por min?",
-"answer": ["C. Linagliptina "],
+"question": "Con respecto al tratamiento:",
+"answer": ["B. No tiene tratamiento especifico para el agente etiológico."],
 "options": [
-"A. Metformina ",
-"B. Glimepirida ",
-"C. Linagliptina ",
-"D. Gliclazida",
+"A. De continuar con fiebre, se debe prescribir amoxicilina 500 c/8 horas por 5 días y evaluar evolución.",
+"B. No tiene tratamiento especifico para el agente etiológico.",
+"C. Los antihistamínicos pueden ayudar a mejorar los síntomas.",
+"D. Tiene indicación de reposo intradomiciliario por 72 hrs."
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "RENAL",
-"comment": "La linagliptina (inhibidor de DPP-4) se elimina principalmente por vía biliar/fecal, por lo que no requiere ajuste de dosis y puede usarse con FG < 30 ml/min. La metformina está contraindicada con FG < 30 por riesgo de acidosis láctica. Las sulfonilureas (glimepirida, gliclazida) tienen riesgo de hipoglucemia prolongada en la ERC avanzada y su uso se evita o se restringe.",
+"Tema": "",
+"comment": "El resfriado común es una infección viral autolimitada: no existe tratamiento antiviral específico y el manejo es sintomático (hidratación, antitérmicos y analgésicos, lavados nasales). Los antibióticos (A) no están indicados: no acortan el cuadro ni previenen complicaciones, y la fiebre aislada no es indicación. La opción C es incorrecta en este paciente: los antihistamínicos de primera generación tienen efecto anticolinérgico y pueden producir retención urinaria, confusión y somnolencia, por lo que se evitan en un adulto mayor y más aún con HPB; su beneficio en el resfriado es modesto. La opción D es incorrecta: no hay una indicación de reposo absoluto por un número fijo de horas; se recomienda reposo relativo según el malestar."
 },
 
 {
 "numb": 11,
-"question": "VIÑETA 3<br> 48 años, sexo femenino. AP: Obesidad (IMC 32). Diabetes mellitus Tipo 2 diagnosticada hace 10 años, en tratamiento con Metformina 850mg 3 veces por día, última Hb glicosilada 8%. Trae paraclínica solicitada por control: Azoemia 40mg por dl. Creatininemia 1,25 mg por dl, Filtrado glomerular (FG) estimado por fórmula CDK-EPI: 50,8 ml por min por 1,73m2. Uricemia 7. Ex orina Proteinas 0,32g<br> ¿Cuál es la conducta correcta que debe seguir el médico del Primer Nivel de Atención respecto a la interconsulta con el nefrólogo en esta paciente?",
-"answer": ["D. La interconsulta es correcta, ya que todo paciente con proteinuria A2 o mayor debe ser valorado por el nefrólogo y luego seguido en forma conjunta con el médico de PNA."],
+"question": "Con respecto a la evolución:",
+"answer": ["B. La mayoría de este tipo de infecciones son autolimitadas."],
 "options": [
-"A. La interconsulta no es necesaria, ya que la paciente tiene un FGe superior a 45 ml por min ",
-"B. La paciente debe iniciar el tratamiento antiproteinurico inmediatamente, y solo requerirá una interconsulta si presenta una caída rápida del FGe mayor o igual a 5 ml por min por año. ",
-"C. La paciente solo necesita una primera valoración nefrológica si la albuminuria por creatininuria fuera mayor o igual a 500 mg por g ",
-"D. La interconsulta es correcta, ya que todo paciente con proteinuria A2 o mayor debe ser valorado por el nefrólogo y luego seguido en forma conjunta con el médico de PNA.",
+"A. La complicación más frecuente es la faringoamigdalitis",
+"B. La mayoría de este tipo de infecciones son autolimitadas.",
+"C. La complicación más frecuente es la otitis media aguda.",
+"D. La duración promedio del cuadro es de 3 a 5 días."
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "RENAL",
-"comment": "Según las recomendaciones de derivación en ERC, todo paciente con proteinuria categoría A2 o mayor debe tener una valoración nefrológica inicial y luego continuar un seguimiento compartido entre el nefrólogo y el médico del Primer Nivel. Por lo tanto no se espera a un FG < 45, ni a un umbral de 500 mg/g, ni a una caída rápida del FG para interconsultar.",
+"Tema": "",
+"comment": "La gran mayoría de las infecciones respiratorias altas virales se resuelven espontáneamente, sin tratamiento específico. Su duración promedio es de 7 a 10 días (la tos puede persistir más), por lo que la opción D es incorrecta. Las complicaciones son poco frecuentes: sinusitis bacteriana, otitis media (sobre todo en niños) y agravamiento de enfermedades respiratorias crónicas; la faringoamigdalitis (A) no es una complicación sino otra forma de presentación de una infección de vía aérea superior. Por eso la opción segura y verdadera para esta pregunta es la B."
 },
 
 {
 "numb": 12,
-"question": "VIÑETA 4<br>  Paciente sexo masculino 68 años, hace changas. No realiza actividad física. AP HTA de larga data irregular control, tratamiento con losartán 100 mg día, tabaquista 20 cigarrillos día desde la juventud en etapa precontemplativa, dislipémico en tratamiento con 10 mg de atorvastatina. Último perfil lipídico: LDL 126. TG 170. HDL 42<br>  MC: dolor en pantorrillas tipo calambre que mejora con el reposo, mayor a izquierda. Aparece aproximadamente a los 200 metros de marcha de varios meses de evolución. <br>  Al examen: Buen estado general. PA 140 por 85 mmHg, IMC 30<br> MMII: Sin edema de mmii. Pulsos pedio ausente a izquierda, pulso presente fino a derecha. <br> Dada la sospecha de patología vascular periférica ¿cuál es la prueba no invasiva de primera línea recomendada para el diagnóstico de la misma?",
-"answer": ["A. Ecografía Doppler Arterial de extremidades inferiores ", "C. Medición del Índice Tobillo-Brazo. "],
+"question": "Con respecto a la profilaxis:",
+"answer": ["B. Se recomienda estar en espacios abiertos o ventilados, evitar contacto con personas con síntomas respiratorios, lavado de manos frecuente."],
 "options": [
-"A. Ecografía Doppler Arterial de extremidades inferiores ",
-"B. Angiografía por resonancia magnética . ",
-"C. Medición del Índice Tobillo-Brazo. ",
-"D. Ecografía Doppler Venosa de miembros inferiores",
+"A. Es un paciente sin patología respiratoria previa por lo que no tiene indicado recibir vacuna antigripal.",
+"B. Se recomienda estar en espacios abiertos o ventilados, evitar contacto con personas con síntomas respiratorios, lavado de manos frecuente.",
+"C. Para proteger al hermano que no ha desarrollado síntomas, se recomendará el uso de antihistamínicos.",
+"D. Comer alimentos ricos en vitamina C en meses de frío puede evitar la aparición de este tipo de infecciones"
 ],
-"discipline": "Medicina Familiar. Ambigua.",
-"TEMA": "Patología Vascular",
-"comment": "El paciente presenta claudicación intermitente con pulsos disminuidos o ausentes: enfermedad arterial periférica. La prueba no invasiva de primera línea es el índice tobillo-brazo (ITB), simple, barato y realizable en el primer nivel (ITB ≤ 0,90 confirma el diagnóstico). La ecografía Doppler arterial es también una prueba no invasiva de primera línea según las guías y se utiliza para confirmar y definir topografía y severidad, por eso la pregunta es ambigua. La angio-RM es un estudio de segunda línea, previo a revascularización, y la ecografía Doppler venosa evalúa el sistema venoso (no corresponde).",
+"discipline": "Medicina Familiar",
+"Tema": "",
+"comment": "La prevención de las infecciones respiratorias virales se basa en medidas de higiene y de reducción del contagio: lavado de manos, ventilación de los ambientes, evitar el contacto con personas sintomáticas, cubrirse al toser o estornudar y no compartir objetos. La opción A es incorrecta: la vacuna antigripal está indicada en todas las personas de 65 años o más (el paciente tiene 66), aunque no tengan patología previa. La opción C es incorrecta: los antihistamínicos no previenen el contagio. La opción D es incorrecta: la vitamina C no ha demostrado prevenir los resfriados en la población general."
 },
 
 {
 "numb": 13,
-"question": "VIÑETA 4<br>  Paciente sexo masculino 68 años, hace changas. No realiza actividad física. AP HTA de larga data irregular control, tratamiento con losartán 100 mg día, tabaquista 20 cigarrillos día desde la juventud en etapa precontemplativa, dislipémico en tratamiento con 10 mg de atorvastatina. Último perfil lipídico: LDL 126. TG 170. HDL 42<br>  MC: dolor en pantorrillas tipo calambre que mejora con el reposo, mayor a izquierda. Aparece aproximadamente a los 200 metros de marcha de varios meses de evolución. <br>  Al examen: Buen estado general. PA 140 por 85 mmHg, IMC 30<br> MMII: Sin edema de mmii. Pulsos pedio ausente a izquierda, pulso presente fino a derecha. <br> Con respecto al valor de corte objetivo de LDL en este paciente, señale la opción correcta:",
-"answer": ["a. 55 mg por dl "],
+"question": "Viñeta 4 <br> Paciente de sexo masculino, de 72 años, con AP de HTA crónica en tratamiento con dieta hiposódica, tabaquista (IPA 40) en etapa de precontemplación, bronquitis crónica. El paciente está en seguimiento por disnea de esfuerzo. <br> Concurre a control con resultado de espirometría solicitada por su médico de referencia. <br> En referencia a la espirometría de este paciente:",
+"answer": ["D. El paciente presenta una patología obstructiva sin respuesta significativa a los broncodilatadores."],
 "options": [
-"a. 55 mg por dl ",
-"b. 75 mg por dl ",
-"c. 100 mg por dl ",
-"d. 130 mg por dl",
+"A. Muestra un resultado característico para la edad del paciente.",
+"B. Los resultados de este paciente son característicos de una patología restrictiva.",
+"C. Este paciente tiene una enfermedad obstructiva con respuesta a los broncodilatadores como se observa en el asma",
+"D. El paciente presenta una patología obstructiva sin respuesta significativa a los broncodilatadores."
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "Patología Vascular",
-"comment": "La enfermedad arterial periférica sintomática es una enfermedad cardiovascular ateroesclerótica establecida, por lo que el paciente es de riesgo cardiovascular muy alto. En estos pacientes las guías (ESC/EAS) recomiendan un objetivo de LDL < 55 mg/dl y una reducción de al menos 50% respecto al valor basal. Con LDL de 126 mg/dl en tratamiento con atorvastatina 10 mg, hay que intensificar el tratamiento hipolipemiante.",
+"Tema": "",
+"comment": "NOTA: en el material no figuran los valores de la espirometría de esta viñeta, por lo que esta respuesta se basa en el cuadro clínico (verificá contra el resultado). El paciente es un fumador de 40 paquetes-año, con bronquitis crónica y disnea de esfuerzo: el cuadro es el de un EPOC. La espirometría típica del EPOC muestra un patrón obstructivo (cociente VEF1/CVF <70%) que no revierte de forma significativa tras el broncodilatador (aumento del VEF1 menor al 12% y 200 ml). La opción C describe el asma, en la que la obstrucción es reversible. La opción B (patrón restrictivo, con CVF disminuida y cociente normal o aumentado) no se corresponde con el cuadro clínico. La opción A es incorrecta: la espirometría de este paciente es patológica y no se explica solo por la edad."
 },
 
 {
 "numb": 14,
-"question": "VIÑETA 4<br>  Paciente sexo masculino 68 años, hace changas. No realiza actividad física. AP HTA de larga data irregular control, tratamiento con losartán 100 mg día, tabaquista 20 cigarrillos día desde la juventud en etapa precontemplativa, dislipémico en tratamiento con 10 mg de atorvastatina. Último perfil lipídico: LDL 126. TG 170. HDL 42<br>  MC: dolor en pantorrillas tipo calambre que mejora con el reposo, mayor a izquierda. Aparece aproximadamente a los 200 metros de marcha de varios meses de evolución. <br>  Al examen: Buen estado general. PA 140 por 85 mmHg, IMC 30<br> MMII: Sin edema de mmii. Pulsos pedio ausente a izquierda, pulso presente fino a derecha. <br> El paciente presenta una PA de 140 por 85 mmHg, ¿cuál es el objetivo de la presión arterial sistólica (PAS) recomendado?",
-"answer": ["c. PAS de alrededor de 120-129 mmHg. "],
+"question": "Con respecto al diagnóstico clínico en este paciente:",
+"answer": ["B. El planteo diagnóstico en este paciente es EPOC estadío II (moderada)"],
 "options": [
-"a. PAS menor a 140 mmHg y PAD menor a 90 mmHg ",
-"b. PAS menor a 150 mmHg y PAD menor a 80 mmHg. ",
-"c. PAS de alrededor de 120-129 mmHg. ",
-"d. PAS tan baja como sea razonable (principio ALARA).",
+"A. Se plantea un enfisema pulmonar.",
+"B. El planteo diagnóstico en este paciente es EPOC estadío II (moderada)",
+"C. La radiografía de tórax no tiene implicancia diagnóstica en este paciente",
+"D. La oximetría de pulso es necesaria para definir el diagnóstico, dada la edad del paciente"
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "Patología Vascular",
-"comment": "En pacientes con HTA y enfermedad cardiovascular establecida (incluida la enfermedad arterial periférica), las guías actuales (ESC 2024) recomiendan como objetivo una PAS de 120-129 mmHg si el tratamiento es bien tolerado, evitando valores < 120 mmHg. Los objetivos de < 140/90 o < 150 corresponden a recomendaciones previas o a poblaciones más frágiles. No se aplica el principio ALARA en este contexto.",
+"Tema": "",
+"comment": "NOTA: depende del resultado de la espirometría de la viñeta, que no figura en el material; confirmá que el VEF1 post-broncodilatador esté entre 50% y 79% del valor teórico. El diagnóstico clínico es EPOC (fumador, bronquitis crónica, disnea de esfuerzo, obstrucción no reversible), y se clasifica por el VEF1 en: leve (≥80%), moderado o estadío II (50-79%), grave (30-49%) y muy grave (<30%). La opción A es incorrecta: enfisema es un diagnóstico anatomopatológico/imagenológico (destrucción alveolar), y la clínica de este paciente corresponde a bronquitis crónica, y el término diagnóstico es EPOC. La opción D es incorrecta: la oximetría no define el diagnóstico (lo hace la espirometría), aunque se usa para valorar gravedad e hipoxemia. La opción C es incorrecta: la radiografía de tórax no confirma EPOC pero sí tiene implicancia diagnóstica, ya que permite descartar otras patologías (neoplasia, neumonía, insuficiencia cardíaca) y evaluar complicaciones."
 },
 
 {
 "numb": 15,
-"question": "VIÑETA 4<br>  Paciente sexo masculino 68 años, hace changas. No realiza actividad física. AP HTA de larga data irregular control, tratamiento con losartán 100 mg día, tabaquista 20 cigarrillos día desde la juventud en etapa precontemplativa, dislipémico en tratamiento con 10 mg de atorvastatina. Último perfil lipídico: LDL 126. TG 170. HDL 42<br>  MC: dolor en pantorrillas tipo calambre que mejora con el reposo, mayor a izquierda. Aparece aproximadamente a los 200 metros de marcha de varios meses de evolución. <br>  Al examen: Buen estado general. PA 140 por 85 mmHg, IMC 30<br> MMII: Sin edema de mmii. Pulsos pedio ausente a izquierda, pulso presente fino a derecha. <br> Qué recomendación haría con respecto a la actividad física:",
-"answer": ["b. Caminar hasta el umbral del dolor "],
+"question": "En relación a la valoración de este paciente en las etapas iniciales del diagnóstico:",
+"answer": ["C. El valor de FEV1 tiene una buena correlación con la morbimortalidad y la calidad de vida"],
 "options": [
-"a. Evitar caminatas ",
-"b. Caminar hasta el umbral del dolor ",
-"c. Caminata 500 mts por día ",
-"d. Caminar 50 mts más allá del umbral del dolor",
+"A. La espirometría permite caracterizar el tipo de lesión, evaluar respuesta al tratamiento, pero no el pronóstico de la enfermedad.",
+"B. El ECG no estaría indicado ya que no presenta síntomas cardiovasculares",
+"C. El valor de FEV1 tiene una buena correlación con la morbimortalidad y la calidad de vida",
+"D. Debe valorarse realizar una gasometría en las etapas iniciales diagnósticas en este paciente dado su edad"
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "Patología Vascular",
-"comment": "El ejercicio supervisado o estructurado es la base del tratamiento de la claudicación intermitente, ya que mejora la distancia de marcha. La recomendación es caminar hasta que aparece el dolor (umbral de claudicación), detenerse hasta que ceda y volver a caminar, repitiendo el ciclo, en sesiones regulares (idealmente al menos 30-45 min, 3 veces por semana). No se debe evitar la marcha (a) ni fijar metas arbitrarias de distancia (c, d).",
+"Tema": "",
+"comment": "El VEF1 es el parámetro espirométrico que mejor se correlaciona con la gravedad, la calidad de vida, las exacerbaciones y la mortalidad en el EPOC; por eso es la base de la clasificación y del pronóstico. La opción A es incorrecta: la espirometría sí aporta información pronóstica (a través del VEF1). La opción B es incorrecta: en la valoración inicial de un EPOC, sobre todo en un hipertenso fumador de 72 años con disnea, el ECG es útil para descartar cardiopatía asociada (y la disnea puede ser de origen cardíaco). La opción D es incorrecta: la gasometría arterial no se solicita de rutina al inicio; se reserva para VEF1 muy bajo (<35-40%), saturación <92%, signos de insuficiencia respiratoria o cor pulmonale, o en las exacerbaciones."
 },
 
 {
 "numb": 16,
-"question": "VIÑETA 4<br>  Paciente sexo masculino 68 años, hace changas. No realiza actividad física. AP HTA de larga data irregular control, tratamiento con losartán 100 mg día, tabaquista 20 cigarrillos día desde la juventud en etapa precontemplativa, dislipémico en tratamiento con 10 mg de atorvastatina. Último perfil lipídico: LDL 126. TG 170. HDL 42<br>  MC: dolor en pantorrillas tipo calambre que mejora con el reposo, mayor a izquierda. Aparece aproximadamente a los 200 metros de marcha de varios meses de evolución. <br>  Al examen: Buen estado general. PA 140 por 85 mmHg, IMC 30<br> MMII: Sin edema de mmii. Pulsos pedio ausente a izquierda, pulso presente fino a derecha. <br> Con respecto a la antiagregación plaquetaria que consideraciones haría en esta paciente:",
-"answer": ["a. Ácido acetil salicílico 100 mg por d "],
+"question": "Con respecto al abordaje terapéutico en este paciente: ANULADA",
+"answer": [],
 "options": [
-"a. Ácido acetil salicílico 100 mg por d ",
-"b. No tiene indicación ",
-"c. Clopidogrel 150 mg por d ",
-"d. Ácido acetil salicílico 325 mg por d",
+"A. El abandono tabáquico no ha demostrado aumentar la expectativa de vida en pacientes añosos.",
+"B. Tanto los broncodilatadores adrenérgicos de acción corta y anticolinérgicos se deben utilizar de igual forma en todos los pacientes.",
+"C. En este paciente se recomienda el tratamiento con glucocorticoides inhalados.",
+"D. El tiotropio no mejora la calidad de vida y la sensación de disnea."
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "Patología Vascular",
-"comment": "La enfermedad arterial periférica sintomática tiene indicación de antiagregación como prevención secundaria. La opción de primera línea es el ácido acetilsalicílico en dosis bajas (75-100 mg/día); el clopidogrel (75 mg/día, no 150) es una alternativa en caso de intolerancia o contraindicación a la aspirina. No hay beneficio adicional con dosis mayores de aspirina (325 mg) y sí más riesgo de sangrado.",
+"Tema": "",
+"comment": "Pregunta ANULADA en el parcial: ninguna opción es claramente correcta. La opción A es falsa: dejar de fumar es la única intervención que enlentece el descenso del VEF1 y mejora la supervivencia, también en adultos mayores. La opción B es falsa: los broncodilatadores se individualizan según los síntomas, la gravedad y la tolerancia. La opción D es falsa: el tiotropio (LAMA) mejora la disnea, la calidad de vida, la función pulmonar y reduce las exacerbaciones. La opción C es discutible: los corticoides inhalados no son de elección en un EPOC moderado sin exacerbaciones frecuentes; se asocian a LABA/LAMA en pacientes con exacerbaciones repetidas o eosinofilia, y por eso la pregunta fue anulada."
 },
 
 {
 "numb": 17,
-"question": "VIÑETA 5<br> Paciente mujer de 35 años, secretaria, que acude a la consulta de PNA. Sin AP a destacar. Refiere un cuadro de 48 horas de evolución caracterizado por dolor y tumefacción en el párpado superior derecho (OD). Refiere sensibilidad al tacto en la zona afectada. Niega lagrimeo excesivo o secreciones que aglutinen las pestañas. Niega disminución de la agudeza visual, fotofobia intensa o dolor ocular profundo. Manifiesta: “Me salió un bulto muy doloroso en el ojo“<br> Examen Físico Ocular (OD): Inspección Palpebral: Se observa una tumefacción roja, bien delimitada y circunscrita, localizada en el borde libre del párpado superior derecho. La lesión es sensible a la palpación. Conjuntiva y Córnea: Sin hiperemia significativa ni alteraciones en la transparencia corneal. Basándose en la presentación clínica, el diagnóstico más probable en este caso es que se trata de un orzuelo. <br> Cuál es la estructura anatómica principalmente afectada en este cuadro?",
-"answer": ["B. Glándula de Zeiss o de Moll "],
+"question": "Viñeta 5 <br> Juan 65 años, vive con esposa e hijos. AP de cardiopatía isquémica, revascularizado hace 6 años, HTA crónica con mal control. Consulta posterior a alta cardiológica hace 7 días, IAM sin elevación de ST, se realiza cateterismo con colocación de 2 stents liberadores de fármacos. Fumador intenso desde los 15 años, hasta este episodio fumaba entre 30 a 40 cigarros al día. Bronquitis crónica, refiere disnea de esfuerzo CF II-III. <br> Posterior al ingreso hospitalario refiere no querer retomar consumo de tabaco. Mantiene abstinencia, refiere síntomas de ansiedad principalmente en la mañana y tardecita. Extraña el primer cigarro de la mañana que fumaba junto a su esposa en el cuarto, antes de levantarse y luego de comer. <br> Con respecto al modelo de etapas de cambio de Prochaska y Diclemente y las consecuencias en el abordaje:",
+"answer": ["D. Juan se encuentra en etapa de acción, el objetivo de este momento del proceso es evitar las recaídas."],
 "options": [
-"A. Glándula de Meibomio ",
-"B. Glándula de Zeiss o de Moll ",
-"C. Conjuntiva tarsal ",
-"D. Conducto nasolagrimal",
+"A. Juan se encuentra en etapa de preparación, en esta consulta no abordará el riesgo de recaídas para no condicionar al paciente.",
+"B. Juan se encuentra en etapa de mantenimiento, tiene bajo riesgo de recaídas ya que refiere no querer retomar consumo.",
+"C. Juan se encuentra en etapa de mantenimiento, en esta consulta no realizará un abordaje ya que logró el objetivo de la cesación.",
+"D. Juan se encuentra en etapa de acción, el objetivo de este momento del proceso es evitar las recaídas."
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "Patologías oftalmológicas",
-"comment": "El orzuelo es una infección aguda (habitualmente estafilocócica) de las glándulas del párpado. El orzuelo externo se ubica en el borde libre palpebral y compromete las glándulas de Zeiss (sebáceas) o de Moll (sudoríparas), como en este caso. El orzuelo interno compromete las glándulas de Meibomio (tarsales) y se manifiesta en la cara conjuntival. Si la glándula de Meibomio se obstruye de forma crónica, no dolorosa, se forma un chalazión. El conducto nasolagrimal se compromete en la dacriocistitis.",
+"Tema": "",
+"comment": "Juan dejó de fumar hace 7 días y mantiene la abstinencia: ya hizo el cambio de conducta, por lo que se encuentra en la etapa de acción (los primeros meses de abstinencia). El mantenimiento se considera luego de aproximadamente 6 meses sin consumo. En esta etapa el riesgo de recaída es máximo (síntomas de abstinencia, ansiedad, estímulos asociados como el primer cigarrillo de la mañana y después de comer), por lo que el abordaje apunta a prevenir la recaída: anticipar situaciones de riesgo, estrategias de afrontamiento, apoyo y valorar tratamiento farmacológico. Las opciones A y B/C son incorrectas por la etapa, y evitar el tema de las recaídas (A) o no abordar nada (C) es inadecuado."
 },
 
 {
 "numb": 18,
-"question": "VIÑETA 5<br> Paciente mujer de 35 años, secretaria, que acude a la consulta de PNA. Sin AP a destacar. Refiere un cuadro de 48 horas de evolución caracterizado por dolor y tumefacción en el párpado superior derecho (OD). Refiere sensibilidad al tacto en la zona afectada. Niega lagrimeo excesivo o secreciones que aglutinen las pestañas. Niega disminución de la agudeza visual, fotofobia intensa o dolor ocular profundo. Manifiesta: “Me salió un bulto muy doloroso en el ojo“<br> Examen Físico Ocular (OD): Inspección Palpebral: Se observa una tumefacción roja, bien delimitada y circunscrita, localizada en el borde libre del párpado superior derecho. La lesión es sensible a la palpación. Conjuntiva y Córnea: Sin hiperemia significativa ni alteraciones en la transparencia corneal. Basándose en la presentación clínica, el diagnóstico más probable en este caso es que se trata de un orzuelo. <br> ¿Cuál sería el manejo inicial más apropiado para esta paciente en el Primer Nivel de Atención?",
-"answer": ["C. Compresas de agua tibia y antibiótico tópico (colirios o ungüentos). "],
+"question": "Con respecto al tipo de dependencia en el consumo de tabaco de este paciente:",
+"answer": ["A. El deseo de fumar con el mate de la mañana y después de las comidas orienta a una dependencia psicológica."],
 "options": [
-"A. Incisión y curetaje de la lesión. ",
-"B. Colirio de corticosteroides para reducir la inflamación. ",
-"C. Compresas de agua tibia y antibiótico tópico (colirios o ungüentos). ",
-"D. Interconsulta con Oftalmología para evaluar compromiso de la agudeza visual.",
+"A. El deseo de fumar con el mate de la mañana y después de las comidas orienta a una dependencia psicológica.",
+"B. El paciente presenta una alta dependencia psicológica, y baja dependencia física.",
+"C. El paciente presenta una baja dependencia psicológica y alta dependencia física.",
+"D. Preguntar la hora del día en la que el paciente fumaba el 1er cigarrillo no aportaría información útil en este momento."
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "Patologías oftalmológicas",
-"comment": "Es un orzuelo sin signos de alarma (sin disminución de la agudeza visual, sin compromiso corneal ni celulitis). El manejo inicial es conservador en el primer nivel: compresas tibias varias veces al día para favorecer el drenaje espontáneo, higiene palpebral y antibiótico tópico. La incisión y el curetaje se reservan para lesiones que no drenan ni resuelven (especialmente chalazión persistente) y los corticoides tópicos no están indicados. La derivación se plantea ante signos de alarma, no de entrada.",
+"Tema": "",
+"comment": "El deseo de fumar ligado a rituales y situaciones concretas (el primer cigarrillo de la mañana con su esposa, después de comer) es una expresión de dependencia psicológica y conductual, condicionada por el hábito y el contexto. (La opción menciona el \"mate\", que no aparece en esta viñeta y parece un resto de otra versión de la pregunta, pero el concepto es el mismo.) Las opciones B y C son incorrectas: con un consumo de 30 a 40 cigarrillos por día desde los 15 años y fumando el primero antes de levantarse, la dependencia física también es alta; no se puede decir que sea baja. La opción D es incorrecta: el tiempo hasta el primer cigarrillo de la mañana es uno de los ítems más sensibles del test de Fagerström para medir dependencia física, y sigue siendo útil para orientar el tratamiento."
 },
 
 {
 "numb": 19,
-"question": "VIÑETA 6<br> Paciente mujer de 45 años, con antecedentes de enfermedad autoinmune no especificada. Acude a la consulta refiriendo un cuadro de 24 horas de evolución en el ojo derecho (OD). Describe un dolor ocular de intensidad 8 por 10, con sensación de cuerpo extraño. Refiere que la visión está notablemente borrosa, que no mejora al parpadear. Niega secreciones, aunque presenta lagrimeo y sensibilidad a la luz. <br> Examen Físico Ocular (OD): Agudeza Visual (AV): AVSC OD 4 por 10. AVSC OI 10 por 10. Inspección: Conjuntiva y Esclera: Se observa hiperemia concentrada principalmente alrededor de la córnea (limbo esclerocorneal), la cual es de color violáceo Pupila: Reflejo fotomotor directo algo enlentecido. <br> Basándose en los signos de alarma presentes en este caso, ¿qué dos hallazgos clínicos obligan a sospechar una patología ocular grave?",
-"answer": ["C. Dolor ocular y disminución de la agudeza visual (AV). "],
+"question": "Con respecto al tratamiento farmacológico de este usuario:",
+"answer": ["C. Se debe valorar la posibilidad de tratamiento farmacológico con Bupropién por ejemplo, a fin de mejorar la tasa de abstinencia al año."],
 "options": [
-"A. Lagrimeo y fotofobia leve. ",
-"B. Antecedente de enfermedad autoinmune y edad. ",
-"C. Dolor ocular y disminución de la agudeza visual (AV). ",
-"D. Hiperemia conjuntival máxima en el fondo de saco y secreciones.",
+"A. Iniciará en esta consulta terapia de sustitución nicotínica para disminuir los síntomas de abstinencia.",
+"B. Recomienda iniciar tratamiento con diazepam buscando evitar recaídas en el tabaquismo.",
+"C. Se debe valorar la posibilidad de tratamiento farmacológico con Bupropién por ejemplo, a fin de mejorar la tasa de abstinencia al año.",
+"D. No tiene indicación de tratamiento farmacológico ya que no hay evidencia que el tratamiento farmacológico mejore la tasa de cesación."
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "Patologías oftalmológicas",
-"comment": "En el ojo rojo, los signos de alarma que obligan a pensar en patología grave (uveítis, queratitis, glaucoma agudo, escleritis) son el dolor ocular intenso y la disminución de la agudeza visual (también fotofobia intensa, alteraciones pupilares y compromiso corneal). En la conjuntivitis la AV se mantiene normal, hay hiperemia más marcada en los fondos de saco y secreción, y el dolor es leve o sólo molestia/ardor.",
+"Tema": "",
+"comment": "El tratamiento farmacológico (bupropión, vareniclina, terapia de reemplazo nicotínico) aumenta la tasa de abstinencia a un año en comparación con el placebo, por lo que debe valorarse en este paciente, con alta dependencia y síntomas de abstinencia. Se elige en este caso el bupropión (o la vareniclina) porque el paciente cursa un IAM reciente (7 días): los parches de nicotina se evitan o se usan con precaución en las primeras semanas tras un evento coronario agudo, por lo que la opción A no es la más adecuada. La opción B es incorrecta: las benzodiazepinas no previenen la recaída tabáquica. La opción D es incorrecta: hay evidencia sólida de que el tratamiento farmacológico mejora la cesación."
 },
 
 {
 "numb": 20,
-"question": "VIÑETA 6<br> Paciente mujer de 45 años, con antecedentes de enfermedad autoinmune no especificada. Acude a la consulta refiriendo un cuadro de 24 horas de evolución en el ojo derecho (OD). Describe un dolor ocular de intensidad 8 por 10, con sensación de cuerpo extraño. Refiere que la visión está notablemente borrosa, que no mejora al parpadear. Niega secreciones, aunque presenta lagrimeo y sensibilidad a la luz. <br> Examen Físico Ocular (OD): Agudeza Visual (AV): AVSC OD 4 por 10. AVSC OI 10 por 10. Inspección: Conjuntiva y Esclera: Se observa hiperemia concentrada principalmente alrededor de la córnea (limbo esclerocorneal), la cual es de color violáceo Pupila: Reflejo fotomotor directo algo enlentecido. <br> ¿Cuál de las siguientes patologías -frecuente causa de ojo rojo doloroso con disminución de AV- se asocia a la presentación clínica de esta paciente?",
-"answer": ["D. Iridociclitis o Uveítis Anterior."],
+"question": "¿Cuál de estas afirmaciones es verdadera sobre las enfermedades tabaco dependientes en este paciente?",
+"answer": ["C. La disnea de esfuerzo y su bronquitis crónica son elementos de sospecha de EPOC."],
 "options": [
-"A. Conjuntivitis (viral o bacteriana). ",
-"B. Queratitis herpética ",
-"C. Hemorragia subconjuntival. ",
-"D. Iridociclitis o Uveítis Anterior.",
+"A. Presenta Enfermedad Pulmonar Obstructiva Crónica (EPOC) y Cardiopatía isquémica.",
+"B. Es portador insuficiencia cardíaca y cardiopatía isquémica.",
+"C. La disnea de esfuerzo y su bronquitis crónica son elementos de sospecha de EPOC.",
+"D. En este paciente la EPOC es la principal enfermedad tabaco dependiente que identificada."
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "Patologías oftalmológicas",
-"comment": "Ojo rojo doloroso con fotofobia, lagrimeo, disminución de la AV, hiperemia periquerática (inyección ciliar, color violáceo alrededor del limbo) y pupila con reflejo enlentecido, en una paciente con enfermedad autoinmune (asociación frecuente), sugiere uveítis anterior (iridociclitis). La conjuntivitis no disminuye la AV, la hemorragia subconjuntival es indolora y la queratitis herpética se acompaña de lesión corneal (úlcera dendrítica), sin que se describa aquí.",
+"Tema": "",
+"comment": "Juan tiene cardiopatía isquémica confirmada (IAM, stents, revascularización previa) y, por su tabaquismo intenso, bronquitis crónica y disnea de esfuerzo, existe sospecha de EPOC, que debe confirmarse con espirometría (VEF1/CVF <70% post broncodilatador). Por eso la opción A es incorrecta (afirma EPOC sin confirmación) y la D también (la enfermedad tabaco-dependiente principal ya identificada es la cardiopatía isquémica, no la EPOC, aún no confirmada). La opción B es incorrecta: no hay datos que indiquen insuficiencia cardíaca."
 },
 
 {
 "numb": 21,
-"question": "VIÑETA 6<br> Paciente mujer de 45 años, con antecedentes de enfermedad autoinmune no especificada. Acude a la consulta refiriendo un cuadro de 24 horas de evolución en el ojo derecho (OD). Describe un dolor ocular de intensidad 8 por 10, con sensación de cuerpo extraño. Refiere que la visión está notablemente borrosa, que no mejora al parpadear. Niega secreciones, aunque presenta lagrimeo y sensibilidad a la luz. <br> Examen Físico Ocular (OD): Agudeza Visual (AV): AVSC OD 4 por 10. AVSC OI 10 por 10. Inspección: Conjuntiva y Esclera: Se observa hiperemia concentrada principalmente alrededor de la córnea (limbo esclerocorneal), la cual es de color violáceo Pupila: Reflejo fotomotor directo algo enlentecido. <br> Considerando el registro de la Agudeza Visual (AVSC OD 4 por 10), ¿cuál es la conducta inmediata más adecuada para esta paciente desde el PNA?",
-"answer": ["D. Derivación inmediata a consulta con oftalmólogo"],
+"question": "Viñeta 6 <br> Sofía, 58 años de edad, ingeniera informática, vive sola. Concurre a un control para el carné de salud. Está asintomática. De sus antecedentes se destaca, tabaquismo (IPA 12), sedentarismo y el AF de que su padre sufrió un primer IAM a los 50 años de edad. Del examen físico, IMC 29, PA 135/85 mmHg, perímetro abdominal 101 cm. Viene con paraclinica en la que se observa: glicemia 108 mg/dl, colesterol total 250, cLDL 160, TGL 200. Orina, creatininemia y VDRL sin alteraciones. <br> Ud. decide calcular el riesgo cardiovascular global (RCVG) de Sofía. ¿Cuál de las siguientes afirmaciones es correcta?",
+"answer": ["A. El RCVG estima la probabilidad de que ella sufra un evento cardiovascular mayor en un período de tiempo dado."],
 "options": [
-"A. Indicar compresas tibias y ungüento antibiótico tópico. ",
-"B. Citar para control en 48 horas y reevaluar la AV. ",
-"C. Administrar colirios vasoconstrictores para mejorar el aspecto del ojo. ",
-"D. Derivación inmediata a consulta con oftalmólogo",
+"A. El RCVG estima la probabilidad de que ella sufra un evento cardiovascular mayor en un período de tiempo dado.",
+"B. El RCVG predice la expectativa de vida del paciente en base a sus factores de riesgo cardiovascular.",
+"C. El RCVG es calculable a través de aplicaciones con base de datos de población Uruguaya.",
+"D. El RCVG en esta paciente es alto debido a su obesidad."
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "Patologías oftalmológicas",
-"comment": "Ojo rojo doloroso con disminución de la AV es una urgencia oftalmológica por riesgo de pérdida visual permanente (sinequias, glaucoma secundario, catarata). El primer nivel debe derivar de forma inmediata al oftalmólogo, sin demorar ni iniciar tratamientos empíricos. Los vasoconstrictores y los antibióticos tópicos no corresponden y enmascaran el cuadro, y diferir el control 48 h es inadecuado.",
+"Tema": "",
+"comment": "El riesgo cardiovascular global es la probabilidad de presentar un evento cardiovascular (IAM, ACV, muerte cardiovascular) en un período determinado, habitualmente 10 años, en función de la combinación de varios factores de riesgo (edad, sexo, tabaquismo, presión arterial, colesterol, diabetes). La opción B es incorrecta: no predice la expectativa de vida. La opción C es incorrecta: en Uruguay se usan las tablas de la OMS/ISH para la región de las Américas, que no se construyeron con una base de datos de población uruguaya. La opción D es incorrecta: el riesgo global no depende de un único factor; la obesidad influye de forma indirecta (PA, lípidos, glicemia), pero no determina por sí sola que el riesgo sea alto."
 },
 
 {
 "numb": 22,
-"question": "VIÑETA 7 <br> Mariana, 35 años, sana, consulta en policlínica del Primer Nivel de Atención (PNA) por una historia de ocho meses de episodios recurrentes e inesperados de miedo intenso y malestar. Los episodios se caracterizan por alcanzar su máxima intensidad en pocos minutos y se acompañan de palpitaciones, taquicardia, dolor torácico, mareos y sensación subjetiva de asfixia o ahogo. <br> Desarrolló una preocupación persistente acerca de la reiteración de las crisis. En consecuencia, ha modificado su comportamiento evitando el transporte público y las situaciones que implican esfuerzo físico, lo que le ha generado serias dificultades para continuar su funcionamiento en los ámbitos laboral y social. Niega consumo problemático de alcohol u otras sustancias. <br> De acuerdo con la clasificación diagnóstica del DSM V, la manifestación clínica principal descrita es indicativa de:",
-"answer": ["B. Trastorno de Pánico "],
+"question": "En esta consulta, ¿Cuál debe ser su principal intervención para reducir el riesgo cardiovascular de Sofía?",
+"answer": ["C. Realizar un consejo breve para la cesación del tabaquismo."],
 "options": [
-"A. Fobia Específica ",
-"B. Trastorno de Pánico ",
-"C. Agorafobia ",
-"D. Trastorno de Ansiedad Generalizada (TAG)",
+"A. Indicar Ácido Acetil Salicílico 75 mg por día.",
+"B. Indicar atorvastatina 40 mg por día.",
+"C. Realizar un consejo breve para la cesación del tabaquismo.",
+"D. Realizar una interconsulta con nutricionista."
 ],
-"discipline": "Salud Mental",
-"TEMA": "Ansiedad",
-"comment": "El DSM-5 define el trastorno de pánico por crisis de pánico inesperadas y recurrentes (miedo intenso con pico en minutos y síntomas como palpitaciones, disnea, dolor torácico, mareo), seguidas de al menos un mes de preocupación persistente por nuevas crisis y/o cambios de conducta desadaptativos (evitación). Es la manifestación principal aquí. Las conductas de evitación pueden sugerir agorafobia, pero ésta es secundaria. La fobia específica se desencadena por un estímulo concreto y el TAG cursa con preocupación excesiva y crónica sobre múltiples temas, sin crisis paroxísticas.",
+"discipline": "Medicina Familiar",
+"Tema": "",
+"comment": "En una paciente asintomática y en prevención primaria, la intervención con mayor impacto y que debe hacerse en toda consulta es el abordaje del tabaquismo con un consejo breve (preguntar, aconsejar, evaluar disposición, ayudar y acordar seguimiento), ya que es el factor de riesgo modificable más importante y la medida más costo-efectiva. La opción A es incorrecta: el AAS no está indicado en prevención primaria. La opción B es incorrecta: no está indicada la estatina como primera medida; se define según el RCVG calculado y primero se hacen medidas higiénico-dietéticas. La opción D es incorrecta: la interconsulta con nutrición puede ser complementaria, pero no es la principal medida."
 },
 
 {
 "numb": 23,
-"question": "VIÑETA 7 <br> Mariana, 35 años, sana, consulta en policlínica del Primer Nivel de Atención (PNA) por una historia de ocho meses de episodios recurrentes e inesperados de miedo intenso y malestar. Los episodios se caracterizan por alcanzar su máxima intensidad en pocos minutos y se acompañan de palpitaciones, taquicardia, dolor torácico, mareos y sensación subjetiva de asfixia o ahogo. <br> Desarrolló una preocupación persistente acerca de la reiteración de las crisis. En consecuencia, ha modificado su comportamiento evitando el transporte público y las situaciones que implican esfuerzo físico, lo que le ha generado serias dificultades para continuar su funcionamiento en los ámbitos laboral y social. Niega consumo problemático de alcohol u otras sustancias. <br> Considerando el cuadro clínico, ¿cómo se clasificaría la gravedad del mismo en esta paciente?",
-"answer": ["C. Grave "],
+"question": "Luego de la consulta previa, que fue hace un mes, Sofía decidió comenzar a realizar caminatas diarias. En los últimos siete días, nota que al subir un repecho tiene una sensación molesta, opresiva, retroesternal, que aparece siempre con ese esfuerzo y cede completamente luego de 10 minutos de descansar; nunca tuvo sintomas en reposo; tampoco disnea, palpitaciones ni síncope. Hoy concurre a una consulta espontánea por este motivo, se encuentra asintomática y el EF no tiene cambios respecto al previo. <br> ¿Cuál es su planteo diagnóstico clínico en esta consulta?",
+"answer": ["A. Síndrome coronario crónico a forma de un angor estable."],
 "options": [
-"A. Leve ",
-"B. Moderada ",
-"C. Grave ",
-"D. No se puede determinar la gravedad sin la herramienta SAFE-T",
+"A. Síndrome coronario crónico a forma de un angor estable.",
+"B. Sindrome coronario agudo a forma de una angina inestable.",
+"C. Infarto agudo de miocardio.",
+"D. Vasoespasmo coronario."
 ],
-"discipline": "Salud Mental",
-"TEMA": "Ansiedad",
-"comment": "La gravedad de los trastornos de ansiedad se establece por la intensidad de los síntomas, la frecuencia de las crisis y, sobre todo, el grado de deterioro funcional. En este caso hay 8 meses de evolución, evitación de situaciones cotidianas (transporte público, esfuerzo físico) y serias dificultades laborales y sociales, lo que indica un cuadro grave. La herramienta SAFE-T es para evaluar riesgo suicida, no para determinar la gravedad del trastorno de pánico.",
+"discipline": "Medicina Familiar",
+"Tema": "",
+"comment": "Se trata de un dolor torácico opresivo retroesternal que aparece siempre con el esfuerzo (subir un repecho), es predecible y reproducible, y cede con el reposo en unos minutos: es una angina típica de esfuerzo estable, es decir, un síndrome coronario crónico. Además, la paciente tiene varios factores de riesgo (tabaquismo, sedentarismo, obesidad, dislipemia, antecedente familiar de cardiopatía isquémica precoz). El síndrome coronario agudo / angina inestable (B) requiere dolor en reposo, de duración prolongada, con aumento de frecuencia, intensidad o disminución del umbral, y no los tiene. El IAM (C) implica dolor prolongado en reposo, y la vasoespasmática (D) suele darse en reposo, de predominio nocturno o matutino. Atención: la angina de reciente comienzo (menos de 1 a 2 meses) puede considerarse de mayor riesgo en algunos esquemas; la clave de la pregunta es la presentación típica y estable."
 },
 
 {
 "numb": 24,
-"question": "VIÑETA 7 <br> Mariana, 35 años, sana, consulta en policlínica del Primer Nivel de Atención (PNA) por una historia de ocho meses de episodios recurrentes e inesperados de miedo intenso y malestar. Los episodios se caracterizan por alcanzar su máxima intensidad en pocos minutos y se acompañan de palpitaciones, taquicardia, dolor torácico, mareos y sensación subjetiva de asfixia o ahogo. <br> Desarrolló una preocupación persistente acerca de la reiteración de las crisis. En consecuencia, ha modificado su comportamiento evitando el transporte público y las situaciones que implican esfuerzo físico, lo que le ha generado serias dificultades para continuar su funcionamiento en los ámbitos laboral y social. Niega consumo problemático de alcohol u otras sustancias. <br> Para Mariana, el enfoque terapéutico más adecuado de primera línea, según el abordaje escalonado, debe considerar:",
-"answer": ["D. Abordaje mixto (ISRS + Bzdp + psicoterapia)"],
+"question": "En esta consulta, Ud. ¿Qué conducta adopta?",
+"answer": ["C. Trasladar al departamento de emergencia para completar valoración de modo urgente."],
 "options": [
-"A. Psicoterapia individual o grupal ",
-"B. Monoterapia con benzodiazepinas ",
-"C. ISRS en monoterapia ",
-"D. Abordaje mixto (ISRS + Bzdp + psicoterapia)",
+"A. Iniciar atorvastatina 40 mg día, ácido acetil salicílico 75 mg día, enalapril 20 mg día y bisoprolol 2.5 mg día, con control evolutivo en unos días.",
+"B. Solicitar un ecocardiograma de estrés con ejercicio dado que la prueba ergométrica graduada tiene más falsos positivos en las mujeres.",
+"C. Trasladar al departamento de emergencia para completar valoración de modo urgente.",
+"D. Interconsulta con cardiología en el Primer Nivel de Atención."
 ],
-"discipline": "Salud Mental",
-"TEMA": "Ansiedad",
-"comment": "En el abordaje escalonado, la intensidad del tratamiento depende de la gravedad. En un cuadro grave con importante deterioro funcional se indica un abordaje combinado: ISRS (tratamiento de base), benzodiazepinas por tiempo corto como puente hasta que el ISRS haga efecto (por su latencia y la posible ansiedad inicial) y psicoterapia (TCC). La monoterapia con benzodiazepinas no es adecuada por el riesgo de dependencia y porque no trata el trastorno a largo plazo. Psicoterapia o ISRS solos se reservan para cuadros leves a moderados.",
+"discipline": "Medicina Familiar",
+"Tema": "",
+"comment": "",
 },
 
 {
 "numb": 25,
-"question": "VIÑETA 7 <br> Mariana, 35 años, sana, consulta en policlínica del Primer Nivel de Atención (PNA) por una historia de ocho meses de episodios recurrentes e inesperados de miedo intenso y malestar. Los episodios se caracterizan por alcanzar su máxima intensidad en pocos minutos y se acompañan de palpitaciones, taquicardia, dolor torácico, mareos y sensación subjetiva de asfixia o ahogo. <br> Desarrolló una preocupación persistente acerca de la reiteración de las crisis. En consecuencia, ha modificado su comportamiento evitando el transporte público y las situaciones que implican esfuerzo físico, lo que le ha generado serias dificultades para continuar su funcionamiento en los ámbitos laboral y social. Niega consumo problemático de alcohol u otras sustancias. <br> Si se decide iniciar tratamiento farmacológico con ISRS, ¿qué información clave debe transmitirse a la paciente con respecto al inicio del efecto terapéutico?",
-"answer": ["D. La respuesta clínica significativa no es inmediata."],
+"question": "Viñeta 7 <br> María, mujer cisgenero 86 años, jubilada. Soltera, no tuvo hijos. Vive en medio rural. Autoválida. Antecedentes personales de interés: Hipoacusia moderada, usa audifonos, HTA larga data, buen control de cifras. Tratamiento con IECA, Incontinencia urinaria de esfuerzo. <br> Tabaquista, un paquete de tabaco le dura una semana. <br> Consulta en policlínica por: Olor fuerte en la orina. <br> Presenta hace aproximadamente un mes olor fuerte en la orina, que nota algo más oscura que habitualmente. Al interrogatorio relata urgencia miccional, nicturia y una molestia suprapúbica EVA 2/10, de la misma evolución. Niega disuria, fiebre o chuchos de frio. No presenta flujo vaginal. Tránsito digestivo constipada habitual, no náuseas o vómitos. <br> Al examen físico se destaca: <br> Tax 36,2°C FC 76 cpm FR 18 rpm PA 130/70 - IMC 24 Buen aspecto general. El examen físico es normal. <br> Cuál sería su diagnóstico clínico presuntivo:",
+"answer": ["B. Cistitis."],
 "options": [
-"A. Los ISRS actúan en la primera semana, por lo que si no hay mejoría en 7 días debe suspenderlos ",
-"B. Los ISRS son adictivos, por lo que debe tomarlos cuando experimente una crisis ",
-"C. El tratamiento se mantendrá durante un periodo agudo de 12 semanas, luego debe ser suspendido. ",
-"D. La respuesta clínica significativa no es inmediata.",
+"A. Infección del Tracto Urinario, complicada.",
+"B. Cistitis.",
+"C. Hematuria.",
+"D. Clamidiasis"
 ],
-"discipline": "Salud Mental",
-"TEMA": "Ansiedad",
-"comment": "Los ISRS tienen una latencia de acción de 2 a 4 semanas (respuesta completa entre 6 y 12 semanas), por lo que es fundamental informar a la paciente para favorecer la adherencia y evitar la suspensión precoz. Deben tomarse a diario y no a demanda, no generan dependencia, y el tratamiento debe mantenerse varios meses (habitualmente 12 meses o más) tras la remisión, con retirada gradual, no suspenderse a las 12 semanas.",
+"discipline": "Medicina Familiar",
+"Tema": "ITU",
+"comment": "El cuadro de urgencia miccional, nicturia, molestia suprapúbica leve y cambios en el olor y color de la orina, sin fiebre, sin dolor lumbar y con buen estado general, orienta a una infección urinaria baja: cistitis (en el adulto mayor los síntomas pueden ser más inespecíficos y la disuria puede faltar). No hay datos de infección complicada (A): no hay fiebre, escalofríos, dolor en fosa lumbar, compromiso del estado general, sepsis ni sonda. La hematuria (C) es un signo, no un diagnóstico, y la orina oscura no equivale a hematuria sin confirmarla. La clamidiasis (D) no se plantea: no hay factores de riesgo sexual ni flujo vaginal."
 },
 
 {
 "numb": 26,
-"question": "VIÑETA 8 <br> Ana, 30 años, procedente de Canelones, vive con su hijo Santiago de 11 meses. Administrativa. Concurre con resultado de paraclínica solicitada en Control de Salud para actividad laboral. Paraclínica VDRL 16UI. Resto en rango para edad y sexo. Se presenta asintomática. En pareja desde hace 9 meses, usa como método anticonceptivo el implante hormonal subdérmico, no utilizan método de barrera. Pareja asintomática. Niega antecedentes de enfermedades de transmisión sexual. Trae carné obstétrico de gestación de Santiago donde constan HIV y VDRL no reactivos en todos los trimestres. AP: Portadora de Lupus eritematoso sistémico en tratamiento medicamentoso. Examen físico Normal, sin lesiones en piel, sin Síndrome focal neurológico. <br> Con respecto a los resultados de la paraclínica en esta paciente:",
-"answer": ["D. Por presentar una VDRL de 16 UI realizamos el planteo diagnóstico de Sífilis."],
+"question": "Viñeta 7 <br> María, mujer cisgenero 86 años, jubilada. Soltera, no tuvo hijos. Vive en medio rural. Autoválida. Antecedentes personales de interés: Hipoacusia moderada, usa audifonos, HTA larga data, buen control de cifras. Tratamiento con IECA, Incontinencia urinaria de esfuerzo. <br> Tabaquista, un paquete de tabaco le dura una semana. <br> Consulta en policlínica por: Olor fuerte en la orina. <br> Presenta hace aproximadamente un mes olor fuerte en la orina, que nota algo más oscura que habitualmente. Al interrogatorio relata urgencia miccional, nicturia y una molestia suprapúbica EVA 2/10, de la misma evolución. Niega disuria, fiebre o chuchos de frio. No presenta flujo vaginal. Tránsito digestivo constipada habitual, no náuseas o vómitos. <br> Al examen físico se destaca: <br> Tax 36,2°C FC 76 cpm FR 18 rpm PA 130/70 - IMC 24 Buen aspecto general. El examen físico es normal. <br>Qué factores de riesgo encuentra en María para el planteo de su diagnóstico presuntivo:",
+"answer": ["A. Edad."],
 "options": [
-"A. El VDRL es falso positivo para sífilis en esta paciente por su enfermedad autoinmune ",
-"B. El VDRL se tiene que repetir ya que es su valor no es suficiente para el diagnóstico ",
-"C. El valor de 16UI permite realizar diagnóstico de sífilis secundaria ",
-"D. Por presentar una VDRL de 16 UI realizamos el planteo diagnóstico de Sífilis.",
+"A. Edad.",
+"B. Tabaquismo.",
+"C. Incontinencia urinaria.",
+"D. Parejas sexuales múltiples."
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "ITS",
-"comment": "Un VDRL con título alto (16 UI; los falsos positivos biológicos, como los del lupus, suelen tener títulos bajos, ≤ 4-8) en una paciente con VDRL negativo hace aproximadamente un año y nueva pareja sin método de barrera permite plantear el diagnóstico de sífilis. En la práctica asistencial uruguaya, ante VDRL ≥ 8 UI en contexto epidemiológico compatible se plantea y se trata el diagnóstico, sin demorar el tratamiento. No se puede afirmar que sea secundaria porque no hay síntomas ni signos (la paciente está asintomática), por lo que corresponde a sífilis latente. Las pruebas treponémicas se solicitan como confirmación, pero no deben retrasar el tratamiento.",
+"Tema": "ITU",
+"comment": "En las mujeres mayores, los principales factores de riesgo de infección urinaria son la edad avanzada (hipoestrogenismo posmenopáusico con alteración de la flora vaginal y de la mucosa urogenital, disfunción vesical, comorbilidades) y la incontinencia urinaria (humedad perineal, uso de protectores y contaminación, vaciado vesical incompleto). El tabaquismo (B) no es un factor de riesgo reconocido de cistitis, y las parejas sexuales múltiples (D) no se ajustan al caso (soltera de 86 años) y son un factor de riesgo en mujeres jóvenes sexualmente activas."
 },
 
 {
 "numb": 27,
-"question": "VIÑETA 8 <br> Ana, 30 años, procedente de Canelones, vive con su hijo Santiago de 11 meses. Administrativa. Concurre con resultado de paraclínica solicitada en Control de Salud para actividad laboral. Paraclínica VDRL 16UI. Resto en rango para edad y sexo. Se presenta asintomática. En pareja desde hace 9 meses, usa como método anticonceptivo el implante hormonal subdérmico, no utilizan método de barrera. Pareja asintomática. Niega antecedentes de enfermedades de transmisión sexual. Trae carné obstétrico de gestación de Santiago donde constan HIV y VDRL no reactivos en todos los trimestres. AP: Portadora de Lupus eritematoso sistémico en tratamiento medicamentoso. Examen físico Normal, sin lesiones en piel, sin Síndrome focal neurológico. <br> En relación a la prueba VDRL en esta paciente:",
-"answer": ["C. Es una prueba no treponémica que permite el diagnóstico y seguimiento "],
+"question": "Viñeta 7 <br> María, mujer cisgenero 86 años, jubilada. Soltera, no tuvo hijos. Vive en medio rural. Autoválida. Antecedentes personales de interés: Hipoacusia moderada, usa audifonos, HTA larga data, buen control de cifras. Tratamiento con IECA, Incontinencia urinaria de esfuerzo. <br> Tabaquista, un paquete de tabaco le dura una semana. <br> Consulta en policlínica por: Olor fuerte en la orina. <br> Presenta hace aproximadamente un mes olor fuerte en la orina, que nota algo más oscura que habitualmente. Al interrogatorio relata urgencia miccional, nicturia y una molestia suprapúbica EVA 2/10, de la misma evolución. Niega disuria, fiebre o chuchos de frio. No presenta flujo vaginal. Tránsito digestivo constipada habitual, no náuseas o vómitos. <br> Al examen físico se destaca: <br> Tax 36,2°C FC 76 cpm FR 18 rpm PA 130/70 - IMC 24 Buen aspecto general. El examen físico es normal. <br>Para confirmar diagnóstico presuntivo e iniciar tratamiento, su conducta sería:",
+"answer": ["D. Solicitar analitica de orina o tira reactiva y urocultivo; empezar tratamiento farmacológico empírico."],
 "options": [
-"A. Se trata de una prueba treponémica que permite el diagnóstico de Sífilis. ",
-"B. Su valor puede ser intercambiable con RPR para el seguimiento ",
-"C. Es una prueba no treponémica que permite el diagnóstico y seguimiento ",
-"D. Detecta anticuerpos específicos contra antígenos treponémicos",
+"A. Trasladar a la paciente, para completar valoración con estudio de imagen de urgencia.",
+"B. Urocultivo, esperando resultado del mismo para iniciar tratamiento farmacológico, de corresponder.",
+"C. Solicitar ingreso de la paciente; por los riesgos que presenta no es posible el tratamiento ambulatorio.",
+"D. Solicitar analitica de orina o tira reactiva y urocultivo; empezar tratamiento farmacológico empírico."
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "ITS",
-"comment": "El VDRL es una prueba no treponémica (detecta anticuerpos anticardiolipina, no específicos) que se informa de forma cuantitativa, por lo que sirve para diagnóstico y para seguimiento de la respuesta al tratamiento (descenso de títulos). Las pruebas treponémicas (FTA-abs, TPHA, MHA-TP, EIA) detectan anticuerpos específicos contra T. pallidum y permanecen positivas de por vida. VDRL y RPR no son intercambiables, porque sus títulos difieren, por lo que el seguimiento debe hacerse siempre con la misma técnica.",
+"Tema": "ITU",
+"comment": "En una paciente sintomática con cistitis y buen estado general, se confirma con examen de orina o tira reactiva (leucocitos, nitritos) y se toma urocultivo (importante en el adulto mayor por la mayor frecuencia de resistencias), y se inicia tratamiento empírico ambulatorio sin esperar el cultivo, ajustándolo luego según el antibiograma. Esperar el resultado (B) retrasa innecesariamente el tratamiento de una paciente con síntomas. No hay criterios para estudio de imagen urgente (A) ni para internación (C): es autoválida, afebril, hemodinámicamente estable y tolera la vía oral."
 },
 
 {
 "numb": 28,
-"question": "VIÑETA 8 <br> Ana, 30 años, procedente de Canelones, vive con su hijo Santiago de 11 meses. Administrativa. Concurre con resultado de paraclínica solicitada en Control de Salud para actividad laboral. Paraclínica VDRL 16UI. Resto en rango para edad y sexo. Se presenta asintomática. En pareja desde hace 9 meses, usa como método anticonceptivo el implante hormonal subdérmico, no utilizan método de barrera. Pareja asintomática. Niega antecedentes de enfermedades de transmisión sexual. Trae carné obstétrico de gestación de Santiago donde constan HIV y VDRL no reactivos en todos los trimestres. AP: Portadora de Lupus eritematoso sistémico en tratamiento medicamentoso. Examen físico Normal, sin lesiones en piel, sin Síndrome focal neurológico. <br> ¿Qué tratamiento farmacológico indicaría?",
-"answer": ["A. Penicilina G benzatínica. 2.4 millones de unidades IM, dosis única. "],
+"question": "Viñeta 7 <br> María, mujer cisgenero 86 años, jubilada. Soltera, no tuvo hijos. Vive en medio rural. Autoválida. Antecedentes personales de interés: Hipoacusia moderada, usa audifonos, HTA larga data, buen control de cifras. Tratamiento con IECA, Incontinencia urinaria de esfuerzo. <br> Tabaquista, un paquete de tabaco le dura una semana. <br> Consulta en policlínica por: Olor fuerte en la orina. <br> Presenta hace aproximadamente un mes olor fuerte en la orina, que nota algo más oscura que habitualmente. Al interrogatorio relata urgencia miccional, nicturia y una molestia suprapúbica EVA 2/10, de la misma evolución. Niega disuria, fiebre o chuchos de frio. No presenta flujo vaginal. Tránsito digestivo constipada habitual, no náuseas o vómitos. <br> Al examen físico se destaca: <br> Tax 36,2°C FC 76 cpm FR 18 rpm PA 130/70 - IMC 24 Buen aspecto general. El examen físico es normal. <br>Pensando en el tratamiento farmacológico con antibióticos:",
+"answer": ["A. Nitrofurantoina 100 mg via oral cada 6 horas por 5 dias."],
 "options": [
-"A. Penicilina G benzatínica. 2.4 millones de unidades IM, dosis única. ",
-"B. Penicilina G benzatínica. 2.4 millones de unidades IM, 2 dosis separadas por 1 semana. ",
-"C. Penicilina G benzatínica. 2.4 millones de unidades IM, 3 dosis separadas por 1 semana. ",
-"D. Penicilina G Cristalina. 18 - 24 millones de unidades IM, dosis única.",
+"A. Nitrofurantoina 100 mg via oral cada 6 horas por 5 dias.",
+"B. Ceftriaxona 2 gramos intravenosos al día, por 5 días.",
+"C. Ciprofloxacina 500 mg vía oral cada 12 horas por 10 días.",
+"D. Doxiciclina 100 mg vía oral cada 12 horas por 14 días."
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "ITS",
-"comment": "Con VDRL negativo hace menos de un año, la infección es de menos de 1 año de evolución (sífilis reciente: primaria, secundaria o latente precoz), cuyo tratamiento es penicilina G benzatínica 2,4 millones UI IM en dosis única. Se necesitan 3 dosis semanales en sífilis latente tardía o de duración desconocida. La penicilina G cristalina endovenosa en altas dosis se reserva para la neurosífilis (y no se administra por vía IM). La paciente no presenta síntomas neurológicos.",
+"Tema": "ITU",
+"comment": "En la cistitis aguda no complicada, el tratamiento empírico de primera línea por vía oral es la nitrofurantoína (100 mg cada 6 horas durante 5 días) o la fosfomicina en dosis única, porque alcanzan altas concentraciones urinarias, tienen baja resistencia y poco impacto en la flora intestinal (se verifica la función renal: se evita con depuración de creatinina muy baja). La ceftriaxona IV (B) y la hospitalización se reservan para infecciones complicadas o pielonefritis. La ciprofloxacina (C) y las quinolonas en general se reservan por su mayor riesgo de efectos adversos (tendinopatía, prolongación del QT, alteraciones neurológicas, sobre todo en el adulto mayor) y por la resistencia; además, 10 días es excesivo. La doxiciclina (D) no es un tratamiento de la cistitis (se usa en infecciones por clamidia)."
 },
 
 {
 "numb": 29,
-"question": "VIÑETA 8 <br> Ana, 30 años, procedente de Canelones, vive con su hijo Santiago de 11 meses. Administrativa. Concurre con resultado de paraclínica solicitada en Control de Salud para actividad laboral. Paraclínica VDRL 16UI. Resto en rango para edad y sexo. Se presenta asintomática. En pareja desde hace 9 meses, usa como método anticonceptivo el implante hormonal subdérmico, no utilizan método de barrera. Pareja asintomática. Niega antecedentes de enfermedades de transmisión sexual. Trae carné obstétrico de gestación de Santiago donde constan HIV y VDRL no reactivos en todos los trimestres. AP: Portadora de Lupus eritematoso sistémico en tratamiento medicamentoso. Examen físico Normal, sin lesiones en piel, sin Síndrome focal neurológico. <br> En relación a la conducta con la pareja:",
-"answer": ["B. Se puede iniciar tratamiento con penicilina benzatínica sin realizarle VDRL "],
+"question": "La dispepsia se ha definido como el dolor, la molestia o la incomodidad localizados en la parte central del hemiabdomen superior que habitualmente, aunque no siempre, están relacionados con la ingesta. En los términos molestia e incomodidad se integran síntomas como la saciedad precoz, la pesadez posprandial y la sensación urente epigástrica. En relación a conceptos generales sobre esta afectación muy frecuente en la población, señale la opción correcta:",
+"answer": ["A. Los síntomas de dispepsia afectan al 20-40% de la población occidental, si bien sólo la mitad de las personas que los padecen llega a solicitar ayuda médica por este concepto."],
 "options": [
-"A. Debe realizarse el diagnóstico con pruebas treponémicas para comenzar tratamiento. ",
-"B. Se puede iniciar tratamiento con penicilina benzatínica sin realizarle VDRL ",
-"C. Se debe indicar suspender relaciones sexuales hasta confirmar el diagnóstico ",
-"D. Hay que brindar sus datos al MSP por lo obligatorio de la denuncia",
+"A. Los síntomas de dispepsia afectan al 20-40% de la población occidental, si bien sólo la mitad de las personas que los padecen llega a solicitar ayuda médica por este concepto.",
+"B. En la mayor parte de los estudios se han encontrado diferencias epidemiológicas en función del sexo, con un predominio de 2/1 a favor del sexo femenino.",
+"C. En las últimas décadas su prevalencia ha aumentado significativamente, lo que se explica por el aumento de la tasa de infección por Helicobacter pylori.",
+"D. La asociación con síntomas de otros trastornos digestivos como la Enfermedad por Reflujo Gastro Esofágico oscila en el entorno del 10%."
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "ITS",
-"comment": "Los contactos sexuales de un caso de sífilis reciente deben recibir tratamiento presuntivo con penicilina benzatínica 2,4 millones UI IM en dosis única, aun sin resultados de laboratorio y siendo asintomáticos, ya que pueden estar en período de incubación o con serología aún negativa. No hace falta esperar pruebas treponémicas. Se recomienda abstenerse de relaciones sexuales hasta completar el tratamiento (y que las lesiones, si las hay, se resuelvan), pero eso no es una condición para iniciarlo. La notificación obligatoria se realiza por el equipo de salud con los datos del caso y no depende de brindar los datos de la pareja de forma obligatoria.",
+"Tema": "Gastrointestinal",
+"comment": "La dispepsia es muy frecuente: los síntomas afectan a entre el 20% y el 40% de la población occidental, aunque solo una parte de los afectados (según el texto del curso, aproximadamente la mitad) consulta al médico por este motivo. La opción B es incorrecta: la mayoría de los estudios no muestra un predominio tan marcado del sexo femenino (como mucho, una leve predominancia). La opción C es incorrecta: la prevalencia se ha mantenido estable, y la infección por H. pylori, de hecho, ha disminuido en las últimas décadas. La opción D es incorrecta: la superposición con la enfermedad por reflujo gastroesofágico y con otros trastornos funcionales digestivos (como el intestino irritable) es mucho mayor que el 10%."
 },
 
 {
 "numb": 30,
-"question": "VIÑETA 8 <br> Ana, 30 años, procedente de Canelones, vive con su hijo Santiago de 11 meses. Administrativa. Concurre con resultado de paraclínica solicitada en Control de Salud para actividad laboral. Paraclínica VDRL 16UI. Resto en rango para edad y sexo. Se presenta asintomática. En pareja desde hace 9 meses, usa como método anticonceptivo el implante hormonal subdérmico, no utilizan método de barrera. Pareja asintomática. Niega antecedentes de enfermedades de transmisión sexual. Trae carné obstétrico de gestación de Santiago donde constan HIV y VDRL no reactivos en todos los trimestres. AP: Portadora de Lupus eritematoso sistémico en tratamiento medicamentoso. Examen físico Normal, sin lesiones en piel, sin Síndrome focal neurológico. <br> En relación al seguimiento en esta paciente:",
-"answer": ["B. Se debe hacer con la misma prueba no treponémica que se realizó el diagnóstico. "],
+"question": "Hasta la fecha, el objetivo básico de las terapias frente a la dispepsia funcional ha sido ayudar al paciente a aceptar, disminuir y convivir con sus síntomas, renunciando a obtener la curación definitiva en la mayor parte de los casos. Sin embargo, se utilizan una serie de fármacos que han demostrado eficacia variable. En relación al tratamiento farmacológico, señale la opción correcta:",
+"answer": ["C. El uso de proquinéticos a largo plazo, como la metoclopramida, se gsocia a múltiples efectos secundarios, especialmente sobre el sistema nervioso central."],
 "options": [
-"A. Lo realiza con las pruebas treponémicas a los 2, 4 y 6 meses. ",
-"B. Se debe hacer con la misma prueba no treponémica que se realizó el diagnóstico. ",
-"C. Se debe realizar el seguimiento con pruebas treponémicas por antecedente de Lupus. ",
-"D. Luego del tratamiento se la cita en 4 meses para control.",
+"A. Los inhibidores de la bomba de protones (IBP) son igual de efectivos que el placebo para reducir sintomas, aún en pacientes con síntomas de dolor epigástrico y que asocien algún componente de refujo gastroesofágico.",
+"B. Los IBP son efectivos para tratar pacientes en los que predominan síntomas de tipo distrés posprandial o clasificados como dispepsia no específica.",
+"C. El uso de proquinéticos a largo plazo, como la metoclopramida, se gsocia a múltiples efectos secundarios, especialmente sobre el sistema nervioso central.",
+"D. La erradicación del H. pylori es un recurso terapéutico costo/beneficio eficiente; se establece que tratando a 4 pacientes dispépticos se consigue la curación de 1 de ellos."
 ],
 "discipline": "Medicina Familiar",
-"TEMA": "ITS",
-"comment": "El seguimiento se realiza con pruebas no treponémicas cuantitativas (VDRL), siempre con la misma técnica y preferentemente en el mismo laboratorio, para poder comparar títulos. Se espera una disminución de al menos 4 veces el título (2 diluciones) a los 6 meses en sífilis reciente. Las pruebas treponémicas son diagnósticas y quedan positivas de por vida, por lo que no sirven para seguimiento (tampoco en lupus). Los controles son más frecuentes que a los 4 meses (habitualmente a los 3, 6 y 12 meses).",
+"Tema": "Gastrointestinal",
+"comment": "La metoclopramida (antagonista dopaminérgico) tiene efectos adversos neurológicos importantes, sobre todo con el uso prolongado: síntomas extrapiramidales, distonías, parkinsonismo, discinesia tardía, somnolencia y depresión; por eso se limita su uso a periodos cortos. La opción A es incorrecta: los IBP son más eficaces que el placebo, sobre todo en la dispepsia con dolor epigástrico o con componente de reflujo. La opción B es incorrecta: la eficacia de los IBP es mayor en el síndrome de dolor epigástrico y no en el distrés posprandial. La opción D es incorrecta: la erradicación de H. pylori es costo-efectiva, pero el número necesario a tratar es de aproximadamente 14 pacientes para curar a 1 (no 4)."
 },
 
 {
 "numb": 31,
-"question": "VIÑETA 9 <br>  María está haciendo una suplencia. Luego de revisar las imágenes de la paciente le dice “... por lo que se informa aquí su enfermedad ha avanzado a pesar del tratamiento oncoespecífico. Su enfermedad no tiene posibilidad de curación lo importante ahora será derivarla a paliativos.“ <br>  El paciente queda en silencio, con expresión de desconcierto, mientras la médica continúa explicando el plan de cuidados. <br> En la situación descrita, ¿qué aspecto del modelo EPICEE se ve transgredido en esta entrevista.",
-"answer": ["B. Percepción "],
+"question": "José 78 años, trabajador rural, concurre a la policlínica de oncología acompañado por dos de sus hijos. El paciente al comienzo se negaba, luego de algunas estrategias por parte de la familia lograron que concurrieron al centro de salud. (El médico de la zona rural en la que vive sugirió consulta en el hospital en Montevideo). Desde hace varios meses ha presentado síntomas que orientan a pensar que se trata de un CBP. Los hijos se muestran preocupados ya que en la tomografía que le realizaron se observa una gran masa en el pulmón derecho. El médico los orientó a que “esto no es bueno”. Mientras el médico sale a hablar con la secretaria del servicio para coordinar estudios uno de los hijos sale y le dice “no le comunique a mi padre el diagnóstico” Digale lo primero que se le ocurra, pero no que es cáncer ...no lo va a tolerar. <br> Según el protocolo EPICEE ¿cuál es la primera medida que debe realizar el médico ante la solicitud del hijo?",
+"answer": ["C. Indagar la percepción del paciente sobre la situación clínica actual."],
 "options": [
-"A. Entorno ",
-"B. Percepción ",
-"C. Estrategia ",
-"D. Comunicación",
+"A. Derivar al paciente a la consulta con el psiquiatra para indagar ideas de muerte.",
+"B. Respetar la decisión del hijo y proponer una reunión familiar.",
+"C. Indagar la percepción del paciente sobre la situación clínica actual.",
+"D. Acordar con los hijos cual es la mejor estrategia a seguir"
 ],
 "discipline": "Psicología Médica",
-"TEMA": "",
-"comment": "El protocolo EPICEE para comunicar malas noticias incluye: Entorno, Percepción del paciente, Invitación, Conocimiento, Empatía (emociones) y Estrategia/resumen. La médica da la noticia sin explorar antes qué sabe y qué entiende la paciente de su enfermedad (Percepción), y tampoco pregunta cuánto quiere saber (Invitación). Además, no responde a las emociones (Empatía) y continúa con el plan sin comprobar su comprensión. Entre las opciones, el paso transgredido más claramente es Percepción.",
+"comment": "En el protocolo EPICEE (Entorno, Percepción, Invitación, Conocimiento, Emoción/Empatía, Estrategia y resumen), una vez asegurado el entorno, el primer paso es explorar qué sabe y qué percibe el paciente de su enfermedad, y luego cuánto desea saber. José es un adulto autónomo con derecho a ser informado (o a decidir no saber, si así lo expresa). La petición del hijo no puede reemplazar su voluntad, y ocultar el diagnóstico (pacto de silencio) deteriora la confianza y le quita la posibilidad de decidir sobre su tratamiento. Por eso, las opciones B y D (acordar con la familia lo que se le dirá) son incorrectas, y la A es incorrecta porque no hay indicios que justifiquen derivar a psiquiatría. Se puede acoger la preocupación del hijo y trabajar con la familia, pero siempre a partir de lo que el paciente quiere saber."
 },
 
 {
 "numb": 32,
-"question": "VIÑETA 10<br> En la consulta con mastólogo, una paciente de 40 años recibe la noticia de que su lesión mamaria probablemente sea maligna y requerirá cirugía. Comienza a llorar y dice: “No entiendo por qué me pasa esto“ <br> ¿Cuál de las siguientes respuestas del cirujano refleja una comunicación empática y adecuada según el protocolo EPICEE?",
-"answer": ["C. “Entiendo que esto la asuste; es una situación difícil. Estoy aquí para explicarle cada paso.“ "],
+"question": "El EPICEE (nemotecnia) es una herramienta que favorece la comunicación de malas noticias. La tercera de las E qué término sugiere?",
+"answer": ["A. Estrategia"],
 "options": [
-"A. “No se preocupe, hoy en día el cáncer de mama tiene muy buen pronóstico y saldrá adelante“ ",
-"B. “No podemos saber nada seguro hasta que operemos, si está angustiada puedo recetarle un antidepresivo.“ ",
-"C. “Entiendo que esto la asuste; es una situación difícil. Estoy aquí para explicarle cada paso.“ ",
-"D. “Llorar no ayuda, lo importante es que se concentre en la cirugía y confiar que será exitosa“. ",
+"A. Estrategia",
+"B. Empatía",
+"C. Entorno",
+"D. Emoción"
 ],
 "discipline": "Psicología Médica",
-"TEMA": "",
-"comment": "En el paso de Empatía del protocolo EPICEE se reconoce y nombra la emoción del paciente, se valida y se ofrece acompañamiento. La opción C lo hace: reconoce el miedo, normaliza la situación y asegura apoyo. Las otras opciones son inadecuadas: A da una tranquilidad falsa y minimiza, B medicaliza una reacción normal y no valida la emoción, D invalida la emoción y reprende a la paciente.",
+"comment": "EPICEE son las iniciales de los pasos del protocolo: Entorno (primera E), Percepción, Invitación, Conocimiento, Emoción/Empatía (segunda E) y Estrategia y resumen (tercera E). Por lo tanto, la tercera E corresponde a Estrategia: es el cierre de la entrevista, donde se resume lo hablado, se acuerdan los pasos a seguir y se planifica el seguimiento. Entorno (C) es la primera E, y Empatía/Emoción (B y D) corresponden a la segunda."
 },
 
 {
 "numb": 33,
-"question": "VIÑETA 11. <br> Un paciente de 58 años operado de colecistectomía laparoscópica refiere dolor abdominal persistente de moderada intensidad (EVA 6), a pesar de haber recibido analgesia. Comenta: “No me creen cuando digo que me duele, ya me dijeron que eso es normal“. Se muestra irritable y angustiado. <br> Cuál de las siguientes afirmaciones refleja el abordaje más adecuado del dolor en este paciente?",
-"answer": ["C. El dolor es una experiencia subjetiva que debe ser validada y se ve influenciada por diversos factores. "],
+"question": "La comunicación en el ámbito quirúrgico adquiere un rol clave ya que incide en la atención del paciente y sus resultados asistenciales. Sánchez et al (2013) desarrolla una investigación al respecto y plantea que los resultados demuestran que una buena comunicación inter equipos reduce las siguientes variables. Identifica ¿cuál de estas variables se incluye de forma explícita en la investigación?",
+"answer": ["A. La morbimortalidad"],
 "options": [
-"A. El dolor postoperatorio no requiere reevaluación en las primeras 12 horas si ya se indicó analgesia estándar para su abordaje. ",
-"B. La intensidad del dolor debe valorarse según parámetros objetivos más que según el relato del paciente ",
-"C. El dolor es una experiencia subjetiva que debe ser validada y se ve influenciada por diversos factores. ",
-"D. La irritabilidad del paciente se deba a ansiedad y no al dolor, por lo que debe priorizarse la contención verbal.",
+"A. La morbimortalidad",
+"B. Los errores del médico",
+"C. La eficacia terapéutica",
+"D. La mala relación MP"
 ],
 "discipline": "Psicología Médica",
-"TEMA": "",
-"comment": "La IASP define el dolor como una experiencia sensorial y emocional desagradable, por lo que es siempre subjetivo y está influido por factores biológicos, psicológicos y sociales (ansiedad, experiencias previas, contexto). El autorreporte del paciente (EVA) es el patrón de referencia para valorarlo y se debe creer y validar. Además, se debe reevaluar de forma periódica tras indicar analgesia (A es incorrecta) y no atribuir la irritabilidad solo a ansiedad (D) ni basarse en parámetros objetivos por sobre su relato (B).",
+"comment": "El estudio de Sánchez y colaboradores (Rev Colomb Cir, 2013) caracterizó los patrones y los errores de comunicación en las salas de cirugía y concluyó que mejorar la comunicación entre los miembros del equipo podría disminuir los efectos sobre la morbimortalidad que generan estas fallas. Por eso la variable que se menciona de forma explícita es la morbimortalidad. Los errores de comunicación son el objeto de estudio y no «errores del médico» en general; la eficacia terapéutica y la relación médico-paciente no son las variables evaluadas."
 },
 
 {
 "numb": 34,
-"question": "VIÑETA 12<br> María, 63 años, fue intervenida de una colecistectomía por vía laparoscópica y recibe el alta con indicaciones de control, dieta liviana y medicación reglada. <br> En la consulta de seguimiento refiere no haber cumplido con la dieta ni asistir al control, y haber suspendido los analgésicos “porque me caían mal“. Además, dice que no entendió hasta cuándo tenía que seguir la indicación medicamentosa. <br> Según el modelo de la OMS sobre adherencia terapéutica, ¿cuál de los siguientes factores deberían indagarse mejor en éste caso?",
-"answer": ["B. Factores relacionados con el tratamiento "],
+"question": "¿Cuál de estas acciones debería implementarse a la hora de dar una mala noticia a un paciente en una etapa pre quirúrgica?",
+"answer": ["A. informar, chequeando que el paciente va comprendiendo"],
 "options": [
-"A. Factores relacionados con la enfermedad ",
-"B. Factores relacionados con el tratamiento ",
-"C. Factores socioeconómicos ",
-"D. Factores relacionados con el sistema de salud",
+"A. informar, chequeando que el paciente va comprendiendo",
+"B. esperar a que el paciente pregunte para brindar información",
+"C. brindar la noticia luego de que el paciente fue asistido por salud mental.",
+"D. comunicar al familiar acompañante sobre la situación clínica"
 ],
 "discipline": "Psicología Médica",
-"TEMA": "",
-"comment": "El modelo de la OMS agrupa los factores de adherencia en 5 dimensiones: socioeconómicos, del sistema/equipo de salud, de la enfermedad, del tratamiento y del paciente. Los problemas descritos (efectos adversos de los analgesicos, indicaciones poco claras sobre duración, complejidad de las indicaciones de dieta y control) corresponden a factores relacionados con el tratamiento, que son los que conviene indagar mejor.",
+"comment": "Al comunicar una mala noticia el médico debe dar la información de forma gradual, con lenguaje claro y sin tecnicismos, y verificar periódicamente que el paciente comprende y qué emociones tiene, permitiendo preguntas (comunicación bidireccional). La opción B es incorrecta: esperar a que pregunte deja al paciente sin información, y muchos pacientes no se animan a preguntar. La opción C es incorrecta: no es necesario derivar a salud mental antes de dar una noticia; el paciente tiene derecho a ser informado por su médico, y se pide apoyo si se detecta necesidad. La opción D es incorrecta: informar primero al familiar vulnera la autonomía y la confidencialidad; la información debe darse al paciente y a los acompañantes que él autorice."
 },
 
 {
 "numb": 35,
-"question": "VIÑETA 12<br> María, 63 años, fue intervenida de una colecistectomía por vía laparoscópica y recibe el alta con indicaciones de control, dieta liviana y medicación reglada. <br> En la consulta de seguimiento refiere no haber cumplido con la dieta ni asistir al control, y haber suspendido los analgésicos “porque me caían mal“. Además, dice que no entendió hasta cuándo tenía que seguir la indicación medicamentosa. <br> Antes de la cirugía, la paciente había decidido dejar de fumar por recomendación del cirujano. “Hice un gran esfuerzo“. En la consulta de seguimiento, refiere: “...Soy un desastre... intenté no fumar... pero todo es difícil ...volví a fumar dos o tres veces.“ <br>Identifica la etapa de Motivación para el cambio que transita esta paciente en la entrevista de control con respecto al hábito tabáquico.",
-"answer": ["B. Recaída "],
+"question": "Identifica los tres componentes directos que se ponen en juego en la Toma de Decisiones Compartidas.",
+"answer": ["B. Contexto, preferencias del paciente, evidencia cientifica"],
 "options": [
-"A. Contemplación ",
-"B. Recaída ",
-"C. Pre-contemplación ",
-"D. Mantenimiento",
+"A. Sistema de salud, relación Médico -Paciente, formación académica",
+"B. Contexto, preferencias del paciente, evidencia cientifica",
+"C. Institución sanitaria, calidad asistencial, valores personales del médico",
+"D. Calidad asistencial, políticas sanitarias, decisiones médicas"
 ],
 "discipline": "Psicología Médica",
-"TEMA": "",
-"comment": "En el modelo transteórico de Prochaska y DiClemente las etapas son: precontemplación, contemplación, preparación, acción, mantenimiento y recaída. La paciente había decidido dejar de fumar y lo logró durante un tiempo (acción) pero volvió a fumar, lo que corresponde a recaída. Es parte normal del proceso de cambio y debe abordarse sin culpabilizar, reforzando lo logrado y retomando el ciclo (reevaluando la motivación y planteando nuevamente la acción).",
+"comment": "La toma de decisiones compartidas integra la mejor evidencia científica disponible, las preferencias y valores del paciente y el contexto clínico y social (situación del paciente, recursos, experiencia del profesional). El paciente y el médico deliberan juntos para elegir la opción más adecuada. Las otras opciones mezclan elementos del sistema de salud, de la institución o de las políticas sanitarias, que son factores indirectos o del entorno y no los componentes directos de la decisión; tampoco los valores personales del médico deben imponerse sobre los del paciente."
 },
 
 {
 "numb": 36,
-"question": "VIÑETA 13 <br> Jorge, de 26 años, consulta a Medicina en Primer Nivel de Atención por irritabilidad y ansiedad, insomnio, agitación, aumento del apetito y pesadillas. <br> En la anamnesis, se identifica que hace 5 días ha cesado el consumo de más de 5 años de cocaína. Asimismo, ha consumido de forma intermitente marihuana, cigarrillo y pasta base de cocaína. Expresa necesitar ayuda para dejar las drogas y refiere que el consumo le ha ocasionado problemas en distintas situaciones. Señala haber tenido discusiones intensas con su ex-pareja (Renata, 24 años), madre de su hija. Relata que cuando consumía se sentía muy exaltado e irritable: “le hablaba mal, le gritaba, me ponía controlador“ (...) “le decía cosas horribles, que no quiero ni repetir“. Dichos episodios ocurrían casi a diario, muchas veces, delante de la niña. Jorge optó por irse de la casa, a vivir con su madre, porque no toleraba continuar exponiendo a su ex-pareja y su hija a lo que llama sus “arrebatos de ira“. <br> De acuerdo al DSM-V, ¿a qué clasificación corresponde la sintomatología de Jorge?",
-"answer": ["B. Abstinencia "],
+"question": "La visita domiciliaria constituye una herramienta para el abordaje familiar. ¿Qué objetivo tiene abordar a la familia como unidad de atención?",
+"answer": ["C. Definir estrategias integrales promotoras de salud."],
 "options": [
-"A. Intoxicación ",
-"B. Abstinencia ",
-"C. Tolerancia ",
-"D. Ansiedad",
+"A. Prevenir enfermedades de todo el grupo familiar.",
+"B. Búsqueda de soluciones familiares a problemáticas individuales",
+"C. Definir estrategias integrales promotoras de salud.",
+"D. Mejorar la salud del integrante que consulta."
 ],
 "discipline": "Salud Mental",
-"TEMA": "",
-"comment": "Según el DSM-5, la abstinencia es el conjunto de síntomas que aparece al cesar o reducir un consumo prolongado e intenso de una sustancia. En la abstinencia de estimulantes (cocaína) hay disforia, fatiga, sueños vívidos y desagradables, insomnio o hipersomnia, aumento del apetito y agitación o enlentecimiento psicomotor, como en este paciente (5 días sin consumir, tras más de 5 años). La intoxicación ocurre durante o poco después del consumo, la tolerancia es la necesidad de dosis crecientes para lograr el efecto, y la ansiedad es sólo un síntoma, no una clasificación.",
+"comment": "Abordar a la familia como unidad de atención permite conocer su estructura, funcionamiento, recursos, riesgos y entorno (en el domicilio se observa el contexto real), y a partir de eso definir estrategias integrales de promoción de la salud, prevención y cuidado que involucren a todo el grupo, más allá del integrante que consulta. Las demás opciones son más acotadas: la prevención (A) es solo una parte, el foco exclusivo en el integrante que consulta (D) corresponde al abordaje individual, y la opción B describe un uso de la familia como recurso para resolver problemas individuales, pero no es el objetivo del enfoque familiar como unidad de atención."
 },
 
 {
 "numb": 37,
-"question": "VIÑETA 13 <br> Jorge, de 26 años, consulta a Medicina en Primer Nivel de Atención por irritabilidad y ansiedad, insomnio, agitación, aumento del apetito y pesadillas. <br> En la anamnesis, se identifica que hace 5 días ha cesado el consumo de más de 5 años de cocaína. Asimismo, ha consumido de forma intermitente marihuana, cigarrillo y pasta base de cocaína. Expresa necesitar ayuda para dejar las drogas y refiere que el consumo le ha ocasionado problemas en distintas situaciones. Señala haber tenido discusiones intensas con su ex-pareja (Renata, 24 años), madre de su hija. Relata que cuando consumía se sentía muy exaltado e irritable: “le hablaba mal, le gritaba, me ponía controlador“ (...) “le decía cosas horribles, que no quiero ni repetir“. Dichos episodios ocurrían casi a diario, muchas veces, delante de la niña. Jorge optó por irse de la casa, a vivir con su madre, porque no toleraba continuar exponiendo a su ex-pareja y su hija a lo que llama sus “arrebatos de ira“. <br> Teniendo en cuenta la relación de Jorge con la cocaína, ¿qué tipo de consumo tiene?",
-"answer": ["D. Uso dependiente"],
+"question": "La migración implica un proceso de cambios que conlleva duelos que a su vez hacen posible la reestructuración de la familia, ¿cuándo se desencadenan estos duelos?",
+"answer": ["B. Al perderse algo significativo para el sujeto."],
 "options": [
-"A. Uso recreativo ",
-"B. Uso experimental ",
-"C. Uso habitual ",
-"D. Uso dependiente",
+"A. Al percibirse la hostilidad de la nueva cultura.",
+"B. Al perderse algo significativo para el sujeto.",
+"C. Al confundirse el marco legal aparejado al cambio.",
+"D. Al producirse el fallecimiento de un familiar."
 ],
 "discipline": "Salud Mental",
-"TEMA": "",
-"comment": "Jorge presenta consumo de más de 5 años, síndrome de abstinencia, consecuencias negativas en distintas áreas (relación de pareja, familia), dificultad para controlar el consumo y deseo de dejarlo, lo que configura un uso dependiente (trastorno por consumo de sustancias). El uso experimental es el primer contacto, el recreativo es ocasional y sin consecuencias, y el habitual es frecuente pero sin pérdida de control ni dependencia.",
+"comment": "El duelo es la reacción psicológica ante la pérdida de algo o alguien significativo para la persona, y no se limita a la muerte. En la migración se pierden vínculos, el lugar de origen, la lengua, la cultura, las costumbres, el estatus y los roles (duelos migratorios: por la familia y los amigos, la lengua, la cultura, la tierra, el estatus social y la seguridad física). Por eso los duelos se desencadenan al perderse algo significativo. La hostilidad de la nueva cultura (A) o la confusión legal (C) pueden ser factores de estrés, pero no son la condición que desencadena un duelo, y el fallecimiento de un familiar (D) es solo un tipo de pérdida."
 },
 
 {
 "numb": 38,
-"question": "VIÑETA 13 <br> Jorge, de 26 años, consulta a Medicina en Primer Nivel de Atención por irritabilidad y ansiedad, insomnio, agitación, aumento del apetito y pesadillas. <br> En la anamnesis, se identifica que hace 5 días ha cesado el consumo de más de 5 años de cocaína. Asimismo, ha consumido de forma intermitente marihuana, cigarrillo y pasta base de cocaína. Expresa necesitar ayuda para dejar las drogas y refiere que el consumo le ha ocasionado problemas en distintas situaciones. Señala haber tenido discusiones intensas con su ex-pareja (Renata, 24 años), madre de su hija. Relata que cuando consumía se sentía muy exaltado e irritable: “le hablaba mal, le gritaba, me ponía controlador“ (...) “le decía cosas horribles, que no quiero ni repetir“. Dichos episodios ocurrían casi a diario, muchas veces, delante de la niña. Jorge optó por irse de la casa, a vivir con su madre, porque no toleraba continuar exponiendo a su ex-pareja y su hija a lo que llama sus “arrebatos de ira“. <br> ¿Qué intervenciones se podrían realizar en el Primer Nivel de Atención ante la situación de consumo de Jorge?",
-"answer": ["A. Brindar información de calidad para una mejor toma de decisiones "],
+"question": "Con respecto al suicidio en la vejez, en la bibliografía se hace referencia a que esta etapa constituye, a nivel mundial y nacional, el fragmento de población con mayor velocidad de crecimiento. ¿Cuál es el incremento de suicidios que se estima para esta etapa vital para el año 2040?",
+"answer": ["D. 100%"],
 "options": [
-"A. Brindar información de calidad para una mejor toma de decisiones ",
-"B. Estimular una relación horizontal entre el médico y el paciente ",
-"C. Favorecer la flexibilidad ante el consumo ",
-"D. Dar autonomía al paciente para que genere sus propias estrategias",
+"A. 25%",
+"B. 50%",
+"C. 75%",
+"D. 100%"
 ],
 "discipline": "Salud Mental",
-"TEMA": "",
-"comment": "El abordaje de consumo problemático en el primer nivel, desde la reducción de riesgos y daños y la entrevista motivacional, incluye brindar información de calidad (basada en evidencia, sin juicios ni moralismos) que permita al paciente tomar decisiones informadas, además de intervención breve, tratamiento de la abstinencia y derivación a dispositivos especializados. Las otras opciones describen principios generales de la relación o actitudes que no son una intervención concreta o que podrían ser inadecuadas en un uso dependiente (por ejemplo, 'favorecer la flexibilidad ante el consumo').",
+"comment": "",
 },
 
 {
 "numb": 39,
-"question": "VIÑETA 13 <br> Jorge, de 26 años, consulta a Medicina en Primer Nivel de Atención por irritabilidad y ansiedad, insomnio, agitación, aumento del apetito y pesadillas. <br> En la anamnesis, se identifica que hace 5 días ha cesado el consumo de más de 5 años de cocaína. Asimismo, ha consumido de forma intermitente marihuana, cigarrillo y pasta base de cocaína. Expresa necesitar ayuda para dejar las drogas y refiere que el consumo le ha ocasionado problemas en distintas situaciones. Señala haber tenido discusiones intensas con su ex-pareja (Renata, 24 años), madre de su hija. Relata que cuando consumía se sentía muy exaltado e irritable: “le hablaba mal, le gritaba, me ponía controlador“ (...) “le decía cosas horribles, que no quiero ni repetir“. Dichos episodios ocurrían casi a diario, muchas veces, delante de la niña. Jorge optó por irse de la casa, a vivir con su madre, porque no toleraba continuar exponiendo a su ex-pareja y su hija a lo que llama sus “arrebatos de ira“. <br> Podemos establecer que lo que Jorge plantea respecto a las discusiones intensas corresponde a:  ",
-"answer": ["D. Violencia basada en género y generaciones   "],
+"question": "Las sustancias psicoactivas o drogas son susceptibles de generar Tolerancia y Dependencia ¿A qué hace referencia el término Tolerancia?",
+"answer": ["A. A la forma en que cada organismo se adapta al uso repetido de una determinada sustancia."],
 "options": [
-"A. Conflictos interpersonales  ",
-"B. Agresividad   ",
-"C. Proceso circular   ",
-"D. Violencia basada en género y generaciones   ",
+"A. A la forma en que cada organismo se adapta al uso repetido de una determinada sustancia.",
+"B. Al modo en que una sustancia adquiere un lugar central en la vida de la persona",
+"C. A la pauta de conducta que hace que un sujeto consuma de forma esporádica.",
+"D. A un consumo problemático que no afecta la vida social del sujeto que consume."
 ],
 "discipline": "Salud Mental",
-"TEMA": "Violencia doméstica",
-"comment": "Los episodios descritos son casi diarios, con gritos, insultos, control y humillación ('cosas horribles'), de un varón hacia su pareja mujer y delante de su hija: configura violencia basada en género y generaciones (violencia psicológica/emocional con una dinámica de poder y control, con exposición de la niña). No se trata de un simple conflicto interpersonal (que implica simetría), ni de una agresividad aislada. Se debe valorar el riesgo, proteger a la mujer y a la niña, y notificar/derivar según el protocolo.",
+"comment": "La tolerancia es la adaptación del organismo al uso repetido de una sustancia, de modo que se necesitan dosis cada vez mayores para obtener el mismo efecto (o el mismo efecto con la misma dosis disminuye). Es un fenómeno fisiológico distinto de la dependencia. La opción B describe la dependencia (la sustancia adquiere un lugar central en la vida de la persona). La opción C describe un consumo esporádico, y la opción D no define la tolerancia (y un consumo problemático por definición suele afectar la vida social)."
 },
 
-{
-"numb": 40,
-"question": "VIÑETA 13 <br> Jorge, de 26 años, consulta a Medicina en Primer Nivel de Atención por irritabilidad y ansiedad, insomnio, agitación, aumento del apetito y pesadillas. <br> En la anamnesis, se identifica que hace 5 días ha cesado el consumo de más de 5 años de cocaína. Asimismo, ha consumido de forma intermitente marihuana, cigarrillo y pasta base de cocaína. Expresa necesitar ayuda para dejar las drogas y refiere que el consumo le ha ocasionado problemas en distintas situaciones. Señala haber tenido discusiones intensas con su ex-pareja (Renata, 24 años), madre de su hija. Relata que cuando consumía se sentía muy exaltado e irritable: “le hablaba mal, le gritaba, me ponía controlador“ (...) “le decía cosas horribles, que no quiero ni repetir“. Dichos episodios ocurrían casi a diario, muchas veces, delante de la niña. Jorge optó por irse de la casa, a vivir con su madre, porque no toleraba continuar exponiendo a su ex-pareja y su hija a lo que llama sus “arrebatos de ira“. <br> ¿Qué consecuencias podrían tener, a nivel emocional en Renata, las agresiones que ejerce Jorge sobre ella?  ",
-"answer": ["B. Angustia, depresión, tristeza, miedo"],
-"options": [
-"A. Irritabilidad, suicidio, desnutrición, autolesiones",
-"B. Angustia, depresión, tristeza, miedo",
-"C. Hiperfagia, hipomanía, disforia, delirios",
-"D. Exacerbación del ánimo, angustia, agresividad, hiperfagia",
-],
-"discipline": "Salud Mental",
-"TEMA": "Violencia doméstica",
-"comment": "Las consecuencias emocionales más frecuentes de la violencia de pareja en la víctima son angustia, depresión, tristeza, miedo, ansiedad, baja autoestima, sentimientos de culpa e indefensión, y también trastorno de estrés postraumático. Las otras opciones mezclan síntomas o cuadros que no son característicos (hipomanía, delirios, hiperfagia, desnutrición) o que son extremos y no la consecuencia típica (suicidio, autolesiones).",
-},
+
+
+
+
+
+
+
+
+
+
+
+
 
 {
 "numb": 1,
@@ -1128,6 +1117,31 @@ let questions = [
 "comment": "El abordaje inicial recomendado es el apoyo y orientación de primera línea: escucha empática y sin juzgar, validar lo que cuenta, creer en su relato, no presionar ni indicar qué debe hacer, brindar información sobre recursos y servicios, y respetar los tiempos y decisiones de la persona. No se trata de imponer la denuncia ni de decidir por ella, y la valoración del riesgo y el plan de protección se construyen con la persona y con equipos especializados, no se informa sin más una categoría de riesgo.",
 },
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {
 "numb": 1,
 "question": "VIÑETA 1<br> Carolina, 29 años, consumo de marihuana ocasional, sin otros antecedentes personales a destacar, trabaja en barrido de calle. Consulta por presentar hace dos meses, a nivel de regiones escapulares y supraescapulares, múltiples lesiones maculares hipopigmentadas, pardas, redondeadas de no más de 5 mm de diámetro, confluentes, bordes definidos, no pruriginosas, con descamación fina. <br> Según la descripción clínica, ¿cuál de las siguientes opciones corresponden a su planteo diagnóstico?",
@@ -1727,6 +1741,31 @@ let questions = [
 "TEMA": "Violencia doméstica",
 "comment": "Las consecuencias emocionales más frecuentes de la violencia de pareja en la víctima son angustia, depresión, tristeza, miedo, ansiedad, baja autoestima, sentimientos de culpa e indefensión, y también trastorno de estrés postraumático. Las otras opciones mezclan síntomas o cuadros que no son característicos (hipomanía, delirios, hiperfagia, desnutrición) o que son extremos y no la consecuencia típica (suicidio, autolesiones).",
 },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 {
 "numb": 1,
