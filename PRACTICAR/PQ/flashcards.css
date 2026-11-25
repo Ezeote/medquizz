@@ -1,0 +1,15 @@
+.btn-flashcards {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #2563eb;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 600;
+  font-family: sans-serif;
+  transition: background-color 0.2s;
+}
+
+.btn-flashcards:hover {
+  background-color: #1d4ed8;
+}

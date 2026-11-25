@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Flashcards - Práctica</title>
+  <style>
+    :root {
+      --bg: #f1f5f9;
+      --card-bg: #ffffff;
+      --text: #0f172a;
+      --muted: #64748b;
+      --primary: #2563eb;
+      --border: #e2e8f0;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 24px 16px;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 680px;
+    }
+
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    .btn-back {
+      text-decoration: none;
+      color: var(--primary);
+      font-weight: 600;
+    }
+
+    .controls {
+      background: var(--card-bg);
+      padding: 16px;
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      margin-bottom: 16px;
+    }
+
+    .control-group {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    label {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--muted);
+    }
+
+    select {
+      padding: 10px;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      font-size: 0.95rem;
+      background: #fff;
+    }
+
+    .stats-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.9rem;
+      color: var(--muted);
+      margin-bottom: 14px;
+    }
+
+    /* Tarjeta 3D */
+    .scene {
+      perspective: 1000px;
+      height: 300px;
+      margin-bottom: 20px;
+      cursor: pointer;
+    }
+
+    .card {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      transition: transform 0.5s;
+      transform-style: preserve-3d;
+    }
+
+    .card.is-flipped {
+      transform: rotateY(180deg);
+    }
+
+    .card-face {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      backface-visibility: hidden;
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      box-shadow: 0 8px 20px rgba(15, 23, 42, 0.06);
+      padding: 28px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+
+    .card-back {
+      transform: rotateY(180deg);
+      background: #f8fafc;
+    }
+
+    .card-badge {
+      position: absolute;
+      top: 16px;
+      left: 20px;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      color: var(--primary);
+      background: #dbeafe;
+      padding: 4px 10px;
+      border-radius: 999px;
+    }
+
+    .card-side-label {
+      position: absolute;
+      top: 18px;
+      right: 20px;
+      font-size: 0.75rem;
+      color: var(--muted);
+    }
+
+    .card-content {
+      font-size: 1.25rem;
+      line-height: 1.5;
+      overflow-y: auto;
+      max-height: 200px;
+    }
+
+    /* Botones de acción */
+    .actions {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .btn-reveal {
+      width: 100%;
+      padding: 14px;
+      font-size: 1rem;
+      font-weight: 600;
+      background: var(--primary);
+      color: #fff;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+    }
+
+    .anki-buttons {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 10px;
+    }
+
+    .btn-rate {
+      padding: 12px 8px;
+      border: none;
+      border-radius: 10px;
+      color: #fff;
+      font-weight: 600;
+      cursor: pointer;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 4px;
+      font-size: 0.9rem;
+    }
+
+    .btn-rate small {
+      font-weight: 400;
+      font-size: 0.75rem;
+      opacity: 0.9;
+    }
+
+    .rate-again { background: #ef4444; }
+    .rate-hard  { background: #f97316; }
+    .rate-good  { background: #22c55e; }
+    .rate-easy  { background: #3b82f6; }
+
+    .empty-state {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 40px 24px;
+      text-align: center;
+      display: none;
+    }
+
+    .empty-state h2 { margin-bottom: 10px; }
+    .empty-state p { color: var(--muted); margin-bottom: 20px; }
+
+    .btn-secondary {
+      padding: 10px 18px;
+      background: #e2e8f0;
+      color: var(--text);
+      border: none;
+      border-radius: 8px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+
+    .hidden { display: none !important; }
+
+    .footer-tools {
+      margin-top: 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.8rem;
+      color: var(--muted);
+    }
+
+    .link-btn {
+      background: none;
+      border: none;
+      color: var(--muted);
+      text-decoration: underline;
+      cursor: pointer;
+      font-size: 0.8rem;
+    }
+
+    @media (max-width: 520px) {
+      .controls { grid-template-columns: 1fr; }
+      .anki-buttons { grid-template-columns: repeat(2, 1fr); }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <a href="index.html" class="btn-back">← Volver al inicio</a>
+      <h1>Flashcards</h1>
+    </header>
+
+    <section class="controls">
+      <div class="control-group">
+        <label for="selectDisciplina">Disciplina</label>
+        <select id="selectDisciplina"></select>
+      </div>
+      <div class="control-group">
+        <label for="selectTema">Tema</label>
+        <select id="selectTema"></select>
+      </div>
+    </section>
+
+    <div class="stats-bar">
+      <span id="lblPendientes">Pendientes: 0</span>
+      <span id="lblModo">Modo: Repaso espaciado</span>
+    </div>
+
+    <div id="studyArea">
+      <div class="scene" id="cardScene" title="Clic o Espacio para girar">
+        <div class="card" id="flashcard">
+          <div class="card-face card-front">
+            <span class="card-badge" id="frontBadge">Tema</span>
+            <span class="card-side-label">Pregunta</span>
+            <div class="card-content" id="frontContent"></div>
+          </div>
+          <div class="card-face card-back">
+            <span class="card-badge" id="backBadge">Tema</span>
+            <span class="card-side-label">Respuesta</span>
+            <div class="card-content" id="backContent"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="actions">
+        <button class="btn-reveal" id="btnReveal">Mostrar respuesta (Espacio)</button>
+
+        <div class="anki-buttons hidden" id="ankiButtons">
+          <button class="btn-rate rate-again" data-rate="1">
+            Otra vez <small id="time-1">&lt; 1m (1)</small>
+          </button>
+          <button class="btn-rate rate-hard" data-rate="2">
+            Difícil <small id="time-2">12h (2)</small>
+          </button>
+          <button class="btn-rate rate-good" data-rate="3">
+            Bien <small id="time-3">1d (3)</small>
+          </button>
+          <button class="btn-rate rate-easy" data-rate="4">
+            Fácil <small id="time-4">4d (4)</small>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <div class="empty-state" id="emptyState">
+      <h2>¡Al día con este mazo!</h2>
+      <p>No tenés tarjetas pendientes por hoy en esta selección.</p>
+      <button class="btn-reveal" id="btnPracticeAll" style="max-width: 280px; margin: 0 auto;">
+        Practicar todas igual
+      </button>
+    </div>
+
+    <div class="footer-tools">
+      <span>Atajos: Espacio = girar | 1-4 = calificar</span>
+      <button class="link-btn" id="btnResetProgress">Reiniciar progreso guardado</button>
+    </div>
+  </div>
+
+  <!-- Carga del archivo de datos -->
+  <script src="flashcards.js"></script>
+
+  <script>
+    const STORAGE_KEY = "flashcards_anki_progress_v1";
+    const cardsData = window.FLASHCARDS_DATA || [];
+
+    const selectDisciplina = document.getElementById("selectDisciplina");
+    const selectTema = document.getElementById("selectTema");
+    const lblPendientes = document.getElementById("lblPendientes");
+    const lblModo = document.getElementById("lblModo");
+
+    const studyArea = document.getElementById("studyArea");
+    const emptyState = document.getElementById("emptyState");
+    const flashcardEl = document.getElementById("flashcard");
+    const cardScene = document.getElementById("cardScene");
+
+    const frontBadge = document.getElementById("frontBadge");
+    const backBadge = document.getElementById("backBadge");
+    const frontContent = document.getElementById("frontContent");
+    const backContent = document.getElementById("backContent");
+
+    const btnReveal = document.getElementById("btnReveal");
+    const ankiButtons = document.getElementById("ankiButtons");
+    const btnPracticeAll = document.getElementById("btnPracticeAll");
+    const btnResetProgress = document.getElementById("btnResetProgress");
+
+    let progress = loadProgress();
+    let sessionQueue = [];
+    let isFlipped = false;
+    let freePracticeMode = false;
+
+    function loadProgress() {
+      try {
+        return JSON.parse(localStorage.getItem(STORAGE_KEY)) || {};
+      } catch {
+        return {};
+      }
+    }
+
+    function saveProgress() {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
+    }
+
+    // Poblar selector de Disciplinas
+    function initDisciplinas() {
+      const disciplinas = [...new Set(cardsData.map(c => c.disciplina))].sort();
+      selectDisciplina.innerHTML = `<option value="ALL">Todas las disciplinas</option>`;
+      disciplinas.forEach(d => {
+        const opt = document.createElement("option");
+        opt.value = d;
+        opt.textContent = d;
+        selectDisciplina.appendChild(opt);
+      });
+      updateTemas();
+    }
+
+    // Actualizar selector de Temas según la Disciplina elegida
+    function updateTemas() {
+      const disc = selectDisciplina.value;
+      const filtered = disc === "ALL"
+        ? cardsData
+        : cardsData.filter(c => c.disciplina === disc);
+
+      const temas = [...new Set(filtered.map(c => c.tema))].sort();
+      selectTema.innerHTML = `<option value="ALL">Todos los temas</option>`;
+      temas.forEach(t => {
+        const opt = document.createElement("option");
+        opt.value = t;
+        opt.textContent = t;
+        selectTema.appendChild(opt);
+      });
+
+      freePracticeMode = false;
+      buildQueue();
+    }
+
+    // Armar cola de estudio
+    function buildQueue() {
+      const disc = selectDisciplina.value;
+      const tema = selectTema.value;
+      const now = Date.now();
+
+      const matching = cardsData.filter(c => {
+        const matchDisc = disc === "ALL" || c.disciplina === disc;
+        const matchTema = tema === "ALL" || c.tema === tema;
+        return matchDisc && matchTema;
+      });
+
+      if (freePracticeMode) {
+        sessionQueue = [...matching];
+        lblModo.textContent = "Modo: Repaso libre";
+      } else {
+        sessionQueue = matching.filter(c => {
+          const p = progress[c.id];
+          return !p || p.nextReview <= now;
+        });
+        lblModo.textContent = "Modo: Repaso espaciado";
+      }
+
+      // Mezclar ligeramente las tarjetas
+      sessionQueue.sort(() => Math.random() - 0.5);
+      renderCurrentCard();
+    }
+
+    function renderCurrentCard() {
+      isFlipped = false;
+      flashcardEl.classList.remove("is-flipped");
+      btnReveal.classList.remove("hidden");
+      ankiButtons.classList.add("hidden");
+
+      lblPendientes.textContent = `Pendientes en sesión: ${sessionQueue.length}`;
+
+      if (sessionQueue.length === 0) {
+        studyArea.classList.add("hidden");
+        emptyState.style.display = "block";
+        return;
+      }
+
+      studyArea.classList.remove("hidden");
+      emptyState.style.display = "none";
+
+      const card = sessionQueue[0];
+      const label = `${card.disciplina} • ${card.tema}`;
+
+      frontBadge.textContent = label;
+      backBadge.textContent = label;
+      frontContent.textContent = card.frente;
+      backContent.textContent = card.dorso;
+
+      updateIntervalLabels(card.id);
+    }
+
+    function flipCard() {
+      if (sessionQueue.length === 0) return;
+      isFlipped = !isFlipped;
+      flashcardEl.classList.toggle("is-flipped", isFlipped);
+
+      if (isFlipped) {
+        btnReveal.classList.add("hidden");
+        ankiButtons.classList.remove("hidden");
+      } else {
+        btnReveal.classList.remove("hidden");
+        ankiButtons.classList.add("hidden");
+      }
+    }
+
+    // Cálculo simplificado estilo Anki (SM-2)
+    function computeNextState(cardId, rating) {
+      const prev = progress[cardId] || { interval: 0, ease: 2.5, reps: 0 };
+      let { interval, ease, reps } = prev;
+
+      if (rating === 1) {
+        // Otra vez
+        reps = 0;
+        interval = 0;
+      } else {
+        if (reps === 0) {
+          interval = rating === 2 ? 0.5 : rating === 3 ? 1 : 4;
+        } else if (reps === 1) {
+          interval = rating === 2 ? 1.5 : rating === 3 ? 6 : 8;
+        } else {
+          const factor = rating === 2 ? 1.2 : rating === 3 ? ease : ease * 1.3;
+          interval = Math.round(interval * factor * 10) / 10;
+        }
+        reps += 1;
+        ease = Math.max(1.3, ease + (0.1 - (4 - rating) * (0.08 + (4 - rating) * 0.02)));
+      }
+
+      const nextReview = Date.now() + interval * 24 * 60 * 60 * 1000;
+      return { interval, ease, reps, nextReview };
+    }
+
+    function formatDays(days) {
+      if (days === 0) return "< 1m";
+      if (days < 1) return `${Math.round(days * 24)}h`;
+      return `${Math.round(days)}d`;
+    }
+
+    function updateIntervalLabels(cardId) {
+      document.getElementById("time-1").textContent = "< 1m (1)";
+      document.getElementById("time-2").textContent = `${formatDays(computeNextState(cardId, 2).interval)} (2)`;
+      document.getElementById("time-3").textContent = `${formatDays(computeNextState(cardId, 3).interval)} (3)`;
+      document.getElementById("time-4").textContent = `${formatDays(computeNextState(cardId, 4).interval)} (4)`;
+    }
+
+    function rateCard(rating) {
+      if (sessionQueue.length === 0) return;
+      const current = sessionQueue.shift();
+
+      if (!freePracticeMode) {
+        progress[current.id] = computeNextState(current.id, rating);
+        saveProgress();
+      }
+
+      // Si marcó "Otra vez", la reinsertamos en la sesión para seguir practicándola
+      if (rating === 1) {
+        const insertIndex = Math.min(2, sessionQueue.length);
+        sessionQueue.splice(insertIndex, 0, current);
+      }
+
+      renderCurrentCard();
+    }
+
+    // Eventos
+    selectDisciplina.addEventListener("change", updateTemas);
+    selectTema.addEventListener("change", () => {
+      freePracticeMode = false;
+      buildQueue();
+    });
+
+    cardScene.addEventListener("click", flipCard);
+    btnReveal.addEventListener("click", () => {
+      if (!isFlipped) flipCard();
+    });
+
+    document.querySelectorAll(".btn-rate").forEach(btn => {
+      btn.addEventListener("click", () => {
+        rateCard(Number(btn.dataset.rate));
+      });
+    });
+
+    btnPracticeAll.addEventListener("click", () => {
+      freePracticeMode = true;
+      buildQueue();
+    });
+
+    btnResetProgress.addEventListener("click", () => {
+      if (confirm("¿Seguro que querés borrar todo el progreso de repaso?")) {
+        localStorage.removeItem(STORAGE_KEY);
+        progress = {};
+        freePracticeMode = false;
+        buildQueue();
+      }
+    });
+
+    // Atajos de teclado
+    document.addEventListener("keydown", (e) => {
+      if (e.target.tagName === "SELECT") return;
+      if (e.code === "Space") {
+        e.preventDefault();
+        flipCard();
+      } else if (isFlipped && ["1", "2", "3", "4"].includes(e.key)) {
+        rateCard(Number(e.key));
+      }
+    });
+
+    initDisciplinas();
+  </script>
+</body>
+</html>
