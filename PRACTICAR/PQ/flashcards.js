@@ -1796,6 +1796,15 @@ window.FLASHCARDS_DATA = [
     "dorso": "Diagnóstico fundamentalmente clínico (leucocitosis/PCR de apoyo; ecografía o TC ante dudas o en mujeres jóvenes/ancianos). Tratamiento: apendicectomía (preferentemente laparoscópica) + ATB perioperatorios. En plastrón apendicular: manejo médico inicial + drenaje percutáneo si está abscedado."
   },
 
+  {
+    "id": "pq-ape-5",
+    "disciplina": "Patología Quirúrgica",
+    "tema": "Apendicitis aguda",
+    "frente": "Apendicitis aguda — tratamiento medico",
+    "dorso": "Suspender VO. Anelgesia Ketoprofeno 100mg IV /8hs. O tramadol 100 mg IV hasta c/6-8hs. Metoclopramida 10mg IV c/8hs si nauseas o vomitos. Proteccion gastrica: omeprazol / Ranitidina"
+  },
+  
+
   // --- C) Peritonitis aguda ---
   {
     "id": "pq-per-1",
